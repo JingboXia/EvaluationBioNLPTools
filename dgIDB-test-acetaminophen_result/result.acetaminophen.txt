@@ -1,0 +1,905 @@
+1	Cause	GR	Theme	GR	relation	impact	relation_class	Regulation	sentence	the impact of dexamethasone (DEX)-activated GR on Fgf21 expression and how it
+affects the progression of APAP-induced hepatotoxicity.	PMID:	28088388	
+2	Cause	GR-specific siRNA	Theme	Fgf21	relation	attenuated	relation_class	Negative_regulation	sentence	GR-specific siRNA, attenuated DEX-induced Fgf21 expression.	PMID:	28088388	
+3	Cause	DEX	Theme	Fgf21	relation	induced	relation_class	Positive_regulation	sentence	conclusion, via GR activation, DEX induced Fgf21 expression in mouse liver and
+human hepatoma cells.	PMID:	28088388	
+4	Cause	GR	Theme	Fgf21	relation	impact	relation_class	Regulation	sentence	the impact of dexamethasone (DEX)-activated GR on Fgf21 expression and how it
+affects the progression of APAP-induced hepatotoxicity.	PMID:	28088388	
+5	Cause	2E1	Theme	Cytochrome P450	relation	involved	relation_class	Regulation	sentence	Cytochrome P450 (CYP) 2E1 is an important enzyme involved in the metabolism of
+many endogenous and exogenous compounds.	PMID:	28066249	
+6	Cause	integrin	Theme	MMP12	relation	upregulation	relation_class	Positive_regulation	sentence	αMβ2 integrin-dependent upregulation of MMP12.	PMID:	27965156	
+7	Cause	CYP2E1	Theme	superoxide dismutase	relation	enhanced	relation_class	Positive_regulation	sentence	(CYP2E1), enhanced the activities of superoxide dismutase (SOD) and catalase
+(CAT) as well as the contents of glutathione (GSH).	PMID:	27830004	
+8	Cause	CYP2E1	Theme	SOD	relation	enhanced	relation_class	Positive_regulation	sentence	(CYP2E1), enhanced the activities of superoxide dismutase (SOD) and catalase
+(CAT) as well as the contents of glutathione (GSH).	PMID:	27830004	
+9	Cause	OCR	Theme	caspase-3/7	relation	increased	relation_class	Positive_regulation	sentence	the OCR and increased caspase-3/7 activity.	PMID:	27665770	
+10	Cause	caspase	Theme	DNase	relation	activated	relation_class	Positive_regulation	sentence	DNase γ, DNase I and caspase-activated DNase cooperate to degrade dead cells.	PMID:	27654959	
+11	Cause	DNase I	Theme	DNase γ	relation	distinguished	relation_class	Negative_regulation	sentence	we distinguished the activities of DNase γ from those of DNase I in mouse serum
+and concluded that both cooperated in degrading DNA during necrosis: DNase γ
+functions as the primary chromatolytic activity, causing internucleosomal DNA
+fragmentation, and DNase I as the secondary one, causing random DNA digestion for
+its complete degradation.	PMID:	27654959	
+12	Cause	caspase	Theme	DNase γ	relation	activated	relation_class	Positive_regulation	sentence	DNase γ, DNase I and caspase-activated DNase cooperate to degrade dead cells.	PMID:	27654959	
+13	Cause	caspase	Theme	DNase I	relation	activated	relation_class	Positive_regulation	sentence	DNase γ, DNase I and caspase-activated DNase cooperate to degrade dead cells.	PMID:	27654959	
+14	Cause	caspase	Theme	DNase	relation	activated	relation_class	Positive_regulation	sentence	DNase γ, DNase I and caspase-activated DNase cooperate to degrade dead cells.	PMID:	27654959	
+15	Cause	Antcin H	Theme	JNK	relation	effect	relation_class	Regulation	sentence	to increased mitochondrial reactive oxygen species (ROS), is pivotal in both
+models, we examined the effect of Antcin H on p-JNK binding to mitochondria and
+impairment of mitochondrial respiration.	PMID:	27596680	
+16	Cause	Antcin H	Theme	p	relation	effect	relation_class	Regulation	sentence	to increased mitochondrial reactive oxygen species (ROS), is pivotal in both
+models, we examined the effect of Antcin H on p-JNK binding to mitochondria and
+impairment of mitochondrial respiration.	PMID:	27596680	
+17	Cause	Gabra3	Theme	GABA-A Receptor Subunit Alpha 3	relation	Levels	relation_class	Positive_regulation	sentence	Expression Levels of GABA-A Receptor Subunit Alpha 3, Gabra3 and Lipoprotein
+Lipase, Lpl Are Associated with the Susceptibility to Acetaminophen-Induced
+Hepatotoxicity.	PMID:	27530116	
+18	Cause	Gabra3	Theme	GABA-A Receptor Subunit Alpha 3	relation	Levels	relation_class	Positive_regulation	sentence	Expression Levels of GABA-A Receptor Subunit Alpha 3, Gabra3 and Lipoprotein
+Lipase, Lpl Are Associated with the Susceptibility to Acetaminophen-Induced
+Hepatotoxicity.	PMID:	27530116	
+19	Cause	Gabra3	Theme	Gabra3	relation	Levels	relation_class	Positive_regulation	sentence	Expression Levels of GABA-A Receptor Subunit Alpha 3, Gabra3 and Lipoprotein
+Lipase, Lpl Are Associated with the Susceptibility to Acetaminophen-Induced
+Hepatotoxicity.	PMID:	27530116	
+20	Cause	IL-1β	Theme	IL-6	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+21	Cause	IL-1β	Theme	TNF-α, IκBα	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+22	Cause	IL-1β	Theme	p50	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+23	Cause	IL-1β	Theme	IL-1β	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+24	Cause	IL-1β	Theme	IL-6	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+25	Cause	IL-1β	Theme	TNF-α, IκBα	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+26	Cause	IL-1β	Theme	p50	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+27	Cause	IL-1β	Theme	p65	relation	levels	relation_class	Regulation	sentence	 Mechanism study showed that dioscin significantly
+decreased the expression levels of IL-1β, IL-6, TNF-α, IκBα, p50 and p65 through 
+regulating TLR4/MyD88 pathway to rehabilitate inflammation.	PMID:	27317992	
+28	Cause	CYP2D1	Theme	CYP2C11	relation	affecting	relation_class	Regulation	sentence	and CYP2D1 activities, without affecting CYP2C11 and CYP3A1/2 activities.	PMID:	27310729	
+29	Cause	CYP2D1	Theme	CYP3A1/2	relation	affecting	relation_class	Regulation	sentence	and CYP2D1 activities, without affecting CYP2C11 and CYP3A1/2 activities.	PMID:	27310729	
+30	Cause	Tan	Theme	APAP-induced	relation	effect	relation_class	Regulation	sentence	PURPOSE: This study aimed to investigate the effect of Tan on APAP-induced
+hepatotoxicity and the underlying mechanisms involved.	PMID:	27161400	
+31	Cause	Tan	Theme	Nrf2	relation	effect	relation_class	Regulation	sentence	 The effect of Tan on the Nrf2 pathway
+was detected by western blotting and qRT-PCR.	PMID:	27161400	
+32	Cause	APAP	Theme	CYP3A1/23 protein	relation	induced	relation_class	Positive_regulation	sentence	 APAP induced CYP3A1/23 protein levels and metabolic activity.	PMID:	26900149	
+33	Cause	DOK4	Theme	mitochondrial p-Src	relation	inhibited	relation_class	Negative_regulation	sentence	mitochondrial DOK4 or SHP1 inhibited the inactivation of mitochondrial p-Src and 
+the effect of p-JNK on mitochondria.	PMID:	26845758	
+34	Cause	SHP1	Theme	p-Src	relation	dependent	relation_class	Regulation	sentence	SHP1-dependent and DOK4-dependent inactivation of p-Src on the inner membrane;
+inactivation of mitochondrial Src inhibits electron transport and increases
+reactive oxygen species release, which sustains JNK activation and promotes cell 
+death and organ injury.	PMID:	26845758	
+35	Cause	SHP1	Theme	mitochondrial p-Src	relation	inhibited	relation_class	Negative_regulation	sentence	mitochondrial DOK4 or SHP1 inhibited the inactivation of mitochondrial p-Src and 
+the effect of p-JNK on mitochondria.	PMID:	26845758	
+36	Cause	Trp	Theme	Nrf2	relation	increased	relation_class	Positive_regulation	sentence	In addition, Trp increased the expression of the Nrf2-dependent antioxidant genes
+NQO1, HO-1 and GCS in hepatocytes both in vitro and in vivo.	PMID:	26795536	
+37	Cause	Akt-1	Theme	Nrf2	relation	influences	relation_class	Regulation	sentence	PHLPP2 down regulation influences nuclear Nrf2 stability via Akt-1/Gsk3β/Fyn
+kinase axis in acetaminophen induced oxidative renal toxicity: Protection
+accorded by morin.	PMID:	26767949	
+38	Cause	AhR	Theme	Ugt1a6	relation	induced	relation_class	Positive_regulation	sentence	that Ugt1a6 and Ugt1a7 were induced via AhR in the rat brain.	PMID:	26725430	
+39	Cause	AhR	Theme	Ugt1a7	relation	induced	relation_class	Positive_regulation	sentence	that Ugt1a6 and Ugt1a7 were induced via AhR in the rat brain.	PMID:	26725430	
+40	Cause	Nrf2	Theme	Nrf2	relation	activating	relation_class	Positive_regulation	sentence	Nrf2, and thus activating Nrf2 and leading to increased expression of
+antioxidative signals including HO-1 and NQO1.	PMID:	26721592	
+41	Cause	ISO	Theme	MyL3	relation	induced	relation_class	Positive_regulation	sentence	 ISO, MET and AAM induced increases in MyL3 and skeletal
+muscle troponin (sTnl) (SKM biomarkers).	PMID:	26627004	
+42	Cause	MET	Theme	MyL3	relation	induced	relation_class	Positive_regulation	sentence	 ISO, MET and AAM induced increases in MyL3 and skeletal
+muscle troponin (sTnl) (SKM biomarkers).	PMID:	26627004	
+43	Cause	AAM	Theme	MyL3	relation	induced	relation_class	Positive_regulation	sentence	 ISO, MET and AAM induced increases in MyL3 and skeletal
+muscle troponin (sTnl) (SKM biomarkers).	PMID:	26627004	
+44	Cause	ATPase Inhibitory Factor 1	Theme	IF1	relation	inhibitor	relation_class	Negative_regulation	sentence	The ATPase Inhibitory Factor 1 (IF1) is an inhibitor of the mitochondrial H+-ATP 
+synthase that regulates the activity of both oxidative phosphorylation (OXPHOS)
+and cell death.	PMID:	26595676	
+45	Cause	ATPase Inhibitory Factor 1	Theme	mitochondrial H+-ATP	relation	inhibitor	relation_class	Negative_regulation	sentence	The ATPase Inhibitory Factor 1 (IF1) is an inhibitor of the mitochondrial H+-ATP 
+synthase that regulates the activity of both oxidative phosphorylation (OXPHOS)
+and cell death.	PMID:	26595676	
+46	Cause	Hepatocyte growth factor	Theme	HGF	relation	promotes	relation_class	Positive_regulation	sentence	 Hepatocyte growth factor (HGF) promotes
+proliferation in several cell types.	PMID:	26567452	
+47	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+48	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+49	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+50	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+51	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+52	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+53	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+54	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+55	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+56	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+57	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+58	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+59	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+60	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+61	Cause	MSC	Theme	HGF	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+62	Cause	MSC	Theme	MSC	relation	effect	relation_class	Regulation	sentence	investigate the protective effect of HGF gene-transfected MSC (HGF-MSC) in
+acetaminophen (AAP)-treated hepatocytes.	PMID:	26567452	
+63	Cause	miR-122-5p	Theme	APAP toxicity	relation	reported	relation_class	Negative_regulation	sentence	miR-122-5p, miR-151a-3p and miR-382-5p specifically reported APAP toxicity -
+being unaffected by drug-induced kidney injury.	PMID:	26489516	
+64	Cause	miR-151a-3p	Theme	APAP toxicity	relation	reported	relation_class	Negative_regulation	sentence	miR-122-5p, miR-151a-3p and miR-382-5p specifically reported APAP toxicity -
+being unaffected by drug-induced kidney injury.	PMID:	26489516	
+65	Cause	miR-382-5p	Theme	APAP toxicity	relation	reported	relation_class	Negative_regulation	sentence	miR-122-5p, miR-151a-3p and miR-382-5p specifically reported APAP toxicity -
+being unaffected by drug-induced kidney injury.	PMID:	26489516	
+66	Cause	TGR5	Theme	FXR	relation	regulate	relation_class	Regulation	sentence	acid receptors (FXR and TGR5) that regulate not only bile acid synthesis and
+transport but also energy metabolism.	PMID:	26261286	
+67	Cause	interleukin-6	Theme	IL-6	relation	role	relation_class	Regulation	sentence	Our study was undertaken to evaluate the important role of interleukin-6 (IL-6)
+trans-signaling in acetaminophen (AAP)-induced liver injury.	PMID:	25914167	
+68	Cause	IR	Theme	APAP dose	relation	deliver	relation_class	Negative_regulation	sentence	 IR/ER HB/APAP tablets
+deliver 25% of the HB dose and 50% of the APAP dose by IR and the remainder by ER
+over a 12-hour dosing interval.	PMID:	25913923	
+69	Cause	JNK siRNA	Theme	p62	relation	decreased	relation_class	Negative_regulation	sentence	and JNK siRNA decreased the increased p62 expression induced by quercetin.	PMID:	25881548	
+70	Cause	quercetin	Theme	p62	relation	prevents	relation_class	Negative_regulation	sentence	demonstrates that quercetin prevents hepatotoxicity by inducing p62 expression,
+inhibiting the binding of Keap1 to Nrf2, and thus leading to the increased
+expression of antioxidative genes dependent on Nrf2.	PMID:	25881548	
+71	Cause	Silymarin	Theme	SLM	relation	effect	relation_class	Regulation	sentence	This study was aimed to investigate the effect of Silymarin (SLM) on the
+hypertension state and the liver function changes induced by acetaminophen (APAP)
+in spontaneously hypertensive rat (SHR).	PMID:	25821491	
+72	Cause	ALT	Theme	ALT	relation	observed	relation_class	Regulation	sentence	 No differences were observed for ALT, γ-GT, and GLU levels
+between SHR and normotensive rats groups.	PMID:	25821491	
+73	Cause	MPO	Theme	MPO	relation	evaluated	relation_class	Positive_regulation	sentence	inflammatory response evaluated by MPO activity and NO production showed that SHR
+was more susceptible to APAP effect, by increasing leucocyte infiltration.	PMID:	25821491	
+74	Cause	ALT	Theme	GLU	relation	observed	relation_class	Regulation	sentence	 No differences were observed for ALT, γ-GT, and GLU levels
+between SHR and normotensive rats groups.	PMID:	25821491	
+75	Cause	SalB	Theme	HO-1	relation	induction	relation_class	Positive_regulation	sentence	siRNA-mediated depletion of Nrf2 reduced the induction of HO-1 and GCLC by SalB, 
+and SalB pretreatment activated the phosphatidylinositol-3-kinase (PI3K) and
+protein kinase C (PKC) signaling pathways.	PMID:	25727958	
+76	Cause	SalB	Theme	Nrf2	relation	induced	relation_class	Positive_regulation	sentence	SalB-induced Nrf2 activation and decreasing HO-1 and GCLC expression.	PMID:	25727958	
+77	Cause	SalB	Theme	GCLC	relation	induction	relation_class	Positive_regulation	sentence	siRNA-mediated depletion of Nrf2 reduced the induction of HO-1 and GCLC by SalB, 
+and SalB pretreatment activated the phosphatidylinositol-3-kinase (PI3K) and
+protein kinase C (PKC) signaling pathways.	PMID:	25727958	
+78	Cause	SalB	Theme	Nrf2	relation	induced	relation_class	Positive_regulation	sentence	SalB-induced Nrf2 activation and decreasing HO-1 and GCLC expression.	PMID:	25727958	
+79	Cause	45 beta	Theme	Gadd45β	relation	inhibit	relation_class	Negative_regulation	sentence	and DNA damage-inducible 45 beta (Gadd45β) is known to inhibit JNK
+phosphorylation.	PMID:	25681557	
+80	Cause	Gadd45β KO mice	Theme	JNK	relation	increased	relation_class	Positive_regulation	sentence	 In parallel, APAP
+increased mortality, severe liver injury, and JNK activation in Gadd45β KO mice.	PMID:	25681557	
+81	Cause	Gadd45β	Theme	JNK	relation	dependent	relation_class	Positive_regulation	sentence	protective and therapeutic effects against APAP overdose-evoked hepatotoxicity
+via Gadd45β-dependent JNK regulation.	PMID:	25681557	
+82	Cause	quercetin	Theme	chrysin	relation	effects	relation_class	Regulation	sentence	 Therefore, the objective of this study was to
+evaluate the effects of quercetin and chrysin on the pharmacokinetics of
+paracetamol using rats and non-everted gut sacs in vitro.	PMID:	25678313	
+83	Cause	nuclear factor-erythroid 2-related factor 2	Theme	Nrf2	relation	Role	relation_class	Positive_regulation	sentence	Role of nuclear factor-erythroid 2-related factor 2 (Nrf2) in the transcriptional
+regulation of brain ABC transporters during acute acetaminophen (APAP)
+intoxication in mice.	PMID:	25667042	
+84	Cause	nuclear factor-erythroid 2-related factor 2	Theme	Nrf2	relation	Role	relation_class	Positive_regulation	sentence	Role of nuclear factor-erythroid 2-related factor 2 (Nrf2) in the transcriptional
+regulation of brain ABC transporters during acute acetaminophen (APAP)
+intoxication in mice.	PMID:	25667042	
+85	Cause	nuclear factor-erythroid 2-related factor 2	Theme	nuclear factor-erythroid 2-related factor 2	relation	Role	relation_class	Positive_regulation	sentence	Role of nuclear factor-erythroid 2-related factor 2 (Nrf2) in the transcriptional
+regulation of brain ABC transporters during acute acetaminophen (APAP)
+intoxication in mice.	PMID:	25667042	
+86	Cause	RAGE	Theme	HMGB1	relation	induced	relation_class	Positive_regulation	sentence	In clinically relevant models of necrosis, HMGB1/RAGE-induced neutrophil
+recruitment mediated subsequent amplification of injury, depending on the
+presence of neutrophil elastase.	PMID:	25562324	
+87	Cause	APAP	Theme	collagen	relation	alter	relation_class	Regulation	sentence	(APAP) alter collagen and cross-linking in the rat gastrocnemius muscle, soleus
+muscle, and heart.	PMID:	25540102	
+88	Cause	PAT1	Theme	vigabatrin	relation	affect	relation_class	Regulation	sentence	emptying, however, it seems reasonable that infant formula may also directly
+affect the intestinal absorption rate of vigabatrin possibly via PAT1.	PMID:	25505585	
+89	Cause	FG	Theme	JNK	relation	inhibited	relation_class	Negative_regulation	sentence	 Notably, compound K, a major ginsenoside in 
+FG, inhibited the phosphorylation of JNK in HepG2 cells.	PMID:	25495794	
+90	Cause	Cot	Theme	NFAT	relation	induced	relation_class	Positive_regulation	sentence	PMA/Ionomycin in SK-N-SH cells by targeting IKKβ phosphorylation and activation.	PMID:	25460026	
+91	Cause	Tlp-2	Theme	NFAT	relation	induced	relation_class	Positive_regulation	sentence	PMA/Ionomycin in SK-N-SH cells by targeting IKKβ phosphorylation and activation.	PMID:	25460026	
+92	Cause	β	Theme	WNT	relation	regulated	relation_class	Regulation	sentence	transcriptionally regulated by the WNT/β-catenin pathway.	PMID:	25228302	
+93	Cause	catenin	Theme	WNT	relation	regulated	relation_class	Regulation	sentence	transcriptionally regulated by the WNT/β-catenin pathway.	PMID:	25228302	
+94	Cause	MSH	Theme	γ2	relation	effects	relation_class	Regulation	sentence	this study were: 1) to examine the effects of γ2-MSH and its derivative
+[D-Trp(8)]-γ2-MSH on the acetaminophen model of liver damage in CBA mice; 2) to
+evaluate the modulation of γ2-MSH hepatoprotection by melanocortin subtypes 3 and
+4 receptor antagonists SHU 9119 and HS 024; 3) to define the importance of
+central MSH pharmacophore region (HFRW) by using antisense peptides LVKAT and
+VKAT.	PMID:	25219927	
+95	Cause	MSH	Theme	γ2	relation	effects	relation_class	Regulation	sentence	this study were: 1) to examine the effects of γ2-MSH and its derivative
+[D-Trp(8)]-γ2-MSH on the acetaminophen model of liver damage in CBA mice; 2) to
+evaluate the modulation of γ2-MSH hepatoprotection by melanocortin subtypes 3 and
+4 receptor antagonists SHU 9119 and HS 024; 3) to define the importance of
+central MSH pharmacophore region (HFRW) by using antisense peptides LVKAT and
+VKAT.	PMID:	25219927	
+96	Cause	MSH	Theme	MSH	relation	effects	relation_class	Regulation	sentence	this study were: 1) to examine the effects of γ2-MSH and its derivative
+[D-Trp(8)]-γ2-MSH on the acetaminophen model of liver damage in CBA mice; 2) to
+evaluate the modulation of γ2-MSH hepatoprotection by melanocortin subtypes 3 and
+4 receptor antagonists SHU 9119 and HS 024; 3) to define the importance of
+central MSH pharmacophore region (HFRW) by using antisense peptides LVKAT and
+VKAT.	PMID:	25219927	
+97	Cause	ALR	Theme	p53	relation	facilitate	relation_class	Positive_regulation	sentence	regulation of the p53, p21, cyclin D1, CDK4, PCNA, and ALR to facilitate liver
+regeneration after APAP-induced liver injury.	PMID:	25217484	
+98	Cause	ALR	Theme	p21	relation	facilitate	relation_class	Positive_regulation	sentence	regulation of the p53, p21, cyclin D1, CDK4, PCNA, and ALR to facilitate liver
+regeneration after APAP-induced liver injury.	PMID:	25217484	
+99	Cause	ALR	Theme	cyclin D1	relation	facilitate	relation_class	Positive_regulation	sentence	regulation of the p53, p21, cyclin D1, CDK4, PCNA, and ALR to facilitate liver
+regeneration after APAP-induced liver injury.	PMID:	25217484	
+100	Cause	ALR	Theme	CDK4	relation	facilitate	relation_class	Positive_regulation	sentence	regulation of the p53, p21, cyclin D1, CDK4, PCNA, and ALR to facilitate liver
+regeneration after APAP-induced liver injury.	PMID:	25217484	
+101	Cause	ALR	Theme	PCNA	relation	facilitate	relation_class	Positive_regulation	sentence	regulation of the p53, p21, cyclin D1, CDK4, PCNA, and ALR to facilitate liver
+regeneration after APAP-induced liver injury.	PMID:	25217484	
+102	Cause	Nrf2	Theme	Fmo3	relation	regulation	relation_class	Regulation	sentence	 Fmo3 gene regulation by Nrf2 was also investigated
+using Nrf2 knockout (Nrf2 KO) mice.	PMID:	25193093	
+103	Cause	Nrf2	Theme	Fmo3 gene	relation	investigated	relation_class	Positive_regulation	sentence	additional studies investigated Fmo3 gene regulation by Nrf2 using Nrf2 knockout 
+(Nrf2 KO) mice.	PMID:	25193093	
+104	Cause	BDL	Theme	Fmo3 mRNA	relation	increased	relation_class	Positive_regulation	sentence	 BDL also increased Fmo3 mRNA expression by 1899-fold, but with no change 
+in protein levels.	PMID:	25193093	
+105	Cause	ASP	Theme	Nrf2	relation	induce	relation_class	Positive_regulation	sentence	upstream kinases by ASP was different between in vitro and in vivo models.	PMID:	25119859	
+106	Cause	Fmo3 mRNA	Theme	Fmo3 mRNA	relation	higher	relation_class	Positive_regulation	sentence	both Fmo3 mRNA and protein expression were significantly higher in APAP
+autoprotected livers.	PMID:	24973094	
+107	Cause	IL-4	Theme	CYP2E1	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+108	Cause	IL-4	Theme	IL-1β	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+109	Cause	IL-4	Theme	IL-6	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+110	Cause	IL-4	Theme	TNF-α	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+111	Cause	IL-4	Theme	iNOS	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+112	Cause	IL-4	Theme	Bax	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+113	Cause	IL-4	Theme	HMGB-1	relation	mediators	relation_class	Positive_regulation	sentence	(CYP2E1), pro-inflammatory mediators (IL-1β, IL-4, IL-6, TNF-α, iNOS, Bax, HMGB-1
+and COX-2), pro-inflammatory transcription factors (NF-κB and AP-1),
+pro-apoptotic proteins (cytochrome C, p53, caspase-3, caspase-9, p-JNK, p-p38 and
+p-ERK), and increased the protein expressions of Bcl-2 and Bcl-xL.	PMID:	24886943	
+114	Cause	adiponectin	Theme	adiponectin	relation	induces	relation_class	Positive_regulation	sentence	 Mechanistically, adiponectin induces autophagosome formation by
+AMP-activated protein kinase (AMPK)-dependent activation of the Unc-51-like
+kinase 1, consequently leading to the removal of damaged mitochondria from
+hepatocytes.	PMID:	24882054	
+115	Cause	CD36	Theme	FATP5	relation	targets	relation_class	Regulation	sentence	lipid targets at the molecular level, including CD36, FATP5 and PPAR-α, thus the 
+lipid oxidation and lipid absorption pathways.	PMID:	24797163	
+116	Cause	CD36	Theme	CD36	relation	targets	relation_class	Regulation	sentence	lipid targets at the molecular level, including CD36, FATP5 and PPAR-α, thus the 
+lipid oxidation and lipid absorption pathways.	PMID:	24797163	
+117	Cause	CD36	Theme	PPAR	relation	targets	relation_class	Regulation	sentence	lipid targets at the molecular level, including CD36, FATP5 and PPAR-α, thus the 
+lipid oxidation and lipid absorption pathways.	PMID:	24797163	
+118	Cause	GPs	Theme	Law 38	relation	crucial	relation_class	Positive_regulation	sentence	 GPs are crucial to implement the Law 38 and to increase the degree of 
+complexity of the patient to be properly admitted to a SPOKE/HUB center.	PMID:	24770542	
+119	Cause	FGF21	Theme	Nrf2	relation	effects	relation_class	Regulation	sentence	 The beneficial 
+effects of recombinant FGF21 on up-regulation of Nrf2 and antioxidant genes and
+alleviation of APAP-induced oxidative stress and liver injury were largely
+abolished by adenovirus-mediated knockdown of hepatic PGC-1α expression, whereas 
+overexpression of PGC-1α was sufficient to counteract the increased
+susceptibility of FGF21 KO mice to APAP-induced hepatotoxicity.	PMID:	24590984	
+120	Cause	AMAP reactive metabolite	Theme	CYP450	relation	inhibition	relation_class	Negative_regulation	sentence	from direct CYP450 inhibition by the AMAP reactive metabolite.	PMID:	24560604	
+121	Cause	GST	Theme	GST	relation	reducing	relation_class	Negative_regulation	sentence	the GST catalyzed GSH conjugation by reducing the QIs.	PMID:	24552538	
+122	Cause	Nec-1	Theme	CYP2E1	relation	induced	relation_class	Positive_regulation	sentence	changes were induced by Nec-1 on hepatic CYP2E1 expression.	PMID:	24440347	
+123	Cause	GSNOR	Theme	S-nitrosoglutathione reductase	relation	increased	relation_class	Positive_regulation	sentence	S-nitrosoglutathione reductase (GSNOR) minimized toxic liver damage, increased
+cell proliferation, and improved survival through sustained activation of the
+cytoprotective Nrf2 pathway.	PMID:	24388745	
+124	Cause	Nrf2	Theme	Nrf2	relation	regulation	relation_class	Regulation	sentence	Notch-Nrf2 axis: regulation of Nrf2 gene expression and cytoprotection by notch
+signaling.	PMID:	24298019	
+125	Cause	concanavalin A	Theme	ConA	relation	induced	relation_class	Positive_regulation	sentence	hepatitis induced by concanavalin A (ConA) and α-galactosylceramide (α-GalCer),
+and hepatotoxin-mediated hepatitis induced by carbon tetrachloride (CCl4 ) and/or
+ethanol.	PMID:	24115096	
+126	Cause	miR-561	Theme	DAX-1	relation	enhanced	relation_class	Positive_regulation	sentence	decreased protein level of DAX-1 by APAP treatment was also enhanced by miR-561
+mimic transfection in HepG2 cells and primary human hepatocytes.	PMID:	24104199	
+127	Cause	mDia1	Theme	rac1	relation	required	relation_class	Positive_regulation	sentence	pathway in oxidative stress; mDia1 was required for activation of rac1 and NADPH 
+oxidase in primary murine aortic smooth muscle cells treated with RAGE ligand
+S100B.	PMID:	24084731	
+128	Cause	CAR	Theme	P-gp	relation	role	relation_class	Regulation	sentence	investigate, in vivo, the role of CAR in regulation of P-gp at the BBB.	PMID:	24019224	
+129	Cause	hSULT1C3	Theme	SULT1B1	relation	activated	relation_class	Positive_regulation	sentence	(h) SULT1B1 (2400 revertants/nmol), weakly activated by hSULT1C3 and hSULT2A1
+(2-9 revertants/nmol), but not activated by the other hSULTs studied (1A2, 1A3,
+1C2 and 1E1).	PMID:	23894158	
+130	Cause	APAP	Theme	PKC	relation	induced	relation_class	Positive_regulation	sentence	 JNK 1 and 2 silencing in vivo decreased APAP-induced PKC-α
+translocation to mitochondria, suggesting PKC-α and JNK interplay in a
+feed-forward mechanism to mediate APAP-induced liver injury.	PMID:	23873604	
+131	Cause	JNK 1	Theme	PKC	relation	decreased	relation_class	Negative_regulation	sentence	 JNK 1 and 2 silencing in vivo decreased APAP-induced PKC-α
+translocation to mitochondria, suggesting PKC-α and JNK interplay in a
+feed-forward mechanism to mediate APAP-induced liver injury.	PMID:	23873604	
+132	Cause	GABP	Theme	Yap gene	relation	activator	relation_class	Positive_regulation	sentence	 Therefore, we conclude that GABP is an activator of Yap gene 
+expression and a potential therapeutic target for cancers driven by YAP.	PMID:	23684612	
+133	Cause	Protein tyrosine phosphatase 1B	Theme	GSK3β	relation	modulates	relation_class	Regulation	sentence	Protein tyrosine phosphatase 1B modulates GSK3β/Nrf2 and IGFIR signaling pathways
+in acetaminophen-induced hepatotoxicity.	PMID:	23661004	
+134	Cause	Protein tyrosine phosphatase 1B	Theme	Nrf2	relation	modulates	relation_class	Regulation	sentence	Protein tyrosine phosphatase 1B modulates GSK3β/Nrf2 and IGFIR signaling pathways
+in acetaminophen-induced hepatotoxicity.	PMID:	23661004	
+135	Cause	Protein tyrosine phosphatase 1B	Theme	IGFIR	relation	modulates	relation_class	Regulation	sentence	Protein tyrosine phosphatase 1B modulates GSK3β/Nrf2 and IGFIR signaling pathways
+in acetaminophen-induced hepatotoxicity.	PMID:	23661004	
+136	Cause	Cot	Theme	MKK1/2-Erk1/2	relation	activates	relation_class	Positive_regulation	sentence	Cot/tpl2 (MAP3K8) activates MKK1/2-Erk1/2 following stimulation of the
+Toll-like/IL-1 receptor superfamily.	PMID:	23572518	
+137	Cause	tpl2	Theme	MKK1/2-Erk1/2	relation	activates	relation_class	Positive_regulation	sentence	Cot/tpl2 (MAP3K8) activates MKK1/2-Erk1/2 following stimulation of the
+Toll-like/IL-1 receptor superfamily.	PMID:	23572518	
+138	Cause	MAP3K8	Theme	MKK1/2-Erk1/2	relation	activates	relation_class	Positive_regulation	sentence	Cot/tpl2 (MAP3K8) activates MKK1/2-Erk1/2 following stimulation of the
+Toll-like/IL-1 receptor superfamily.	PMID:	23572518	
+139	Cause	tropomyosin-related kinase	Theme	NGF	relation	mediated	relation_class	Positive_regulation	sentence	 These NGF functions are mediated by tropomyosin-related kinase
+receptor A (TrkA).	PMID:	23472850	
+140	Cause	ACT	Theme	MEP	relation	increases	relation_class	Positive_regulation	sentence	 This indicates that ACT increases MEP and should be
+controlled for in studies where these measures are of interest.	PMID:	23458204	
+141	Cause	NFkB p65	Theme	IL-1β	relation	increased	relation_class	Positive_regulation	sentence	its translocation to the nucleus, where NFkB p65 increased IL-1β production.	PMID:	23166834	
+142	Cause	GFP-Huh-7	Theme	CYP2E1	relation	difference	relation_class	Regulation	sentence	CONCLUSIONS: The difference in CYP2E1 gene expression between GFP-Huh-7 and rat
+hepatocytes provides a convenient means for the enrichment of transplanted human 
+cells in rat liver.	PMID:	23107445	
+143	Cause	Ectopic ARC	Theme	JNK	relation	inhibited	relation_class	Negative_regulation	sentence	 Ectopic ARC inhibited JNK activation by
+specific interactions between ARC and JNK1 and JNK2.	PMID:	23046676	
+144	Cause	MLK3	Theme	JNK	relation	role	relation_class	Positive_regulation	sentence	 Together, these studies establish a
+novel role for MLK3 in APAP-induced JNK activation and hepatotoxicity, and they
+suggest MLK3 as a possible target in the treatment of APAP-induced liver injury.	PMID:	22918968	
+145	Cause	TFP	Theme	HIF-1α	relation	effect	relation_class	Regulation	sentence	 In the present study, the effect of TFP on toxicity and HIF-1α
+induction in B6C3F1 male mice treated with APAP was examined.	PMID:	22902588	
+146	Cause	TFP	Theme	phospholipase	relation	inhibit	relation_class	Negative_regulation	sentence	 TFP can also inhibit phospholipase A(2), and
+cytosolic and secretory PLA(2) activity levels were reduced in the APAP/TFP mice 
+compared to the APAP mice.	PMID:	22902588	
+147	Cause	TFP	Theme	HIF-1α	relation	effect	relation_class	Regulation	sentence	 In the present study, the effect of TFP on toxicity and HIF-1α
+induction in B6C3F1 male mice treated with APAP was examined.	PMID:	22902588	
+148	Cause	HMGB1	Theme	TLR4(+/+) but	relation	stimulated	relation_class	Positive_regulation	sentence	hepatic neutrophils.	PMID:	22821628	
+149	Cause	Rifampin	Theme	GSH	relation	increasing	relation_class	Positive_regulation	sentence	 Rifampin was capable of increasing glutathione (GSH) level
+and GSH reductase activity and reducing GSH depletion and the decrease in GSH
+reductase activity by acetaminophen in mice.	PMID:	22727860	
+150	Cause	AMAP*	Theme	CYP2E1	relation	modified	relation_class	Regulation	sentence	AMAP*) selectively and covalently modified CYP2E1 apoprotein in a ratio of 1.	PMID:	22613176	
+151	Cause	CXCR2 chemokines	Theme	CXCR2 chemokines	relation	role	relation_class	Regulation	sentence	investigated the role of CXCR2 chemokines and mitochondrial products during
+APAP-induced liver injury and in liver neutrophil influx and hepatotoxicity.	PMID:	22532075	
+152	Cause	Nrf2	Theme	GSH	relation	regulating	relation_class	Regulation	sentence	Nrf2, a transcriptional factor regulating drug detoxification and GSH synthesis
+gene expression.	PMID:	22491424	
+153	Cause	interleukin-11	Theme	IL-6 family	relation	member	relation_class	Positive_regulation	sentence	 Here, we showed that interleukin-11 (IL-11), a member of the IL-6 family
+of proinflammatory cytokines, was produced by cells in an oxidative
+stress-dependent manner.	PMID:	22253262	
+154	Cause	IL-11	Theme	IL-6 family	relation	member	relation_class	Positive_regulation	sentence	 Here, we showed that interleukin-11 (IL-11), a member of the IL-6 family
+of proinflammatory cytokines, was produced by cells in an oxidative
+stress-dependent manner.	PMID:	22253262	
+155	Cause	HMGB1	Theme	nuclear NF-κB	relation	induce	relation_class	Positive_regulation	sentence	for HMGB1 to induce nuclear NF-κB translocation and tumor necrosis factor (TNF)
+production in macrophages.	PMID:	22105604	
+156	Cause	HMGB1	Theme	tumor necrosis factor	relation	induce	relation_class	Positive_regulation	sentence	for HMGB1 to induce nuclear NF-κB translocation and tumor necrosis factor (TNF)
+production in macrophages.	PMID:	22105604	
+157	Cause	HMGB1	Theme	TNF	relation	induce	relation_class	Positive_regulation	sentence	for HMGB1 to induce nuclear NF-κB translocation and tumor necrosis factor (TNF)
+production in macrophages.	PMID:	22105604	
+158	Cause	tumor necrosis factor	Theme	nuclear NF-κB	relation	induce	relation_class	Positive_regulation	sentence	for HMGB1 to induce nuclear NF-κB translocation and tumor necrosis factor (TNF)
+production in macrophages.	PMID:	22105604	
+159	Cause	tumor necrosis factor	Theme	tumor necrosis factor	relation	induce	relation_class	Positive_regulation	sentence	for HMGB1 to induce nuclear NF-κB translocation and tumor necrosis factor (TNF)
+production in macrophages.	PMID:	22105604	
+160	Cause	tumor necrosis factor	Theme	TNF	relation	induce	relation_class	Positive_regulation	sentence	for HMGB1 to induce nuclear NF-κB translocation and tumor necrosis factor (TNF)
+production in macrophages.	PMID:	22105604	
+161	Cause	erythropoietin	Theme	erythropoietin	relation	derivates	relation_class	Positive_regulation	sentence	acidosis, and administration of vitamin D derivates and erythropoietin for the
+correction of mineral metabolism disorders and anemia, respectively.	PMID:	22009616	
+162	Cause	PXR	Theme	Cyp3a11	relation	transactivation	relation_class	Positive_regulation	sentence	by the inhibitory effect of LXR on the PXR-responsive transactivation of Cyp3a11.	PMID:	21898498	
+163	Cause	tumor necrosis factor	Theme	Sab	relation	requires	relation_class	Positive_regulation	sentence	tumor necrosis factor (TNF) requires mitochondrial Sab protein expression in
+mice.	PMID:	21844199	
+164	Cause	TNF	Theme	Sab	relation	requires	relation_class	Positive_regulation	sentence	tumor necrosis factor (TNF) requires mitochondrial Sab protein expression in
+mice.	PMID:	21844199	
+165	Cause	SRCs	Theme	CAR	relation	role	relation_class	Regulation	sentence	METHODS: The role of SRCs in CAR activation was assessed in cell-based
+transfection assays and protein-protein interaction assays.	PMID:	21827731	
+166	Cause	ABCG2	Theme	ABCG2	relation	responsible	relation_class	Regulation	sentence	have determined that ABCG2 expressed in mammary tissue is responsible for the
+secretion of many compounds (both therapeutic and toxic) into milk.	PMID:	21645015	
+167	Cause	tumor necrosis factor α	Theme	TNFα	relation	role	relation_class	Regulation	sentence	aim of this study was to investigate the role of tumor necrosis factor α (TNFα)
+in changing the permeability of the blood-brain barrier (BBB) during
+acetaminophen (APAP)-induced ALF.	PMID:	21593677	
+168	Cause	interleukin-1β	Theme	interleukin-1β	relation	activate	relation_class	Positive_regulation	sentence	by interleukin-1β (IL-1β), which can activate and recruit neutrophils,
+exacerbating injury.	PMID:	21396389	
+169	Cause	caspase-1	Theme	Mature IL-1β	relation	formed	relation_class	Positive_regulation	sentence	 Mature IL-1β is formed by caspase-1, dependent on
+inflammasome activation.	PMID:	21396389	
+170	Cause	interleukin-1β	Theme	IL-1β	relation	activate	relation_class	Positive_regulation	sentence	by interleukin-1β (IL-1β), which can activate and recruit neutrophils,
+exacerbating injury.	PMID:	21396389	
+171	Cause	IL-1β	Theme	interleukin-1β	relation	activate	relation_class	Positive_regulation	sentence	by interleukin-1β (IL-1β), which can activate and recruit neutrophils,
+exacerbating injury.	PMID:	21396389	
+172	Cause	IL-1β	Theme	IL-1β	relation	activate	relation_class	Positive_regulation	sentence	by interleukin-1β (IL-1β), which can activate and recruit neutrophils,
+exacerbating injury.	PMID:	21396389	
+173	Cause	CYP2A5	Theme	testosterone homeostasis	relation	mediated	relation_class	Positive_regulation	sentence	nasal gland: role of CYP2A5-mediated regulation of testosterone homeostasis and
+salivary androgen-binding protein expression.	PMID:	21252290	
+174	Cause	CYP1A1	Theme	two acetylcholinesterase	relation	biotransformation	relation_class	Positive_regulation	sentence	 In this work, the
+biotransformation by CYP1A1 and CYP2B1 of two acetylcholinesterase (AChE)
+inhibitors, 4-(4'-hydroxy-phenylamino)-4-oxo propanoic acid (A) and
+1H-pyrrolidine-1-(4'-hydroxy-phenyl)-2,5-dione (B), was investigated through
+docking and molecular dynamics (MD) simulations and by experimental methods using
+rat liver microsomes pretreated with β-naphthoflavone and phenobarbital (CYP1A1
+and CYP2B1 inducers, respectively).	PMID:	20813430	
+175	Cause	CYP1A1	Theme	AChE	relation	biotransformation	relation_class	Positive_regulation	sentence	 In this work, the
+biotransformation by CYP1A1 and CYP2B1 of two acetylcholinesterase (AChE)
+inhibitors, 4-(4'-hydroxy-phenylamino)-4-oxo propanoic acid (A) and
+1H-pyrrolidine-1-(4'-hydroxy-phenyl)-2,5-dione (B), was investigated through
+docking and molecular dynamics (MD) simulations and by experimental methods using
+rat liver microsomes pretreated with β-naphthoflavone and phenobarbital (CYP1A1
+and CYP2B1 inducers, respectively).	PMID:	20813430	
+176	Cause	CYP2B1	Theme	two acetylcholinesterase	relation	biotransformation	relation_class	Positive_regulation	sentence	 In this work, the
+biotransformation by CYP1A1 and CYP2B1 of two acetylcholinesterase (AChE)
+inhibitors, 4-(4'-hydroxy-phenylamino)-4-oxo propanoic acid (A) and
+1H-pyrrolidine-1-(4'-hydroxy-phenyl)-2,5-dione (B), was investigated through
+docking and molecular dynamics (MD) simulations and by experimental methods using
+rat liver microsomes pretreated with β-naphthoflavone and phenobarbital (CYP1A1
+and CYP2B1 inducers, respectively).	PMID:	20813430	
+177	Cause	CYP2B1	Theme	AChE	relation	biotransformation	relation_class	Positive_regulation	sentence	 In this work, the
+biotransformation by CYP1A1 and CYP2B1 of two acetylcholinesterase (AChE)
+inhibitors, 4-(4'-hydroxy-phenylamino)-4-oxo propanoic acid (A) and
+1H-pyrrolidine-1-(4'-hydroxy-phenyl)-2,5-dione (B), was investigated through
+docking and molecular dynamics (MD) simulations and by experimental methods using
+rat liver microsomes pretreated with β-naphthoflavone and phenobarbital (CYP1A1
+and CYP2B1 inducers, respectively).	PMID:	20813430	
+178	Cause	Ghrelin	Theme	ALT	relation	decreased	relation_class	Negative_regulation	sentence	 Results showed that Ghrelin decreased ALT and AST to the 
+normal level, and also reduced TNF-α.	PMID:	20727930	
+179	Cause	Ghrelin	Theme	AST	relation	decreased	relation_class	Negative_regulation	sentence	 Results showed that Ghrelin decreased ALT and AST to the 
+normal level, and also reduced TNF-α.	PMID:	20727930	
+180	Cause	PAP	Theme	methemoglobin	relation	induced	relation_class	Positive_regulation	sentence	 APAP caused no hematotoxicity while PAP induced more methemoglobin in
+NAT1/NAT2 knockout mice than in WT mice (P < 0.	PMID:	20444014	
+181	Cause	NF-kappaB	Theme	Nrf2	relation	augmented	relation_class	Positive_regulation	sentence	exposure to DNCB, depletion of Nrf2 and NF-kappaB augmented toxicity.	PMID:	20416283	
+182	Cause	Keap1	Theme	Nrf2	relation	respond	relation_class	Regulation	sentence	 We demonstrate that Keap1/Nrf2 and NF-kappaB respond
+differently to electrophiles that bind proteins covalently and the redox
+perturbation associated with glutathione depletion, and that crosstalk may enable
+NF-kappaB to partly influence Nrf2 expression during cellular stress.	PMID:	20416283	
+183	Cause	NF-kappaB	Theme	Nrf2	relation	influence	relation_class	Regulation	sentence	NF-kappaB to partly influence Nrf2 expression during cellular stress.	PMID:	20416283	
+184	Cause	NF-kappaB	Theme	Nrf2	relation	respond	relation_class	Regulation	sentence	 We demonstrate that Keap1/Nrf2 and NF-kappaB respond
+differently to electrophiles that bind proteins covalently and the redox
+perturbation associated with glutathione depletion, and that crosstalk may enable
+NF-kappaB to partly influence Nrf2 expression during cellular stress.	PMID:	20416283	
+185	Cause	Bax	Theme	caspase-3	relation	diminished	relation_class	Negative_regulation	sentence	Bax/Bcl2 ratio, diminished evidence of caspase-3 activation and increased
+phosphorylation of protein kinase B, ERK1/2, p70S6K and GSK-3beta.	PMID:	20407780	
+186	Cause	Keap1	Theme	Nrf2	relation	regulates	relation_class	Regulation	sentence	Keap1 regulates Nrf2 activity in response to xenobiotic and oxidative stresses.	PMID:	20404090	
+187	Cause	UDP-glucuronosyltransferases	Theme	UDP-glucuronosyltransferases	relation	require	relation_class	Positive_regulation	sentence	Many UDP-glucuronosyltransferases (UGTs) require phosphorylation by protein
+kinase C (PKC) for glucuronidation activity.	PMID:	20196639	
+188	Cause	UGTs	Theme	UDP-glucuronosyltransferases	relation	require	relation_class	Positive_regulation	sentence	Many UDP-glucuronosyltransferases (UGTs) require phosphorylation by protein
+kinase C (PKC) for glucuronidation activity.	PMID:	20196639	
+189	Cause	CYP3A5 polymorphisms	Theme	CYP2D6	relation	effect	relation_class	Regulation	sentence	This study evaluated the effect of CYP2D6, CYP3A4, and CYP3A5 polymorphisms on
+dextropropoxyphene disposition in healthy subjects.	PMID:	20133509	
+190	Cause	CYP3A5 polymorphisms	Theme	CYP3A4	relation	effect	relation_class	Regulation	sentence	This study evaluated the effect of CYP2D6, CYP3A4, and CYP3A5 polymorphisms on
+dextropropoxyphene disposition in healthy subjects.	PMID:	20133509	
+191	Cause	Cav-1	Theme	Caveolin-1	relation	regulate	relation_class	Regulation	sentence	Caveolin-1 (Cav-1) is a membrane scaffolding protein, which functions to regulate
+intracellular compartmentalization of various signaling molecules.	PMID:	20100502	
+192	Cause	terminal deoxynucleotidyl transferase	Theme	dUTP	relation	mediated	relation_class	Positive_regulation	sentence	terminal deoxynucleotidyl transferase mediated dUTP nick end-labeling method.	PMID:	20082487	
+193	Cause	APAP	Theme	caspase-3	relation	induced	relation_class	Positive_regulation	sentence	blot analysis, ASE markedly decreased APAP-induced caspase-3 and -8 protein
+expressions in mouse livers.	PMID:	19801828	
+194	Cause	APAP	Theme	caspase-3	relation	induced	relation_class	Positive_regulation	sentence	blot analysis, ASE markedly decreased APAP-induced caspase-3 and -8 protein
+expressions in mouse livers.	PMID:	19801828	
+195	Cause	CYP2E1	Theme	CYP2E1	relation	role	relation_class	Regulation	sentence	CYP2E1 appears to play a key role in 3-NT formation, protein degradation, and
+liver damage, which is independent of NOS, and that decreased levels of many
+proteins in the wild-type mice (compared with Cyp2e1-null mice) likely contribute
+to APAP-related toxicity.	PMID:	19660437	
+196	Cause	NOP receptors	Theme	cannabinoid CB1	relation	mediate	relation_class	Positive_regulation	sentence	Opioid, cannabinoid CB1 and NOP receptors do not mediate APAP-induced hypothermia
+in rats.	PMID:	19463266	
+197	Cause	TGF-beta1	Theme	albumin	relation	exhibited	relation_class	Negative_regulation	sentence	released TGF-beta1 exhibited up to four-fold higher albumin secretion and
+two-fold higher phase I/II enzymatic activities, significantly improving the
+sensitivity of hepatocytes to acetaminophen-mediated hepatotoxicity, compared to 
+hepatocytes cultured with directly perfused TGF-beta1 or without TGF-beta1.	PMID:	19394078	
+198	Cause	p65 Stealth small interfering RNA	Theme	iNOS gene	relation	suppressed	relation_class	Negative_regulation	sentence	 Similarly, NF-kappaB p65 Stealth small interfering RNA suppressed iNOS gene 
+expression in cytokine-stimulated astrocytes with or without DCF.	PMID:	19393675	
+199	Cause	IL-18 from pro-IL-1beta	Theme	IL-1beta	relation	generating	relation_class	Positive_regulation	sentence	 By activating caspase-1, the enzyme responsible for
+generating mature IL-1beta and IL-18 from pro-IL-1beta and pro-IL-18,
+respectively, the Nalp3 inflammasome plays a crucial role in the second step of
+proinflammatory cytokine activation following acetaminophen-induced liver injury.	PMID:	19164858	
+200	Cause	pro-IL-18	Theme	IL-1beta	relation	generating	relation_class	Positive_regulation	sentence	 By activating caspase-1, the enzyme responsible for
+generating mature IL-1beta and IL-18 from pro-IL-1beta and pro-IL-18,
+respectively, the Nalp3 inflammasome plays a crucial role in the second step of
+proinflammatory cytokine activation following acetaminophen-induced liver injury.	PMID:	19164858	
+201	Cause	ACET	Theme	alkaline phosphatase	relation	suppressed	relation_class	Negative_regulation	sentence	 On the other hand, ACET suppressed alkaline phosphatase levels only in 
+CD rats.	PMID:	18798224	
+202	Cause	ACET	Theme	CYP1A2	relation	down-regulated	relation_class	Negative_regulation	sentence	 The administration of ACET down-regulated CYP1A2 and CYP2B1
+expression in CD rats, while up-regulating them in NF rats.	PMID:	18798224	
+203	Cause	ACET	Theme	GSH	relation	suppressed	relation_class	Negative_regulation	sentence	(GSH) was suppressed by ACET in NF rats, whereas the drug increased GSH in CD
+rats.	PMID:	18798224	
+204	Cause	ACET	Theme	CYP2B1	relation	down-regulated	relation_class	Negative_regulation	sentence	 The administration of ACET down-regulated CYP1A2 and CYP2B1
+expression in CD rats, while up-regulating them in NF rats.	PMID:	18798224	
+205	Cause	CYP3A	Theme	CYP3A	relation	increased	relation_class	Positive_regulation	sentence	CYP3A and enzymes of conjugation, simultaneously it increased the hepatotoxicity 
+of paracetamol.	PMID:	18710030	
+206	Cause	PAR	Theme	serum ALT	relation	increased	relation_class	Positive_regulation	sentence	 It was shown that PAR significantly increased serum ALT,
+AST, ALP, liver MDA levels and significantly decreased liver GSH-Px activity,
+when compared to the control group (Group 1).	PMID:	18693095	
+207	Cause	LEF	Theme	APAP	relation	effect	relation_class	Regulation	sentence	work was undertaken to study the effect of LEF on the bioactivation of APAP to
+NAPQI.	PMID:	18588957	
+208	Cause	JUN	Theme	TNF-alpha	relation	regulation	relation_class	Regulation	sentence	Cytotoxic effects of TNF-alpha, as well as transcriptional regulation by JUN and 
+TP53, and apoptosis-related genes possibly lead to necrosis.	PMID:	18558008	
+209	Cause	VEGF	Theme	bFGF	relation	induced	relation_class	Positive_regulation	sentence	different nonsteroidal anti-inflammatory drugs (NSAIDs) on bFGF- and VEGF-induced
+angiogenesis.	PMID:	18487370	
+210	Cause	SCF	Theme	APAP-induced	relation	inhibited	relation_class	Negative_regulation	sentence	 SCF inhibited APAP-induced
+hepatocyte apoptosis and increased Bcl-2 and Bcl-xL expression, suggesting that
+this decrease in hepatocyte apoptosis is mediated through Bcl-2 and Bcl-xL.	PMID:	18467506	
+211	Cause	heat shock factor 1	Theme	HSF1	relation	activation	relation_class	Positive_regulation	sentence	stimulated heat shock factor 1 (HSF1) activation in mice.	PMID:	18392951	
+212	Cause	Nrf2	Theme	Mrp3	relation	mediates	relation_class	Positive_regulation	sentence	 These results show that Nrf2 mediates induction of Mrp3 and Mrp4 
+after APAP but does not affect Mrp1 or Mrp2.	PMID:	17935745	
+213	Cause	acrB	Theme	MAR	relation	increase	relation_class	Positive_regulation	sentence	a >2-fold increase in the MAR and overexpression of acrB, suggesting that they
+were putative marA orthologues.	PMID:	17884830	
+214	Cause	acrB	Theme	MAR	relation	increase	relation_class	Positive_regulation	sentence	a >2-fold increase in the MAR and overexpression of acrB, suggesting that they
+were putative marA orthologues.	PMID:	17884830	
+215	Cause	acrB	Theme	acrB	relation	increase	relation_class	Positive_regulation	sentence	a >2-fold increase in the MAR and overexpression of acrB, suggesting that they
+were putative marA orthologues.	PMID:	17884830	
+216	Cause	acrB	Theme	MAR	relation	increase	relation_class	Positive_regulation	sentence	a >2-fold increase in the MAR and overexpression of acrB, suggesting that they
+were putative marA orthologues.	PMID:	17884830	
+217	Cause	acrB	Theme	acrB	relation	increase	relation_class	Positive_regulation	sentence	a >2-fold increase in the MAR and overexpression of acrB, suggesting that they
+were putative marA orthologues.	PMID:	17884830	
+218	Cause	Actin	Theme	Gc globulin	relation	free	relation_class	Positive_regulation	sentence	Actin-free Gc globulin: a rapidly assessed biomarker of organ dysfunction in
+acute liver failure and cirrhosis.	PMID:	17763400	
+219	Cause	myeloperoxidase	Theme	HOC1	relation	leads	relation_class	Positive_regulation	sentence	myeloperoxidase leads to the decreased total production of HOC1 by both intact
+neutrophils and isolated myeloperoxidase, even though the initial rate of
+production of HOC1 is increased.	PMID:	17638096	
+220	Cause	COX-3	Theme	COX-1	relation	variant	relation_class	Positive_regulation	sentence	 However, COX-3 was found to be a spliced variant of COX-1 and renamed
+COX-1b.	PMID:	17627114	
+221	Cause	DOX	Theme	P-gp	relation	enhanced	relation_class	Positive_regulation	sentence	 The P-gp function was enhanced by DOX and HAAP, and it
+was further stimulated during combined treatment, leading to decreased DOX
+retention.	PMID:	17526808	
+222	Cause	HAAP	Theme	P-gp	relation	enhanced	relation_class	Positive_regulation	sentence	 The P-gp function was enhanced by DOX and HAAP, and it
+was further stimulated during combined treatment, leading to decreased DOX
+retention.	PMID:	17526808	
+223	Cause	Fxr	Theme	Fxr	relation	effect	relation_class	Negative_regulation	sentence	of Fxr had a major effect on the expression of the xenobiotic detoxification
+genes up-regulated in Little mice.	PMID:	17521389	
+224	Cause	IL-4	Theme	IL-6	relation	prevent	relation_class	Negative_regulation	sentence	IL-4, which together help prevent overexpression of IL-6 and other potential
+hepatotoxic factors.	PMID:	17305405	
+225	Cause	IL-4	Theme	IL-6	relation	prevent	relation_class	Negative_regulation	sentence	IL-4, which together help prevent overexpression of IL-6 and other potential
+hepatotoxic factors.	PMID:	17305405	
+226	Cause	N-acylphenolamine AM404	Theme	NFAT	relation	inhibits	relation_class	Negative_regulation	sentence	The acetaminophen-derived bioactive N-acylphenolamine AM404 inhibits NFAT by
+targeting nuclear regulatory events.	PMID:	17196940	
+227	Cause	Mrp2	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	The role of Mrp2, Bcrp, and P-glycoprotein in the biliary excretion of
+acetaminophen sulfate (AS) and glucuronide (AG), 4-methylumbelliferyl sulfate
+(4MUS) and glucuronide (4MUG), and harmol sulfate (HS) and glucuronide (HG) was
+studied in Abcc2(-/-), Abcg2(-/-), and Abcb1a(-/-)/Abcb1b(-/-) mouse livers
+perfused with the respective parent compounds using a cassette dosing approach.	PMID:	16959944	
+228	Cause	Bcrp	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	The role of Mrp2, Bcrp, and P-glycoprotein in the biliary excretion of
+acetaminophen sulfate (AS) and glucuronide (AG), 4-methylumbelliferyl sulfate
+(4MUS) and glucuronide (4MUG), and harmol sulfate (HS) and glucuronide (HG) was
+studied in Abcc2(-/-), Abcg2(-/-), and Abcb1a(-/-)/Abcb1b(-/-) mouse livers
+perfused with the respective parent compounds using a cassette dosing approach.	PMID:	16959944	
+229	Cause	P-glycoprotein	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	The role of Mrp2, Bcrp, and P-glycoprotein in the biliary excretion of
+acetaminophen sulfate (AS) and glucuronide (AG), 4-methylumbelliferyl sulfate
+(4MUS) and glucuronide (4MUG), and harmol sulfate (HS) and glucuronide (HG) was
+studied in Abcc2(-/-), Abcg2(-/-), and Abcb1a(-/-)/Abcb1b(-/-) mouse livers
+perfused with the respective parent compounds using a cassette dosing approach.	PMID:	16959944	
+230	Cause	HSP70	Theme	HSP70	relation	induce	relation_class	Positive_regulation	sentence	70 (HSP70) by APAP and melatonin alone did not induce HSP70 in mouse liver.	PMID:	16948781	
+231	Cause	cytochrome P450 2E1	Theme	GSH	relation	works	relation_class	Positive_regulation	sentence	of the activity of cytochrome P450 2E1, which works upstream of GSH conjugation
+in the pathway of APAP metabolism, via its anti-nitrosative and anti-inflammatory
+activities in addition to its antioxidant activity.	PMID:	16948781	
+232	Cause	PPAR-interacting protein	Theme	PRIP	relation	required	relation_class	Positive_regulation	sentence	PPAR-interacting protein (PRIP) is required for nuclear translocation of
+constitutive androstane receptor in mouse liver.	PMID:	16828057	
+233	Cause	PPAR-interacting protein	Theme	PPAR-interacting protein	relation	required	relation_class	Positive_regulation	sentence	PPAR-interacting protein (PRIP) is required for nuclear translocation of
+constitutive androstane receptor in mouse liver.	PMID:	16828057	
+234	Cause	PPAR-interacting protein	Theme	PRIP	relation	required	relation_class	Positive_regulation	sentence	PPAR-interacting protein (PRIP) is required for nuclear translocation of
+constitutive androstane receptor in mouse liver.	PMID:	16828057	
+235	Cause	VEGF-A	Theme	VEGF	relation	regulator	relation_class	Regulation	sentence	VEGF or VEGF-A is a major regulator of angiogenesis and has been recently shown
+to be important in organ repair.	PMID:	16565415	
+236	Cause	HIF-1alpha	Theme	APAP toxicity	relation	induced	relation_class	Positive_regulation	sentence	 Thus, HIF-1alpha is induced before APAP toxicity and
+can occur under non-hypoxic conditions.	PMID:	16530163	
+237	Cause	Ubiquitin	Theme	p53 protein	relation	dependent	relation_class	Positive_regulation	sentence	Ubiquitin-dependent degradation of p53 protein despite phosphorylation at its N
+terminus by acetaminophen.	PMID:	16330492	
+238	Cause	CYP2E1	Theme	CYP2E1 enzyme	relation	lowered	relation_class	Negative_regulation	sentence	ethanol-inducible CYP2E1, significantly lowered the CYP2E1 enzyme activity and
+the rate of APAP-induced cell death while it prevented the reduction of p53 and
+p21 in C6 glioma cells.	PMID:	16330492	
+239	Cause	mdm2	Theme	ubiquitin	relation	mediated	relation_class	Positive_regulation	sentence	directly reduce the p53 content through mdm2-mediated ubiquitin conjugation,
+despite phosphorylation of p53 at its N terminus.	PMID:	16330492	
+240	Cause	Keap1	Theme	Nrf2	relation	represses	relation_class	Negative_regulation	sentence	Keap1 represses the Nrf2 activity under quiescent conditions.	PMID:	16293230	
+241	Cause	APAP	Theme	Hsp70i	relation	response	relation_class	Positive_regulation	sentence	observations suggest that increased Hsp70i expression in response to APAP acts to
+limit the extent of tissue injury.	PMID:	16280147	
+242	Cause	UGT2B1	Theme	UGT1A1	relation	RESULTS	relation_class	Positive_regulation	sentence	androsterone (UGT2B2), and (-)-borneol (UGT2B12).	PMID:	16222444	
+243	Cause	UGT2B1/3/6	Theme	UGT1A1	relation	RESULTS	relation_class	Positive_regulation	sentence	androsterone (UGT2B2), and (-)-borneol (UGT2B12).	PMID:	16222444	
+244	Cause	AAP	Theme	ASA	relation	effect	relation_class	Regulation	sentence	work has evaluated the effect of AAP, ASA and DIP on the labeling of the blood
+elements with 99mTc.	PMID:	16196202	
+245	Cause	DIP	Theme	ASA	relation	effect	relation_class	Regulation	sentence	work has evaluated the effect of AAP, ASA and DIP on the labeling of the blood
+elements with 99mTc.	PMID:	16196202	
+246	Cause	COX-1b2	Theme	prostaglandin F2alpha	relation	catalyze	relation_class	Positive_regulation	sentence	COX-1b2 is able to catalyze the synthesis of prostaglandin F2alpha from
+arachidonic acid with Km and Vmax values of 0.	PMID:	16141368	
+247	Cause	PXR	Theme	pregnane X receptor	relation	regulator	relation_class	Regulation	sentence	The pregnane X receptor (PXR) is a transcriptional regulator of xenobiotic
+metabolizing enzymes, including cytochrome P450 3A (CYP3A), and transporters.	PMID:	16141365	
+248	Cause	HIP	Theme	PAP	relation	prevents	relation_class	Negative_regulation	sentence	mice indicated that HIP/PAP exerts an antioxidant activity and prevents reactive 
+oxygen species-induced mitochondrial damage by acetaminophen overdose.	PMID:	16116631	
+249	Cause	caspase	Theme	DNase	relation	activated	relation_class	Positive_regulation	sentence	not caused by caspase-activated DNase but most likely by other intracellular
+DNase(s), whose activation is dependent on the mitochondrial oxidant stress and
+peroxynitrite formation.	PMID:	16081675	
+250	Cause	DNase	Theme	DNase	relation	caused	relation_class	Positive_regulation	sentence	not caused by caspase-activated DNase but most likely by other intracellular
+DNase(s), whose activation is dependent on the mitochondrial oxidant stress and
+peroxynitrite formation.	PMID:	16081675	
+251	Cause	APAP	Theme	TNFalpha	relation	upregulate	relation_class	Positive_regulation	sentence	decreased ability of APAP to upregulate TNFalpha, KC/gro, and IL-10 expression
+and increased expression of IL-4 and TGFbeta.	PMID:	16081117	
+252	Cause	APAP	Theme	KC	relation	upregulate	relation_class	Positive_regulation	sentence	decreased ability of APAP to upregulate TNFalpha, KC/gro, and IL-10 expression
+and increased expression of IL-4 and TGFbeta.	PMID:	16081117	
+253	Cause	APAP	Theme	gro	relation	upregulate	relation_class	Positive_regulation	sentence	decreased ability of APAP to upregulate TNFalpha, KC/gro, and IL-10 expression
+and increased expression of IL-4 and TGFbeta.	PMID:	16081117	
+254	Cause	APAP	Theme	IL-10	relation	upregulate	relation_class	Positive_regulation	sentence	decreased ability of APAP to upregulate TNFalpha, KC/gro, and IL-10 expression
+and increased expression of IL-4 and TGFbeta.	PMID:	16081117	
+255	Cause	ASC-2	Theme	xenobiotic nuclear receptor	relation	coactivator	relation_class	Positive_regulation	sentence	that ASC-2 also serves as a coactivator of the xenobiotic nuclear receptor
+constitutive androstane receptor (CAR).	PMID:	15764585	
+256	Cause	endogenous bradykinin	Theme	THR	relation	mediated	relation_class	Positive_regulation	sentence	non-hypotensive doses evoke THR that is mediated by endogenous bradykinin and
+prostacyclin derived from endothelial COX-2.	PMID:	15626595	
+257	Cause	interferon	Theme	IP-10	relation	inducible	relation_class	Positive_regulation	sentence	alpha); MCP-1 (monocyte chemoattractant protein-1); IP-10 (interferon-inducible
+protein); Mig (monokine induced by IFN-gamma) and decreased neutrophil
+accumulation in the liver.	PMID:	15578514	
+258	Cause	terminal deoxynucleotidyl transferase	Theme	dUTP	relation	mediated	relation_class	Positive_regulation	sentence	nuclear changes, terminal deoxynucleotidyl transferase-mediated dUTP nick end
+labeling, and caspase-3 activation also increased after acetaminophen
+administration.	PMID:	15486922	
+259	Cause	APAP	Theme	Mrp2	relation	induction	relation_class	Positive_regulation	sentence	that induction of Mrp2 by APAP may represent an adaptive mechanism to accelerate 
+liver disposition of the drug.	PMID:	15276087	
+260	Cause	Nrf2	Theme	Nrf2	relation	role	relation_class	Regulation	sentence	a critical role for Nrf2; however, direct evidence for Nrf2 activation following 
+acetaminophen exposure was previously lacking.	PMID:	15122755	
+261	Cause	RXRalpha	Theme	GSH	relation	Regulation	relation_class	Regulation	sentence	
+Regulation of hepatic GSH levels by RXRalpha is essential to protect hepatocytes 
+from oxidative stress, whereas up-regulation of phase I drug metabolism genes by 
+RXRalpha may render the liver more sensitive to APAP-induced toxicity.	PMID:	14978233	
+262	Cause	IL-6	Theme	STAT3	relation	induced	relation_class	Positive_regulation	sentence	SAPK activation nor IL-6-induced STAT3 phosphorylation is affected by the drug.	PMID:	14664905	
+263	Cause	IL-1beta	Theme	NF-kappaB	relation	dependent	relation_class	Positive_regulation	sentence	inhibition of IL-1beta-dependent NF-kappaB nuclear translocation.	PMID:	14664905	
+264	Cause	ACE-I	Theme	phospholipase A2	relation	activates	relation_class	Positive_regulation	sentence	ACE-I activates phospholipase A2, which supplies COX-2 with the substrate for
+making thrombolytic prostacyclin.	PMID:	14592556	
+265	Cause	GSH	Theme	cyclin D1	relation	induced	relation_class	Positive_regulation	sentence	with GSH after AAP induced expression of cyclin D1, p21, and PCNA (12-48 h).	PMID:	12954812	
+266	Cause	GSH	Theme	p21	relation	induced	relation_class	Positive_regulation	sentence	with GSH after AAP induced expression of cyclin D1, p21, and PCNA (12-48 h).	PMID:	12954812	
+267	Cause	AAP	Theme	cyclin D1	relation	induced	relation_class	Positive_regulation	sentence	with GSH after AAP induced expression of cyclin D1, p21, and PCNA (12-48 h).	PMID:	12954812	
+268	Cause	AAP	Theme	p21	relation	induced	relation_class	Positive_regulation	sentence	with GSH after AAP induced expression of cyclin D1, p21, and PCNA (12-48 h).	PMID:	12954812	
+269	Cause	insulin	Theme	EGP	relation	inhibits	relation_class	Negative_regulation	sentence	insulin inhibits EGP, at least in part, by directing glucose-6-phosphate into
+glycogen rather than through the glucose-6-phosphatase pathway.	PMID:	12941759	
+270	Cause	FII	Theme	FV	relation	reduced	relation_class	Negative_regulation	sentence	cirrhosis, by contrast, FII, FV, FVII, FIX and FX were equally reduced whilst FXI
+was lower than the other factors (mean levels 0.	PMID:	12871412	
+271	Cause	antithrombin	Theme	thrombin	relation	inhibits	relation_class	Negative_regulation	sentence	FIX and FXI are better preserved because antithrombin inhibits the thrombin
+induced positive feedback loop that activates these latter factors.	PMID:	12871412	
+272	Cause	FII	Theme	FVII	relation	reduced	relation_class	Negative_regulation	sentence	cirrhosis, by contrast, FII, FV, FVII, FIX and FX were equally reduced whilst FXI
+was lower than the other factors (mean levels 0.	PMID:	12871412	
+273	Cause	FII	Theme	FIX	relation	reduced	relation_class	Negative_regulation	sentence	cirrhosis, by contrast, FII, FV, FVII, FIX and FX were equally reduced whilst FXI
+was lower than the other factors (mean levels 0.	PMID:	12871412	
+274	Cause	FII	Theme	FX	relation	reduced	relation_class	Negative_regulation	sentence	cirrhosis, by contrast, FII, FV, FVII, FIX and FX were equally reduced whilst FXI
+was lower than the other factors (mean levels 0.	PMID:	12871412	
+275	Cause	TNF	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	DEM or APAP was associated with inhibition of TNF-induced NF-kappaB
+transactivation of anti-apoptotic genes, including inducible nitric oxide
+synthase (i-NOS).	PMID:	12774022	
+276	Cause	Interleukin 1beta	Theme	prostaglandin E synthase	relation	induces	relation_class	Positive_regulation	sentence	Interleukin 1beta induces functional prostaglandin E synthase in cultured human
+umbilical vein endothelial cells.	PMID:	12512699	
+277	Cause	tissue growth factor	Theme	CTGF	relation	increased	relation_class	Positive_regulation	sentence	connective tissue growth factor (CTGF) also increased in the liver following
+acetaminophen treatment of wild-type mice.	PMID:	12392966	
+278	Cause	NIM	Theme	ACETA	relation	effect	relation_class	Regulation	sentence	increased, whereas both NIM and CECOX did not have any effect on ACETA action in 
+writhing test.	PMID:	11990080	
+279	Cause	COX	Theme	COX	relation	involvement	relation_class	Regulation	sentence	 The possible involvement of COX and NO synthase systems in
+antinociceptive activity of ACETA is discussed.	PMID:	11990080	
+280	Cause	COX	Theme	NO synthase	relation	involvement	relation_class	Regulation	sentence	 The possible involvement of COX and NO synthase systems in
+antinociceptive activity of ACETA is discussed.	PMID:	11990080	
+281	Cause	S3 group	Theme	GLDH	relation	increase	relation_class	Positive_regulation	sentence	(P<0.	PMID:	11926611	
+282	Cause	S3 group	Theme	NP	relation	increase	relation_class	Positive_regulation	sentence	(P<0.	PMID:	11926611	
+283	Cause	S3 group	Theme	LDH	relation	increase	relation_class	Positive_regulation	sentence	(P<0.	PMID:	11926611	
+284	Cause	S3 group	Theme	AST	relation	increase	relation_class	Positive_regulation	sentence	(P<0.	PMID:	11926611	
+285	Cause	S3 group	Theme	LDH	relation	increase	relation_class	Positive_regulation	sentence	(P<0.	PMID:	11926611	
+286	Cause	S3 group	Theme	S3 group	relation	increase	relation_class	Positive_regulation	sentence	(P<0.	PMID:	11926611	
+287	Cause	E2	Theme	AP-1	relation	increased	relation_class	Positive_regulation	sentence	not alter AP-1 activity, whereas E2 increased AP-1 activity approximately 50% and
+did not increase NF-B activity.	PMID:	11896290	
+288	Cause	CYP2E1	Theme	NAPQI	relation	decreased	relation_class	Negative_regulation	sentence	and CYP2E1 significantly decreased NAPQI formation.	PMID:	11866476	
+289	Cause	DADS	Theme	P450 1A1	relation	inhibits	relation_class	Negative_regulation	sentence	mechanism is that DADS inhibits P450 1A1/1A2 activity, but not induction, which
+substantially reduces production of NAPQI, while NAC enhances liver detoxifying
+capability via serving as a precursor of GSH and stimulating GSH synthesis.	PMID:	11819251	
+290	Cause	DADS	Theme	1A2	relation	inhibits	relation_class	Negative_regulation	sentence	mechanism is that DADS inhibits P450 1A1/1A2 activity, but not induction, which
+substantially reduces production of NAPQI, while NAC enhances liver detoxifying
+capability via serving as a precursor of GSH and stimulating GSH synthesis.	PMID:	11819251	
+291	Cause	APAP	Theme	CYP3A4	relation	increase	relation_class	Positive_regulation	sentence	first report that APAP can increase CYP3A4 activity and content in transfected
+HepG2 cells.	PMID:	11811955	
+292	Cause	Corticotropin-releasing factor	Theme	CRF	relation	affect	relation_class	Regulation	sentence	OBJECTIVES: Corticotropin-releasing factor (CRF) has been shown to affect GI
+motor function and appetite in animals.	PMID:	11811169	
+293	Cause	Src kinase	Theme	STAT6	relation	involved	relation_class	Positive_regulation	sentence	Furthermore, we found that an Src kinase was involved in STAT6 activation because
+1) Src kinase activity was induced by IL-4, 2) Src kinase activity, but not Janus
+kinase, was inhibited by salicylates in vitro, 3) cells expressing viral Src had 
+constitutive STAT6 phosphorylation, and 4) cells lacking Src showed low STAT6
+phosphorylation in response to IL-4.	PMID:	11801685	
+294	Cause	IL-4	Theme	Src kinase	relation	induced	relation_class	Positive_regulation	sentence	1) Src kinase activity was induced by IL-4, 2) Src kinase activity, but not Janus
+kinase, was inhibited by salicylates in vitro, 3) cells expressing viral Src had 
+constitutive STAT6 phosphorylation, and 4) cells lacking Src showed low STAT6
+phosphorylation in response to IL-4.	PMID:	11801685	
+295	Cause	IL-4	Theme	STAT6	relation	activation	relation_class	Positive_regulation	sentence	 Because STAT6 activation by IL-4 and IL-13
+participates in the development of allergic diseases, our results provide a
+mechanism to explain the beneficial effects of aspirin and salicylate treatment
+of these diseases.	PMID:	11801685	
+296	Cause	IL-13	Theme	STAT6	relation	activation	relation_class	Positive_regulation	sentence	 Because STAT6 activation by IL-4 and IL-13
+participates in the development of allergic diseases, our results provide a
+mechanism to explain the beneficial effects of aspirin and salicylate treatment
+of these diseases.	PMID:	11801685	
+297	Cause	PPARalpha	Theme	PPARalpha	relation	changes	relation_class	Regulation	sentence	In addition to previously reported gene expression changes by PPARalpha agonists,
+we found expression changes of other genes, including
+cis-retinol/3alpha-hydroxysterol short chain dehydrogenase, vanin-1, RecA-like
+protein, and serum amyloid A (SAA) 2.	PMID:	11798191	
+298	Cause	MGT	Theme	MGT	relation	control	relation_class	Regulation	sentence	MGT can be applied to control drug release, and at a polymer content of 44.	PMID:	11763466	
+299	Cause	NADPH	Theme	zeta-crystallin	relation	protect	relation_class	Positive_regulation	sentence	Consistent with this, NADPH was able to substantially protect zeta-crystallin
+against aspirin, whereas PQ did not provide any protection.	PMID:	11733186	
+300	Cause	CK	Theme	cytochrome P450	relation	effects	relation_class	Regulation	sentence	 The effects of CK on cytochrome P450 (P450) 1A2 and 2E1, the 
+major isozymes involved in APAP bioactivation, were investigated.	PMID:	11675154	
+301	Cause	CK	Theme	P450	relation	effects	relation_class	Regulation	sentence	 The effects of CK on cytochrome P450 (P450) 1A2 and 2E1, the 
+major isozymes involved in APAP bioactivation, were investigated.	PMID:	11675154	
+302	Cause	2E1	Theme	cytochrome P450	relation	effects	relation_class	Regulation	sentence	 The effects of CK on cytochrome P450 (P450) 1A2 and 2E1, the 
+major isozymes involved in APAP bioactivation, were investigated.	PMID:	11675154	
+303	Cause	2E1	Theme	P450	relation	effects	relation_class	Regulation	sentence	 The effects of CK on cytochrome P450 (P450) 1A2 and 2E1, the 
+major isozymes involved in APAP bioactivation, were investigated.	PMID:	11675154	
+304	Cause	DCE	Theme	rat liver homogenate	relation	increased	relation_class	Positive_regulation	sentence	 In contrast, with a rat liver homogenate, DCE-GS increased the
+y-GCS activity, whereas DCE-GS triester had no effect on this activity.	PMID:	11456112	
+305	Cause	GS	Theme	rat liver homogenate	relation	increased	relation_class	Positive_regulation	sentence	 In contrast, with a rat liver homogenate, DCE-GS increased the
+y-GCS activity, whereas DCE-GS triester had no effect on this activity.	PMID:	11456112	
+306	Cause	somatostatin	Theme	Endogenous hormone	relation	inhibited	relation_class	Negative_regulation	sentence	 Endogenous hormone secretion was inhibited with somatostatin while
+insulin (approximately 550 pmol/l) and glucagon (approximately 130 ng/l)
+concentrations were matched with exogenous hormone infusions.	PMID:	11440366	
+307	Cause	astA	Theme	acid sequence homology, ORF1 and ORF2	relation	designated	relation_class	Positive_regulation	sentence	amino acid sequence homology, ORF1 and ORF2 are designated as astA and dsbA,
+respectively.	PMID:	11379783	
+308	Cause	dsbA	Theme	acid sequence homology, ORF1 and ORF2	relation	designated	relation_class	Positive_regulation	sentence	amino acid sequence homology, ORF1 and ORF2 are designated as astA and dsbA,
+respectively.	PMID:	11379783	
+309	Cause	IL-1beta	Theme	COX-2	relation	stimulation	relation_class	Positive_regulation	sentence	express COX-2 activity after stimulation with IL-1beta which is highly sensitive 
+to inhibition with paracetamol.	PMID:	11192935	
+310	Cause	PGHS	Theme	P450 and/or prostaglandin H synthetase	relation	bioactivation	relation_class	Positive_regulation	sentence	with bioactivation by P450 and/or prostaglandin H synthetase (PGHS) to a reactive
+metabolite, which depletes GSH, covalently binds to proteins, and leads to
+oxidative stress.	PMID:	10751557	
+311	Cause	GSH	Theme	cytochrome c	relation	increased	relation_class	Positive_regulation	sentence	system, and GSH concentration-dependently increased the cytochrome c reduction by
+acetaminophen metabolites.	PMID:	10952066	
+312	Cause	IL-1 alpha	Theme	cytochrome P450	relation	suppresses	relation_class	Negative_regulation	sentence	such as IL-1 alpha, which in turn suppresses the cytochrome P450 responsible for 
+the activation of acetaminophen and CCl(4) to reactive metabolites.	PMID:	10924799	
+313	Cause	IL-1 alpha	Theme	cytochrome P450	relation	suppresses	relation_class	Negative_regulation	sentence	such as IL-1 alpha, which in turn suppresses the cytochrome P450 responsible for 
+the activation of acetaminophen and CCl(4) to reactive metabolites.	PMID:	10924799	
+314	Cause	BSO	Theme	gamma-GCS enzyme	relation	increased	relation_class	Positive_regulation	sentence	markedly according to the compound: BSO and DEM increased gamma-GCS enzyme
+activity, although only DEM, but not BSO, resulted in an increase in gamma-GCS(h)
+mRNA and protein.	PMID:	10915739	
+315	Cause	DEM	Theme	gamma-GCS enzyme	relation	increased	relation_class	Positive_regulation	sentence	markedly according to the compound: BSO and DEM increased gamma-GCS enzyme
+activity, although only DEM, but not BSO, resulted in an increase in gamma-GCS(h)
+mRNA and protein.	PMID:	10915739	
+316	Cause	IFN-gamma	Theme	interferon-gamma	relation	-induced	relation_class	Positive_regulation	sentence	salicylate) on lipopolysaccharide (LPS) plus interferon-gamma (IFN-gamma)-induced
+iNOS expression in RAW 264.	PMID:	10860828	
+317	Cause	LPS plus IFN-gamma	Theme	iNOS mRNA	relation	induced	relation_class	Positive_regulation	sentence	salicylates did not affect on iNOS mRNA stability induced by LPS plus IFN-gamma.	PMID:	10860828	
+318	Cause	IFN-gamma	Theme	iNOS	relation	induced	relation_class	Positive_regulation	sentence	effect by inhibiting iNOS expression induced by LPS plus IFN-gamma at
+transcriptional level by suppression of NF-kappaB binding activity, whereas
+salicylates exert its effect by inhibiting iNOS expression at the translational
+or posttranslational level.	PMID:	10860828	
+319	Cause	MPO	Theme	NADH	relation	inactivated	relation_class	Negative_regulation	sentence	 LADH was also
+inactivated by MPO/NADH/halide, MPO/H2O2/NaNO2 and MPO/NADH/NaNO2 systems.	PMID:	10826917	
+320	Cause	MPO	Theme	MPO	relation	inactivated	relation_class	Negative_regulation	sentence	 LADH was also
+inactivated by MPO/NADH/halide, MPO/H2O2/NaNO2 and MPO/NADH/NaNO2 systems.	PMID:	10826917	
+321	Cause	MPO	Theme	H2O2	relation	inactivated	relation_class	Negative_regulation	sentence	 LADH was also
+inactivated by MPO/NADH/halide, MPO/H2O2/NaNO2 and MPO/NADH/NaNO2 systems.	PMID:	10826917	
+322	Cause	MPO	Theme	NADH	relation	inactivated	relation_class	Negative_regulation	sentence	 LADH was also
+inactivated by MPO/NADH/halide, MPO/H2O2/NaNO2 and MPO/NADH/NaNO2 systems.	PMID:	10826917	
+323	Cause	MPO	Theme	MPO	relation	inactivated	relation_class	Negative_regulation	sentence	 LADH was also
+inactivated by MPO/NADH/halide, MPO/H2O2/NaNO2 and MPO/NADH/NaNO2 systems.	PMID:	10826917	
+324	Cause	MPO	Theme	H2O2	relation	inactivated	relation_class	Negative_regulation	sentence	 LADH was also
+inactivated by MPO/NADH/halide, MPO/H2O2/NaNO2 and MPO/NADH/NaNO2 systems.	PMID:	10826917	
+325	Cause	glucagon	Theme	glucagon	relation	Effect	relation_class	Regulation	sentence	
+Effect of glucagon on carbohydrate-mediated secretion of glucose-dependent
+insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (7-36 amide)
+(GLP-1).	PMID:	10634963	
+326	Cause	HGF	Theme	GSH	relation	induction	relation_class	Positive_regulation	sentence	 These results suggested that the
+induction of GSH synthesis by HGF is associated with the transcriptional
+activation of the gamma-GCS gene and the subsequent elevation of gamma-GCS
+activity.	PMID:	10544272	
+327	Cause	DHA	Theme	palmitoyl coenzyme A (CoA) oxidase	relation	increase	relation_class	Positive_regulation	sentence	Interestingly, DHA did not increase palmitoyl coenzyme A (CoA) oxidase activity
+or other biochemical parameters associated with peroxisome proliferation after 5 
+d of treatment at 250 mg/kg.	PMID:	10522648	
+328	Cause	nuclear factor kappaB	Theme	TF	relation	mediated	relation_class	Positive_regulation	sentence	 TF expression is mediated by nuclear factor kappaB
+and amplified by activated platelets.	PMID:	10521382	
+329	Cause	nuclear factor kappaB	Theme	TF	relation	dependent	relation_class	Positive_regulation	sentence	which inhibits LPS-induced, nuclear factor kappaB-dependent TF expression in
+vitro and platelet activation in vivo, may suppress LPS-induced coagulation in
+humans.	PMID:	10521382	
+330	Cause	NAGA	Theme	N-acetyl-beta-D-glucosaminidase	relation	increase	relation_class	Positive_regulation	sentence	N-acetyl-beta-D-glucosaminidase (NAGA) did not increase significantly in any
+group studied.	PMID:	10516997	
+331	Cause	simian virus 40 (SV40) T antigen	Theme	SV40 early promoter	relation	control	relation_class	Regulation	sentence	simian virus 40 (SV40) T antigen under the control of the SV40 early promoter.	PMID:	10442735	
+332	Cause	protoporphyrin IX	Theme	HO	relation	inhibit	relation_class	Negative_regulation	sentence	IX, an HO inhibitor, but not copper protoporphyrin IX, which did not inhibit HO, 
+attenuated these AAP-induced changes.	PMID:	10385652	
+333	Cause	Tumor necrosis factor-alpha	Theme	Tumor necrosis factor-alpha	relation	mediator	relation_class	Positive_regulation	sentence	Tumor necrosis factor-alpha (TNF-alpha) is assumed to act as a mediator in toxic 
+liver injury, aggravating the primary damage to the parenchymal liver cell, but
+also stimulating liver regeneration.	PMID:	10378475	
+334	Cause	Tumor necrosis factor-alpha	Theme	TNF-alpha	relation	mediator	relation_class	Positive_regulation	sentence	Tumor necrosis factor-alpha (TNF-alpha) is assumed to act as a mediator in toxic 
+liver injury, aggravating the primary damage to the parenchymal liver cell, but
+also stimulating liver regeneration.	PMID:	10378475	
+335	Cause	TNF-alpha	Theme	Tumor necrosis factor-alpha	relation	mediator	relation_class	Positive_regulation	sentence	Tumor necrosis factor-alpha (TNF-alpha) is assumed to act as a mediator in toxic 
+liver injury, aggravating the primary damage to the parenchymal liver cell, but
+also stimulating liver regeneration.	PMID:	10378475	
+336	Cause	TNF-alpha	Theme	TNF-alpha	relation	mediator	relation_class	Positive_regulation	sentence	Tumor necrosis factor-alpha (TNF-alpha) is assumed to act as a mediator in toxic 
+liver injury, aggravating the primary damage to the parenchymal liver cell, but
+also stimulating liver regeneration.	PMID:	10378475	
+337	Cause	mEH	Theme	microsomal epoxide hydrolase	relation	studied	relation_class	Regulation	sentence	microsomal epoxide hydrolase (mEH) and GST expression have been studied in the
+rat herein.	PMID:	9574820	
+338	Cause	ATB	Theme	GST gene	relation	stimulated	relation_class	Positive_regulation	sentence	ATB stimulated mEH and GST gene expression at early times and reduced the
+P4502C11 level in the absence of P4502E1 suppression.	PMID:	9574820	
+339	Cause	mEH	Theme	microsomal epoxide hydrolase	relation	studied	relation_class	Regulation	sentence	microsomal epoxide hydrolase (mEH) and GST expression have been studied in the
+rat herein.	PMID:	9574820	
+340	Cause	mEH	Theme	mEH	relation	studied	relation_class	Regulation	sentence	microsomal epoxide hydrolase (mEH) and GST expression have been studied in the
+rat herein.	PMID:	9574820	
+341	Cause	mEH	Theme	GST	relation	studied	relation_class	Regulation	sentence	microsomal epoxide hydrolase (mEH) and GST expression have been studied in the
+rat herein.	PMID:	9574820	
+342	Cause	P-450	Theme	cytochrome P-450 isozymes	relation	mediated	relation_class	Positive_regulation	sentence	activities of a number of cytochrome P-450 isozymes and the P-450-mediated
+activation of APAP in mouse liver microsomes.	PMID:	9510980	
+343	Cause	P-450	Theme	APAP	relation	mediated	relation_class	Positive_regulation	sentence	 This suggests that the P-450-mediated activation of APAP was not
+down-regulated in animals with chronic retrovirus infection.	PMID:	9510980	
+344	Cause	ALT	Theme	transaminase	relation	elevation	relation_class	Positive_regulation	sentence	elevation of transaminase levels with ALT higher than AST(6/6),
+coagulopathy(5/6), thrombocytopenia (1/6), but absence of jaundice(6/6).	PMID:	9473817	
+345	Cause	COX-2 inhibitors	Theme	COX-1	relation	effects	relation_class	Regulation	sentence	inhibitory effects on COX-1 for all NSAIDs and selective COX-2 inhibitors
+examined with discrimination of their potency under conditions of limited
+availability of arachidonic acid.	PMID:	9365818	
+346	Cause	DMSO	Theme	DMSO	relation	effect	relation_class	Regulation	sentence	DMSO had no effect on the overall degradation of the related drug furazolidone,
+or the formation of protein-bound metabolites.	PMID:	20654325	
+347	Cause	CYP2E1	Theme	CYP3A	relation	increased	relation_class	Positive_regulation	sentence	CYP2E1 and CYP2B increased, whereas CYP3A decreased and the others did not
+change.	PMID:	9152386	
+348	Cause	CYP2B	Theme	CYP3A	relation	increased	relation_class	Positive_regulation	sentence	CYP2E1 and CYP2B increased, whereas CYP3A decreased and the others did not
+change.	PMID:	9152386	
+349	Cause	amyloid beta protein	Theme	phospholipase C	relation	activation	relation_class	Positive_regulation	sentence	The activation of phospholipase C by amyloid beta protein was unaffected by these
+compounds.	PMID:	9121721	
+350	Cause	Taxol	Theme	cytochrome P450 3A	relation	Effect	relation_class	Regulation	sentence	Effect of Taxol on cytochrome P450 3A and acetaminophen toxicity in cultured rat 
+hepatocytes: comparison to dexamethasone.	PMID:	9007036	
+351	Cause	early response genes	Theme	AP-1 transcription factor family	relation	involved	relation_class	Positive_regulation	sentence	The AP-1 transcription factor family, which is involved in early response genes, 
+consists of two groups of proteins, Fos-related antigens (fra) and Jun proteins.	PMID:	8827825	
+352	Cause	Gc-globulin	Theme	actin	relation	scavenges	relation_class	Positive_regulation	sentence	Gc-globulin scavenges actin released from necrotic hepatocytes to the
+extracellular space.	PMID:	8666322	
+353	Cause	insulin	Theme	hepatic glycogen	relation	roles	relation_class	Regulation	sentence	The roles of insulin and glucagon in the regulation of hepatic glycogen synthesis
+and turnover in humans.	PMID:	8609218	
+354	Cause	glucagon	Theme	hepatic glycogen	relation	roles	relation_class	Regulation	sentence	The roles of insulin and glucagon in the regulation of hepatic glycogen synthesis
+and turnover in humans.	PMID:	8609218	
+355	Cause	CCl4	Theme	human cytochrome P4502E1	relation	Inactivation	relation_class	Negative_regulation	sentence	Inactivation and degradation of human cytochrome P4502E1 by CCl4 in a transfected
+HepG2 cell line.	PMID:	8531136	
+356	Cause	CCl4	Theme	human cytochrome P4502E1	relation	Inactivation	relation_class	Negative_regulation	sentence	Inactivation and degradation of human cytochrome P4502E1 by CCl4 in a transfected
+HepG2 cell line.	PMID:	8531136	
+357	Cause	CYP2A enzymes	Theme	CYP3A enzymes	relation	effect	relation_class	Regulation	sentence	and CYP2A enzymes, but had no appreciable effect on CYP3A enzymes, as determined 
+by immunoblotting with antibodies against rat P450 enzymes.	PMID:	7473165	
+358	Cause	alpha-hederin	Theme	cytochrome P450	relation	Suppression	relation_class	Negative_regulation	sentence	Suppression of liver cytochrome P450 by alpha-hederin: relevance to
+hepatoprotection.	PMID:	7676446	
+359	Cause	Na(+)-K	Theme	methemoglobin	relation	Effects	relation_class	Regulation	sentence	Effects of acetaminophen on methemoglobin, superoxide dismutase and Na(+)-K+
+ATPase activities of human erythrocytes.	PMID:	7627122	
+360	Cause	Na(+)-K	Theme	superoxide dismutase	relation	Effects	relation_class	Regulation	sentence	Effects of acetaminophen on methemoglobin, superoxide dismutase and Na(+)-K+
+ATPase activities of human erythrocytes.	PMID:	7627122	
+361	Cause	CYP2E1	Theme	CYP2E1	relation	altering	relation_class	Regulation	sentence	CYP2E1 levels without altering hepatic CYP2E1.	PMID:	7871539	
+362	Cause	D-GalN and APAP	Theme	glutamate-pyruvate-transaminase	relation	caused	relation_class	Positive_regulation	sentence	glutamate-pyruvate-transaminase (sGPT) levels caused by D-GalN and APAP decreased
+after treatment with crude extracts of 'teng-khia-u' (P < 0.	PMID:	7776660	
+363	Cause	tangeretin	Theme	nobiletin	relation	stimulated	relation_class	Positive_regulation	sentence	APAP oxidation was stimulated 1.	PMID:	7956731	
+364	Cause	oxidoreductase	Theme	P450 2E1	relation	metabolize	relation_class	Negative_regulation	sentence	oxidoreductase, was able to metabolize several known P450 2E1 substrates:
+N-nitrosodimethylamine (NDMA), N-nitrosomethylbenzylamine (NMBzA), p-nitrophenol,
+phenol, and acetaminophen.	PMID:	1444447	
+365	Cause	interleukin 1	Theme	IL-1	relation	induce	relation_class	Positive_regulation	sentence	vein endothelial cells, interleukin 1 (IL-1) is known to induce the synthesis of 
+this enzyme, thereby raising the level of PGH synthase protein severalfold over
+the basal level.	PMID:	1900943	
+366	Cause	IL-1	Theme	PGH synthase	relation	induced	relation_class	Positive_regulation	sentence	incorporation into PGH synthase that was induced by IL-1 and also suppressed
+expression of the 2.	PMID:	1900943	
+367	Cause	IL-1	Theme	IL-1	relation	induce	relation_class	Positive_regulation	sentence	vein endothelial cells, interleukin 1 (IL-1) is known to induce the synthesis of 
+this enzyme, thereby raising the level of PGH synthase protein severalfold over
+the basal level.	PMID:	1900943	
+368	Cause	antithrombin III	Theme	Thrombin	relation	inhibited	relation_class	Negative_regulation	sentence	 Thrombin is inhibited in circulation by antithrombin III, and
+measurement of the thrombin-antithrombin III complex (TAT) is a direct measure of
+thrombin formation.	PMID:	2127751	
+369	Cause	IL-1	Theme	interleukin 1	relation	effect	relation_class	Regulation	sentence	The effect of antirheumatic drugs on interleukin 1 (IL-1) activity and IL-1 and
+IL-1 inhibitor production by human monocytes.	PMID:	1981242	
+370	Cause	IL-1	Theme	IL-1	relation	effect	relation_class	Regulation	sentence	The effect of antirheumatic drugs on interleukin 1 (IL-1) activity and IL-1 and
+IL-1 inhibitor production by human monocytes.	PMID:	1981242	
+371	Cause	ENX	Theme	NFLX	relation	inhibited	relation_class	Negative_regulation	sentence	 In addition, ENX markedly and NFLX slightly inhibited the 7-EC
+O-deethylase activity in liver microsomes, but OFLX again had no effect.	PMID:	2352379	
+372	Cause	ICP	Theme	instead	relation	increased	relation_class	Positive_regulation	sentence	greater than 20 degrees did not consistently reduce ICP; instead, ICP increased
+in three patients who later died of cerebral edema.	PMID:	2302954	
+373	Cause	CCl4	Theme	MDA	relation	induced	relation_class	Positive_regulation	sentence	markedly inhibited MDA formation of liver induced by CCl4 and AAP, decreased sGPT
+levels induced by CCl4 and blocked depletion of GSH damaged liver induced by
+AAP.	PMID:	2350427	
+374	Cause	AAP	Theme	MDA	relation	induced	relation_class	Positive_regulation	sentence	markedly inhibited MDA formation of liver induced by CCl4 and AAP, decreased sGPT
+levels induced by CCl4 and blocked depletion of GSH damaged liver induced by
+AAP.	PMID:	2350427	
+375	Cause	microsomal P450 monooxygenases	Theme	APAP	relation	stems	relation_class	Positive_regulation	sentence	stems from APAP activation by microsomal P450 monooxygenases to a reactive
+metabolite that binds to tissue macromolecules, thereby initiating cellular
+necrosis.	PMID:	2729995	
+376	Cause	collagen	Theme	TxB2	relation	stimulated	relation_class	Positive_regulation	sentence	and indomethacin, APAP-induced inhibition of collagen-stimulated TxB2 formation
+could be partially overcome with increasing collagen concentrations.	PMID:	2499947	
+377	Cause	APAP	Theme	cyclo-oxygenase	relation	inhibitor	relation_class	Negative_regulation	sentence	APAP acts in human platelets as a reversible inhibitor of cyclo-oxygenase, as
+found previously in other tissues, and that recent APAP ingestion can, on
+occasion, produce inhibition of platelet functional responses measured in vitro.	PMID:	2499947	
+378	Cause	APAP	Theme	PSH	relation	induced	relation_class	Positive_regulation	sentence	revealed that the PSH oxidation induced by APAP was greatest in the microsomal
+fraction.	PMID:	3421990	
+379	Cause	GSH	Theme	Ca2+	relation	effect	relation_class	Regulation	sentence	 A similar effect of GSH on Ca2+ accumulation
+was observed previously [J.	PMID:	2967703	
+380	Cause	TRH	Theme	TSH	relation	response	relation_class	Positive_regulation	sentence	 The response of TSH to TRH and the TRH content of the hypothalamus, following 
+indomethacin, ibuprofen and paracetamol treatment, was measured in male rats.	PMID:	3410280	
+381	Cause	TRH	Theme	TSH	relation	induced	relation_class	Positive_regulation	sentence	 TRH-induced TSH secretion was not
+influenced by indomethacin, ibuprofen or paracetamol treatment.	PMID:	3410280	
+382	Cause	Cyt	Theme	PAR	relation	bioactivation	relation_class	Positive_regulation	sentence	 It is concluded that bioactivation of PAR by the Cyt.	PMID:	3342453	
+383	Cause	sulfotransferase	Theme	catecholamine neurotransmitters	relation	catalyzes	relation_class	Positive_regulation	sentence	sulfotransferase (PST) catalyzes the sulfation of catecholamine neurotransmitters
+and drugs such as methyldopa and acetaminophen.	PMID:	3162891	
+384	Cause	PST	Theme	catecholamine neurotransmitters	relation	catalyzes	relation_class	Positive_regulation	sentence	sulfotransferase (PST) catalyzes the sulfation of catecholamine neurotransmitters
+and drugs such as methyldopa and acetaminophen.	PMID:	3162891	
+385	Cause	F	Theme	actin	relation	mediated	relation_class	Positive_regulation	sentence	mediated, at least in part, by the F-actin cytoskeleton, we designed experiments 
+to study early prelethal alterations in the distribution of actin microfilaments 
+in monolayer rat hepatocytes exposed to AFB1 (100 microM) or AAP (16 mM).	PMID:	3111878	
+386	Cause	NAM	Theme	GSH	relation	increased	relation_class	Positive_regulation	sentence	 PAM and NAM increased the GSH level significantly above control level 
+16 hr after dosing.	PMID:	3753517	
+387	Cause	AAP	Theme	Total GSH	relation	reduced	relation_class	Negative_regulation	sentence	 Total GSH concentrations at 6 and 18 hr were reduced by AAP and
+to a lesser extent by AFB1 in comparison with control cultures.	PMID:	3088775	
+388	Cause	GSH	Theme	GSH	relation	reduced	relation_class	Negative_regulation	sentence	imine was reduced by GSH to form acetaminophen but primarily reacted with GSH to 
+form 3-(glutathion-S-yl)acetaminophen.	PMID:	3724743	
+389	Cause	GSH	Theme	sinusoidal GSH	relation	increase	relation_class	Positive_regulation	sentence	GSH was due to a significant increase in sinusoidal GSH efflux from 4.	PMID:	2871842	
+390	Cause	alpha 2-adrenergic	Theme	GH	relation	Stimulation	relation_class	Positive_regulation	sentence	 Stimulation of GH secretion by the alpha 2-adrenergic
+receptor agonist, clonidine, and by morphine was similar in control and
+INDO-treated rats whereas PGE2 evoked a significantly greater release of GH in
+INDO- than in DDC- (dopamine beta-hydroxylase inhibitor-)treated rats.	PMID:	6504267	
+391	Cause	TxA2	Theme	thromboxane A2	relation	importance	relation_class	Positive_regulation	sentence	that thromboxane A2 (TxA2) may be of pathophysiological importance in human
+myocardial infarction.	PMID:	6539491	
+392	Cause	IFN	Theme	immunoglobulin	relation	unaffected	relation_class	Regulation	sentence	immunoglobulin secretion assay appeared unaffected by IFN administration.	PMID:	6607323	
+393	Cause	IFN	Theme	immunoglobulin	relation	unaffected	relation_class	Regulation	sentence	immunoglobulin secretion assay appeared unaffected by IFN administration.	PMID:	6607323	
+394	Cause	ANFT	Theme	PHS	relation	inhibited	relation_class	Negative_regulation	sentence	 Production of the benzidine radical by PHS was inhibited by ANFT, 
+acetaminophen, cyanide and ascorbate.	PMID:	6299601	
+395	Cause	PAP	Theme	PAH	relation	inhibiting	relation_class	Negative_regulation	sentence	(PAP) is more potent than APAP in inhibiting the acetylation of PAH, but has no
+effect on uptake of PAH.	PMID:	7241376	
+396	Cause	epoxide hydrolase	Theme	epoxide hydrolase	relation	block	relation_class	Negative_regulation	sentence	epoxide hydrolase did not block covalent binding of the reactive metabolite(s) to
+protein.	PMID:	6107223	
