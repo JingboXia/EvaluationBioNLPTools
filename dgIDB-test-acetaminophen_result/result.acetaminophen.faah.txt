@@ -1,0 +1,4 @@
+1	Cause	N-acylphenolamine AM404	Theme	NFAT	relation	inhibits	relation_class	Negative_regulation	sentence	.
+
+The acetaminophen-derived bioactive N-acylphenolamine AM404 inhibits NFAT by
+targeting nuclear regulatory events.	PMID:	17196940	

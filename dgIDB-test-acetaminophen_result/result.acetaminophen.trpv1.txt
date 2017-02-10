@@ -1,0 +1,4 @@
+1	Cause	Cot	Theme	NFAT	relation	induced	relation_class	Positive_regulation	sentence	. AM404 also inhibited NF-κB activation induced by
+PMA/Ionomycin in SK-N-SH cells by targeting IKKβ phosphorylation and activation.	PMID:	25460026	
+2	Cause	Tlp-2	Theme	NFAT	relation	induced	relation_class	Positive_regulation	sentence	. AM404 also inhibited NF-κB activation induced by
+PMA/Ionomycin in SK-N-SH cells by targeting IKKβ phosphorylation and activation.	PMID:	25460026	
