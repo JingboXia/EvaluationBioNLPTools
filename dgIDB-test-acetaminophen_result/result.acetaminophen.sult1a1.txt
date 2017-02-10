@@ -1,4 +1,0 @@
-1	Cause	hSULT1C3	Theme	SULT1B1	relation	activated	relation_class	Positive_regulation	sentence	. 1-OH-MC was efficiently activated by human 
-(h) SULT1B1 (2400 revertants/nmol), weakly activated by hSULT1C3 and hSULT2A1
-(2-9 revertants/nmol), but not activated by the other hSULTs studied (1A2, 1A3,
-1C2 and 1E1).	PMID:	23894158	
