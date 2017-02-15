@@ -1,0 +1,35 @@
+1	Cause	factor 1	Theme	cytosolic cytochrome c release	relation	inhibited	relation_class	Negative_regulation	sentence	factor 1 and inhibited cytosolic cytochrome c release and caspase-3 activity,
+indicating that ropinirole inhibited the apoptotic cascade.	PMID:	23369986	
+2	Cause	factor 1	Theme	caspase-3	relation	inhibited	relation_class	Negative_regulation	sentence	factor 1 and inhibited cytosolic cytochrome c release and caspase-3 activity,
+indicating that ropinirole inhibited the apoptotic cascade.	PMID:	23369986	
+3	Cause	NAc neurons	Theme	CREB	relation	increased	relation_class	Positive_regulation	sentence	ropinirole treatment significantly increased PPI compared with acute treatment,
+and increased CREB phosphorylation in NAc neurons.	PMID:	21035786	
+4	Cause	NGF	Theme	BDNF	relation	ropinirole	relation_class	Regulation	sentence	we examined stimulating effects of a non-ergoline D(2) dopamine agonist,
+ropinirole, on synthesis/secretion of neurotrophic factors, including NGF, BDNF, 
+and GDNF, in cultured mouse astrocytes.	PMID:	20129627	
+5	Cause	NGF	Theme	NGF	relation	ropinirole	relation_class	Regulation	sentence	we examined stimulating effects of a non-ergoline D(2) dopamine agonist,
+ropinirole, on synthesis/secretion of neurotrophic factors, including NGF, BDNF, 
+and GDNF, in cultured mouse astrocytes.	PMID:	20129627	
+6	Cause	NGF	Theme	BDNF	relation	ropinirole	relation_class	Regulation	sentence	we examined stimulating effects of a non-ergoline D(2) dopamine agonist,
+ropinirole, on synthesis/secretion of neurotrophic factors, including NGF, BDNF, 
+and GDNF, in cultured mouse astrocytes.	PMID:	20129627	
+7	Cause	PI-3K	Theme	Akt	relation	blocked	relation_class	Negative_regulation	sentence	PI-3K blocked the phosphorylation of Akt and GSK-3beta (activation) and prevented
+the protection mediated by ropinirole.	PMID:	18387957	
+8	Cause	PI-3K	Theme	GSK-3beta	relation	blocked	relation_class	Negative_regulation	sentence	PI-3K blocked the phosphorylation of Akt and GSK-3beta (activation) and prevented
+the protection mediated by ropinirole.	PMID:	18387957	
+9	Cause	GTPase accelerating protein	Theme	RGS9-2	relation	inhibits	relation_class	Negative_regulation	sentence	 RGS9-2 is a GTPase accelerating protein that inhibits DA
+D2 receptor-activated G proteins.	PMID:	18160641	
+10	Cause	D2 receptor	Theme	G proteins	relation	activated	relation_class	Positive_regulation	sentence	D2 receptor-activated G proteins.	PMID:	18160641	
+11	Cause	MPTP	Theme	PPE-A mRNA	relation	induced	relation_class	Positive_regulation	sentence	MPTP-induced elevation in PPE-A mRNA in the caudate nucleus and putamen.	PMID:	12453478	
+12	Cause	GSH	Theme	GPx	relation	regulating	relation_class	Regulation	sentence	the activation of GSH-regulating enzymes such as GPx, GR, and GST in the mouse
+striatum.	PMID:	11358279	
+13	Cause	GSH	Theme	GR	relation	regulating	relation_class	Regulation	sentence	the activation of GSH-regulating enzymes such as GPx, GR, and GST in the mouse
+striatum.	PMID:	11358279	
+14	Cause	GSH	Theme	GST	relation	regulating	relation_class	Regulation	sentence	the activation of GSH-regulating enzymes such as GPx, GR, and GST in the mouse
+striatum.	PMID:	11358279	
+15	Cause	GSH	Theme	GPx	relation	regulating	relation_class	Regulation	sentence	the activation of GSH-regulating enzymes such as GPx, GR, and GST in the mouse
+striatum.	PMID:	11358279	
+16	Cause	GSH	Theme	GR	relation	regulating	relation_class	Regulation	sentence	the activation of GSH-regulating enzymes such as GPx, GR, and GST in the mouse
+striatum.	PMID:	11358279	
+17	Cause	GSH	Theme	GST	relation	regulating	relation_class	Regulation	sentence	the activation of GSH-regulating enzymes such as GPx, GR, and GST in the mouse
+striatum.	PMID:	11358279	

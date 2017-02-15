@@ -1,0 +1,142 @@
+1	Cause	ORL1 receptors	Theme	kappa1	relation	impact	relation_class	Regulation	sentence	delta, kappa1 or ORL1 receptors had no impact on buprenorphine analgesia, while
+loss of the traditional 7TM MOR-1 variants in an exon 1 knockout (KO) mouse
+markedly lowered buprenorphine analgesia.	PMID:	27223691	
+1	Cause	ORL1 receptors	Theme	kappa1	relation	impact	relation_class	Regulation	sentence	delta, kappa1 or ORL1 receptors had no impact on buprenorphine analgesia, while
+loss of the traditional 7TM MOR-1 variants in an exon 1 knockout (KO) mouse
+markedly lowered buprenorphine analgesia.	PMID:	27223691	
+2	Cause	gp120	Theme	gp120	relation	enhance	relation_class	Positive_regulation	sentence	than that to buprenorphine, and that gp120 did not enhance or precipitate the
+buprenorphine withdrawal.	PMID:	25765484	
+2	Cause	gp120	Theme	gp120	relation	enhance	relation_class	Positive_regulation	sentence	than that to buprenorphine, and that gp120 did not enhance or precipitate the
+buprenorphine withdrawal.	PMID:	25765484	
+3	Cause	tau	Theme	tau	relation	affect	relation_class	Regulation	sentence	 Surgery and anesthesia increased IL-1β and Iba-1 but did not
+affect tau phosphorylated at S199/202 and S396 in the cerebral cortex and
+hippocampus.	PMID:	25649847	
+3	Cause	tau	Theme	tau	relation	affect	relation_class	Regulation	sentence	 Surgery and anesthesia increased IL-1β and Iba-1 but did not
+affect tau phosphorylated at S199/202 and S396 in the cerebral cortex and
+hippocampus.	PMID:	25649847	
+4	Cause	MOP	Theme	NOP	relation	mediated	relation_class	Positive_regulation	sentence	antagonists further revealed that both NOP and MOP in the spinal cord mediated
+the antiallodynic effects of BU08028 and SR16435, but intrathecal
+buprenorphine-induced antiallodynic effects were primarily mediated by MOP.	PMID:	23652222	
+4	Cause	MOP	Theme	NOP	relation	mediated	relation_class	Positive_regulation	sentence	antagonists further revealed that both NOP and MOP in the spinal cord mediated
+the antiallodynic effects of BU08028 and SR16435, but intrathecal
+buprenorphine-induced antiallodynic effects were primarily mediated by MOP.	PMID:	23652222	
+5	Cause	D1 R agonist	Theme	adenylyl cyclase	relation	enhanced	relation_class	Positive_regulation	sentence	of cAMP and the D1 R agonist enhanced adenylyl cyclase activity in the prenatally
+buprenorphine-exposed group.	PMID:	23551991	
+5	Cause	D1 R agonist	Theme	adenylyl cyclase	relation	enhanced	relation_class	Positive_regulation	sentence	of cAMP and the D1 R agonist enhanced adenylyl cyclase activity in the prenatally
+buprenorphine-exposed group.	PMID:	23551991	
+6	Cause	Mdr1	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	P-glycoprotein (Mdr1), but the role of P-glycoprotein in norbuprenorphine
+transport in vivo is unknown.	PMID:	22739506	
+7	Cause	P-glycoprotein	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	P-glycoprotein (Mdr1), but the role of P-glycoprotein in norbuprenorphine
+transport in vivo is unknown.	PMID:	22739506	
+6	Cause	Mdr1	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	P-glycoprotein (Mdr1), but the role of P-glycoprotein in norbuprenorphine
+transport in vivo is unknown.	PMID:	22739506	
+7	Cause	P-glycoprotein	Theme	P-glycoprotein	relation	role	relation_class	Regulation	sentence	P-glycoprotein (Mdr1), but the role of P-glycoprotein in norbuprenorphine
+transport in vivo is unknown.	PMID:	22739506	
+8	Cause	USG ISB	Theme	SCB	relation	effective	relation_class	Regulation	sentence	USG ISB and SCB are both effective and safe for shoulder surgery with a low
+incidence of complications, especially PONS.	PMID:	22227421	
+8	Cause	USG ISB	Theme	SCB	relation	effective	relation_class	Regulation	sentence	USG ISB and SCB are both effective and safe for shoulder surgery with a low
+incidence of complications, especially PONS.	PMID:	22227421	
+9	Cause	nerve growth factor	Theme	Mitogen-activated protein kinase	relation	activation	relation_class	Positive_regulation	sentence	p38 Mitogen-activated protein kinase activation by nerve growth factor in primary
+sensory neurons upregulates μ-opioid receptors to enhance opioid responsiveness
+toward better pain control.	PMID:	21169793	
+10	Cause	MAPK	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	 This effect may act as a counter-regulatory response to p38-MAPK-induced
+pain (e.	PMID:	21169793	
+9	Cause	nerve growth factor	Theme	Mitogen-activated protein kinase	relation	activation	relation_class	Positive_regulation	sentence	p38 Mitogen-activated protein kinase activation by nerve growth factor in primary
+sensory neurons upregulates μ-opioid receptors to enhance opioid responsiveness
+toward better pain control.	PMID:	21169793	
+10	Cause	MAPK	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	 This effect may act as a counter-regulatory response to p38-MAPK-induced
+pain (e.	PMID:	21169793	
+11	Cause	PXR	Theme	CYP3A4	relation	induced	relation_class	Positive_regulation	sentence	revealed that buprenorphine strongly induced CYP3A4 expression in both PXR- and
+CAR-transfected HepG2 cells.	PMID:	20829393	
+11	Cause	PXR	Theme	CYP3A4	relation	induced	relation_class	Positive_regulation	sentence	revealed that buprenorphine strongly induced CYP3A4 expression in both PXR- and
+CAR-transfected HepG2 cells.	PMID:	20829393	
+12	Cause	JNK	Theme	kappa-opioid receptor	relation	inactivation	relation_class	Negative_regulation	sentence	 JNK-mediated receptor inactivation of the kappa-opioid receptor was
+evident in both agonist-stimulated [(35)S]GTPgammaS binding and opioid analgesic 
+assays; however, gene knockout of JNK 1 selectively blocked kappa-receptor
+inactivation, whereas deletion of JNK 2 selectively blocked MOR inactivation.	PMID:	20534436	
+12	Cause	JNK	Theme	kappa-opioid receptor	relation	inactivation	relation_class	Negative_regulation	sentence	 JNK-mediated receptor inactivation of the kappa-opioid receptor was
+evident in both agonist-stimulated [(35)S]GTPgammaS binding and opioid analgesic 
+assays; however, gene knockout of JNK 1 selectively blocked kappa-receptor
+inactivation, whereas deletion of JNK 2 selectively blocked MOR inactivation.	PMID:	20534436	
+13	Cause	bradykinin	Theme	CGRP	relation	stimulates	relation_class	Positive_regulation	sentence	that: bradykinin stimulates CGRP secretion either by a direct effect or after
+applying so-called "bradykinin-priming" protocol.	PMID:	19285495	
+14	Cause	bradykinin	Theme	CGRP	relation	stimulated	relation_class	Positive_regulation	sentence	was able to inhibit bradykinin-stimulated CGRP secretion; however, inhibition was
+mediated by NOP receptors when buprenorphine was added to the incubation medium
+along with bradykinin, whereas it appeared to be mediated by mu-opioid receptors 
+in bradykinin priming experiments.	PMID:	19285495	
+13	Cause	bradykinin	Theme	CGRP	relation	stimulates	relation_class	Positive_regulation	sentence	that: bradykinin stimulates CGRP secretion either by a direct effect or after
+applying so-called "bradykinin-priming" protocol.	PMID:	19285495	
+14	Cause	bradykinin	Theme	CGRP	relation	stimulated	relation_class	Positive_regulation	sentence	was able to inhibit bradykinin-stimulated CGRP secretion; however, inhibition was
+mediated by NOP receptors when buprenorphine was added to the incubation medium
+along with bradykinin, whereas it appeared to be mediated by mu-opioid receptors 
+in bradykinin priming experiments.	PMID:	19285495	
+15	Cause	Bup	Theme	BW	relation	reduced	relation_class	Negative_regulation	sentence	 Bup also reduced BW and FI in the absence of surgery, indicating a
+nonspecific effect of this drug on these variables.	PMID:	18702446	
+16	Cause	Bup	Theme	FI	relation	reduced	relation_class	Negative_regulation	sentence	 Bup also reduced BW and FI in the absence of surgery, indicating a
+nonspecific effect of this drug on these variables.	PMID:	18702446	
+15	Cause	Bup	Theme	BW	relation	reduced	relation_class	Negative_regulation	sentence	 Bup also reduced BW and FI in the absence of surgery, indicating a
+nonspecific effect of this drug on these variables.	PMID:	18702446	
+16	Cause	Bup	Theme	FI	relation	reduced	relation_class	Negative_regulation	sentence	 Bup also reduced BW and FI in the absence of surgery, indicating a
+nonspecific effect of this drug on these variables.	PMID:	18702446	
+17	Cause	Al18G	Theme	opioid mu receptor gene	relation	alters	relation_class	Regulation	sentence	polymorphism (SNP) in the opioid mu receptor gene (Al18G) which alters receptor
+function.	PMID:	18584566	
+17	Cause	Al18G	Theme	opioid mu receptor gene	relation	alters	relation_class	Regulation	sentence	polymorphism (SNP) in the opioid mu receptor gene (Al18G) which alters receptor
+function.	PMID:	18584566	
+18	Cause	norBNI	Theme	phospho	relation	increased	relation_class	Positive_regulation	sentence	 Similarly, norBNI increased phospho-JNK in both the
+striatum and spinal cord in wild type mice but not in KOR knock-out mice.	PMID:	17702750	
+19	Cause	norBNI	Theme	JNK	relation	increased	relation_class	Positive_regulation	sentence	 Similarly, norBNI increased phospho-JNK in both the
+striatum and spinal cord in wild type mice but not in KOR knock-out mice.	PMID:	17702750	
+18	Cause	norBNI	Theme	phospho	relation	increased	relation_class	Positive_regulation	sentence	 Similarly, norBNI increased phospho-JNK in both the
+striatum and spinal cord in wild type mice but not in KOR knock-out mice.	PMID:	17702750	
+19	Cause	norBNI	Theme	JNK	relation	increased	relation_class	Positive_regulation	sentence	 Similarly, norBNI increased phospho-JNK in both the
+striatum and spinal cord in wild type mice but not in KOR knock-out mice.	PMID:	17702750	
+20	Cause	MOP	Theme	CPP	relation	mediated	relation_class	Positive_regulation	sentence	sensitization and CPP is mediated via the MOP.	PMID:	17367825	
+20	Cause	MOP	Theme	CPP	relation	mediated	relation_class	Positive_regulation	sentence	sensitization and CPP is mediated via the MOP.	PMID:	17367825	
+21	Cause	CYP2D6	Theme	CYP1A2	relation	involved	relation_class	Regulation	sentence	 CYP2D6 and probably CYP1A2 are also involved in methadone
+metabolism.	PMID:	15501692	
+21	Cause	CYP2D6	Theme	CYP1A2	relation	involved	relation_class	Regulation	sentence	 CYP2D6 and probably CYP1A2 are also involved in methadone
+metabolism.	PMID:	15501692	
+22	Cause	BUP	Theme	MOR G-protein	relation	induced	relation_class	Positive_regulation	sentence	activity of BUP-induced MOR G-protein coupling was detectable in animals with FCA
+inflammation (EC50 = 1.	PMID:	12869624	
+22	Cause	BUP	Theme	MOR G-protein	relation	induced	relation_class	Positive_regulation	sentence	activity of BUP-induced MOR G-protein coupling was detectable in animals with FCA
+inflammation (EC50 = 1.	PMID:	12869624	
+23	Cause	beta-endorphin	Theme	G-protein	relation	activates	relation_class	Positive_regulation	sentence	present results indicate that beta-endorphin activates G-protein by stimulation
+of putative epsilon-opioid receptors in the condition lacking the mu-opioid
+receptor, and buprenorphine acts as an antagonist for putative epsilon-opioid
+receptors in this condition.	PMID:	12435410	
+23	Cause	beta-endorphin	Theme	G-protein	relation	activates	relation_class	Positive_regulation	sentence	present results indicate that beta-endorphin activates G-protein by stimulation
+of putative epsilon-opioid receptors in the condition lacking the mu-opioid
+receptor, and buprenorphine acts as an antagonist for putative epsilon-opioid
+receptors in this condition.	PMID:	12435410	
+24	Cause	opioid mu-receptors	Theme	G proteins	relation	activation	relation_class	Positive_regulation	sentence	describes the activation of G proteins by opioid mu-receptors.	PMID:	11408532	
+24	Cause	opioid mu-receptors	Theme	G proteins	relation	activation	relation_class	Positive_regulation	sentence	describes the activation of G proteins by opioid mu-receptors.	PMID:	11408532	
+25	Cause	opioid-like receptor 1	Theme	ORL1	relation	role	relation_class	Positive_regulation	sentence	The role of the opioid-like receptor 1 (ORL1) and its endogenous ligand,
+nociceptin/orphanin FQ (N/OFQ), in nociception, anxiety, and learning remains to 
+be defined.	PMID:	10419552	
+26	Cause	opioid-like receptor 1	Theme	opioid-like receptor 1	relation	role	relation_class	Positive_regulation	sentence	The role of the opioid-like receptor 1 (ORL1) and its endogenous ligand,
+nociceptin/orphanin FQ (N/OFQ), in nociception, anxiety, and learning remains to 
+be defined.	PMID:	10419552	
+27	Cause	opioid-like receptor 1	Theme	ORL1	relation	role	relation_class	Positive_regulation	sentence	The role of the opioid-like receptor 1 (ORL1) and its endogenous ligand,
+nociceptin/orphanin FQ (N/OFQ), in nociception, anxiety, and learning remains to 
+be defined.	PMID:	10419552	
+25	Cause	opioid-like receptor 1	Theme	ORL1	relation	role	relation_class	Positive_regulation	sentence	The role of the opioid-like receptor 1 (ORL1) and its endogenous ligand,
+nociceptin/orphanin FQ (N/OFQ), in nociception, anxiety, and learning remains to 
+be defined.	PMID:	10419552	
+26	Cause	opioid-like receptor 1	Theme	opioid-like receptor 1	relation	role	relation_class	Positive_regulation	sentence	The role of the opioid-like receptor 1 (ORL1) and its endogenous ligand,
+nociceptin/orphanin FQ (N/OFQ), in nociception, anxiety, and learning remains to 
+be defined.	PMID:	10419552	
+27	Cause	opioid-like receptor 1	Theme	ORL1	relation	role	relation_class	Positive_regulation	sentence	The role of the opioid-like receptor 1 (ORL1) and its endogenous ligand,
+nociceptin/orphanin FQ (N/OFQ), in nociception, anxiety, and learning remains to 
+be defined.	PMID:	10419552	
+28	Cause	Opioid receptor	Theme	dopamine neurons	relation	modulate	relation_class	Regulation	sentence	Opioid receptor agonists can modulate the activity of dopamine neurons and could 
+therefore, modify the behavioral effects of drugs that act through the dopamine
+systems, such as d-amphetamine and cocaine.	PMID:	9449020	
+29	Cause	Asp95	Theme	delta receptor	relation	role	relation_class	Regulation	sentence	confirm the essential role of Asp95 in the activation of the delta receptor by
+agonists and reveal a molecular basis of the unique property of buprenorphine.	PMID:	9435189	
+30	Cause	D114N mu receptors	Theme	adenylyl cyclase	relation	inhibit	relation_class	Negative_regulation	sentence	stimulated the D114N mu receptors to inhibit adenylyl cyclase.	PMID:	9422382	
+28	Cause	Opioid receptor	Theme	dopamine neurons	relation	modulate	relation_class	Regulation	sentence	Opioid receptor agonists can modulate the activity of dopamine neurons and could 
+therefore, modify the behavioral effects of drugs that act through the dopamine
+systems, such as d-amphetamine and cocaine.	PMID:	9449020	
+29	Cause	Asp95	Theme	delta receptor	relation	role	relation_class	Regulation	sentence	confirm the essential role of Asp95 in the activation of the delta receptor by
+agonists and reveal a molecular basis of the unique property of buprenorphine.	PMID:	9435189	
+30	Cause	D114N mu receptors	Theme	adenylyl cyclase	relation	inhibit	relation_class	Negative_regulation	sentence	stimulated the D114N mu receptors to inhibit adenylyl cyclase.	PMID:	9422382	

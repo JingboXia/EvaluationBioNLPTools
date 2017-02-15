@@ -1,0 +1,623 @@
+1	Cause	PlGF	Theme	vascular endothelial growth factor-1	relation	accelerate	relation_class	Positive_regulation	sentence	vascular endothelial growth factor-1 (VEGF-1), and PlGF may accelerate
+VEGF-induced angiogenesis.	PMID:	27479949	
+2	Cause	PlGF	Theme	VEGF-1	relation	accelerate	relation_class	Positive_regulation	sentence	vascular endothelial growth factor-1 (VEGF-1), and PlGF may accelerate
+VEGF-induced angiogenesis.	PMID:	27479949	
+3	Cause	TNF-α	Theme	CXCL12	relation	mediate	relation_class	Positive_regulation	sentence	that TNF-α might mediate the upregulation of CXCL12 in the DRG and spinal cord
+following SNI, and that CXCL12/CXCR4 signaling via ERK activation contributes to 
+the development and maintenance of neuropathic pain.	PMID:	26781879	
+4	Cause	IL-6	Theme	Janus kinase 2-signal transducer and activator	relation	mediated	relation_class	Positive_regulation	sentence	IL-6-mediated activation of the Janus kinase 2-signal transducer and activator of
+transcription 3 pathway.	PMID:	26700310	
+5	Cause	peroxisome proliferator-activated receptors	Theme	PPARs	relation	role	relation_class	Regulation	sentence	investigate the role of peroxisome proliferator-activated receptors (PPARs) in
+cisplatin nephrotoxicity.	PMID:	26536032	
+6	Cause	CRL4	Theme	IKZF1	relation	induces	relation_class	Positive_regulation	sentence	lenalidomide induces the ubiquitination of IKZF1 and IKZF3 by CRL4(CRBN).	PMID:	26438514	
+7	Cause	CRL4	Theme	IKZF3	relation	induces	relation_class	Positive_regulation	sentence	lenalidomide induces the ubiquitination of IKZF1 and IKZF3 by CRL4(CRBN).	PMID:	26438514	
+8	Cause	CRBN	Theme	IKZF1	relation	induces	relation_class	Positive_regulation	sentence	lenalidomide induces the ubiquitination of IKZF1 and IKZF3 by CRL4(CRBN).	PMID:	26438514	
+9	Cause	CRBN	Theme	IKZF3	relation	induces	relation_class	Positive_regulation	sentence	lenalidomide induces the ubiquitination of IKZF1 and IKZF3 by CRL4(CRBN).	PMID:	26438514	
+10	Cause	IRF4	Theme	c-Myc	relation	followed	relation_class	Positive_regulation	sentence	and sequential downregulation of c-Myc followed by IRF4 and subsequent growth
+inhibition and apoptosis.	PMID:	26430725	
+11	Cause	HIF-1α	Theme	carbonic anhydrase IX	relation	mediated	relation_class	Positive_regulation	sentence	HIF-1α mediated carbonic anhydrase IX, and promotion of quiescence.	PMID:	26398114	
+12	Cause	CRBN	Theme	CK1α	relation	resulting	relation_class	Positive_regulation	sentence	CUL4-RBX1-DDB1-CRBN (known as CRL4(CRBN)), resulting in CK1α degradation.	PMID:	26131937	
+13	Cause	human fibronectin	Theme	immunoglobulin superfamily	relation	part	relation_class	Positive_regulation	sentence	of human fibronectin (10Fn3), which is part of the immunoglobulin superfamily and
+normally binds integrin.	PMID:	26045129	
+14	Cause	10Fn3	Theme	immunoglobulin superfamily	relation	part	relation_class	Positive_regulation	sentence	of human fibronectin (10Fn3), which is part of the immunoglobulin superfamily and
+normally binds integrin.	PMID:	26045129	
+15	Cause	IL-10	Theme	IL-1 receptor	relation	increased	relation_class	Positive_regulation	sentence	decreased and IL-10 and IL-1 receptor antagonists significantly increased with
+apremilast 30 mg BID versus placebo.	PMID:	25973439	
+16	Cause	G-CSF	Theme	TNFα	relation	induced	relation_class	Positive_regulation	sentence	treatment with these drugs inhibited G-CSF-induced TNFα, IL-1β and IL-10
+production.	PMID:	25584775	
+17	Cause	G-CSF	Theme	IL-1β	relation	induced	relation_class	Positive_regulation	sentence	treatment with these drugs inhibited G-CSF-induced TNFα, IL-1β and IL-10
+production.	PMID:	25584775	
+18	Cause	miR-34a	Theme	miR-34a	relation	diminished	relation_class	Negative_regulation	sentence	miR-34a and miR-34a* that diminished during lenalidomide exposure.	PMID:	25287904	
+19	Cause	miR-34a	Theme	miR-34a	relation	diminished	relation_class	Negative_regulation	sentence	miR-34a and miR-34a* that diminished during lenalidomide exposure.	PMID:	25287904	
+20	Cause	TNF	Theme	p22	relation	α-induced	relation_class	Positive_regulation	sentence	AT1R knockdown with siRNA markedly reversed high glucose, angiotensin II or
+TNF-α-induced p22(phox) protein levels in HK2 cells.	PMID:	25222109	
+21	Cause	AT1 receptor	Theme	tumor necrosis factor	relation	roles	relation_class	Positive_regulation	sentence	 However, exact roles of tumor necrosis factor (TNF)-α and AT1 receptor 
+on high glucose-induced renal tubular function remain unclear.	PMID:	25222109	
+22	Cause	AT1 receptor	Theme	TNF	relation	roles	relation_class	Positive_regulation	sentence	 However, exact roles of tumor necrosis factor (TNF)-α and AT1 receptor 
+on high glucose-induced renal tubular function remain unclear.	PMID:	25222109	
+23	Cause	TNF	Theme	phox	relation	α-induced	relation_class	Positive_regulation	sentence	AT1R knockdown with siRNA markedly reversed high glucose, angiotensin II or
+TNF-α-induced p22(phox) protein levels in HK2 cells.	PMID:	25222109	
+24	Cause	CD154	Theme	Ikaros family	relation	enhance	relation_class	Positive_regulation	sentence	CD154-induced CLL-cell proliferation, or enhance the degradation of Ikaros family
+zinc finger proteins 1 and 3.	PMID:	24990888	
+25	Cause	MDA	Theme	cytokine IL-10	relation	increased	relation_class	Positive_regulation	sentence	cytokines, MDA, MPO, and NO and increased anti-inflammatory cytokine IL-10.	PMID:	24950782	
+26	Cause	IP-10	Theme	p-NFκB p65	relation	inhibited	relation_class	Negative_regulation	sentence	IP-10) levels, and inhibited activated p-NFκB p65 in infected mice.	PMID:	24912813	
+27	Cause	TNF-alpha	Theme	NF-kappa B	relation	role	relation_class	Regulation	sentence	 Epub 2014
+Jun 2.	PMID:	24893330	
+28	Cause	CREB	Theme	NF-κB	relation	inhibiting	relation_class	Negative_regulation	sentence	substrates CREB and activating transcription factor-1 while inhibiting NF-κB
+transcriptional activity, resulting in both up- and down-regulation of several
+genes induced via TLR4.	PMID:	24882690	
+29	Cause	TNF	Theme	JNK	relation	α-mediated	relation_class	Positive_regulation	sentence	TNF-α-mediated JNK activation in the dorsal root ganglion neurons contributes to 
+Bortezomib-induced peripheral neuropathy.	PMID:	24530998	
+30	Cause	PTPs	Theme	PTPs	relation	response	relation_class	Regulation	sentence	 TD and its PTPs did not exhibit mutagenic response in 
+the Salmonella typhimurium strains TA 98, and TA 100 with and without metabolic
+activation.	PMID:	24316178	
+31	Cause	HIF-1α	Theme	HIF-1α	relation	inhibitor	relation_class	Negative_regulation	sentence	indirect HIF-1α inhibitor) on the expression of HIF-1α proangiogenic targets, on 
+MMEC angiogenic activities in vitro and in vivo, and on overcoming MMEC
+resistance to bortezomib and lenalidomide were studied.	PMID:	24297864	
+32	Cause	U266	Theme	velR	relation	sensitivity	relation_class	Regulation	sentence	 The U266/velR showed reduced sensitivity to bortezomib, and also
+showed crossresistance to the chemically unrelated drug thalidomide.	PMID:	24286313	
+33	Cause	U266	Theme	velR	relation	sensitivity	relation_class	Regulation	sentence	 The U266/velR showed reduced sensitivity to bortezomib, and also
+showed crossresistance to the chemically unrelated drug thalidomide.	PMID:	24286313	
+34	Cause	TNF-α	Theme	IL-6	relation	effect	relation_class	Regulation	sentence	the effect of thalidomide on TNF-α, IL-6 and MMP secretion in epithelial ovarian 
+carcinoma cells.	PMID:	24284039	
+35	Cause	TNF-α	Theme	TNF-α	relation	effect	relation_class	Regulation	sentence	the effect of thalidomide on TNF-α, IL-6 and MMP secretion in epithelial ovarian 
+carcinoma cells.	PMID:	24284039	
+36	Cause	TNF-α	Theme	MMP	relation	effect	relation_class	Regulation	sentence	the effect of thalidomide on TNF-α, IL-6 and MMP secretion in epithelial ovarian 
+carcinoma cells.	PMID:	24284039	
+37	Cause	cyclin D1	Theme	p27	relation	role	relation_class	Regulation	sentence	 Immunoprecipitation analyses and siRNA assays suggested a
+direct role of cyclin D1 in the regulation of p27(KIP1) levels.	PMID:	24178620	
+38	Cause	cyclin D1	Theme	KIP1	relation	role	relation_class	Regulation	sentence	 Immunoprecipitation analyses and siRNA assays suggested a
+direct role of cyclin D1 in the regulation of p27(KIP1) levels.	PMID:	24178620	
+39	Cause	MRP8	Theme	TNF-α	relation	Effects	relation_class	Regulation	sentence	Effects of MRP8, LPS, and lenalidomide on the expressions of TNF-α ,
+brain-enriched, and inflammation-related microRNAs in the primary astrocyte
+culture.	PMID:	24170980	
+40	Cause	p53	Theme	p53	relation	up-regulated	relation_class	Positive_regulation	sentence	cellular p53 and p53-up-regulated modulator of apoptosis expression compared with
+controls, accompanied by a significant reduction in apoptosis and increased cell 
+proliferation.	PMID:	24043769	
+41	Cause	TGFβ1	Theme	STAT3	relation	activate	relation_class	Positive_regulation	sentence	TGFβ1 activate the STAT3 and SMAD2/3 pathways in NK cells and suppress IL-2
+induction of cytotoxicity, granzymes A and B release, perforin expression, and
+IFNγ secretion.	PMID:	23982484	
+42	Cause	TGFβ1	Theme	SMAD2	relation	activate	relation_class	Positive_regulation	sentence	TGFβ1 activate the STAT3 and SMAD2/3 pathways in NK cells and suppress IL-2
+induction of cytotoxicity, granzymes A and B release, perforin expression, and
+IFNγ secretion.	PMID:	23982484	
+43	Cause	BRAF	Theme	MEK	relation	causes	relation_class	Positive_regulation	sentence	BRAF gene called KIAA1549:BRAF that causes an overactivation of the MEK/MAPK
+signaling cascade.	PMID:	23717811	
+44	Cause	TGF-β1	Theme	fibronectin	relation	induced	relation_class	Positive_regulation	sentence	 TGF-β1 induced significant fibronectin expression in NFs and KFs and the 
+effect was inhibited by pretreatment with thalidomide.	PMID:	23500539	
+45	Cause	TGF-β1	Theme	fibronectin	relation	induced	relation_class	Positive_regulation	sentence	inhibitor) inhibited TGF-β1-induced fibronectin expression.	PMID:	23500539	
+46	Cause	TGF-β	Theme	AP-1	relation	induced	relation_class	Positive_regulation	sentence	pretreatment inhibited the TGF-β-induced DNA binding activity of AP-1 and
+Smad3/4, caused fibronectin degradation by increasing the activity of matrix
+metalloproteinase 9, and decreased production of TGF-β1 and fibronectin and the
+number of fibroblasts in an in vivo keloid model.	PMID:	23500539	
+47	Cause	STZ	Theme	TNF-α	relation	increased	relation_class	Positive_regulation	sentence	showed that STZ increased TNF-α levels in the hippocampus of mice.	PMID:	23442845	
+48	Cause	Smad3	Theme	Gli2	relation	dependent	relation_class	Positive_regulation	sentence	Smad3-dependent activation of Gli2, findings supported by the plasmalemmal and
+cytoplasmic expression of PKC-α and PLD1, and nuclear expression of Gli2, in
+lesional cells.	PMID:	22949932	
+49	Cause	Stat1 activation attenuates IL-6	Theme	Stat3	relation	induced	relation_class	Positive_regulation	sentence	Stat1 activation attenuates IL-6 induced Stat3 activity but does not alter
+apoptosis sensitivity in multiple myeloma.	PMID:	22838736	
+50	Cause	Stat1	Theme	IFN	relation	role	relation_class	Regulation	sentence	METHODS: To delineate the role of Stat1 in IFN mediated sensitization to
+apoptosis, sub-lines of the U-266-1970 MM cell line with a stable expression of
+the active mutant Stat1C were utilized.	PMID:	22838736	
+51	Cause	Stat1	Theme	IFN	relation	role	relation_class	Regulation	sentence	RESULTS: To explore the role of Stat1 in IFN mediated apoptosis sensitization of 
+MM, we established sublines of the MM cell line U-266-1970 constitutively
+expressing the active mutant Stat1C.	PMID:	22838736	
+52	Cause	Stat1 alters IL-6	Theme	Stat3	relation	induced	relation_class	Positive_regulation	sentence	CONCLUSION: We conclude that Stat1 alters IL-6 induced Stat3 activity and the
+expression of pro-apoptotic genes.	PMID:	22838736	
+53	Cause	3-kinase	Theme	rapamycin	relation	target	relation_class	Regulation	sentence	3-kinase/Akt/mammalian target of rapamycin pathway and farnesyl transferase.	PMID:	22726546	
+54	Cause	3-kinase	Theme	farnesyl transferase	relation	target	relation_class	Regulation	sentence	3-kinase/Akt/mammalian target of rapamycin pathway and farnesyl transferase.	PMID:	22726546	
+55	Cause	Nrf2 transcription factor	Theme	Heme oxygenase-1	relation	regulated	relation_class	Regulation	sentence	 Heme oxygenase-1 (HO-1) is an Nrf2 transcription factor-regulated gene
+that is commonly induced following oxidative stress and cellular injury,
+functioning to decrease oxidative stress and inflammatory responses, protecting
+against apoptosis and altering the cell cycle.	PMID:	22617388	
+56	Cause	Nrf2 transcription factor	Theme	HO-1	relation	regulated	relation_class	Regulation	sentence	 Heme oxygenase-1 (HO-1) is an Nrf2 transcription factor-regulated gene
+that is commonly induced following oxidative stress and cellular injury,
+functioning to decrease oxidative stress and inflammatory responses, protecting
+against apoptosis and altering the cell cycle.	PMID:	22617388	
+57	Cause	RPS14	Theme	MDM2	relation	suppress	relation_class	Negative_regulation	sentence	RPS14 to suppress MDM2 autoubiquitination whereas PP2Acα overexpression promotes 
+drug resistance.	PMID:	22525275	
+58	Cause	5q	Theme	MDM2	relation	restores	relation_class	Positive_regulation	sentence	 Our findings indicate that Len restores MDM2 functionality in the 5q-
+syndrome to overcome p53 activation in response to nucleolar stress, and
+therefore may warrant investigation in other disorders of ribosomal biogenesis.	PMID:	22525275	
+59	Cause	NF-κB	Theme	NF-κB	relation	restoration	relation_class	Negative_regulation	sentence	signalling, whereas a restoration of NF-κB activity by the addition of NF-κB/RelA
+markedly reduced HCV replication.	PMID:	22239529	
+60	Cause	RelA	Theme	NF-κB	relation	restoration	relation_class	Negative_regulation	sentence	signalling, whereas a restoration of NF-κB activity by the addition of NF-κB/RelA
+markedly reduced HCV replication.	PMID:	22239529	
+61	Cause	NGR	Theme	CBP501	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+62	Cause	NGR	Theme	MORAb-009	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+63	Cause	NGR	Theme	hTNF	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+64	Cause	NGR	Theme	WT1 vaccine	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+65	Cause	HIF-1	Theme	angiopoietin-2	relation	role	relation_class	Regulation	sentence	The role of HIF-1, angiopoietin-2, Dll4 and Notch1 in bleeding gastrointestinal
+vascular malformations and thalidomide-associated actions: a pilot in vivo study.	PMID:	21955427	
+66	Cause	HIF-1	Theme	Dll4	relation	role	relation_class	Regulation	sentence	The role of HIF-1, angiopoietin-2, Dll4 and Notch1 in bleeding gastrointestinal
+vascular malformations and thalidomide-associated actions: a pilot in vivo study.	PMID:	21955427	
+67	Cause	Notch1	Theme	angiopoietin-2	relation	role	relation_class	Regulation	sentence	The role of HIF-1, angiopoietin-2, Dll4 and Notch1 in bleeding gastrointestinal
+vascular malformations and thalidomide-associated actions: a pilot in vivo study.	PMID:	21955427	
+68	Cause	Notch1	Theme	Dll4	relation	role	relation_class	Regulation	sentence	The role of HIF-1, angiopoietin-2, Dll4 and Notch1 in bleeding gastrointestinal
+vascular malformations and thalidomide-associated actions: a pilot in vivo study.	PMID:	21955427	
+69	Cause	interferon regulatory factor 4	Theme	IRF4	relation	include	relation_class	Positive_regulation	sentence	 Downstream targets of CRBN
+include interferon regulatory factor 4 (IRF4) previously reported to also be a
+target of lenalidomide.	PMID:	21860026	
+70	Cause	TNF	Theme	IκBα	relation	induced	relation_class	Positive_regulation	sentence	 The diterpene did block
+TNF-induced ubiquitination, phosphorylation, and degradation of IκBα, the
+inhibitor of NF-κB and inhibited acetylation of p65 through suppression of
+binding of p65 to CBP/p300.	PMID:	21820422	
+71	Cause	NF-κB	Theme	NF-κB	relation	activates	relation_class	Positive_regulation	sentence	 Triptolide also inhibited the IκBα kinase (IKK) that 
+activates NF-κB and phosphorylation of p65 at serine 276, 536.	PMID:	21820422	
+72	Cause	TNF	Theme	IκBα	relation	induced	relation_class	Positive_regulation	sentence	 The diterpene did block
+TNF-induced ubiquitination, phosphorylation, and degradation of IκBα, the
+inhibitor of NF-κB and inhibited acetylation of p65 through suppression of
+binding of p65 to CBP/p300.	PMID:	21820422	
+73	Cause	NF-κB	Theme	p65	relation	activates	relation_class	Positive_regulation	sentence	 Triptolide also inhibited the IκBα kinase (IKK) that 
+activates NF-κB and phosphorylation of p65 at serine 276, 536.	PMID:	21820422	
+74	Cause	PMF	Theme	STAT3	relation	inhibition	relation_class	Negative_regulation	sentence	 The inhibition of STAT3 by PMF was 
+reversible.	PMID:	21816954	
+75	Cause	HIF-1	Theme	VEGF	relation	dependent	relation_class	Positive_regulation	sentence	anti-angiogenic drug thalidomide inhibits HIF-1-dependent VEGF transcription in
+breast carcinoma cells, it does not prevent HIF-1α stabilization, but leads to
+aberrant localization of HIF-1α to the perinuclear compartments and surprisingly 
+stimulates nuclear export of β-arrestin1.	PMID:	21685944	
+76	Cause	CYP2C19	Theme	CYP2C19	relation	required	relation_class	Positive_regulation	sentence	CYP2C19, suggesting that CYP2C19 is required for thalidomide to exhibit its
+antimyeloma and antiangiogenic activities.	PMID:	21638302	
+77	Cause	MPT	Theme	HRQoL	relation	effect	relation_class	Negative_regulation	sentence	MPT does not translate into a negative effect on HRQoL and that MPT holds a
+better patient perspective.	PMID:	21472373	
+78	Cause	AT9283	Theme	STAT3	relation	inhibited	relation_class	Negative_regulation	sentence	 Importantly, AT9283 also inhibited STAT3 tyrosine
+phosphorylation in MM cells.	PMID:	21430070	
+79	Cause	interleukin-6	Theme	lipase	relation	increase	relation_class	Positive_regulation	sentence	RESULTS: α,β-Amyrin and thalidomide significantly attenuated the cerulein-induced
+increase in tumor necrosis factor (TNF)-α, interleukin-6, lipase, amylase, MPO,
+and TBARS.	PMID:	21400110	
+80	Cause	interleukin-6	Theme	amylase	relation	increase	relation_class	Positive_regulation	sentence	RESULTS: α,β-Amyrin and thalidomide significantly attenuated the cerulein-induced
+increase in tumor necrosis factor (TNF)-α, interleukin-6, lipase, amylase, MPO,
+and TBARS.	PMID:	21400110	
+81	Cause	interleukin-6	Theme	MPO	relation	increase	relation_class	Positive_regulation	sentence	RESULTS: α,β-Amyrin and thalidomide significantly attenuated the cerulein-induced
+increase in tumor necrosis factor (TNF)-α, interleukin-6, lipase, amylase, MPO,
+and TBARS.	PMID:	21400110	
+82	Cause	interleukin-6	Theme	tumor necrosis factor	relation	increase	relation_class	Positive_regulation	sentence	RESULTS: α,β-Amyrin and thalidomide significantly attenuated the cerulein-induced
+increase in tumor necrosis factor (TNF)-α, interleukin-6, lipase, amylase, MPO,
+and TBARS.	PMID:	21400110	
+83	Cause	interleukin-6	Theme	TNF	relation	increase	relation_class	Positive_regulation	sentence	RESULTS: α,β-Amyrin and thalidomide significantly attenuated the cerulein-induced
+increase in tumor necrosis factor (TNF)-α, interleukin-6, lipase, amylase, MPO,
+and TBARS.	PMID:	21400110	
+84	Cause	TNF-α	Theme	IL-12	relation	Effects	relation_class	Regulation	sentence	1186/1756-0500-4-24.	PMID:	21276247	
+85	Cause	Icariside II	Theme	STAT3	relation	inhibited	relation_class	Negative_regulation	sentence	Icariside II inhibited STAT3 activation and enhanced the expression of SHP-1 and 
+PTEN through inhibiting Janus activated kinase 2 (JAK2) and c-Src.	PMID:	21172343	
+86	Cause	Icariside II	Theme	SHP-1	relation	enhanced	relation_class	Positive_regulation	sentence	Icariside II inhibited STAT3 activation and enhanced the expression of SHP-1 and 
+PTEN through inhibiting Janus activated kinase 2 (JAK2) and c-Src.	PMID:	21172343	
+87	Cause	survivin	Theme	STAT3	relation	down-regulated	relation_class	Negative_regulation	sentence	down-regulated the expression of STAT3 target genes Bcl-2, Bcl-x(L), survivin,
+cyclin D(1), COX-2 and vascular endothelial growth factor (VEGF).	PMID:	21172343	
+88	Cause	CD3EAP G-21A	Theme	NFKB1-94 ins	relation	independent	relation_class	Positive_regulation	sentence	CD3EAP G-21A with TTF was independent of NFKB1-94 ins/del, but homozygous
+ins-allele carriers which were also variant allele carriers of RAI-intron1-1 or
+CD3EAP G-21A had the longest OS.	PMID:	21046104	
+89	Cause	CD3EAP G-21A	Theme	del	relation	independent	relation_class	Positive_regulation	sentence	CD3EAP G-21A with TTF was independent of NFKB1-94 ins/del, but homozygous
+ins-allele carriers which were also variant allele carriers of RAI-intron1-1 or
+CD3EAP G-21A had the longest OS.	PMID:	21046104	
+90	Cause	STAT3	Theme	STAT3	relation	regulated	relation_class	Regulation	sentence	STAT3 activation, associated protein kinases, STAT3-regulated gene products
+involved in proliferation, survival and angiogenesis, cellular proliferation and 
+apoptosis in MM cells, was investigated.	PMID:	20880395	
+91	Cause	TQ	Theme	Src homology-2 phosphatase 2	relation	induce	relation_class	Positive_regulation	sentence	that TQ can induce the expression of Src homology-2 phosphatase 2 that correlated
+with suppression of STAT3 activation.	PMID:	20880395	
+92	Cause	STAT3	Theme	cyclin D1	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1 
+and vascular endothelial growth factor.	PMID:	20880395	
+93	Cause	STAT3	Theme	Bcl-2	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1 
+and vascular endothelial growth factor.	PMID:	20880395	
+94	Cause	STAT3	Theme	xL	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1 
+and vascular endothelial growth factor.	PMID:	20880395	
+95	Cause	STAT3	Theme	survivin	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1 
+and vascular endothelial growth factor.	PMID:	20880395	
+96	Cause	STAT3	Theme	Mcl-1	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1 
+and vascular endothelial growth factor.	PMID:	20880395	
+97	Cause	small interfering RNA	Theme	phosphatase SHP-1	relation	silencing	relation_class	Negative_regulation	sentence	phosphatase SHP-1, and gene silencing of the SHP-1 by small interfering RNA
+abolished the ability of γ-T3 to inhibit STAT3 activation, suggesting a vital
+role for SHP-1 in the action of γ-T3.	PMID:	20720018	
+98	Cause	STAT3	Theme	Mcl-1	relation	regulated	relation_class	Regulation	sentence	 Eventually, γ-T3 down-regulated the expression
+of STAT3-regulated antiapoptotic (Bcl-2, Bcl-xL, and Mcl-1), proliferative
+(cyclin D1), and angiogenic (VEGF) gene products; and this correlated with
+suppression of proliferation, the accumulation of cells in sub-G(1) phase of the 
+cell cycle, and induction of apoptosis.	PMID:	20720018	
+99	Cause	small interfering RNA	Theme	SHP-1	relation	silencing	relation_class	Negative_regulation	sentence	phosphatase SHP-1, and gene silencing of the SHP-1 by small interfering RNA
+abolished the ability of γ-T3 to inhibit STAT3 activation, suggesting a vital
+role for SHP-1 in the action of γ-T3.	PMID:	20720018	
+100	Cause	rrTNF	Theme	Nav1.3	relation	enhanced	relation_class	Positive_regulation	sentence	neurons in vivo and that rrTNF enhanced the expression of Nav1.	PMID:	20638792	
+101	Cause	rrTNF	Theme	Nav1.8 in	relation	enhanced	relation_class	Positive_regulation	sentence	neurons in vivo and that rrTNF enhanced the expression of Nav1.	PMID:	20638792	
+102	Cause	ALT	Theme	aminotransferase	relation	diminish	relation_class	Negative_regulation	sentence	aminotransferase (ALT) and glucose levels and to diminish LDH, ICAM-1 expression 
+and NO.	PMID:	20438868	
+103	Cause	ALT	Theme	LDH	relation	diminish	relation_class	Negative_regulation	sentence	aminotransferase (ALT) and glucose levels and to diminish LDH, ICAM-1 expression 
+and NO.	PMID:	20438868	
+104	Cause	ALT	Theme	LDH	relation	diminish	relation_class	Negative_regulation	sentence	aminotransferase (ALT) and glucose levels and to diminish LDH, ICAM-1 expression 
+and NO.	PMID:	20438868	
+105	Cause	ALT	Theme	ICAM-1	relation	diminish	relation_class	Negative_regulation	sentence	aminotransferase (ALT) and glucose levels and to diminish LDH, ICAM-1 expression 
+and NO.	PMID:	20438868	
+106	Cause	interferon gamma	Theme	E-selectin	relation	induced	relation_class	Positive_regulation	sentence	interferon gamma induced E-selectin expression on and neutrophil adhesion to
+endothelial cells.	PMID:	20070238	
+107	Cause	STAT3	Theme	cyclin D1	relation	regulated	relation_class	Regulation	sentence	This agent also downregulated the expression of STAT3-regulated cyclin D1,
+Bcl-xL, and vascular endothelial growth factor; activated caspase-3; induced poly
+(ADP ribose) polymerase cleavage; and increased the sub-G(1) population of MM
+cells.	PMID:	20068065	
+108	Cause	caspase	Theme	PARP	relation	3-induced	relation_class	Positive_regulation	sentence	increase in caspase-3-induced PARP cleavage.	PMID:	19937797	
+109	Cause	TNF-alpha	Theme	HIMEC	relation	assess	relation_class	Negative_regulation	sentence	used to assess HIMEC activation following TNF-alpha/LPS, and a Wright's stain
+identified adherent leukocytes.	PMID:	19926820	
+110	Cause	LPS	Theme	HIMEC	relation	assess	relation_class	Negative_regulation	sentence	used to assess HIMEC activation following TNF-alpha/LPS, and a Wright's stain
+identified adherent leukocytes.	PMID:	19926820	
+111	Cause	fibronectin	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	fibronectin-induced Akt phosphorylation through phosphoinositide
+3-kinase-independent pathways since thalidomide decreased fibronectin-induced
+phosphoinositide 3-kinase phosphorylation and reversed the inhibition of Akt
+phosphorylation achieved by the phosphoinositide 3-kinase inhibitors wortmannin
+and LY294002.	PMID:	19815837	
+112	Cause	TGF-beta1	Theme	ERK1	relation	inhibited	relation_class	Negative_regulation	sentence	Thalidomide inhibited total ERK1/2 and phospho-ERK1/2 expression after TGF-beta1 
+stimulation in the RT-PCR and western blotting.	PMID:	19757088	
+113	Cause	aromatic hydrocarbon receptor	Theme	1B1	relation	regulated	relation_class	Regulation	sentence	1B1, CYP1A2 is primarily regulated by the aromatic hydrocarbon receptor (AhR), a 
+ligand-activated transcription factor and a basic helix-loop-helix protein
+belonging to the Per-Arnt-Sim family of transcription factors.	PMID:	19754423	
+114	Cause	aromatic hydrocarbon receptor	Theme	CYP1A2	relation	regulated	relation_class	Regulation	sentence	1B1, CYP1A2 is primarily regulated by the aromatic hydrocarbon receptor (AhR), a 
+ligand-activated transcription factor and a basic helix-loop-helix protein
+belonging to the Per-Arnt-Sim family of transcription factors.	PMID:	19754423	
+115	Cause	AhR	Theme	1B1	relation	regulated	relation_class	Regulation	sentence	1B1, CYP1A2 is primarily regulated by the aromatic hydrocarbon receptor (AhR), a 
+ligand-activated transcription factor and a basic helix-loop-helix protein
+belonging to the Per-Arnt-Sim family of transcription factors.	PMID:	19754423	
+116	Cause	AhR	Theme	CYP1A2	relation	regulated	relation_class	Regulation	sentence	1B1, CYP1A2 is primarily regulated by the aromatic hydrocarbon receptor (AhR), a 
+ligand-activated transcription factor and a basic helix-loop-helix protein
+belonging to the Per-Arnt-Sim family of transcription factors.	PMID:	19754423	
+117	Cause	NFkappaB p65 protein	Theme	IkappaBalpha	relation	increased	relation_class	Positive_regulation	sentence	NFkappaB p65 protein in the nucleus, while increased the level of IkappaBalpha
+protein in the cytoplasm.	PMID:	19728025	
+118	Cause	TNF-alpha	Theme	VEGF	relation	induced	relation_class	Positive_regulation	sentence	strongly inhibited the VEGF and TNF-alpha-induced endothelial proliferation of
+isolated pig islets in a dose dependent manner.	PMID:	19617916	
+119	Cause	pro-collagen	Theme	HYP protein	relation	inhibited	relation_class	Negative_regulation	sentence	 THD inhibited the up-regulation of HYP protein, pro-collagen 
+III mRNA and alpha-SMA protein induced by TGF-beta1 in HFL-F cells, and
+additionally inhibited pro-collagen III mRNA expression on trans-differentiated
+MF.	PMID:	19604271	
+120	Cause	TGF-beta1	Theme	alpha-SMA protein	relation	induced	relation_class	Positive_regulation	sentence	III mRNA and alpha-SMA protein induced by TGF-beta1 in HFL-F cells, and
+additionally inhibited pro-collagen III mRNA expression on trans-differentiated
+MF.	PMID:	19604271	
+121	Cause	PTEN	Theme	PI3K	relation	suppressing	relation_class	Negative_regulation	sentence	(PTEN), which promoted autophagy by suppressing PI3K/Akt/mTOR signaling pathway, 
+was elevated by thalidomide (thalidomide group: P = 0.	PMID:	19567134	
+122	Cause	PTEN	Theme	Akt	relation	suppressing	relation_class	Negative_regulation	sentence	(PTEN), which promoted autophagy by suppressing PI3K/Akt/mTOR signaling pathway, 
+was elevated by thalidomide (thalidomide group: P = 0.	PMID:	19567134	
+123	Cause	MyD88	Theme	TLR ligand	relation	independent	relation_class	Positive_regulation	sentence	receptor (TLR) ligands, but not polyI:C as a MyD88-independent TLR ligand.	PMID:	19538513	
+124	Cause	TNF	Theme	tumour necrosis factor	relation	involved	relation_class	Regulation	sentence	There is mounting evidence that tumour necrosis factor (TNF) is involved in the
+early phase of inflammatory response, but its relation to histamine action is
+unclear.	PMID:	19434479	
+125	Cause	HPD	Theme	MAP growth	relation	inhibit	relation_class	Negative_regulation	sentence	anti-MAP activity, whereas HPD was found to inhibit MAP growth.	PMID:	19303801	
+126	Cause	MyD88	Theme	TLR2 ligand	relation	dependent	relation_class	Positive_regulation	sentence	propyl)-Ala-Gly-OH (Pam(3)Cys) as a MyD88-dependent TLR2 ligand.	PMID:	19201823	
+127	Cause	MyD88 protein	Theme	TNF-alpha	relation	inhibit	relation_class	Negative_regulation	sentence	MyD88 protein and mRNA and inhibit LPS-induced TNF-alpha production.	PMID:	19201823	
+128	Cause	GEP	Theme	CCL5	relation	elevation	relation_class	Positive_regulation	sentence	thalidomide, an immunomodulatory agent, showed elevation of CCL5 by GEP but was
+not cytotoxic to CLL cells.	PMID:	20981323	
+129	Cause	STAT3	Theme	STAT	relation	regulated	relation_class	Regulation	sentence	transcription (STAT) 3 activation and STAT3-regulated gene products through the
+induction of a protein tyrosine phosphatase SHP-1.	PMID:	19103760	
+130	Cause	interleukin-6	Theme	STAT3	relation	inducible	relation_class	Positive_regulation	sentence	constitutive and interleukin-6-inducible STAT3 activation in multiple myeloma
+(MM) cells.	PMID:	19103760	
+131	Cause	STAT3	Theme	STAT	relation	regulated	relation_class	Regulation	sentence	transcription (STAT) 3 activation and STAT3-regulated gene products through the
+induction of a protein tyrosine phosphatase SHP-1.	PMID:	19103760	
+132	Cause	TNF-alpha	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	RESULTS: TA-35 (1-20 micromol/L) suppressed TNF-alpha-induced NF-kappaB
+activation in transfected cells (HEK293/pNiFty-SEAP) in a dose- (1-20 micromol/L)
+and time-dependent (0-48 h) manner.	PMID:	19098937	
+133	Cause	recombinant-CYP isozymes	Theme	Phase I	relation	result	relation_class	Positive_regulation	sentence	recombinant-CYP isozymes, and human hepatocytes did not result in Phase I or
+Phase II metabolism, confirming the low propensity of lenalidomide for metabolism
+in vivo in humans.	PMID:	19030860	
+134	Cause	DKK1	Theme	LRP5	relation	regulation	relation_class	Regulation	sentence	syndromes disrupt DKK1-mediated regulation of LRP5.	PMID:	18687985	
+135	Cause	TNF-alpha	Theme	TNF-receptors	relation	activate	relation_class	Positive_regulation	sentence	 Secreted TNF-alpha may then activate TNF-receptors in the uvea and 
+trabecular meshwork, increasing both uveoscleral and conventional outflow.	PMID:	18665807	
+136	Cause	TNF-alpha	Theme	TNF-alpha	relation	activate	relation_class	Positive_regulation	sentence	 Secreted TNF-alpha may then activate TNF-receptors in the uvea and 
+trabecular meshwork, increasing both uveoscleral and conventional outflow.	PMID:	18665807	
+137	Cause	Fc-gamma	Theme	IFN-gamma	relation	enhanced	relation_class	Positive_regulation	sentence	RESULTS: Lenalidomide directly enhanced IFN-gamma production via Fc-gamma
+receptor-mediated signaling in response to IgG.	PMID:	18628480	
+138	Cause	TNF-alpha	Theme	KC	relation	mediated	relation_class	Positive_regulation	sentence	air-pouch cavity in mice is mediated by LTB(4), TNF-alpha, KC, MIP-2, and
+prostaglandins, but it was not dependent on macrophages or mast cells.	PMID:	18439853	
+139	Cause	TNF-alpha	Theme	MIP-2	relation	mediated	relation_class	Positive_regulation	sentence	air-pouch cavity in mice is mediated by LTB(4), TNF-alpha, KC, MIP-2, and
+prostaglandins, but it was not dependent on macrophages or mast cells.	PMID:	18439853	
+140	Cause	angiogenic factors	Theme	antiangiogenic factors	relation	downregulating	relation_class	Negative_regulation	sentence	angiogenic factors and downregulating antiangiogenic factors.	PMID:	18300890	
+141	Cause	NRP-1	Theme	NRP-1	relation	evaluated	relation_class	Positive_regulation	sentence	evaluated for NRP-1 expression by immunohistochemical analysis, and NRP-1
+expression level was determined before and after start of thalidomide therapy and
+correlated to response and growth factor expression.	PMID:	17916085	
+142	Cause	STAT3	Theme	cyclin D1	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1, 
+and vascular endothelial growth factor.	PMID:	17855663	
+143	Cause	STAT3	Theme	Bcl-2	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1, 
+and vascular endothelial growth factor.	PMID:	17855663	
+144	Cause	STAT3	Theme	xL	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1, 
+and vascular endothelial growth factor.	PMID:	17855663	
+145	Cause	STAT3	Theme	survivin	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1, 
+and vascular endothelial growth factor.	PMID:	17855663	
+146	Cause	STAT3	Theme	Mcl-1	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products such as cyclin D1, Bcl-2, Bcl-xL, survivin, Mcl-1, 
+and vascular endothelial growth factor.	PMID:	17855663	
+147	Cause	STAT3	Theme	cyclin D1	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, and
+vascular endothelial growth factor.	PMID:	17505005	
+148	Cause	STAT3	Theme	Bcl-2	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, and
+vascular endothelial growth factor.	PMID:	17505005	
+149	Cause	STAT3	Theme	Bcl	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, and
+vascular endothelial growth factor.	PMID:	17505005	
+150	Cause	STAT3	Theme	xL	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, and
+vascular endothelial growth factor.	PMID:	17505005	
+151	Cause	STAT3	Theme	survivin	relation	regulated	relation_class	Regulation	sentence	STAT3-regulated gene products, such as cyclin D1, Bcl-2, Bcl-xL, survivin, and
+vascular endothelial growth factor.	PMID:	17505005	
+152	Cause	interleukin-1beta	Theme	COX-2 protein	relation	-mediated	relation_class	Positive_regulation	sentence	interleukin-1beta (IL-1beta)-mediated induction of COX-2 protein and mRNA in
+Caco-2 cells.	PMID:	17208222	
+153	Cause	IL-1beta	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	Thalidomide also suppressed IL-1beta-induced p38 mitogen-activated protein kinase
+(MAPK) activation, while a p38 MAPK inhibitor destabilized COX-2 mRNA and the
+cytoplasmic shuttling of HuR induced by IL-1beta.	PMID:	17208222	
+154	Cause	IL-1beta	Theme	HuR	relation	induced	relation_class	Positive_regulation	sentence	cytoplasmic shuttling of HuR induced by IL-1beta.	PMID:	17208222	
+155	Cause	IL-1beta	Theme	COX-2 protein	relation	-mediated	relation_class	Positive_regulation	sentence	interleukin-1beta (IL-1beta)-mediated induction of COX-2 protein and mRNA in
+Caco-2 cells.	PMID:	17208222	
+156	Cause	IFN-alpha	Theme	MIC	relation	acid	relation_class	Regulation	sentence	acid, dexamethasone, IFN-alpha and incadronate, on the MIC expression and NK cell
+cytotoxicity were examined.	PMID:	17050256	
+157	Cause	IL-12	Theme	interleukin (IL)-11	relation	role	relation_class	Positive_regulation	sentence	Concurrently, the emerging role of interleukin (IL)-11, IL-12, and IL-18 in the
+perpetuation of chronic inflammation continues to stimulate much interest.	PMID:	17023962	
+158	Cause	IL-18	Theme	interleukin (IL)-11	relation	role	relation_class	Positive_regulation	sentence	Concurrently, the emerging role of interleukin (IL)-11, IL-12, and IL-18 in the
+perpetuation of chronic inflammation continues to stimulate much interest.	PMID:	17023962	
+159	Cause	NF-kappaBp65	Theme	TNF-alpha mRNA	relation	<	relation_class	Positive_regulation	sentence	< 0.	PMID:	16943688	
+160	Cause	NF-kappaB	Theme	TNF-alpha	relation	induced	relation_class	Positive_regulation	sentence	CONCLUSION: Thalidomide downregulates NF-kappaB-induced TNF-alpha and activates
+hepatic stellate cells (HSC) via inhibition of IkappaB degradation to prevent
+liver cirrhosis.	PMID:	16943688	
+161	Cause	DES	Theme	serum PRL	relation	increased	relation_class	Positive_regulation	sentence	It was found that DES sharply increased serum PRL and VEGF levels.	PMID:	16846617	
+162	Cause	DES	Theme	PRL	relation	effect	relation_class	Regulation	sentence	of the experiment attenuated the stimulatory effect of DES on PRL and VEGF
+secretion.	PMID:	16846617	
+163	Cause	DES	Theme	VEGF	relation	increased	relation_class	Positive_regulation	sentence	It was found that DES sharply increased serum PRL and VEGF levels.	PMID:	16846617	
+164	Cause	TNF-alpha	Theme	transforming growth factor-beta	relation	mM	relation_class	Regulation	sentence	001 mM on the production of transforming growth factor-beta, TNF-alpha,
+interleukin (IL)-1beta, IL-6, IL-8, IL-10, IL-12p70, IL-12p40 and IL-18 by
+alveolar macrophages from bronchoalveolar lavage in patients with sarcoidosis (n 
+= 8), hypersensitivity pneumonitis (HP; n = 8) and idiopathic pulmonary fibrosis 
+(IPF; n = 12).	PMID:	16837501	
+165	Cause	CPS49	Theme	p38	relation	activated	relation_class	Positive_regulation	sentence	 CPS49 activated p38 in tumor xenografts.	PMID:	16740776	
+166	Cause	TNF-alpha	Theme	L5 VRT model	relation	role	relation_class	Regulation	sentence	present study, the role of TNF-alpha in the L5 VRT model was investigated.	PMID:	16675114	
+167	Cause	TNF-alpha	Theme	IKKalpha	relation	induced	relation_class	Positive_regulation	sentence	activity induced by TNF-alpha, including IKKalpha expression and IkappaBalpha
+phosphorylation in HSC-T6 cells.	PMID:	16604421	
+168	Cause	TNF-alpha	Theme	IKKalpha	relation	induced	relation_class	Positive_regulation	sentence	activity induced by TNF-alpha, including IKKalpha expression and IkappaBalpha
+phosphorylation in HSC-T6 cells.	PMID:	16604421	
+169	Cause	Curcumin	Theme	NF-kappaB	relation	suppressed	relation_class	Negative_regulation	sentence	Likewise, Curcumin and ICK suppressed NF-kappaB activation, but this did not
+reach significance in this experiment.	PMID:	16333628	
+170	Cause	ICK	Theme	NF-kappaB	relation	suppressed	relation_class	Negative_regulation	sentence	Likewise, Curcumin and ICK suppressed NF-kappaB activation, but this did not
+reach significance in this experiment.	PMID:	16333628	
+171	Cause	TNFalpha	Theme	LTP	relation	inhibition	relation_class	Negative_regulation	sentence	 The inhibition of LTP by TNFalpha involved
+activation of group I metabotropic glutamate receptor and p38 MAP kinase,
+identical to that for the Abeta-mediated inhibition of LTP induction.	PMID:	16324117	
+172	Cause	IkappaB-alpha	Theme	IkappaB-alpha	relation	necessary	relation_class	Positive_regulation	sentence	IkappaB-alpha and degradation of IkappaB-alpha) is necessary for the
+TGF-beta1-induced increase in uPAR expression, because
+L-1-tosylamido-2-phenylethyl chloromethyl ketone, a NF-kappaB inhibitor, reduced 
+the uPAR production as well as mRNA expression; (c) thalidomide failed to further
+strengthen L-1-tosylamido-2-phenylethyl chloromethyl ketone's action; (d) the
+once-daily i.	PMID:	16288038	
+173	Cause	TGF-beta1	Theme	uPAR	relation	stimulated	relation_class	Positive_regulation	sentence	that thalidomide down-regulates constitutive and TGF-beta1-stimulated uPAR mRNA
+and protein expression possibly through suppression of NF-kappaB activation.	PMID:	16288038	
+174	Cause	IkappaB-alpha	Theme	IkappaB-alpha	relation	necessary	relation_class	Positive_regulation	sentence	IkappaB-alpha and degradation of IkappaB-alpha) is necessary for the
+TGF-beta1-induced increase in uPAR expression, because
+L-1-tosylamido-2-phenylethyl chloromethyl ketone, a NF-kappaB inhibitor, reduced 
+the uPAR production as well as mRNA expression; (c) thalidomide failed to further
+strengthen L-1-tosylamido-2-phenylethyl chloromethyl ketone's action; (d) the
+once-daily i.	PMID:	16288038	
+175	Cause	PKC	Theme	protein kinase C-theta	relation	enhances	relation_class	Positive_regulation	sentence	showed that CC-4047 enhances the activity of protein kinase C-theta (PKC-theta)
+in stimulated T cells.	PMID:	16241859	
+176	Cause	IL-2	Theme	IL-2	relation	activate	relation_class	Positive_regulation	sentence	 The secreted IL-2 from HuPBMCs was shown to activate
+natural killer (NK) cells to lyse their target cell line K562.	PMID:	16241859	
+177	Cause	IL-2	Theme	HuPBMCs	relation	activate	relation_class	Positive_regulation	sentence	 The secreted IL-2 from HuPBMCs was shown to activate
+natural killer (NK) cells to lyse their target cell line K562.	PMID:	16241859	
+178	Cause	HuPBMCs	Theme	IL-2	relation	activate	relation_class	Positive_regulation	sentence	 The secreted IL-2 from HuPBMCs was shown to activate
+natural killer (NK) cells to lyse their target cell line K562.	PMID:	16241859	
+179	Cause	HuPBMCs	Theme	HuPBMCs	relation	activate	relation_class	Positive_regulation	sentence	 The secreted IL-2 from HuPBMCs was shown to activate
+natural killer (NK) cells to lyse their target cell line K562.	PMID:	16241859	
+180	Cause	TNF-alpha	Theme	ICAM-1	relation	induced	relation_class	Positive_regulation	sentence	TNF-alpha-induced cell surface adhesion molecules ICAM-1, VCAM-1, and E-selectin 
+on human umbilical vein endothelial cells.	PMID:	16146335	
+181	Cause	TNF-alpha	Theme	VCAM-1	relation	induced	relation_class	Positive_regulation	sentence	TNF-alpha-induced cell surface adhesion molecules ICAM-1, VCAM-1, and E-selectin 
+on human umbilical vein endothelial cells.	PMID:	16146335	
+182	Cause	TNF-alpha	Theme	E-selectin	relation	induced	relation_class	Positive_regulation	sentence	TNF-alpha-induced cell surface adhesion molecules ICAM-1, VCAM-1, and E-selectin 
+on human umbilical vein endothelial cells.	PMID:	16146335	
+183	Cause	TNF-alpha, IEN-gamma	Theme	IL-4	relation	increased	relation_class	Positive_regulation	sentence	of the TNF-alpha, IEN-gamma and increased the production of IL-4.	PMID:	16078585	
+184	Cause	COX-1	Theme	COX-1	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+185	Cause	COX-1	Theme	bcl-2	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+186	Cause	COX-2	Theme	COX-1	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+187	Cause	COX-2	Theme	bcl-2	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+188	Cause	TNFalpha	Theme	COX-1	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+189	Cause	TNFalpha	Theme	bcl-2	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+190	Cause	VEGF	Theme	COX-1	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+191	Cause	VEGF	Theme	bcl-2	relation	effects	relation_class	Regulation	sentence	 We also studied the
+effects of thalidomide on COX-1, COX-2 or bcl-2 expression, TNFalpha, VEGF, GSH
+and cytochrome c in these cells.	PMID:	15982930	
+192	Cause	TNF-alpha	Theme	IL-8	relation	induces	relation_class	Positive_regulation	sentence	TNF-alpha induces IL-8 production in endometriotic cells through nuclear
+factor-kappaB (NF-kappaB) activation.	PMID:	15687330	
+193	Cause	TNF-alpha	Theme	IkappaBalpha and degradation	relation	increased	relation_class	Positive_regulation	sentence	TNF-alpha increased the expression of phosphorylated IkappaBalpha and degradation
+of total IkappaBalpha, which in turn activates NF-kappaB; 2) Thal significantly
+inhibits the TNF-alpha-induced expression of phosphorylated IkappaBalpha and
+degradation of IkappaBalpha; 3) TNF-alpha activation induced increased nuclear
+translocation of NF-kappaB, which was inhibited by pretreatment with either Thal 
+or N-tosyl-L-phenylalanine chloromethyl ketone, an NF-kappaB inhibitor.	PMID:	15687330	
+194	Cause	TNF-alpha	Theme	IkappaBalpha	relation	induced	relation_class	Positive_regulation	sentence	inhibits the TNF-alpha-induced expression of phosphorylated IkappaBalpha and
+degradation of IkappaBalpha; 3) TNF-alpha activation induced increased nuclear
+translocation of NF-kappaB, which was inhibited by pretreatment with either Thal 
+or N-tosyl-L-phenylalanine chloromethyl ketone, an NF-kappaB inhibitor.	PMID:	15687330	
+195	Cause	TNF-alpha	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	attenuated the expression of IL-8 by reducing TNF-alpha-induced NF-kappaB
+activation.	PMID:	15687330	
+196	Cause	factor-alpha	Theme	factor-alpha	relation	effect	relation_class	Regulation	sentence	necrosis factor-alpha (TNF-alpha), we determined the effect of these drugs on the
+renal damage induced by supernatants of macrophages activated with Crotalus
+durissus cascavella venom in order to identify the role of TNF-alpha in the
+process.	PMID:	15448874	
+197	Cause	factor-alpha	Theme	TNF-alpha	relation	effect	relation_class	Regulation	sentence	necrosis factor-alpha (TNF-alpha), we determined the effect of these drugs on the
+renal damage induced by supernatants of macrophages activated with Crotalus
+durissus cascavella venom in order to identify the role of TNF-alpha in the
+process.	PMID:	15448874	
+198	Cause	TNF-alpha	Theme	factor-alpha	relation	effect	relation_class	Regulation	sentence	necrosis factor-alpha (TNF-alpha), we determined the effect of these drugs on the
+renal damage induced by supernatants of macrophages activated with Crotalus
+durissus cascavella venom in order to identify the role of TNF-alpha in the
+process.	PMID:	15448874	
+199	Cause	TNF-alpha	Theme	TNF-alpha	relation	effect	relation_class	Regulation	sentence	necrosis factor-alpha (TNF-alpha), we determined the effect of these drugs on the
+renal damage induced by supernatants of macrophages activated with Crotalus
+durissus cascavella venom in order to identify the role of TNF-alpha in the
+process.	PMID:	15448874	
+200	Cause	gene PTEN	Theme	PI3K	relation	contributes	relation_class	Positive_regulation	sentence	suppressor gene PTEN also frequently contributes to upregulation of PI3K/Akt.	PMID:	14748662	
+201	Cause	gene PTEN	Theme	Akt	relation	contributes	relation_class	Positive_regulation	sentence	suppressor gene PTEN also frequently contributes to upregulation of PI3K/Akt.	PMID:	14748662	
+202	Cause	peroxisome proliferator	Theme	peroxisome proliferator	relation	regulated	relation_class	Regulation	sentence	mechanisms, such as those regulated by peroxisome proliferator activated
+receptors.	PMID:	14673633	
+203	Cause	apolipoprotein E-deficient	Theme	TNF-alpha	relation	inhibit	relation_class	Negative_regulation	sentence	to inhibit TNF-alpha production, to homozygous apolipoprotein E-deficient
+(apoE-/-) mice in order to examine the effect of thalidomide on the development
+of early atherosclerotic lesions.	PMID:	12874961	
+204	Cause	necrosis factor (TNF) alpha	Theme	necrosis factor (TNF) alpha	relation	accelerating	relation_class	Positive_regulation	sentence	necrosis factor (TNF) alpha by accelerating the degradation of its mRNA.	PMID:	12771492	
+205	Cause	interleukin-6	Theme	interleukin-6	relation	[Influence	relation_class	Regulation	sentence	[Influence of thalidomide on interleukin-6 and its transmission in multiple
+myeloma patients].	PMID:	12515619	
+206	Cause	TNF-alpha	Theme	cytochrome P-450	relation	Effects	relation_class	Regulation	sentence	Effects of thalidomide, cytochrome P-450 and TNF-alpha on angiogenesis in a
+three-dimensional collagen gel-culture.	PMID:	12484444	
+207	Cause	cytochrome P-450	Theme	TNF-alpha	relation	suppression	relation_class	Negative_regulation	sentence	thalidomide and cytochrome P-450 takes place through a suppression of TNF-alpha
+and involves the metabolism of the thalidomide.	PMID:	12484444	
+208	Cause	TNF-alpha	Theme	tumor necrosis factor alpha	relation	effect	relation_class	Regulation	sentence	evaluated cholera toxin's effect on tumor necrosis factor alpha (TNF-alpha)
+production by mouse macrophages.	PMID:	12368119	
+209	Cause	Con-A	Theme	IFN-gamma	relation	enhanced	relation_class	Positive_regulation	sentence	 Thalidomide enhanced IFN-gamma synthesis in the Con-A and
+anti-CD3-stimulated PBMC.	PMID:	12349951	
+210	Cause	PHA	Theme	SEA	relation	stimulated	relation_class	Positive_regulation	sentence	 It suppressed the ability of SEA and PHA-stimulated
+PBMC to incorporate [H3]-thymidine, whereas it enhanced incorporation of
+[H3]-thymidine in PBMCs stimulated with anti-CD3.	PMID:	12349951	
+211	Cause	insulinlike growth factor-1	Theme	NF-kappa B	relation	effect	relation_class	Positive_regulation	sentence	also block the stimulatory effect of insulinlike growth factor-1 on NF-kappa B
+activity and potentiate the activity of TNF-related apoptosis-inducing ligand
+(TRAIL/Apo2L), dexamethasone, and proteasome inhibitor (PS-341) therapy.	PMID:	12036884	
+212	Cause	amyloid beta-peptide	Theme	amyloid beta-peptide	relation	activates	relation_class	Positive_regulation	sentence	The amyloid beta-peptide (Abeta) activates microglia and promotes the generation 
+of cytokines and oxygen species, including nitric oxide (NO) and tumor necrosis
+factor alpha (TNF-alpha), which can be either neurotoxic or neuroprotective.	PMID:	11978825	
+213	Cause	Abeta	Theme	amyloid beta-peptide	relation	activates	relation_class	Positive_regulation	sentence	The amyloid beta-peptide (Abeta) activates microglia and promotes the generation 
+of cytokines and oxygen species, including nitric oxide (NO) and tumor necrosis
+factor alpha (TNF-alpha), which can be either neurotoxic or neuroprotective.	PMID:	11978825	
+214	Cause	TNF	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	cells with thalidomide suppressed TNF-induced NF-kappaB activation, with optimum 
+effect occurring at 50 microg/ml thalidomide.	PMID:	11884428	
+215	Cause	TNF	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	 The suppression of TNF-induced NF-kappaB
+activation by thalidomide correlated with partial inhibition of TNF-induced
+degradation of an inhibitory subunit of NF-kappaB (IkappaBalpha), abrogation of
+IkappaBalpha kinase activation, and inhibition of NF-kappaB-dependent reporter
+gene expression.	PMID:	11884428	
+216	Cause	TNF	Theme	kappaB	relation	induced	relation_class	Positive_regulation	sentence	NF-kappaB activation specifically induced by TNF and H(2)O(2) and that this may
+contribute to its role in suppression of proliferation, inflammation,
+angiogenesis, and the immune system.	PMID:	11884428	
+217	Cause	factor-alpha	Theme	factor-alpha	relation	induces	relation_class	Positive_regulation	sentence	factor-alpha (TNF-alpha), which is produced by some MM cells, induces only
+low-level MM proliferation and MAPK activation in MM cells, but markedly
+upregulates IL-6 secretion from BMSCs and upregulates expression of adhesion
+molecules (VLA-4 and LFA-1) on MM cells and their receptors (VCAM-1 and ICAM-1)
+on BMSCs, with resultant increased binding of MM cells to BMSCs.	PMID:	11740818	
+218	Cause	factor-alpha	Theme	TNF-alpha	relation	induces	relation_class	Positive_regulation	sentence	factor-alpha (TNF-alpha), which is produced by some MM cells, induces only
+low-level MM proliferation and MAPK activation in MM cells, but markedly
+upregulates IL-6 secretion from BMSCs and upregulates expression of adhesion
+molecules (VLA-4 and LFA-1) on MM cells and their receptors (VCAM-1 and ICAM-1)
+on BMSCs, with resultant increased binding of MM cells to BMSCs.	PMID:	11740818	
+219	Cause	TNF-alpha	Theme	factor-alpha	relation	induces	relation_class	Positive_regulation	sentence	factor-alpha (TNF-alpha), which is produced by some MM cells, induces only
+low-level MM proliferation and MAPK activation in MM cells, but markedly
+upregulates IL-6 secretion from BMSCs and upregulates expression of adhesion
+molecules (VLA-4 and LFA-1) on MM cells and their receptors (VCAM-1 and ICAM-1)
+on BMSCs, with resultant increased binding of MM cells to BMSCs.	PMID:	11740818	
+220	Cause	TNF-alpha	Theme	TNF-alpha	relation	induces	relation_class	Positive_regulation	sentence	factor-alpha (TNF-alpha), which is produced by some MM cells, induces only
+low-level MM proliferation and MAPK activation in MM cells, but markedly
+upregulates IL-6 secretion from BMSCs and upregulates expression of adhesion
+molecules (VLA-4 and LFA-1) on MM cells and their receptors (VCAM-1 and ICAM-1)
+on BMSCs, with resultant increased binding of MM cells to BMSCs.	PMID:	11740818	
+221	Cause	IL-5	Theme	GM-CSF	relation	caused	relation_class	Positive_regulation	sentence	cytokines (IL-4, IL-5, IL-13), GM-CSF and the IFN-gamma caused by the cells Th1.	PMID:	11398366	
+222	Cause	IL-5	Theme	IFN-gamma	relation	caused	relation_class	Positive_regulation	sentence	cytokines (IL-4, IL-5, IL-13), GM-CSF and the IFN-gamma caused by the cells Th1.	PMID:	11398366	
+223	Cause	IL-13	Theme	GM-CSF	relation	caused	relation_class	Positive_regulation	sentence	cytokines (IL-4, IL-5, IL-13), GM-CSF and the IFN-gamma caused by the cells Th1.	PMID:	11398366	
+224	Cause	IL-13	Theme	IFN-gamma	relation	caused	relation_class	Positive_regulation	sentence	cytokines (IL-4, IL-5, IL-13), GM-CSF and the IFN-gamma caused by the cells Th1.	PMID:	11398366	
+225	Cause	SHP2	Theme	RAFTK	relation	inhibits	relation_class	Negative_regulation	sentence	activates SHP2, which inhibits RAFTK activation, thereby protecting multiple
+myeloma cells from the apoptotic effects of corticosteroids.	PMID:	11309702	
+226	Cause	NF-kappaB	Theme	interleukin-8	relation	regulated	relation_class	Regulation	sentence	expression of NF-kappaB-regulated genes such as those encoding interleukin-8,
+TRAF1, and c-IAP2.	PMID:	11297551	
+227	Cause	NF-kappaB	Theme	interleukin-8	relation	regulated	relation_class	Regulation	sentence	expression of NF-kappaB-regulated genes such as those encoding interleukin-8,
+TRAF1, and c-IAP2.	PMID:	11297551	
+228	Cause	CD28	Theme	SEB	relation	induced	relation_class	Positive_regulation	sentence	with enhanced SEB- and anti-CD3/CD28-induced production of the Th1 cytokine gamma
+interferon (P < 0.	PMID:	10952569	
+229	Cause	CD28	Theme	Th1 cytokine gamma	relation	induced	relation_class	Positive_regulation	sentence	with enhanced SEB- and anti-CD3/CD28-induced production of the Th1 cytokine gamma
+interferon (P < 0.	PMID:	10952569	
+230	Cause	growth factor 2	Theme	FGF-2	relation	stimulation	relation_class	Positive_regulation	sentence	growth factor 2 (FGF-2) stimulation of the transcription of alphav and beta3
+integrin subunit genes.	PMID:	10799645	
+231	Cause	FGF-2	Theme	FGF-2	relation	stimulation	relation_class	Positive_regulation	sentence	growth factor 2 (FGF-2) stimulation of the transcription of alphav and beta3
+integrin subunit genes.	PMID:	10799645	
+232	Cause	IL-12	Theme	hsp65 CTL	relation	role	relation_class	Regulation	sentence	TNF-alpha, IFN-gamma and IL-12 has been described, we undertook to evaluate the
+role of IL-12 on the hsp65 CTL generation in leprosy patients.	PMID:	10736095	
+233	Cause	Anti IL-4	Theme	IFN-gamma	relation	upregulated	relation_class	Positive_regulation	sentence	 Anti IL-4 upregulated the binding of IFN-gamma and did not modify that of
+TNF-alpha so the low CTL activity could be as a result of IL-4 by a decrease of
+the IFN-gamma binding on MB cells.	PMID:	10736095	
+234	Cause	TNF-alpha	Theme	Tumor necrosis factor alpha	relation	role	relation_class	Regulation	sentence	Tumor necrosis factor alpha (TNF-alpha) may have a pivotal role in the genesis of
+mechanical inflammatory hyperalgesia in rats and in the nociceptive writhing
+response in mice.	PMID:	10720640	
+235	Cause	TNF-alpha	Theme	TNF-alpha	relation	responses	relation_class	Positive_regulation	sentence	stimulating TNF-alpha release, but not responses to TNF-alpha or prostaglandin
+E(2), were inhibited in a dose-dependent manner by pretreatment of the animals
+with thalidomide.	PMID:	10720640	
+236	Cause	GSH	Theme	GSH	relation	role	relation_class	Regulation	sentence	implicate a possible role for GSH and redox status in the mechanisms of
+thalidomide teratogenicity.	PMID:	10613403	
+237	Cause	GSH	Theme	redox	relation	role	relation_class	Regulation	sentence	implicate a possible role for GSH and redox status in the mechanisms of
+thalidomide teratogenicity.	PMID:	10613403	
+238	Cause	MAS	Theme	epoxide hydrolase	relation	inhibit	relation_class	Negative_regulation	sentence	of the MAS with cyclohexene oxide (CHO) and DM to inhibit the epoxide hydrolase
+and glutathione conjugation pathways, respectively.	PMID:	10607376	
+239	Cause	p24 release	Theme	RT	relation	evaluated	relation_class	Positive_regulation	sentence	evaluated by mRNA, p24 release and RT activity, in phorbol myristate acetate
+(PMA)- and cytokine-stimulated U1 cells.	PMID:	10606973	
+240	Cause	phytohaemagglutinin	Theme	TNF-alpha	relation	reduced	relation_class	Negative_regulation	sentence	CC-3052 reduced TNF-alpha production in phytohaemagglutinin (PHA) and
+lipopolysaccharide (LPS)-stimulated whole blood cultures from patients during the
+primary acute phase of HIV-1 infection.	PMID:	10606973	
+241	Cause	vascular endothelial growth factor	Theme	VEGF	relation	effects	relation_class	Regulation	sentence	that antagonize the effects of vascular endothelial growth factor (VEGF) and
+basic fibroblast growth factor (bFGF) have recently been identified.	PMID:	10336480	
+242	Cause	tumour necrosis factor alpha	Theme	tumour necrosis factor alpha	relation	reducing	relation_class	Negative_regulation	sentence	and tumour necrosis factor alpha (TNF-alpha), maximally reducing production by 20
+(P < 0.	PMID:	9776474	
+243	Cause	tumour necrosis factor alpha	Theme	TNF-alpha	relation	reducing	relation_class	Negative_regulation	sentence	and tumour necrosis factor alpha (TNF-alpha), maximally reducing production by 20
+(P < 0.	PMID:	9776474	
+244	Cause	TNF-alpha	Theme	tumour necrosis factor alpha	relation	reducing	relation_class	Negative_regulation	sentence	and tumour necrosis factor alpha (TNF-alpha), maximally reducing production by 20
+(P < 0.	PMID:	9776474	
+245	Cause	TNF-alpha	Theme	TNF-alpha	relation	reducing	relation_class	Negative_regulation	sentence	and tumour necrosis factor alpha (TNF-alpha), maximally reducing production by 20
+(P < 0.	PMID:	9776474	
+246	Cause	interleukin 2	Theme	interferon gamma	relation	mediated	relation_class	Positive_regulation	sentence	interleukin 2-mediated T cell proliferation and interferon gamma production.	PMID:	9607928	
+247	Cause	PTX	Theme	TNF-alpha	relation	inhibits	relation_class	Negative_regulation	sentence	 These data suggest that PTX inhibits TNF-alpha
+production in ENL patients both in vivo and in vitro, and it may be useful in the
+treatment of leprosy patients undergoing ENL.	PMID:	9486396	
+248	Cause	TNF	Theme	c-src	relation	mediated	relation_class	Positive_regulation	sentence	Suggesting that LPS augmentation of c-src is TNF-mediated, endotoxin sequentially
+induces BMM expression of TNF, followed by c-src.	PMID:	9294124	
+249	Cause	c-src	Theme	TNF	relation	induces	relation_class	Positive_regulation	sentence	induces BMM expression of TNF, followed by c-src.	PMID:	9294124	
+250	Cause	bFGF	Theme	vascular endothelial growth factor	relation	induced	relation_class	Positive_regulation	sentence	significantly inhibits bFGF-induced and vascular endothelial growth factor
+(VEGF)-induced corneal neovascularization.	PMID:	9301478	
+251	Cause	Con-A	Theme	IL-2	relation	enhances	relation_class	Positive_regulation	sentence	stimulated human mononuclear cells: and it enhances IL-2 production by Con-A
+stimulated human mononuclear cells.	PMID:	9043933	
+252	Cause	IFN-gamma	Theme	ENL	relation	induced	relation_class	Positive_regulation	sentence	 Thalidomide reduces the frequency of IFN-gamma-induced ENL, but
+also eliminates the IFN-gamma-induced bacillary clearance.	PMID:	8862260	
+253	Cause	interleukin 10	Theme	IL-6	relation	effect	relation_class	Regulation	sentence	interleukin 10 (IL-10), but had little effect on IL-6 and IL-1 beta protein and
+mRNA production.	PMID:	8827720	
+254	Cause	interleukin 10	Theme	IL-1 beta protein	relation	effect	relation_class	Regulation	sentence	interleukin 10 (IL-10), but had little effect on IL-6 and IL-1 beta protein and
+mRNA production.	PMID:	8827720	
+255	Cause	IL-10	Theme	IL-6	relation	effect	relation_class	Regulation	sentence	interleukin 10 (IL-10), but had little effect on IL-6 and IL-1 beta protein and
+mRNA production.	PMID:	8827720	
+256	Cause	IL-10	Theme	IL-1 beta protein	relation	effect	relation_class	Regulation	sentence	interleukin 10 (IL-10), but had little effect on IL-6 and IL-1 beta protein and
+mRNA production.	PMID:	8827720	
+257	Cause	TNF-alpha	Theme	MGC	relation	induced	relation_class	Positive_regulation	sentence	 Also, TNF-alpha alone induced MGC formation.	PMID:	8627072	
+258	Cause	necrosis factor alpha	Theme	ICAM-1	relation	induced	relation_class	Positive_regulation	sentence	necrosis factor alpha (TNFalpha) induced ICAM-1 (CD54), VCAM-1 (CD106) and
+E-selectin antigens on HUVEC.	PMID:	8861747	
+259	Cause	necrosis factor alpha	Theme	CD54	relation	induced	relation_class	Positive_regulation	sentence	necrosis factor alpha (TNFalpha) induced ICAM-1 (CD54), VCAM-1 (CD106) and
+E-selectin antigens on HUVEC.	PMID:	8861747	
+260	Cause	necrosis factor alpha	Theme	VCAM-1	relation	induced	relation_class	Positive_regulation	sentence	necrosis factor alpha (TNFalpha) induced ICAM-1 (CD54), VCAM-1 (CD106) and
+E-selectin antigens on HUVEC.	PMID:	8861747	
+261	Cause	TNFalpha	Theme	ICAM-1	relation	induced	relation_class	Positive_regulation	sentence	necrosis factor alpha (TNFalpha) induced ICAM-1 (CD54), VCAM-1 (CD106) and
+E-selectin antigens on HUVEC.	PMID:	8861747	
+262	Cause	TNFalpha	Theme	CD54	relation	induced	relation_class	Positive_regulation	sentence	necrosis factor alpha (TNFalpha) induced ICAM-1 (CD54), VCAM-1 (CD106) and
+E-selectin antigens on HUVEC.	PMID:	8861747	
+263	Cause	TNFalpha	Theme	VCAM-1	relation	induced	relation_class	Positive_regulation	sentence	necrosis factor alpha (TNFalpha) induced ICAM-1 (CD54), VCAM-1 (CD106) and
+E-selectin antigens on HUVEC.	PMID:	8861747	
+264	Cause	FGF	Theme	VEGF	relation	elicit	relation_class	Negative_regulation	sentence	 VEGF and FGF elicit their effects mainly via direct action on
+relevant endothelial cells.	PMID:	8520966	
+265	Cause	FGF	Theme	VEGF	relation	elicit	relation_class	Negative_regulation	sentence	 VEGF and FGF elicit their effects mainly via direct action on
+relevant endothelial cells.	PMID:	8520966	
+266	Cause	tumor necrosis factor alpha	Theme	TNF	relation	role	relation_class	Regulation	sentence	explored the role of tumor necrosis factor alpha (TNF) in controlling the level
+of HLA class II mRNA in human monocytes.	PMID:	7593465	
+267	Cause	TNF	Theme	DR alpha-mRNA	relation	up-regulated	relation_class	Positive_regulation	sentence	recombinant TNF (rTNF) selectively up-regulated DR alpha-mRNA but not DP or DQ
+alpha-mRNA.	PMID:	7593465	
+268	Cause	TNF-R1 MAbs	Theme	TNF-R2 receptor	relation	inhibited	relation_class	Negative_regulation	sentence	TNF-R2 receptor and to a lesser extent anti-p55 TNF-R1 MAbs inhibited
+TNF-mediated up-regulation of DR mRNA and TNF mRNA.	PMID:	7593465	
+269	Cause	TNF	Theme	DR mRNA	relation	mediated	relation_class	Positive_regulation	sentence	TNF-mediated up-regulation of DR mRNA and TNF mRNA.	PMID:	7593465	
+270	Cause	rTNF	Theme	DR alpha-mRNA	relation	up-regulated	relation_class	Positive_regulation	sentence	recombinant TNF (rTNF) selectively up-regulated DR alpha-mRNA but not DP or DQ
+alpha-mRNA.	PMID:	7593465	
+271	Cause	TNF	Theme	TNF mRNA	relation	mediated	relation_class	Positive_regulation	sentence	TNF-mediated up-regulation of DR mRNA and TNF mRNA.	PMID:	7593465	
+272	Cause	CD26	Theme	CD26	relation	coreceptor	relation_class	Positive_regulation	sentence	protein, and CD26 has also been suggested to be a coreceptor for the binding of
+the V3 loop of the gp120 HIV envelope protein.	PMID:	7830502	
+273	Cause	IFN-gamma	Theme	monocyte release	relation	enhanced	relation_class	Positive_regulation	sentence	 IFN-gamma enhanced the monocyte release of TNF-alpha by
+3-7.	PMID:	1588290	
+274	Cause	L-tryptophan	Theme	TRP	relation	induced	relation_class	Positive_regulation	sentence	syndrome induced by tranylcypromine (TCP) plus L-tryptophan (TRP) or clorgyline
+plus the selective 5-HT uptake blocker, LM 5008
+(4-[2-(3-indolyl)ethyl]piperidine) and delayed the behavioural effects of
+p-chloro-amphetamine, a releaser of 5-HT.	PMID:	2867921	

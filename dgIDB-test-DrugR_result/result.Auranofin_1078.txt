@@ -1,0 +1,208 @@
+1	Cause	p53	Theme	KLK6	relation	induction	relation_class	Positive_regulation	sentence	 p53 dependent induction of KLK6 expression
+increased autophagy and drug resistance, whereas KLK6 silencing decreased the
+autophagy level and increased drug sensitivity.	PMID:	27863404	
+2	Cause	GCLM	Theme	GSH	relation	induced	relation_class	Positive_regulation	sentence	GCLM and TrxR1 induced GSH depletion, Trx activity inhibition, and ROS
+accumulation, synergistically killing HNC cells.	PMID:	27733046	
+3	Cause	Apocynin	Theme	NF-κB	relation	regulate	relation_class	Regulation	sentence	Apocynin and Nox2 regulate NF-κB by modifying thioredoxin-1 redox-state.	PMID:	27698473	
+4	Cause	GCLM	Theme	GSH	relation	induced	relation_class	Positive_regulation	sentence	GCLM and TrxR1 induced GSH depletion, Trx activity inhibition, and ROS
+accumulation, synergistically killing HNC cells.	PMID:	27733046	
+5	Cause	Nox2	Theme	NF-κB	relation	regulate	relation_class	Regulation	sentence	Apocynin and Nox2 regulate NF-κB by modifying thioredoxin-1 redox-state.	PMID:	27698473	
+6	Cause	IPC	Theme	Trx2	relation	maintenance	relation_class	Positive_regulation	sentence	IPC conferred neuroprotection against ischemic injury by maintaining Trx2 and
+suggests that the maintenance or enhancement of Trx2 expression by IPC may be a
+legitimate strategy for therapeutic intervention of cerebral ischemia.	PMID:	27117068	
+7	Cause	Ape/Ref-1	Theme	MRP-1	relation	responsible	relation_class	Positive_regulation	sentence	Ape/Ref-1 were responsible for high MRP-1 expression in EOMA.	PMID:	26961872	
+8	Cause	TrxR	Theme	HO-1	relation	regulate	relation_class	Regulation	sentence	 TrxR was shown to regulate HO-1 via the Nrf2 signaling pathway in a
+ROS-dependent manner.	PMID:	26795735	
+9	Cause	thioredoxin	Theme	Trx1	relation	role	relation_class	Regulation	sentence	present study was to investigate the role of thioredoxin (Trx1) in the invasion
+and migration of breast cancer cells and to assess the strength of the
+association between high levels of Trx1 and thioredoxin reductase (TrxR1)
+expression with breast cancer patient survival.	PMID:	26760912	
+10	Cause	reductase	Theme	Prx	relation	supports	relation_class	Negative_regulation	sentence	reductase (TrxR) which supports Prx activity.	PMID:	26686468	
+11	Cause	TrxR	Theme	Prx	relation	supports	relation_class	Negative_regulation	sentence	reductase (TrxR) which supports Prx activity.	PMID:	26686468	
+12	Cause	AF	Theme	TrxR	relation	inhibit	relation_class	Negative_regulation	sentence	 At low doses, AF was able to inhibit TrxR activity without a
+significant effect on cell viability whereas at higher doses, AF could induce
+ROS-dependent apoptosis.	PMID:	26573231	
+13	Cause	TNFα	Theme	NF-κB	relation	induced	relation_class	Positive_regulation	sentence	doses, potentiated TNFα-induced activation of NF-κB and HIF, without effects in
+stand-alone treatment.	PMID:	26415122	
+14	Cause	UCHL5	Theme	proteasomal deubiquitinases	relation	depends	relation_class	Regulation	sentence	AF-induced apoptosis depends on inhibition of proteasomal deubiquitinases (UCHL5 
+and USP14).	PMID:	25193854	
+15	Cause	AF	Theme	Bcr-Abl	relation	inhibits	relation_class	Negative_regulation	sentence	IM-resistant Bcr-Abl-T315I xenografts in vivo; (ii) AF inhibits Bcr-Abl through
+both downregulation of Bcr-Abl gene expression and Bcr-Abl cleavage mediated by
+proteasome inhibition-induced caspase activation; (iii) proteasome inhibition but
+not ROS is required for AF-induced caspase activation and apoptosis.	PMID:	25193854	
+16	Cause	TLR4	Theme	inflammasome receptor NLRP3	relation	dependent	relation_class	Positive_regulation	sentence	 In addition, qPCR and Western blot analyses showed that 
+auranofin impaired TLR4-dependent induction of the inflammasome receptor NLRP3,
+which plays a critical role in IL-1β processing.	PMID:	25065288	
+17	Cause	TrxR	Theme	exo	relation	inactivation	relation_class	Negative_regulation	sentence	However, TrxR is sensitive to inactivation by exo/endogenous electrophiles, for
+example, 4-hydroxynonenal (HNE).	PMID:	24295294	
+18	Cause	PKCι	Theme	MEK	relation	activate	relation_class	Positive_regulation	sentence	PKCι acts through its oncogenic partner Ect2 to activate a MEK/ERK signaling axis
+that drives the ovarian TIC phenotype.	PMID:	24174471	
+19	Cause	PKCι	Theme	ERK	relation	activate	relation_class	Positive_regulation	sentence	PKCι acts through its oncogenic partner Ect2 to activate a MEK/ERK signaling axis
+that drives the ovarian TIC phenotype.	PMID:	24174471	
+20	Cause	Trx1	Theme	PTP1B	relation	reduced	relation_class	Negative_regulation	sentence	 Trx1 reduced oxidized PTP1B in vitro but failed to reactivate oxidized
+SHP2.	PMID:	23901112	
+21	Cause	TRP14	Theme	TrxR1	relation	reactivated	relation_class	Positive_regulation	sentence	 Interestingly, the alternative TrxR1 substrate TRP14 also reactivated
+oxidized PTP1B, but not SHP2.	PMID:	23901112	
+22	Cause	c-jun-NH2-kinase	Theme	JNK	relation	involved	relation_class	Positive_regulation	sentence	reactive oxygen species production, which was involved in c-jun-NH2-kinase (JNK; 
+MAPK8) activation and cell apoptosis.	PMID:	23824739	
+23	Cause	TRX	Theme	hBD-1	relation	reduce	relation_class	Negative_regulation	sentence	TRX, glutaredoxin (GRX) is also able to reduce hBD-1, although with far less
+efficacy.	PMID:	23571504	
+24	Cause	GRX	Theme	hBD-1	relation	reduce	relation_class	Negative_regulation	sentence	TRX, glutaredoxin (GRX) is also able to reduce hBD-1, although with far less
+efficacy.	PMID:	23571504	
+25	Cause	Nrf2	Theme	TxnRD	relation	regulated	relation_class	Regulation	sentence	and expression of TxnRD, which is regulated by Nrf2, and were sensitive the TxnRD
+inhibitor auranofin.	PMID:	23350650	
+26	Cause	Nrf2	Theme	TxnRD	relation	regulated	relation_class	Regulation	sentence	and expression of TxnRD, which is regulated by Nrf2, and were sensitive the TxnRD
+inhibitor auranofin.	PMID:	23350650	
+27	Cause	iNOS-siRNA	Theme	ubiquitin	relation	facilitates	relation_class	Positive_regulation	sentence	iNOS-siRNA facilitates Bcl-2 S-denitrosylation and ubiquitin-degradation, whereas
+the TrxR1 inhibitor auranofin prevents Bcl-2 from denitrosylation and
+ubiquitination, thus restrains the caspase signal pathway activation and
+subsequent cancer cell apoptosis.	PMID:	22629368	
+28	Cause	PI3K	Theme	Akt	relation	mediated	relation_class	Positive_regulation	sentence	inhibitor, or auranofin, suggesting that the effect of luteolin might be partly
+mediated from PI3K, Akt, and thioredoxin reductase.	PMID:	21782929	
+29	Cause	PI3K	Theme	thioredoxin reductase	relation	mediated	relation_class	Positive_regulation	sentence	inhibitor, or auranofin, suggesting that the effect of luteolin might be partly
+mediated from PI3K, Akt, and thioredoxin reductase.	PMID:	21782929	
+30	Cause	HO-1	Theme	Nrf2	relation	induction	relation_class	Positive_regulation	sentence	induction as well as Nrf2 activation and HO-1 expression.	PMID:	20647686	
+31	Cause	IFN	Theme	IRF3	relation	inducible	relation_class	Positive_regulation	sentence	inhibited poly[I:C]-induced phosphorylation of IRF3 as well as IFN-inducible
+genes such as IFN inducible protein-10.	PMID:	20607500	
+32	Cause	c-Jun NH(2)-terminal kinase	Theme	JNK	relation	regulators	relation_class	Regulation	sentence	c-Jun NH(2)-terminal kinase (JNK) and p38 kinase are key regulators of cardiac
+hypertrophy and apoptosis during pathological stress, but their role in
+regulating ion channels in the diseased heart is unclear.	PMID:	20518594	
+33	Cause	p38 kinase	Theme	JNK	relation	regulators	relation_class	Regulation	sentence	c-Jun NH(2)-terminal kinase (JNK) and p38 kinase are key regulators of cardiac
+hypertrophy and apoptosis during pathological stress, but their role in
+regulating ion channels in the diseased heart is unclear.	PMID:	20518594	
+34	Cause	gamma-Glutamyl transpeptidase	Theme	GSH	relation	enzyme	relation_class	Positive_regulation	sentence	gamma-Glutamyl transpeptidase (gamma-GT) is a key enzyme in GSH metabolism that
+regulates intracellular GSH levels in response to extracellular GSH (GSH(o)).	PMID:	19419996	
+35	Cause	GSH	Theme	GSH	relation	regulates	relation_class	Regulation	sentence	regulates intracellular GSH levels in response to extracellular GSH (GSH(o)).	PMID:	19419996	
+36	Cause	p21 promoters	Theme	histone	relation	stimulated	relation_class	Positive_regulation	sentence	1,25(OH)2 vit D3 stimulated histone acetylation at p21 promoters and increased
+the accumulation of cells in the G0/G1 phase.	PMID:	18500361	
+37	Cause	AF	Theme	mammalian thioredoxin reductases	relation	inhibitor	relation_class	Negative_regulation	sentence	particular, AF behaves as a potent inhibitor of mammalian thioredoxin reductases 
+causing severe intracellular oxidative stress.	PMID:	18294965	
+38	Cause	AF	Theme	cyclooxygenase-2	relation	inhibited	relation_class	Negative_regulation	sentence	 Furthermore, AF inhibited cyclooxygenase-2 (COX-2)-dependent
+prostaglandin E2 (PGE2) production in a concentration-dependent manner.	PMID:	18277610	
+39	Cause	AF	Theme	COX-2	relation	inhibited	relation_class	Negative_regulation	sentence	 Furthermore, AF inhibited cyclooxygenase-2 (COX-2)-dependent
+prostaglandin E2 (PGE2) production in a concentration-dependent manner.	PMID:	18277610	
+40	Cause	IFO	Theme	TrxR	relation	inactivated	relation_class	Positive_regulation	sentence	 TrxR was inactivated by IFO preferentially over other antioxidant
+parameters at 6 h; however, it recovered nearly to normal levels within 12 h.	PMID:	18037123	
+41	Cause	IFO	Theme	ARF	relation	induced	relation_class	Positive_regulation	sentence	mechanism of IFO-induced ARF, and individuals with lower levels of renal
+glutathione are at high risk of incurring ARF after IFO treatment.	PMID:	18037123	
+42	Cause	IL-6	Theme	janus kinase 1	relation	induced	relation_class	Positive_regulation	sentence	inhibited IL-6-induced phosphorylation of janus kinase 1 (JAK1) and signal
+transducer and activator of transcription 3 (STAT3) and STAT3 translocation into 
+the nucleus.	PMID:	17645497	
+43	Cause	IL-6	Theme	JAK1	relation	induced	relation_class	Positive_regulation	sentence	inhibited IL-6-induced phosphorylation of janus kinase 1 (JAK1) and signal
+transducer and activator of transcription 3 (STAT3) and STAT3 translocation into 
+the nucleus.	PMID:	17645497	
+44	Cause	TNFalpha	Theme	HO-1	relation	suppressed	relation_class	Negative_regulation	sentence	TNFalpha suppressed HO-1 expression by accelerating the decay of mRNA without
+affecting gene transcription or protein stability.	PMID:	17265482	
+45	Cause	Thioredoxin reductase	Theme	thioredoxin	relation	reduces	relation_class	Negative_regulation	sentence	Thioredoxin reductase (TrxR) reduces thioredoxin (Trx), thereby contributing to
+cellular redox balance, facilitating the synthesis of deoxy-ribose sugars for DNA
+synthesis, and regulating redox-sensitive gene expression.	PMID:	16510263	
+46	Cause	Thioredoxin reductase	Theme	Trx	relation	reduces	relation_class	Negative_regulation	sentence	Thioredoxin reductase (TrxR) reduces thioredoxin (Trx), thereby contributing to
+cellular redox balance, facilitating the synthesis of deoxy-ribose sugars for DNA
+synthesis, and regulating redox-sensitive gene expression.	PMID:	16510263	
+47	Cause	TrxR	Theme	thioredoxin	relation	reduces	relation_class	Negative_regulation	sentence	Thioredoxin reductase (TrxR) reduces thioredoxin (Trx), thereby contributing to
+cellular redox balance, facilitating the synthesis of deoxy-ribose sugars for DNA
+synthesis, and regulating redox-sensitive gene expression.	PMID:	16510263	
+48	Cause	TrxR	Theme	Trx	relation	reduces	relation_class	Negative_regulation	sentence	Thioredoxin reductase (TrxR) reduces thioredoxin (Trx), thereby contributing to
+cellular redox balance, facilitating the synthesis of deoxy-ribose sugars for DNA
+synthesis, and regulating redox-sensitive gene expression.	PMID:	16510263	
+49	Cause	IFN-gamma	Theme	anti-OVA IgG	relation	influence	relation_class	Regulation	sentence	failed to influence anti-OVA IgG, IgG2a and IgG1 production as well as IFN-gamma 
+and IL-10 secretion.	PMID:	15698518	
+50	Cause	IFN-gamma	Theme	IgG2a	relation	influence	relation_class	Regulation	sentence	failed to influence anti-OVA IgG, IgG2a and IgG1 production as well as IFN-gamma 
+and IL-10 secretion.	PMID:	15698518	
+51	Cause	IFN-gamma	Theme	IgG1	relation	influence	relation_class	Regulation	sentence	failed to influence anti-OVA IgG, IgG2a and IgG1 production as well as IFN-gamma 
+and IL-10 secretion.	PMID:	15698518	
+52	Cause	IFN-gamma	Theme	IFN-gamma	relation	influence	relation_class	Regulation	sentence	failed to influence anti-OVA IgG, IgG2a and IgG1 production as well as IFN-gamma 
+and IL-10 secretion.	PMID:	15698518	
+53	Cause	ATRA	Theme	C/EBPalpha	relation	increased	relation_class	Positive_regulation	sentence	with ATRA increased C/EBPalpha and beta expression, but decreased that of
+C/EBPdelta.	PMID:	12074569	
+54	Cause	ATRA	Theme	C/EBPalpha	relation	increased	relation_class	Positive_regulation	sentence	with ATRA increased C/EBPalpha and beta expression, but decreased that of
+C/EBPdelta.	PMID:	12074569	
+55	Cause	AF	Theme	GSTM	relation	effects	relation_class	Regulation	sentence	 To examine the effects of AF and GSTM on
+TNF-alpha-induced NF-kappaB activation this was measured in HUVEC nuclear
+extracts by an electrophoretic mobility shift assay.	PMID:	10759767	
+56	Cause	interleukin-1beta	Theme	cyclooxygenase-2	relation	induced	relation_class	Positive_regulation	sentence	Auranofin inhibits interleukin-1beta-induced transcript of cyclooxygenase-2 on
+cultured human synoviocytes.	PMID:	10594346	
+57	Cause	GST	Theme	B cell IgM	relation	suppressed	relation_class	Negative_regulation	sentence	 AUR as well as GST suppressed B cell IgM production at
+much lower concentrations than those that suppressed T cell proliferation or
+IFN-gamma production.	PMID:	10227815	
+58	Cause	GST	Theme	CD98	relation	suppressed	relation_class	Negative_regulation	sentence	well as GST suppressed the expression of CD98 and CD71 on SA-stimulated B cells.	PMID:	10227815	
+59	Cause	GST	Theme	GST	relation	effect	relation_class	Regulation	sentence	Of note, AUR and GST exerted a synergistic inhibitory effect on B cell production
+of IgM and IgG in a manner which was reversed by catalase, but not by ascorbate.	PMID:	10227815	
+60	Cause	GST	Theme	CD71	relation	suppressed	relation_class	Negative_regulation	sentence	well as GST suppressed the expression of CD98 and CD71 on SA-stimulated B cells.	PMID:	10227815	
+61	Cause	IL-1beta	Theme	E-selectin	relation	induced	relation_class	Positive_regulation	sentence	hampered IL-1beta-induced HUVEC hyperadhesiveness and expression of E-selectin
+and intercellular adhesion molecule 1, but augmented PMN adherence and CD18
+expression.	PMID:	9973188	
+62	Cause	cyclooxygenase-1	Theme	cyclooxygenase-1	relation	dependent	relation_class	Positive_regulation	sentence	Prostaglandin E2 production dependent upon cyclooxygenase-1 and cyclooxygenase-2 
+and its contradictory modulation by auranofin in rat peritoneal macrophages.	PMID:	9152412	
+63	Cause	cyclooxygenase-1	Theme	cyclooxygenase-2	relation	dependent	relation_class	Positive_regulation	sentence	Prostaglandin E2 production dependent upon cyclooxygenase-1 and cyclooxygenase-2 
+and its contradictory modulation by auranofin in rat peritoneal macrophages.	PMID:	9152412	
+64	Cause	cyclooxygenase-2	Theme	cyclooxygenase-1	relation	dependent	relation_class	Positive_regulation	sentence	Prostaglandin E2 production dependent upon cyclooxygenase-1 and cyclooxygenase-2 
+and its contradictory modulation by auranofin in rat peritoneal macrophages.	PMID:	9152412	
+65	Cause	cyclooxygenase-2	Theme	cyclooxygenase-2	relation	dependent	relation_class	Positive_regulation	sentence	Prostaglandin E2 production dependent upon cyclooxygenase-1 and cyclooxygenase-2 
+and its contradictory modulation by auranofin in rat peritoneal macrophages.	PMID:	9152412	
+66	Cause	AuTM	Theme	N-demethylase	relation	altered	relation_class	Regulation	sentence	N-demethylase activities were not altered by AuTM in livers of rats and the three
+strains of mice.	PMID:	9062847	
+67	Cause	ET-18-OCH3	Theme	nuclear factor-kappa B	relation	inhibits	relation_class	Negative_regulation	sentence	ET-18-OCH3 inhibits nuclear factor-kappa B activation by
+12-O-tetradecanoylphorbol-13-acetate but not by tumor necrosis factor-alpha or
+interleukin 1 alpha.	PMID:	7585518	
+68	Cause	PKC	Theme	NF-kappa B	relation	role	relation_class	Regulation	sentence	mechanisms, to assess the role of PKC in NF-kappa B activation.	PMID:	7585518	
+69	Cause	TNF-alpha	Theme	NF-kappa B	relation	blocked	relation_class	Negative_regulation	sentence	blocked NF-kappa B activation by TPA but not by TNF-alpha or IL-1 alpha.	PMID:	7585518	
+70	Cause	IL-1 receptor antagonist	Theme	IL-1ra	relation	role	relation_class	Regulation	sentence	In order to investigate the possible role of IL-1 receptor antagonist (IL-1ra) in
+patients with rheumatoid arthritis (RA), this study was undertaken to measure the
+amounts of IL-1ra and interleukin-1 beta (IL-1 beta) protein produced by
+mononuclear cells (MNC) and to investigate the relationship between production of
+these cytokines and clinical parameters.	PMID:	7881833	
+71	Cause	hsp70	Theme	hsp70	relation	inhibit	relation_class	Negative_regulation	sentence	protein 70 (hsp70), concomitantly inhibit the production of these cytokines in
+human monocytes and mouse macrophages activated by lipopolysaccharide.	PMID:	7988664	
+72	Cause	GST	Theme	PKC	relation	inhibit	relation_class	Negative_regulation	sentence	 GST was found to inhibit PKC in a dose-dependent manner,
+but AUR caused no significant inhibition of PKC at pharmacologically relevant
+concentrations.	PMID:	1351061	
+73	Cause	GST	Theme	PKC	relation	effect	relation_class	Regulation	sentence	 To investigate the effect of GST on the regulation of PKC in
+vivo, the levels of PKC activity in Jurkat cells were examined.	PMID:	1351061	
+74	Cause	GST	Theme	PKC	relation	mediated	relation_class	Positive_regulation	sentence	 The functional impact of GST-mediated downregulation of PKC in
+Jurkat cells was examined by analyzing PMA-stimulated phosphorylation of CD3.	PMID:	1351061	
+75	Cause	Auranofin	Theme	phosphofructokinase	relation	inactivates	relation_class	Positive_regulation	sentence	Auranofin inactivates phosphofructokinase in human neutrophils, leading to
+depletion of intracellular ATP and inhibition of superoxide generation and
+locomotion.	PMID:	1654515	
+76	Cause	interferon gamma	Theme	interleukin 1	relation	modulation	relation_class	Regulation	sentence	The modulation of interleukin 1 production by interferon gamma, and the
+inhibitory effects of gold compounds.	PMID:	2125034	
+77	Cause	IFN gamma	Theme	IL1	relation	effects	relation_class	Positive_regulation	sentence	effects of IFN gamma on the production of IL1 may be important in the
+pathogenesis of rheumatoid arthritis (RA).	PMID:	2125034	
+78	Cause	IL-1	Theme	interleukin 1	relation	effect	relation_class	Regulation	sentence	The effect of antirheumatic drugs on interleukin 1 (IL-1) activity and IL-1 and
+IL-1 inhibitor production by human monocytes.	PMID:	1981242	
+79	Cause	IL-1	Theme	IL-1	relation	effect	relation_class	Regulation	sentence	The effect of antirheumatic drugs on interleukin 1 (IL-1) activity and IL-1 and
+IL-1 inhibitor production by human monocytes.	PMID:	1981242	
+80	Cause	LTB4	Theme	LTA4	relation	converts	relation_class	Positive_regulation	sentence	concentrations stimulates LTA hydrolase--the enzyme that converts LTA4 to LTB4,
+whereas the inhibition of synthesis of all lipoxygenase products at higher
+auranofin concentrations, suggests inhibition of 5-lipoxygenase/LTA synthase.	PMID:	2157444	
+81	Cause	Auf	Theme	IFN gamma	relation	enhanced	relation_class	Positive_regulation	sentence	 Auf in low concentrations enhanced IFN gamma production by
+PBMC from NC but not RA; GST, and D-Pen had no effect.	PMID:	2112569	
+82	Cause	GST	Theme	IFN gamma	relation	inhibited	relation_class	Negative_regulation	sentence	and GST inhibited IFN gamma production by CON A - stimulated NC and RA cells;
+D-Pen had no effect.	PMID:	2112569	
+83	Cause	Auf	Theme	IFN gamma	relation	enhanced	relation_class	Positive_regulation	sentence	 Auf in low concentrations enhanced IFN gamma production by
+PHA - stimulated NC cells, but this effect was not seen with RA cells; GST
+inhibited both RA and NC cell production of IFN gamma, and D-Pen had no effect.	PMID:	2112569	
+84	Cause	Auf	Theme	IFN gamma	relation	effect	relation_class	Regulation	sentence	Auf has a biphasic effect on IFN gamma production by NC cells with low
+concentrations being stimulatory or co-stimulatory, possibly by acting on T
+helper cells.	PMID:	2112569	
+85	Cause	Con A	Theme	IL-2	relation	induced	relation_class	Positive_regulation	sentence	Potentiation of Con A-induced IL-2 release was obtained with concentrations of
+the drugs likely to be achieved in vivo during therapy.	PMID:	2668158	
+86	Cause	protein kinase C	Theme	EGF receptor	relation	mediated	relation_class	Positive_regulation	sentence	Enhancement of protein kinase C-mediated EGF receptor phosphorylation by
+auranofin.	PMID:	3187459	
+87	Cause	tumor necrosis factor alpha	Theme	TNF-alpha	relation	effects	relation_class	Regulation	sentence	The effects of tumor necrosis factor alpha (TNF-alpha) on human polymorphonuclear
+(PMN) cells were investigated.	PMID:	2822458	
+88	Cause	AF	Theme	3H fMPL	relation	inhibited	relation_class	Negative_regulation	sentence	 AF and CTEP-G inhibited the specific binding of 3H fMPL to
+PMNL membrane receptors, whereas CLQ had no effect.	PMID:	3016258	
+89	Cause	CTEP-G	Theme	3H fMPL	relation	inhibited	relation_class	Negative_regulation	sentence	 AF and CTEP-G inhibited the specific binding of 3H fMPL to
+PMNL membrane receptors, whereas CLQ had no effect.	PMID:	3016258	
+90	Cause	anti-IgE	Theme	LTC4	relation	induced	relation_class	Positive_regulation	sentence	LTC4 release from human basophils induced by anti-IgE.	PMID:	2425566	
+91	Cause	LTB4	Theme	lipoxygenase products	relation	stimulated	relation_class	Positive_regulation	sentence	of the lipoxygenase products 5-HETE-, 15-HETE and LTB4, in vitro when stimulated 
+with the calcium ionophore A23187.	PMID:	6099693	
+92	Cause	LTB4	Theme	LTB4	relation	stimulated	relation_class	Positive_regulation	sentence	of the lipoxygenase products 5-HETE-, 15-HETE and LTB4, in vitro when stimulated 
+with the calcium ionophore A23187.	PMID:	6099693	
+93	Cause	FMLP	Theme	lysosomal enzyme	relation	induced	relation_class	Positive_regulation	sentence	Correspondingly, the drugs suppressed lysosomal enzyme release induced by FMLP of
+PMNs rendered secretory with cytochalasin B.	PMID:	6283001	
+94	Cause	IgG-RF	Theme	lysosomal enzyme release	relation	complex-induced	relation_class	Positive_regulation	sentence	IgG-RF immune complex-induced lysosomal enzyme release (LER) from human
+leukocytes.	PMID:	104928	
+95	Cause	IgG-RF	Theme	LER	relation	complex-induced	relation_class	Positive_regulation	sentence	IgG-RF immune complex-induced lysosomal enzyme release (LER) from human
+leukocytes.	PMID:	104928	

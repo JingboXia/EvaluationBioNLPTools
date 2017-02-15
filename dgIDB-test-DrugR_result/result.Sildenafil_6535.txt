@@ -1,0 +1,354 @@
+1	Cause	CYP2C9	Theme	CYP3A	relation	>	relation_class	Regulation	sentence	in the order CYP3A > CYP2C8 > CYP2C9 > CYP2C19 > CYP2B6 and an inhibitor of
+CYP2C8 and CYP2C9.	PMID:	28067999	
+2	Cause	CYP2C9	Theme	CYP2C8	relation	>	relation_class	Regulation	sentence	in the order CYP3A > CYP2C8 > CYP2C9 > CYP2C19 > CYP2B6 and an inhibitor of
+CYP2C8 and CYP2C9.	PMID:	28067999	
+3	Cause	TRPC6 promoter	Theme	TRPC6 promoter	relation	inhibits	relation_class	Negative_regulation	sentence	to the TRPC6 promoter, which inhibits TRPC6 promoter activity, expression, and
+activity.	PMID:	27895156	
+4	Cause	Phosphodiesterase-5 inhibitors	Theme	PDE5I	relation	used	relation_class	Positive_regulation	sentence	Phosphodiesterase-5 inhibitors (PDE5I) are used for treatment of erectile
+dysfunction and pulmonary arterial hypertension and have been implicated as a
+causative factor for development of nonarteritic anterior ischemic optic
+neuropathy (NAION).	PMID:	27886893	
+5	Cause	IC50 values	Theme	HSP90 ATPase	relation	inhibited	relation_class	Negative_regulation	sentence	Sorafenib and pazopanib inhibited the HSP90 ATPase activity with IC50 values of
+~1.	PMID:	27259258	
+6	Cause	AMPK	Theme	AQP2	relation	activate	relation_class	Positive_regulation	sentence	stimulates AMPK to phosphorylate and activate AQP2 and UT-A1, and it increases
+urine concentrating ability in two rodent models of NDI.	PMID:	27534996	
+7	Cause	AMPK	Theme	UT-A1	relation	activate	relation_class	Positive_regulation	sentence	stimulates AMPK to phosphorylate and activate AQP2 and UT-A1, and it increases
+urine concentrating ability in two rodent models of NDI.	PMID:	27534996	
+8	Cause	nNOS	Theme	GC	relation	dependent	relation_class	Positive_regulation	sentence	CONCLUSIONS: These findings suggest that GC activity is nNOS dependent and that
+muscle-specific control of GC expression and differential GC targeting may
+facilitate NO-cGMP signaling diversity.	PMID:	27393340	
+9	Cause	PCS rats	Theme	TRPV1	relation	enhanced	relation_class	Positive_regulation	sentence	scratching or thermal sensitivity; (2) TRPV1 activity is enhanced in PCS rats;
+(3) treatment with sildenafil reduces TRPV1 activation, scratching and thermal
+hyperalgesia.	PMID:	27321307	
+10	Cause	AR-12	Theme	chaperone ATPase	relation	inhibited	relation_class	Negative_regulation	sentence	 AR-12 inhibited chaperone ATPase activity, which was 
+enhanced by sildenafil; inhibited chaperone - chaperone and chaperone - client
+interactions; and docked in silico with the ATPase domains of HSP90 and of HSP70.	PMID:	26887051	
+11	Cause	FL118	Theme	P-gp	relation	substrate	relation_class	Positive_regulation	sentence	FL118 is not a substrate for P-gp and ABCG2, this suggests that FL118 appears to 
+bypass multiple efflux pump protein-induced resistance, which may contribute to
+FL118 overcoming irinotecan and topotecan resistance in vivo.	PMID:	26692923	
+12	Cause	FL118	Theme	ABCG2	relation	substrate	relation_class	Positive_regulation	sentence	FL118 is not a substrate for P-gp and ABCG2, this suggests that FL118 appears to 
+bypass multiple efflux pump protein-induced resistance, which may contribute to
+FL118 overcoming irinotecan and topotecan resistance in vivo.	PMID:	26692923	
+13	Cause	CSF	Theme	PDE5	relation	inhibit	relation_class	Negative_regulation	sentence	(CSF) is high enough to inhibit PDE5 in the neural cells (neurons and glia).	PMID:	26641206	
+14	Cause	PDE5 Inhibitors	Theme	sGC	relation	Effects	relation_class	Regulation	sentence	eCollection 2015.	PMID:	26509272	
+15	Cause	CYP	Theme	cytochrome P450	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+16	Cause	CYP	Theme	cytochrome P450	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+17	Cause	CYP	Theme	CYP	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+18	Cause	CYP	Theme	CYP3A4	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+19	Cause	CYP3A4	Theme	cytochrome P450	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+20	Cause	CYP3A4	Theme	CYP	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+21	Cause	CYP3A4	Theme	CYP3A4	relation	enzymes	relation_class	Positive_regulation	sentence	cytochrome P450 (CYP) enzymes, mainly CYP3A4, to its active metabolite
+ACT-132577.	PMID:	26385839	
+22	Cause	NF-κB	Theme	Type 5 Phosphodiesterase	relation	Upregulates	relation_class	Positive_regulation	sentence	
+NF-κB Upregulates Type 5 Phosphodiesterase in N9 Microglial Cells: Inhibition by 
+Sildenafil and Yonkenafil.	PMID:	26108184	
+23	Cause	factor-κB	Theme	NF-κB	relation	upregulated	relation_class	Positive_regulation	sentence	factor-κB (NF-κB) transcriptionally upregulated PDE5 expression, which was
+inhibited by sildenafil and yonkenafil in LPS-stimulated N9 microglia.	PMID:	26108184	
+24	Cause	NF-κB	Theme	NF-κB	relation	upregulated	relation_class	Positive_regulation	sentence	factor-κB (NF-κB) transcriptionally upregulated PDE5 expression, which was
+inhibited by sildenafil and yonkenafil in LPS-stimulated N9 microglia.	PMID:	26108184	
+25	Cause	factor-κB	Theme	PDE5	relation	upregulated	relation_class	Positive_regulation	sentence	factor-κB (NF-κB) transcriptionally upregulated PDE5 expression, which was
+inhibited by sildenafil and yonkenafil in LPS-stimulated N9 microglia.	PMID:	26108184	
+26	Cause	NF-κB	Theme	PDE5	relation	upregulated	relation_class	Positive_regulation	sentence	factor-κB (NF-κB) transcriptionally upregulated PDE5 expression, which was
+inhibited by sildenafil and yonkenafil in LPS-stimulated N9 microglia.	PMID:	26108184	
+27	Cause	terminal deoxynucleotidyl transferase	Theme	dUTP	relation	mediated	relation_class	Positive_regulation	sentence	reaction (PCR), and terminal deoxynucleotidyl transferase-mediated dUTP nick end 
+labeling (TUNEL) assay.	PMID:	26040988	
+28	Cause	ANP	Theme	CFTR	relation	activate	relation_class	Positive_regulation	sentence	ANP and CNP activate CFTR expressed in Xenopus laevis oocytes by direct
+activation of PKA.	PMID:	26016495	
+29	Cause	ANP	Theme	shark CFTR	relation	stimulated	relation_class	Positive_regulation	sentence	RESULTS AND DISCUSSION: ANP stimulated the shark CFTR (sCFTR)-mediated chloride
+conductance and this activation was inhibited by H-89, a specific inhibitor of
+PKA.	PMID:	26016495	
+30	Cause	CNP	Theme	CFTR	relation	activate	relation_class	Positive_regulation	sentence	ANP and CNP activate CFTR expressed in Xenopus laevis oocytes by direct
+activation of PKA.	PMID:	26016495	
+31	Cause	ANP	Theme	sCFTR	relation	stimulated	relation_class	Positive_regulation	sentence	RESULTS AND DISCUSSION: ANP stimulated the shark CFTR (sCFTR)-mediated chloride
+conductance and this activation was inhibited by H-89, a specific inhibitor of
+PKA.	PMID:	26016495	
+32	Cause	PDE5i	Theme	phosphodiesterase-5	relation	affects	relation_class	Regulation	sentence	 Our and other groups recently showed
+that chronic inhibition of phosphodiesterase-5 (PDE5i) affects circulating
+cytokine levels in patients with diabetes; whether PDE5i also affects circulating
+monocytes and tissue inflammatory cell infiltration remains to be established.	PMID:	25961566	
+33	Cause	KMUP-1A	Theme	PAH	relation	reduced	relation_class	Negative_regulation	sentence	 Finally, KMUP-1A or sildenafil-A reduced PAH and associated right
+ventricular hypertrophy.	PMID:	25910559	
+34	Cause	sildenafil-A	Theme	PAH	relation	reduced	relation_class	Negative_regulation	sentence	 Finally, KMUP-1A or sildenafil-A reduced PAH and associated right
+ventricular hypertrophy.	PMID:	25910559	
+35	Cause	PDE5inhs	Theme	TXB2	relation	decrease	relation_class	Negative_regulation	sentence	 In contrast, PDE5inhs significantly decrease TXB2 and fibrinogen
+levels (p < 0.	PMID:	25861307	
+36	Cause	PDE2	Theme	PDE5	relation	regulation	relation_class	Regulation	sentence	cAMP that is under dual regulation by PDE2 and, indirectly, PDE5 activity.	PMID:	25852085	
+37	Cause	β2AR	Theme	β1AR	relation	stimulated	relation_class	Positive_regulation	sentence	 PDE5 inhibition selectively lowered contraction rate
+stimulated by β2AR, but not β1AR activation, supporting a compartmentalization of
+the cGMP-modulated pool of cAMP.	PMID:	25852085	
+38	Cause	PDE-5A	Theme	blood SEAP	relation	control	relation_class	Regulation	sentence	with NPR-A and PDE-5A showed control of blood SEAP levels through administration 
+of sildenafil (Viagra(®)).	PMID:	25843350	
+39	Cause	U-74389G	Theme	TNF	relation	reduced	relation_class	Negative_regulation	sentence	RESULTS: Sildenafil reduced TNF-α tissue levels and increased body weight.	PMID:	25277360	
+40	Cause	gamma interferon	Theme	MIG	relation	induced	relation_class	Positive_regulation	sentence	CXC chemokine (LIX), monokine induced by gamma interferon (MIG), macrophage
+inflammatory protein (MIP)-1α, and MIP-3α.	PMID:	25133539	
+41	Cause	KMUP-1	Theme	eNOS	relation	enhanced	relation_class	Positive_regulation	sentence	blotting analysis demonstrated that KMUP-1 enhanced eNOS, soluble guanylate
+cyclase, and protein kinase G levels, and reduced ET-1 expression and inactivated
+Rho kinase II (ROCKII) in MCT-treated lung tissue over long-term administration.	PMID:	24835346	
+42	Cause	cyclase	Theme	ET-1	relation	reduced	relation_class	Negative_regulation	sentence	cyclase, and protein kinase G levels, and reduced ET-1 expression and inactivated
+Rho kinase II (ROCKII) in MCT-treated lung tissue over long-term administration.	PMID:	24835346	
+43	Cause	ET-1	Theme	RhoA	relation	dependent/independent	relation_class	Positive_regulation	sentence	PA constriction and ET-1-dependent/independent RhoA activation of PASMCs.	PMID:	24835346	
+44	Cause	CaSR	Theme	CaSR	relation	necessary	relation_class	Positive_regulation	sentence	upregulated CaSR is necessary for the enhanced Ca(2+) signaling and the augmented
+cell proliferation in PASMCs from IPAH patients.	PMID:	24770445	
+45	Cause	PDE5	Theme	PDE4	relation	inhibition	relation_class	Negative_regulation	sentence	 The results suggest that inhibition of PDE4 by etazolate or PDE5 by
+sildenafil produced antidepressant-like effects in CUMS-treated animals via cAMP 
+or cGMP signaling, which shares the common downstream signal pathway of
+CREB/BDNF/VGF.	PMID:	24705918	
+46	Cause	PDE5 inhibitor	Theme	statin	relation	effects	relation_class	Regulation	sentence	
+In-vitro effects of PDE5 inhibitor and statin treatment on the contractile
+responses of experimental MetS rabbit's cavernous smooth muscle.	PMID:	24704929	
+47	Cause	PDE5A	Theme	PDE5A	relation	affect	relation_class	Regulation	sentence	in PDE5A could affect the physiologic actions of PDE5A and the effects of
+phosphodiestrase type 5 inhibitor drugs.	PMID:	24341639	
+48	Cause	PDE5A	Theme	PDE5A	relation	affect	relation_class	Regulation	sentence	in PDE5A could affect the physiologic actions of PDE5A and the effects of
+phosphodiestrase type 5 inhibitor drugs.	PMID:	24341639	
+49	Cause	miR-146a	Theme	miR-146a	relation	elevation	relation_class	Positive_regulation	sentence	 In vitro, elevation of miR-146a by miR-146a mimics in DRG 
+neurons increased neuronal survival under high-glucose conditions.	PMID:	24316060	
+50	Cause	miR-146a	Theme	DRG neuron	relation	abolished	relation_class	Negative_regulation	sentence	miR-146a in DRG neurons abolished the effect of sildenafil on DRG neuron
+protection and downregulation of IRAK1 and TRAF6 proteins under hyperglycemia.	PMID:	24316060	
+51	Cause	AHR PAs	Theme	PDE5	relation	decreased	relation_class	Negative_regulation	sentence	AHR PAs, sildenafil decreased PDE5 activity and increased cGMP.	PMID:	24032519	
+52	Cause	Phosphodiesterase 11	Theme	PDEs family	relation	isoform	relation_class	Positive_regulation	sentence	Phosphodiesterase 11 (PDE11) is the latest isoform of the PDEs family to be
+identified, acting on both cyclic adenosine monophosphate and cyclic guanosine
+monophosphate.	PMID:	23865680	
+53	Cause	PDE11	Theme	PDEs family	relation	isoform	relation_class	Positive_regulation	sentence	Phosphodiesterase 11 (PDE11) is the latest isoform of the PDEs family to be
+identified, acting on both cyclic adenosine monophosphate and cyclic guanosine
+monophosphate.	PMID:	23865680	
+54	Cause	Protein kinase g	Theme	Protein kinase g	relation	regulates	relation_class	Positive_regulation	sentence	Protein kinase g positively regulates proteasome-mediated degradation of
+misfolded proteins.	PMID:	23770744	
+55	Cause	ET-1	Theme	TRPCs	relation	enhanced	relation_class	Positive_regulation	sentence	Although ET-1 enhanced the gene expression of TRPCs, sildenafil inhibited the
+enhanced gene expression of TRPC1, C3 and C6.	PMID:	23764398	
+56	Cause	HFpEF	Theme	HFpEF	relation	increasing	relation_class	Positive_regulation	sentence	 HFpEF is increasing at a steady rate and is predicted 
+to become the leading cause of heart failure within a decade.	PMID:	23714774	
+57	Cause	Rp	Theme	cGMP-dependent protein kinase	relation	inhibitor	relation_class	Negative_regulation	sentence	wild-type (WT) mice that were treated with PDE5 inhibitor sildenafil and the
+inhibitor of cGMP-dependent protein kinase Rp-8-Br-PET-cGMPS.	PMID:	23685322	
+58	Cause	lipopolysaccharide receptor toll-like receptor 4	Theme	TLR4	relation	role	relation_class	Positive_regulation	sentence	role for the lipopolysaccharide receptor toll-like receptor 4 (TLR4) in NEC
+development through its induction of mucosal injury, yet the reasons for which
+intestinal ischemia in NEC occurs in the first place remain unknown.	PMID:	23650378	
+59	Cause	VASP	Theme	AMPK	relation	increases	relation_class	Positive_regulation	sentence	 Epub 2013 Jan 24.	PMID:	23349495	
+60	Cause	MAPK kinases	Theme	MKK3/6	relation	lead	relation_class	Positive_regulation	sentence	and two MAPK kinases, MKK3/6 and MKK7, which lead to an increased phosphorylation
+of JNK and p38 MAPK, effects that were blocked by sildenafil.	PMID:	23186227	
+61	Cause	MAPK kinases	Theme	MKK7	relation	lead	relation_class	Positive_regulation	sentence	and two MAPK kinases, MKK3/6 and MKK7, which lead to an increased phosphorylation
+of JNK and p38 MAPK, effects that were blocked by sildenafil.	PMID:	23186227	
+62	Cause	MKK3/6	Theme	MKK3/6	relation	lead	relation_class	Positive_regulation	sentence	and two MAPK kinases, MKK3/6 and MKK7, which lead to an increased phosphorylation
+of JNK and p38 MAPK, effects that were blocked by sildenafil.	PMID:	23186227	
+63	Cause	MKK3/6	Theme	MKK7	relation	lead	relation_class	Positive_regulation	sentence	and two MAPK kinases, MKK3/6 and MKK7, which lead to an increased phosphorylation
+of JNK and p38 MAPK, effects that were blocked by sildenafil.	PMID:	23186227	
+64	Cause	MKK7	Theme	MKK3/6	relation	lead	relation_class	Positive_regulation	sentence	and two MAPK kinases, MKK3/6 and MKK7, which lead to an increased phosphorylation
+of JNK and p38 MAPK, effects that were blocked by sildenafil.	PMID:	23186227	
+65	Cause	MKK7	Theme	MKK7	relation	lead	relation_class	Positive_regulation	sentence	and two MAPK kinases, MKK3/6 and MKK7, which lead to an increased phosphorylation
+of JNK and p38 MAPK, effects that were blocked by sildenafil.	PMID:	23186227	
+66	Cause	BMP4	Theme	Smad1/5	relation	induced	relation_class	Positive_regulation	sentence	PASMCs, sildenafil enhanced BMP4-induced phosphorylation of Smad1/5, Smad nuclear
+localization, and Inhibitor of DNA binding protein 1 gene and protein expression.	PMID:	23139294	
+67	Cause	phosphodiesterase type 5 inhibitor	Theme	PDE5i	relation	necessary	relation_class	Positive_regulation	sentence	the brain is necessary for phosphodiesterase type 5 inhibitor (PDE5i)-mediated
+increase in genital sexual response.	PMID:	23130748	
+68	Cause	BMP4	Theme	Smad	relation	induced	relation_class	Positive_regulation	sentence	PASMCs, sildenafil enhanced BMP4-induced phosphorylation of Smad1/5, Smad nuclear
+localization, and Inhibitor of DNA binding protein 1 gene and protein expression.	PMID:	23139294	
+69	Cause	Melatonin	Theme	PDE5	relation	increasing	relation_class	Positive_regulation	sentence	Melatonin inhibits nitric oxide signaling by increasing PDE5 phosphorylation in
+coronary arteries.	PMID:	23086989	
+70	Cause	Melatonin	Theme	PDE5	relation	induced	relation_class	Positive_regulation	sentence	 Melatonin-induced PDE5 phosphorylation was markedly
+attenuated in the presence of the PKG1 inhibitors DT-2 or Rp-8-Br-PET-cGMPS and
+in those arteries in which PKG1 expression was first downregulated by 24-h
+incubation with SNP before exposure to melatonin.	PMID:	23086989	
+71	Cause	sGC inhibitor	Theme	HO-1	relation	unaffected	relation_class	Regulation	sentence	 The induction of HO-1 was unaffected by the sGC inhibitor
+1H-(1,2,4)oxadiazolo[4,3-α]quinozalin-1-one (ODQ) or the protein kinase G
+inhibitor
+(8R,9S,11S)-(-)-2-methyl-9-methoxyl-9-methoxycarbonyl-8-methyl-2,3,9,10-tetrahydr
+o-8,11-epoxy-1H,8H,11H-2,7b,11a-triazadibenzo(a,g)cyclocta9(cde)trinen-1-one (KT 
+5823).	PMID:	22864061	
+72	Cause	P-gp	Theme	BCRP	relation	involvement	relation_class	Regulation	sentence	CONCLUSION: The involvement of P-gp, BCRP and MRP2 for vardenafil and the
+involvement of P-gp and BCRP for sildenafil in the secretory transport with
+linear absorptive transport may contribute to the limited intestinal absorption
+of these drugs.	PMID:	22775210	
+73	Cause	P-gp	Theme	MRP2	relation	involvement	relation_class	Regulation	sentence	CONCLUSION: The involvement of P-gp, BCRP and MRP2 for vardenafil and the
+involvement of P-gp and BCRP for sildenafil in the secretory transport with
+linear absorptive transport may contribute to the limited intestinal absorption
+of these drugs.	PMID:	22775210	
+74	Cause	PDE5	Theme	phosphodiesterase-5	relation	induces	relation_class	Positive_regulation	sentence	Sildenafil induces cGMP accumulation through phosphodiesterase-5 (PDE5)
+inhibition.	PMID:	22749439	
+75	Cause	IFN-γ	Theme	TNF	relation	changed	relation_class	Regulation	sentence	 Neither of the PDE inhibitors under investigation administered once
+changed IFN-γ, TNF and IL-4 production.	PMID:	22580534	
+76	Cause	MRP7	Theme	MDR	relation	mediated	relation_class	Positive_regulation	sentence	reverse MRP7-mediated a MDR through inhibition of the drug efflux function of
+MRP7.	PMID:	22578167	
+77	Cause	IFN-γ	Theme	IFN-γ	relation	changed	relation_class	Regulation	sentence	 Neither of the PDE inhibitors under investigation administered once
+changed IFN-γ, TNF and IL-4 production.	PMID:	22580534	
+78	Cause	IFN-γ	Theme	IL-4	relation	changed	relation_class	Regulation	sentence	 Neither of the PDE inhibitors under investigation administered once
+changed IFN-γ, TNF and IL-4 production.	PMID:	22580534	
+79	Cause	MuRF-1	Theme	SIRT1	relation	induced	relation_class	Positive_regulation	sentence	and MuRF-1, are known to be induced by SIRT1 activators but have not been
+characterized in hypertrophic vascular disease.	PMID:	22146233	
+80	Cause	NFATc2	Theme	calcineurin	relation	mediated	relation_class	Positive_regulation	sentence	Sildenafil inhibits calcineurin/NFATc2-mediated cyclin A expression in pulmonary 
+artery smooth muscle cells.	PMID:	21851826	
+81	Cause	NFATc2	Theme	cyclin A	relation	mediated	relation_class	Positive_regulation	sentence	Sildenafil inhibits calcineurin/NFATc2-mediated cyclin A expression in pulmonary 
+artery smooth muscle cells.	PMID:	21851826	
+82	Cause	SIL	Theme	GSH	relation	effect	relation_class	Regulation	sentence	 l-NAME prevented the
+effect of SIL on GSH content (p < 0.	PMID:	21806998	
+83	Cause	E2	Theme	eNOS gene	relation	induce	relation_class	Positive_regulation	sentence	 E2 is known to induce upregulation of eNOS gene
+expression in aortic endothelial cells.	PMID:	25961263	
+84	Cause	allosteric cGMP-binding site	Theme	PDE5	relation	increasing	relation_class	Positive_regulation	sentence	cGMP at the allosteric cGMP-binding site of PDE5 and by increasing cGMP
+degradation at the catalytic site of the enzyme.	PMID:	21620965	
+85	Cause	terminal deoxynucleotidyltransferase	Theme	dUTP	relation	mediated	relation_class	Positive_regulation	sentence	trichrome and terminal deoxynucleotidyltransferase-mediated dUTP nick end
+labeling (TUNEL), respectively, were attenuated in the sildenafil-treated mice (P
+< 0.	PMID:	21398594	
+86	Cause	Insulin	Theme	PDE5	relation	increased	relation_class	Positive_regulation	sentence	 Insulin increased the expression of PDE5 and
+eNOS mRNA assayed by Real time-PCR.	PMID:	21297971	
+87	Cause	Ang II	Theme	PDE1	relation	augmented	relation_class	Positive_regulation	sentence	 We hypothesized that Ang II augmented PDE1
+activation, decreasing the bioavailability of cyclic guanosine 3'
+5'-monophosphate (cGMP), and contributing to increased vascular contractility.	PMID:	21282562	
+88	Cause	SIL	Theme	EREG	relation	affect	relation_class	Regulation	sentence	pro-fibrotic factors.	PMID:	21269401	
+89	Cause	SIL	Theme	VEGF	relation	affect	relation_class	Regulation	sentence	pro-fibrotic factors.	PMID:	21269401	
+90	Cause	PH	Theme	PH	relation	contributes	relation_class	Positive_regulation	sentence	 PH contributes significantly to the high morbidity and mortality in the BPD
+patients.	PMID:	21189939	
+91	Cause	phosphodiesterase type 5	Theme	PDE5	relation	effects	relation_class	Regulation	sentence	OBJECTIVE: To investigate the effects of phosphodiesterase type 5 (PDE5)
+inhibitors on erectile variables during a period with no sexual stimulation in a 
+laboratory setting double-blind study.	PMID:	20438562	
+92	Cause	phosphodiesterase-5 inhibitors	Theme	PDE5-i	relation	effects	relation_class	Regulation	sentence	OBJECTIVE: to evaluate the effects of phosphodiesterase-5 inhibitors (PDE5-i) on 
+Leydig cell secretory function (LCSF).	PMID:	20184572	
+93	Cause	PKG	Theme	TRPC6	relation	inhibits	relation_class	Negative_regulation	sentence	G (PKG) inhibits TRPC6 channel activity and cardiac hypertrophy, respectively, it
+is unclear whether PKG suppresses cardiac hypertrophy through inhibition of
+TRPC6.	PMID:	20177073	
+94	Cause	ETR	Theme	CYP3A4	relation	inducer	relation_class	Positive_regulation	sentence	 ETR acts as an inducer of CYP3A4 and
+inhibitor of CYP2C9 and CYP2C19.	PMID:	20116625	
+95	Cause	PKG	Theme	troponin I	relation	mediated	relation_class	Positive_regulation	sentence	myocyte beta-3 signaling coupled to PKG-mediated troponin I phosphorylation.	PMID:	20107996	
+96	Cause	beta3-AR	Theme	PDE5A protein	relation	similar	relation_class	Negative_regulation	sentence	Importantly, both PDE5A protein expression and activity were similar in beta3-AR 
+knockout (beta3-AR(-/-)) myocytes as in controls.	PMID:	20107996	
+97	Cause	phosphodiesterase type 5 inhibitor	Theme	PDE5i	relation	attributable	relation_class	Positive_regulation	sentence	market is attributable in part to phosphodiesterase type 5 inhibitor (PDE5i)
+medications for erectile dysfunction (ED).	PMID:	20088883	
+98	Cause	PDE	Theme	Cyclic nucleotide phosphodiesterase	relation	enzyme	relation_class	Positive_regulation	sentence	Cyclic nucleotide phosphodiesterase (PDE), that is a multigenic enzyme
+superfamily ubiquitously distributed in mammalians, mainly contributes to
+intracellular signaling regulation.	PMID:	20030615	
+99	Cause	SKF	Theme	TRPC1	relation	inhibited	relation_class	Negative_regulation	sentence	proliferation and TRPC1 up-regulation were inhibited by SKF and NFAT blocker
+(VIVIT and Cyclosporin A).	PMID:	20003325	
+100	Cause	NFAT	Theme	TRPC1	relation	inhibited	relation_class	Negative_regulation	sentence	proliferation and TRPC1 up-regulation were inhibited by SKF and NFAT blocker
+(VIVIT and Cyclosporin A).	PMID:	20003325	
+101	Cause	NFAT	Theme	TRPC6	relation	dependent	relation_class	Positive_regulation	sentence	feedback loop involving NFAT and NFAT-dependent TRPC6 upregulation.	PMID:	19961855	
+102	Cause	ET1	Theme	TRPC6	relation	stimulated	relation_class	Positive_regulation	sentence	8Br-cGMP and SIL reduced ET1-stimulated TRPC6 expression and NFAT
+dephosphorylation (activity).	PMID:	19961855	
+103	Cause	SIL	Theme	TRPC6	relation	inhibited	relation_class	Negative_regulation	sentence	NFAT triggered TRPC6 expression that was not inhibited by SIL.	PMID:	19961855	
+104	Cause	ACTH	Theme	TSH	relation	remained	relation_class	Positive_regulation	sentence	TSH, FT4 and prolactin secretion; serum ACTH and plasma cortisol levels remained 
+low.	PMID:	19915297	
+105	Cause	ACTH	Theme	FT4	relation	remained	relation_class	Positive_regulation	sentence	TSH, FT4 and prolactin secretion; serum ACTH and plasma cortisol levels remained 
+low.	PMID:	19915297	
+106	Cause	ACTH	Theme	prolactin	relation	remained	relation_class	Positive_regulation	sentence	TSH, FT4 and prolactin secretion; serum ACTH and plasma cortisol levels remained 
+low.	PMID:	19915297	
+107	Cause	bradykinin	Theme	activating nitric-oxide synthase	relation	causes	relation_class	Positive_regulation	sentence	bradykinin causes vasodilation partly by activating nitric-oxide synthase (NOS), 
+the role of nitric oxide in regulating bradykinin-stimulated t-PA release is
+uncertain.	PMID:	19841473	
+108	Cause	bradykinin	Theme	t-PA	relation	stimulated	relation_class	Positive_regulation	sentence	the role of nitric oxide in regulating bradykinin-stimulated t-PA release is
+uncertain.	PMID:	19841473	
+109	Cause	bradykinin	Theme	t-PA	relation	stimulated	relation_class	Positive_regulation	sentence	bradykinin-stimulated t-PA release and glucose uptake in humans.	PMID:	19841473	
+110	Cause	ETR	Theme	ETR-A	relation	elevated	relation_class	Positive_regulation	sentence	elevated in SCD, acts through the ET receptors (ETR), ETR-A and ETR-B.	PMID:	19775299	
+111	Cause	MCT	Theme	PAH	relation	induced	relation_class	Positive_regulation	sentence	showed that MCT clearly induced PAH.	PMID:	19395550	
+112	Cause	eNOS	Theme	nitric oxide synthase	relation	/inducible	relation_class	Positive_regulation	sentence	(eNOS)/inducible nitric oxide synthase (iNOS) and Bcl-2.	PMID:	19286961	
+113	Cause	PKG	Theme	ERK	relation	dependent	relation_class	Positive_regulation	sentence	studies provide first direct evidence that PKG-dependent ERK phosphorylation is
+indispensable for the induction of eNOS/iNOS and Bcl-2 and the resulting
+cardioprotection by sildenafil.	PMID:	19286961	
+114	Cause	eNOS	Theme	iNOS	relation	/inducible	relation_class	Positive_regulation	sentence	(eNOS)/inducible nitric oxide synthase (iNOS) and Bcl-2.	PMID:	19286961	
+115	Cause	eNOS	Theme	Bcl-2	relation	/inducible	relation_class	Positive_regulation	sentence	(eNOS)/inducible nitric oxide synthase (iNOS) and Bcl-2.	PMID:	19286961	
+116	Cause	ACS6	Theme	p47	relation	reduced	relation_class	Negative_regulation	sentence	superoxide and expression of p47(phox) and PDE5 was reduced by ACS6, sildenafil
+citrate and NaHS (order of potency: ACS6 > sildenafil citrate > NaHS).	PMID:	19245441	
+117	Cause	ACS6	Theme	PKA	relation	promotes	relation_class	Positive_regulation	sentence	on PKA and PKG activation, ACS6 not only promotes erection, acutely, but might
+also have a long-term beneficial effect through inhibition of oxidative stress
+and downregulation of PDE5.	PMID:	19245441	
+118	Cause	ACS6	Theme	phox	relation	reduced	relation_class	Negative_regulation	sentence	superoxide and expression of p47(phox) and PDE5 was reduced by ACS6, sildenafil
+citrate and NaHS (order of potency: ACS6 > sildenafil citrate > NaHS).	PMID:	19245441	
+119	Cause	ACS6	Theme	PDE5	relation	reduced	relation_class	Negative_regulation	sentence	superoxide and expression of p47(phox) and PDE5 was reduced by ACS6, sildenafil
+citrate and NaHS (order of potency: ACS6 > sildenafil citrate > NaHS).	PMID:	19245441	
+120	Cause	ACS6	Theme	PKG	relation	promotes	relation_class	Positive_regulation	sentence	on PKA and PKG activation, ACS6 not only promotes erection, acutely, but might
+also have a long-term beneficial effect through inhibition of oxidative stress
+and downregulation of PDE5.	PMID:	19245441	
+121	Cause	SIL	Theme	GSK3beta	relation	enhanced	relation_class	Positive_regulation	sentence	mTAC), GSK3beta and Akt phosphorylation were unaltered but SIL enhanced it.	PMID:	19159628	
+122	Cause	SIL	Theme	Akt	relation	enhanced	relation_class	Positive_regulation	sentence	mTAC), GSK3beta and Akt phosphorylation were unaltered but SIL enhanced it.	PMID:	19159628	
+123	Cause	cGMP-dependent protein kinase	Theme	RGS2	relation	activated	relation_class	Positive_regulation	sentence	In vascular smooth muscle, RGS2 is activated by cGMP-dependent protein kinase
+(PKG), suppressing Gq-stimulated vascular contraction.	PMID:	19127022	
+124	Cause	ET-1	Theme	TRPC	relation	induced	relation_class	Positive_regulation	sentence	upregulation of TRPC expression induced by ET-1.	PMID:	18818482	
+125	Cause	phosphodiesterase 5 inhibitor	Theme	PDE5	relation	reversed	relation_class	Negative_regulation	sentence	, a phosphodiesterase 5 inhibitor, PDE5) significantly reversed the reduction
+in immobility time elicited by tramadol (20 mg/kg, p.	PMID:	18773934	
+126	Cause	PDE5	Theme	cGMP	relation	increased	relation_class	Positive_regulation	sentence	 Basic studies suggest that increased cGMP activity by PDE5
+inhibition has potentially favorable direct myocardial effects that may block
+adrenergic, hypertrophic, and proapoptotic signaling.	PMID:	18765082	
+127	Cause	protein kinase G	Theme	PDE5	relation	regulation	relation_class	Regulation	sentence	Compartmentation and compartment-specific regulation of PDE5 by protein kinase G 
+allows selective cGMP-mediated regulation of platelet functions.	PMID:	18757735	
+128	Cause	cGMP	Theme	cGMP-dependent protein kinase	relation	activate	relation_class	Positive_regulation	sentence	increases cGMP levels that activate cGMP-dependent protein kinase (PKG).	PMID:	18723505	
+129	Cause	cGMP	Theme	PKG	relation	activate	relation_class	Positive_regulation	sentence	increases cGMP levels that activate cGMP-dependent protein kinase (PKG).	PMID:	18723505	
+130	Cause	nitric oxide synthase	Theme	eNOS	relation	affect	relation_class	Regulation	sentence	endothelial nitric oxide synthase (eNOS) has also been reported to affect sexual 
+motivation in old rats.	PMID:	18637997	
+131	Cause	IL-1beta	Theme	iNOS	relation	induced	relation_class	Positive_regulation	sentence	IL-1beta-induced nitric oxide (NO) synthesis and iNOS expression in human
+synovial sarcoma SW982 cells.	PMID:	18587266	
+132	Cause	rIMD	Theme	CRLR	relation	stimulates	relation_class	Positive_regulation	sentence	 In conclusion, rIMD stimulates endothelial CRLR are 
+coupled to release of nitric oxide, activation of guanylate cyclases, and
+promotion of hyperpolarization through large conductance calcium-activated K(+)
+channels in rat main PA.	PMID:	18538894	
+133	Cause	RhoA	Theme	RhoA	relation	involved	relation_class	Regulation	sentence	RhoA and prevention of its translocation to the plasma membrane are involved in
+the protective effect of the type 5-PDE inhibitor, sildenafil, against hypoxia-
+and bleomycin-induced PH.	PMID:	18536743	
+134	Cause	RhoA	Theme	RhoA	relation	involved	relation_class	Regulation	sentence	RhoA and prevention of its translocation to the plasma membrane are involved in
+the protective effect of the type 5-PDE inhibitor, sildenafil, against hypoxia-
+and bleomycin-induced PH.	PMID:	18536743	
+135	Cause	SOD	Theme	catalase	relation	blocked	relation_class	Negative_regulation	sentence	formation, an effect blocked by SOD, catalase, apocynin, and sildenafil (1
+micromol/L) when co-incubated over the same time course.	PMID:	18097500	
+136	Cause	SOD	Theme	apocynin	relation	blocked	relation_class	Negative_regulation	sentence	formation, an effect blocked by SOD, catalase, apocynin, and sildenafil (1
+micromol/L) when co-incubated over the same time course.	PMID:	18097500	
+137	Cause	H2O2	Theme	PDE5	relation	induce	relation_class	Positive_regulation	sentence	with H2O2 is sufficient to induce PDE5 expression and activity, suggesting that
+reactive oxygen species mediate the effects of hyperoxia in FPASMCs.	PMID:	17991881	
+138	Cause	PDGF	Theme	ERK1/2	relation	stimulated	relation_class	Positive_regulation	sentence	PDGF-stimulated phosphorylation of ERK1/2 and restored PDGF-induced cell
+proliferation.	PMID:	17898384	
+139	Cause	atorvastatin	Theme	RhoA membrane translocation and	relation	inhibited	relation_class	Negative_regulation	sentence	derived from CC (hfPSMC), atorvastatin inhibited RhoA membrane translocation and 
+ROCK activity, as well as RhoA-dependent biologic functions like cell migration
+and cell proliferation.	PMID:	17699803	
+140	Cause	PDE6	Theme	PDE6	relation	blot	relation_class	Positive_regulation	sentence	 Western blot for PDE6 and PDE5 protein expression was
+performed on frozen samples of human retina, testis, sperm, skin, and corpus
+cavernosum.	PMID:	17585311	
+141	Cause	PDE6	Theme	PDE5 protein	relation	blot	relation_class	Positive_regulation	sentence	 Western blot for PDE6 and PDE5 protein expression was
+performed on frozen samples of human retina, testis, sperm, skin, and corpus
+cavernosum.	PMID:	17585311	
+142	Cause	PD98059	Theme	MEK	relation	Inhibition	relation_class	Negative_regulation	sentence	Inhibition of MEK by PD98059 and p38 with SB203580 blocked sildenafil-induced
+proliferation and migration, respectively, suggesting that these MAPK members are
+downstream of PDE5 and mediate the angiogenic effects of sildenafil.	PMID:	17226792	
+143	Cause	p38	Theme	MEK	relation	Inhibition	relation_class	Negative_regulation	sentence	Inhibition of MEK by PD98059 and p38 with SB203580 blocked sildenafil-induced
+proliferation and migration, respectively, suggesting that these MAPK members are
+downstream of PDE5 and mediate the angiogenic effects of sildenafil.	PMID:	17226792	
+144	Cause	FST	Theme	FST	relation	mediated	relation_class	Positive_regulation	sentence	FST appears to be mediated through an interaction with the NO-cGMP pathway.	PMID:	16202183	
+145	Cause	ubiquitin	Theme	RhoA	relation	protects	relation_class	Positive_regulation	sentence	Phosphorylation of serine 188 protects RhoA from ubiquitin/proteasome-mediated
+degradation in vascular smooth muscle cells.	PMID:	15890975	
+146	Cause	PI3-K	Theme	Akt	relation	abolished	relation_class	Negative_regulation	sentence	PI3-K/Akt, abolished Sildenafil-induced phosphorylated Akt and GSK-3.	PMID:	15815584	
+147	Cause	PI3-K	Theme	GSK-3	relation	abolished	relation_class	Negative_regulation	sentence	PI3-K/Akt, abolished Sildenafil-induced phosphorylated Akt and GSK-3.	PMID:	15815584	
+148	Cause	PI3-K	Theme	Akt	relation	abolished	relation_class	Negative_regulation	sentence	PI3-K/Akt, abolished Sildenafil-induced phosphorylated Akt and GSK-3.	PMID:	15815584	
+149	Cause	PI3-K	Theme	GSK-3	relation	abolished	relation_class	Negative_regulation	sentence	PI3-K/Akt, abolished Sildenafil-induced phosphorylated Akt and GSK-3.	PMID:	15815584	
+150	Cause	PDGF	Theme	ERK	relation	activation	relation_class	Positive_regulation	sentence	inhibition of PDGF-mediated activation of the ERK.	PMID:	15739122	
+151	Cause	cyclic GMP phosphodiesterase-5	Theme	serotonin transport	relation	Stimulation	relation_class	Positive_regulation	sentence	 2004 Nov 3;504(1-2):1-6.	PMID:	15507214	
+152	Cause	PDE5	Theme	p9	relation	contributed	relation_class	Positive_regulation	sentence	p9, p14, major cGMP and cAMP degradation activities were contributed by PDE5 and 
+PDE4, respectively.	PMID:	15203121	
+153	Cause	PDE5	Theme	p14	relation	contributed	relation_class	Positive_regulation	sentence	p9, p14, major cGMP and cAMP degradation activities were contributed by PDE5 and 
+PDE4, respectively.	PMID:	15203121	
+154	Cause	PDE5	Theme	p9	relation	contributed	relation_class	Positive_regulation	sentence	p9, p14, major cGMP and cAMP degradation activities were contributed by PDE5 and 
+PDE4, respectively.	PMID:	15203121	
+155	Cause	PDE5	Theme	p14	relation	contributed	relation_class	Positive_regulation	sentence	p9, p14, major cGMP and cAMP degradation activities were contributed by PDE5 and 
+PDE4, respectively.	PMID:	15203121	
+156	Cause	VWF	Theme	alphaIIbbeta3	relation	activation	relation_class	Positive_regulation	sentence	recent reports indicate that activation of alphaIIbbeta3 by VWF is dependent on
+protein kinase G (PKG) and mitogen-activated protein (MAP) kinases.	PMID:	14684423	
+157	Cause	GPIb-IX-V	Theme	alphaIIbbeta3	relation	activation	relation_class	Positive_regulation	sentence	activation of alphaIIbbeta3 by GPIb-IX-V and blocked aggregate formation on
+collagen at an intermediate rate of shear (800 s(-1)).	PMID:	14684423	
+158	Cause	PDE5-specific inhibitor sildenafil	Theme	GAL4	relation	sensitive	relation_class	Regulation	sentence	are sensitive to the PDE5-specific inhibitor sildenafil and that GAL4/UAS-PDE5
+tubules display enhanced sensitivity to sildenafil, compared with controls.	PMID:	14662775	
+159	Cause	PDE5-specific inhibitor sildenafil	Theme	UAS-PDE5	relation	sensitive	relation_class	Regulation	sentence	are sensitive to the PDE5-specific inhibitor sildenafil and that GAL4/UAS-PDE5
+tubules display enhanced sensitivity to sildenafil, compared with controls.	PMID:	14662775	
+160	Cause	factor1-alpha	Theme	SDF-1alpha	relation	reduced	relation_class	Negative_regulation	sentence	and significantly reduced by stromal-derived factor1-alpha (SDF-1alpha).	PMID:	12393651	
+161	Cause	PRA	Theme	PRA	relation	failed	relation_class	Negative_regulation	sentence	 In contrast, PRA failed to decrease after the subjects received
+sildenafil, thus indicating that sildenafil exerts a stimulatory action on renin 
+secretion.	PMID:	12192104	
+162	Cause	neuronal NO synthase	Theme	guanylate cyclase	relation	activates	relation_class	Positive_regulation	sentence	neuronal NO synthase, and liberated NO activates soluble guanylate cyclase (sGC) 
+in cavernous smooth muscle cells.	PMID:	11862753	
+163	Cause	neuronal NO synthase	Theme	sGC	relation	activates	relation_class	Positive_regulation	sentence	neuronal NO synthase, and liberated NO activates soluble guanylate cyclase (sGC) 
+in cavernous smooth muscle cells.	PMID:	11862753	
+164	Cause	FR226807	Theme	phosphodiesterase type 6	relation	inhibited	relation_class	Negative_regulation	sentence	 FR226807 also inhibited phosphodiesterase type 6 with an 
+IC(50) of 20 nM; however, the IC(50) value for phosphodiesterase type 6 was
+18-fold higher than that for phosphodiesterase type 5.	PMID:	11675048	
+165	Cause	TES	Theme	RCC	relation	induced	relation_class	Positive_regulation	sentence	microM) significantly inhibited the relaxation induced by TES in RCC strips in
+which adrenergic neurotransmission was blocked with guanethidine (10 microM).	PMID:	11248652	
+166	Cause	Phosphodiesterase type 5	Theme	cGMP	relation	responsible	relation_class	Positive_regulation	sentence	Phosphodiesterase type 5 (PDE5) is responsible for the degradation of cGMP and
+regulation of CC muscle tone.	PMID:	11228938	
+167	Cause	PDE5	Theme	cGMP	relation	responsible	relation_class	Positive_regulation	sentence	Phosphodiesterase type 5 (PDE5) is responsible for the degradation of cGMP and
+regulation of CC muscle tone.	PMID:	11228938	

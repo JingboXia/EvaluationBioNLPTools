@@ -1,0 +1,295 @@
+1	Cause	Ebs	Theme	Ebs	relation	blocks	relation_class	Negative_regulation	sentence	 Remarkably, Ebs blocks the binding of the
+fluorescent reagent eosin-5-maleimide to the thiol groups of the adenine
+nucleotide translocase.	PMID:	26316446	
+2	Cause	Nrf2	Theme	heme oxygenase 1	relation	regulated	relation_class	Regulation	sentence	expression of Nrf2-regulated anti-oxidant genes, heme oxygenase 1, glutathione
+peroxidase-1, NAD(P)H dehydrogenase quinone oxidoreductase 1 and
+glutamate-cysteine ligase.	PMID:	25912997	
+3	Cause	NOX5	Theme	NOX1/2/4	relation	subunit	relation_class	Positive_regulation	sentence	of either NOX5 or p22phox (a requisite subunit for NOX1/2/4 activation)
+significantly impaired endothelial motility and tube formation, suggesting that
+multiple NOXs regulate SDF-1α-dependent angiogenesis.	PMID:	24990230	
+4	Cause	SDF-1α	Theme	MKP7	relation	inhibited	relation_class	Negative_regulation	sentence	Furthermore, MKP7 activity was inhibited by SDF-1α, and this inhibition was
+relieved by NOX5 knockdown, indicating that NOX5 promotes c-Jun N-terminal kinase
+3 activation by blocking MKP7 activity.	PMID:	24990230	
+5	Cause	NOX5	Theme	c-Jun N-terminal kinase	relation	promotes	relation_class	Positive_regulation	sentence	relieved by NOX5 knockdown, indicating that NOX5 promotes c-Jun N-terminal kinase
+3 activation by blocking MKP7 activity.	PMID:	24990230	
+6	Cause	NOX	Theme	SDF-1α	relation	required	relation_class	Positive_regulation	sentence	CONCLUSIONS: We conclude that NOX is required for SDF-1α signaling and that
+intracellular redox balance is critical for SDF-1α-induced endothelial migration 
+and angiogenesis.	PMID:	24990230	
+7	Cause	p22phox	Theme	NOX1/2/4	relation	subunit	relation_class	Positive_regulation	sentence	of either NOX5 or p22phox (a requisite subunit for NOX1/2/4 activation)
+significantly impaired endothelial motility and tube formation, suggesting that
+multiple NOXs regulate SDF-1α-dependent angiogenesis.	PMID:	24990230	
+8	Cause	VDAC	Theme	NADH-related oxidoreductase	relation	inhibited	relation_class	Negative_regulation	sentence	VDAC substantially inhibited the NADH-related oxidoreductase activities.	PMID:	24945955	
+9	Cause	Urokinase	Theme	matrix metalloproteinase-9	relation	stimulates	relation_class	Positive_regulation	sentence	Urokinase stimulates production of matrix metalloproteinase-9 in fibroblasts with
+involvement of reactive oxygen species.	PMID:	24906961	
+10	Cause	LDL	Theme	FGF-1	relation	canceled	relation_class	Positive_regulation	sentence	(LDL), furthermore, canceled H2O2-induced release of FGF-1 and cytosolic
+proteins.	PMID:	23727614	
+11	Cause	glutathione disulfide reductase	Theme	GPx	relation	evaluate	relation_class	Positive_regulation	sentence	glutathione disulfide reductase to evaluate GPx mimic activity may exaggerate
+drug antioxidant action.	PMID:	22813709	
+12	Cause	TGF-β1	Theme	collagen	relation	induced	relation_class	Positive_regulation	sentence	differentiation and collagen production of TGF-β1-induced NPDFs and that these
+processes are inhibited by the elimination of ROS.	PMID:	22722757	
+13	Cause	TNF	Theme	Msx2	relation	inducible	relation_class	Positive_regulation	sentence	 By contrast, TNF-inducible Msx2 expression
+was not reduced in TNFR2(-/-) cells.	PMID:	22685265	
+14	Cause	GSH	Theme	quercetin	relation	effects	relation_class	Regulation	sentence	certain antioxidants back to their active form, the current study examined the
+effects of exogenous GSH on the antioxidant capacity of quercetin, phenol,
+ebselen and nitroxide detected using AAPH-induced haemolysis.	PMID:	22507255	
+15	Cause	GSH	Theme	GSH	relation	required	relation_class	Positive_regulation	sentence	DISCUSSION: The results demonstrate that exogenous GSH is required to detect the 
+antioxidant capacity of certain antioxidant moieties using the radical-induced
+haemolysis assay.	PMID:	22507255	
+16	Cause	phenol	Theme	quercetin	relation	effects	relation_class	Regulation	sentence	certain antioxidants back to their active form, the current study examined the
+effects of exogenous GSH on the antioxidant capacity of quercetin, phenol,
+ebselen and nitroxide detected using AAPH-induced haemolysis.	PMID:	22507255	
+17	Cause	PDGF-BB	Theme	PDGF-BB	relation	induced	relation_class	Positive_regulation	sentence	expression.	PMID:	22428706	
+18	Cause	PDGF-BB	Theme	Nrf2	relation	induced	relation_class	Positive_regulation	sentence	expression.	PMID:	22428706	
+19	Cause	NGF	Theme	MAP kinase	relation	induced	relation_class	Positive_regulation	sentence	phosphorylation of MAP kinase to a degree similar to that induced by NGF.	PMID:	22001386	
+20	Cause	activated factor X	Theme	Redox	relation	regulation	relation_class	Regulation	sentence	Redox regulation of human protease-activated receptor-2 by activated factor X.	PMID:	21871560	
+21	Cause	activated factor X	Theme	human protease-activated receptor-2	relation	regulation	relation_class	Regulation	sentence	Redox regulation of human protease-activated receptor-2 by activated factor X.	PMID:	21871560	
+22	Cause	angiotensin II	Theme	Ang II	relation	role	relation_class	Regulation	sentence	BACKGROUND: To clarify the role of angiotensin II (Ang II) in insulin-induced
+arteriosclerosis, we examined the effects of Ang II on insulin-induced
+mitogen-activated protein (MAP) kinase activation and cellular hypertrophy in rat
+vascular smooth muscle cells (VSMCs).	PMID:	21716329	
+23	Cause	insulin	Theme	insulin	relation	affect	relation_class	Regulation	sentence	insulin (10 nmol/l, 24 h), insulin alone did not affect hypertrophy without Ang
+II pretreatment.	PMID:	21716329	
+24	Cause	TGF-β	Theme	Nox4	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+25	Cause	Nox4	Theme	MnSOD	relation	inhibiting	relation_class	Negative_regulation	sentence	 In this study, we show that TGF-β induced the expression of 
+Nox4 while at the same time inhibiting the expression of MnSOD and catalase.	PMID:	21131394	
+26	Cause	TGF-β	Theme	ASM	relation	regulation	relation_class	Regulation	sentence	of MnSOD but had no effect on catalase and IL-6 expression.	PMID:	21131394	
+27	Cause	TGF-β	Theme	MnSOD	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+28	Cause	TGF-β	Theme	Nox4	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+29	Cause	TGF-β	Theme	MnSOD	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+30	Cause	TGF-β	Theme	catalase	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+31	Cause	TGF-β	Theme	Nox4	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+32	Cause	TGF-β	Theme	MnSOD	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+33	Cause	TGF-β	Theme	catalase	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+34	Cause	TGF-β	Theme	IL-6	relation	regulates	relation_class	Regulation	sentence	10.	PMID:	21131394	
+35	Cause	DMT1-small	Theme	Nramp1	relation	treated	relation_class	Positive_regulation	sentence	transfected with Nramp1 (RAW/Nramp1) were treated with either DMT1-small
+interfering RNA, or with ebselen, a selective inhibitor of DMT1.	PMID:	20394798	
+36	Cause	DMT1-small	Theme	RAW	relation	treated	relation_class	Positive_regulation	sentence	transfected with Nramp1 (RAW/Nramp1) were treated with either DMT1-small
+interfering RNA, or with ebselen, a selective inhibitor of DMT1.	PMID:	20394798	
+37	Cause	DMT1-small	Theme	Nramp1	relation	treated	relation_class	Positive_regulation	sentence	transfected with Nramp1 (RAW/Nramp1) were treated with either DMT1-small
+interfering RNA, or with ebselen, a selective inhibitor of DMT1.	PMID:	20394798	
+38	Cause	Nox4	Theme	Nox2	relation	decreased	relation_class	Negative_regulation	sentence	Nox4 decreased Nox2 and Nox4 protein expression, respectively, associated with an
+attenuation of superoxide detection, without affecting 25 mM KCl contraction.	PMID:	20304813	
+39	Cause	Nox4	Theme	Nox2	relation	decreased	relation_class	Negative_regulation	sentence	Nox4 decreased Nox2 and Nox4 protein expression, respectively, associated with an
+attenuation of superoxide detection, without affecting 25 mM KCl contraction.	PMID:	20304813	
+40	Cause	Nox4	Theme	Nox4	relation	decreased	relation_class	Negative_regulation	sentence	Nox4 decreased Nox2 and Nox4 protein expression, respectively, associated with an
+attenuation of superoxide detection, without affecting 25 mM KCl contraction.	PMID:	20304813	
+41	Cause	p38	Theme	MAPK	relation	diminished	relation_class	Negative_regulation	sentence	05) but is diminished by the p38-MAPK inhibitors SB203580 and
+A304000 (P > 0.	PMID:	19403598	
+42	Cause	ALK4	Theme	TGF-beta1	relation	Inhibition	relation_class	Negative_regulation	sentence	 Inhibition of TGF-beta1 signalling by the ALK4,5,7
+kinases' inhibitor SB431542 at least partly inhibited the enhanced collagen
+lattice contraction of MnSOD overexpressing fibroblasts populated lattices.	PMID:	19306099	
+43	Cause	interleukin-3	Theme	ROS	relation	induces	relation_class	Positive_regulation	sentence	interleukin-3 (IL-3) induces ROS formation, positively affecting Glut1-mediated
+glucose uptake and cell survival.	PMID:	19013234	
+44	Cause	IL-3	Theme	ROS	relation	induces	relation_class	Positive_regulation	sentence	interleukin-3 (IL-3) induces ROS formation, positively affecting Glut1-mediated
+glucose uptake and cell survival.	PMID:	19013234	
+45	Cause	glucose oxidase	Theme	BK	relation	stimulated	relation_class	Positive_regulation	sentence	H(2)O(2) or adding glucose oxidase (GO) stimulated BK channels.	PMID:	18769038	
+46	Cause	GO	Theme	BK	relation	stimulated	relation_class	Positive_regulation	sentence	H(2)O(2) or adding glucose oxidase (GO) stimulated BK channels.	PMID:	18769038	
+47	Cause	SAPK	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	(SAPK/JNK), and H(2)O( 2) induced the phosphorylation of p38 and SAPK.	PMID:	18562577	
+48	Cause	BCR	Theme	ERK	relation	induced	relation_class	Positive_regulation	sentence	 In contrast, BCR-induced activation of ERK,
+JNK, p38, and Akt was not affected by ROS depletion.	PMID:	18481208	
+49	Cause	JNK	Theme	ERK	relation	requirement	relation_class	Positive_regulation	sentence	CONCLUSION: The differential requirement for ROS in the activation of ERK, JNK,
+p38, and Akt by the BCR, CD40, and CXCR4 likely reflects the multiplicity of
+upstream activators for each of these kinases, only some of which may be
+regulated in a redox-dependent manner.	PMID:	18481208	
+50	Cause	SAPK	Theme	SAPK	relation	induced	relation_class	Positive_regulation	sentence	(SAPK/JNK), and H(2)O( 2) induced the phosphorylation of p38 and SAPK.	PMID:	18562577	
+51	Cause	JNK	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	(SAPK/JNK), and H(2)O( 2) induced the phosphorylation of p38 and SAPK.	PMID:	18562577	
+52	Cause	JNK	Theme	SAPK	relation	induced	relation_class	Positive_regulation	sentence	(SAPK/JNK), and H(2)O( 2) induced the phosphorylation of p38 and SAPK.	PMID:	18562577	
+53	Cause	tin mesoporphyrin	Theme	hemin	relation	diminished	relation_class	Negative_regulation	sentence	effect of hemin was significantly diminished by tin mesoporphyrin, an inhibitor
+of heme oxygenase.	PMID:	17724275	
+54	Cause	insulin	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	abolished insulin-induced Akt phosphorylation (100 nmol/L; 5 minutes; n=4).	PMID:	17646573	
+55	Cause	NF-E2-related factor 2	Theme	Nrf2	relation	induction	relation_class	Positive_regulation	sentence	factor NF-E2-related factor 2 (Nrf2) upon induction of the phase 2 detoxification
+response.	PMID:	16978024	
+56	Cause	uPA	Theme	ROS	relation	increases	relation_class	Positive_regulation	sentence	hypothesized that uPA increases ROS generation by regulating expression or
+activity of cellular oxidases.	PMID:	16456094	
+57	Cause	Ang II	Theme	cAbl	relation	induces	relation_class	Positive_regulation	sentence	that Ang II induces tyrosine phosphorylation of cAbl in rat VSMCs and mouse
+aorta, and that Ang II promotes association of cAbl with AT(1)R, both of which
+are Src-dependent.	PMID:	16151024	
+58	Cause	Ang II	Theme	cAbl	relation	induced	relation_class	Positive_regulation	sentence	Ang II-induced cAbl phosphorylation.	PMID:	16151024	
+59	Cause	endothelin 1	Theme	NADPH oxidase	relation	activate	relation_class	Positive_regulation	sentence	endothelin 1 (ET-1) in the vasculature activate NADPH oxidase and/or uncoupled
+nitric-oxide synthase (NOS), resulting in O2-* production, and mediate increased 
+constriction.	PMID:	16144972	
+60	Cause	rat VSMCs	Theme	cAbl	relation	induces	relation_class	Positive_regulation	sentence	that Ang II induces tyrosine phosphorylation of cAbl in rat VSMCs and mouse
+aorta, and that Ang II promotes association of cAbl with AT(1)R, both of which
+are Src-dependent.	PMID:	16151024	
+61	Cause	ET-1	Theme	NADPH oxidase	relation	activate	relation_class	Positive_regulation	sentence	endothelin 1 (ET-1) in the vasculature activate NADPH oxidase and/or uncoupled
+nitric-oxide synthase (NOS), resulting in O2-* production, and mediate increased 
+constriction.	PMID:	16144972	
+62	Cause	NMDA receptor	Theme	ERK	relation	activation	relation_class	Positive_regulation	sentence	NADPH oxidase is required for NMDA receptor-dependent activation of ERK in
+hippocampal area CA1.	PMID:	15998281	
+63	Cause	NADPH oxidase	Theme	ERK	relation	required	relation_class	Positive_regulation	sentence	NADPH oxidase is required for NMDA receptor-dependent activation of ERK in
+hippocampal area CA1.	PMID:	15998281	
+64	Cause	NMDA receptor	Theme	ERK	relation	activation	relation_class	Positive_regulation	sentence	 The NMDA receptor-dependent activation of ERK also was blocked
+by the NADPH oxidase inhibitor diphenylene iodonium (DPI) and was absent in mice 
+that lacked p47(phox), one of the required protein components of NADPH oxidase.	PMID:	15998281	
+65	Cause	angiotensin II	Theme	IRS-1	relation	treatment	relation_class	Positive_regulation	sentence	chronic angiotensin II treatment on IRS-1 phosphorylation and protein expression 
+in vascular smooth muscle cells (VSMCs).	PMID:	15802620	
+66	Cause	angiotensin II	Theme	IRS-1	relation	induced	relation_class	Positive_regulation	sentence	angiotensin II-induced IRS-1 phosphorylation and IRS-1 degradation.	PMID:	15802620	
+67	Cause	angiotensin II	Theme	IRS-1	relation	induced	relation_class	Positive_regulation	sentence	abolished IRS-1 phosphorylation and degradation induced by angiotensin II.	PMID:	15802620	
+68	Cause	angiotensin II	Theme	IRS-1 protein	relation	decreases	relation_class	Negative_regulation	sentence	CONCLUSIONS: Thus, angiotensin II decreases IRS-1 protein levels in VSMCs via
+Src, PDK1, and reactive oxygen species-mediated phosphorylation of IRS-1 on
+Ser307 and subsequent proteasome-dependent degradation.	PMID:	15802620	
+69	Cause	angiotensin II	Theme	IRS-1	relation	treatment	relation_class	Positive_regulation	sentence	chronic angiotensin II treatment on IRS-1 phosphorylation and protein expression 
+in vascular smooth muscle cells (VSMCs).	PMID:	15802620	
+70	Cause	angiotensin II	Theme	IRS-1	relation	induced	relation_class	Positive_regulation	sentence	angiotensin II-induced IRS-1 phosphorylation and IRS-1 degradation.	PMID:	15802620	
+71	Cause	angiotensin II	Theme	IRS-1	relation	induced	relation_class	Positive_regulation	sentence	abolished IRS-1 phosphorylation and degradation induced by angiotensin II.	PMID:	15802620	
+72	Cause	Extracellular catalase	Theme	cyclooxygenase 2, interleukin 8	relation	induces	relation_class	Positive_regulation	sentence	Extracellular catalase induces cyclooxygenase 2, interleukin 8, and stromelysin
+genes in primary human chondrocytes.	PMID:	15667946	
+73	Cause	TGF-beta1	Theme	TIMP-3	relation	induction	relation_class	Positive_regulation	sentence	species (ROS) in TIMP-3 induction by TGF-beta1.	PMID:	15203191	
+74	Cause	TGF-beta1	Theme	TIMP-3 mRNA	relation	induced	relation_class	Positive_regulation	sentence	TGF-beta1-induced TIMP-3 mRNA and protein increases.	PMID:	15203191	
+75	Cause	TGF-beta1	Theme	ROS	relation	induced	relation_class	Positive_regulation	sentence	 TGF-beta1 time-dependently induced ROS production that
+was suppressed by NAC.	PMID:	15203191	
+76	Cause	TGF-beta1	Theme	Smad2	relation	induction	relation_class	Positive_regulation	sentence	also blocked Smad2 and TIMP-3 induction by TGF-beta1, whereas a nonthiol,
+N-acetylalanine, did not.	PMID:	15203191	
+77	Cause	H2O2	Theme	Smad2	relation	activated	relation_class	Positive_regulation	sentence	 Smad2 was not activated by H2O2.	PMID:	15203191	
+78	Cause	TGF-beta	Theme	ERK	relation	stimulated	relation_class	Positive_regulation	sentence	TGF-beta-stimulated ERK and JNK phosphorylation was also inhibited by NAC.	PMID:	15203191	
+79	Cause	TGF-beta1	Theme	TIMP-3 gene	relation	induced	relation_class	Positive_regulation	sentence	mediate TGF-beta1-induced TIMP-3 gene expression.	PMID:	15203191	
+80	Cause	TGF-beta1	Theme	TIMP-3	relation	induction	relation_class	Positive_regulation	sentence	also blocked Smad2 and TIMP-3 induction by TGF-beta1, whereas a nonthiol,
+N-acetylalanine, did not.	PMID:	15203191	
+81	Cause	TGF-beta	Theme	JNK	relation	stimulated	relation_class	Positive_regulation	sentence	TGF-beta-stimulated ERK and JNK phosphorylation was also inhibited by NAC.	PMID:	15203191	
+82	Cause	TNF-alpha	Theme	JNK	relation	activated	relation_class	Positive_regulation	sentence	(JNK) and p38 were rapidly and significantly activated by TNF-alpha in HUVEC.	PMID:	14720501	
+83	Cause	TNF-alpha	Theme	JNK	relation	induced	relation_class	Positive_regulation	sentence	kinase-inactive ASK1 inhibited TNF-alpha-induced JNK activation.	PMID:	14720501	
+84	Cause	ASK1	Theme	JNK	relation	inhibited	relation_class	Negative_regulation	sentence	kinase-inactive ASK1 inhibited TNF-alpha-induced JNK activation.	PMID:	14720501	
+85	Cause	TNF-alpha	Theme	TRAF2	relation	induced	relation_class	Positive_regulation	sentence	inhibited TNF-alpha-induced TNF receptor-associated factor 2 (TRAF2)-ASK1 complex
+formation and phosphorylation of stress-activated protein kinase ERK kinase 1
+(SEK1), which is an upstream signaling molecule of JNK.	PMID:	14720501	
+86	Cause	TNF-alpha	Theme	ICAM-1	relation	induced	relation_class	Positive_regulation	sentence	TNF-alpha-induced ICAM-1 and VCAM-1 expressions in HUVEC.	PMID:	14720501	
+87	Cause	TNF-alpha	Theme	p38	relation	activated	relation_class	Positive_regulation	sentence	(JNK) and p38 were rapidly and significantly activated by TNF-alpha in HUVEC.	PMID:	14720501	
+88	Cause	TNF-alpha	Theme	ASK1	relation	induced	relation_class	Positive_regulation	sentence	inhibited TNF-alpha-induced TNF receptor-associated factor 2 (TRAF2)-ASK1 complex
+formation and phosphorylation of stress-activated protein kinase ERK kinase 1
+(SEK1), which is an upstream signaling molecule of JNK.	PMID:	14720501	
+89	Cause	TNF-alpha	Theme	TRAF2	relation	induced	relation_class	Positive_regulation	sentence	inhibited TNF-alpha-induced TNF receptor-associated factor 2 (TRAF2)-ASK1 complex
+formation and phosphorylation of stress-activated protein kinase ERK kinase 1
+(SEK1), which is an upstream signaling molecule of JNK.	PMID:	14720501	
+90	Cause	MEK	Theme	ERK	relation	activation	relation_class	Positive_regulation	sentence	acted upstream of MEK-ERK activation.	PMID:	12899942	
+91	Cause	cytochrome c release	Theme	JNK	relation	mediates	relation_class	Positive_regulation	sentence	such as H2O2, which mediates the JNK/SAPK activation, cytochrome c release,
+activation of caspase-9 and caspase 3-like protease, and PARP cleavage in human
+myeloleukemic U937 cells.	PMID:	12850239	
+92	Cause	cytochrome c release	Theme	SAPK	relation	mediates	relation_class	Positive_regulation	sentence	such as H2O2, which mediates the JNK/SAPK activation, cytochrome c release,
+activation of caspase-9 and caspase 3-like protease, and PARP cleavage in human
+myeloleukemic U937 cells.	PMID:	12850239	
+93	Cause	IFN-gamma	Theme	iNOS transgene	relation	suppressed	relation_class	Negative_regulation	sentence	ebselen significantly suppressed iNOS transgene induction by IFN-gamma and LPS.	PMID:	12794164	
+94	Cause	HbLDL	Theme	HO-1	relation	induction	relation_class	Positive_regulation	sentence	 HO-1 induction by HbLDL increased resistance of cells to toxic doses of
+hemin or t-BuOOH.	PMID:	12750169	
+95	Cause	Aplidin	Theme	EGFR	relation	reduced	relation_class	Negative_regulation	sentence	reduced EGFR activation by Aplidin.	PMID:	12414812	
+96	Cause	glutathione peroxidase	Theme	insulin	relation	accelerated	relation_class	Positive_regulation	sentence	glutathione peroxidase accelerated reduction of peroxidized insulin and valine,
+but was ineffective with the larger BSA and lysozyme molecules.	PMID:	12396670	
+97	Cause	glutathione peroxidase	Theme	valine	relation	accelerated	relation_class	Positive_regulation	sentence	glutathione peroxidase accelerated reduction of peroxidized insulin and valine,
+but was ineffective with the larger BSA and lysozyme molecules.	PMID:	12396670	
+98	Cause	BAL CINC-1	Theme	MIP-2 protein	relation	unaffected	relation_class	Regulation	sentence	BAL CINC-1 and MIP-2 protein levels were unaffected as were lung mRNA expressions
+for CINC-1, MIP-2, IL-10, and inducible NO synthase.	PMID:	12097404	
+99	Cause	BAL CINC-1	Theme	MIP-2 protein	relation	unaffected	relation_class	Regulation	sentence	BAL CINC-1 and MIP-2 protein levels were unaffected as were lung mRNA expressions
+for CINC-1, MIP-2, IL-10, and inducible NO synthase.	PMID:	12097404	
+100	Cause	glutathione peroxidase cDNA	Theme	MMP-2	relation	abolished	relation_class	Negative_regulation	sentence	glutathione peroxidase cDNA abolished the effect of MnSOD on MMP-2 activation.	PMID:	11929863	
+101	Cause	hydrogen peroxide can	Theme	forkhead	relation	regulate	relation_class	Regulation	sentence	and that hydrogen peroxide can negatively regulate forkhead activity.	PMID:	11884717	
+102	Cause	glutathione peroxidase	Theme	ROS	relation	removes	relation_class	Positive_regulation	sentence	mimic of the glutathione peroxidase that normally removes ROS.	PMID:	11696375	
+103	Cause	eNOS	Theme	redox	relation	activation	relation_class	Positive_regulation	sentence	is linked to the redox activation of DOX by eNOS.	PMID:	11579094	
+104	Cause	eNOS	Theme	DOX	relation	activation	relation_class	Positive_regulation	sentence	is linked to the redox activation of DOX by eNOS.	PMID:	11579094	
+105	Cause	Acetylated LDL	Theme	gamma-GCS-HS protein	relation	caused	relation_class	Positive_regulation	sentence	Acetylated LDL (AcLDL) also caused a moderate induction of gamma-GCS-HS protein
+along with a 30% transient increase in GSH by 3;-6 h, suggesting a minor
+involvement of scavenger receptor-mediated signaling of GSH synthesis.	PMID:	11352989	
+106	Cause	AcLDL	Theme	gamma-GCS	relation	induction	relation_class	Positive_regulation	sentence	the level of gamma-GCS induction by AcLDL was insufficient to cause a sustained
+increase in GSH.	PMID:	11352989	
+107	Cause	AcLDL	Theme	gamma-GCS-HS protein	relation	caused	relation_class	Positive_regulation	sentence	Acetylated LDL (AcLDL) also caused a moderate induction of gamma-GCS-HS protein
+along with a 30% transient increase in GSH by 3;-6 h, suggesting a minor
+involvement of scavenger receptor-mediated signaling of GSH synthesis.	PMID:	11352989	
+108	Cause	IFN-gamma	Theme	hMDM	relation	activated	relation_class	Positive_regulation	sentence	 Also, incubation of IFN-gamma-activated hMDM with
+delta-[(14)C]-aminolevulinic acid resulted in the incorporation of label into
+immunoprecipitated IDO, a process inhibited by PDTC and SA.	PMID:	11342657	
+109	Cause	angiotensin II	Theme	Epidermal growth factor receptor	relation	transactivation	relation_class	Positive_regulation	sentence	Epidermal growth factor receptor transactivation by angiotensin II requires
+reactive oxygen species in vascular smooth muscle cells.	PMID:	11304462	
+110	Cause	Ang II	Theme	EGF-R	relation	transactivation	relation_class	Positive_regulation	sentence	mediators of EGF-R transactivation by Ang II.	PMID:	11304462	
+111	Cause	Ang II	Theme	c-Src	relation	activation	relation_class	Positive_regulation	sentence	they inhibited c-Src activation by Ang II, suggesting that c-Src is 1 signaling
+molecule that links ROS and EGF-R phosphorylation.	PMID:	11304462	
+112	Cause	Cdc42	Theme	cyclin D1	relation	regulates	relation_class	Regulation	sentence	Cdc42, but not RhoA, regulates cyclin D1 expression in bovine tracheal myocytes.	PMID:	11290522	
+113	Cause	Rac1	Theme	cyclin D1 promoter	relation	increased	relation_class	Positive_regulation	sentence	We previously demonstrated that Rac1 increased cyclin D1 promoter activity in an 
+extracellular signal-regulated kinase (ERK)-independent, antioxidant-sensitive
+manner.	PMID:	11290522	
+114	Cause	Cdc42	Theme	cyclin D1	relation	regulation	relation_class	Regulation	sentence	 Here, we examined the regulation of cyclin D1 expression by Cdc42 and
+RhoA.	PMID:	11290522	
+115	Cause	Rac1	Theme	cyclin D1	relation	induced	relation_class	Positive_regulation	sentence	 Similar to Rac1-induced cyclin D1 expression, pretreatment
+with the antioxidants catalase and ebselen inhibited Cdc42-mediated transcription
+from the cyclin D1 promoter.	PMID:	11290522	
+116	Cause	Cdc42	Theme	Rac1	relation	induced	relation_class	Positive_regulation	sentence	 Finally, like Rac1, active Cdc42 induced
+transactivation of the cyclin D1 promoter cAMP response element binding
+protein/activating transcription factor-2 binding site.	PMID:	11290522	
+117	Cause	RhoA	Theme	cyclin D1	relation	regulates	relation_class	Regulation	sentence	Cdc42, but not RhoA, regulates cyclin D1 expression in bovine tracheal myocytes.	PMID:	11290522	
+118	Cause	Rac1	Theme	cyclin D1	relation	induced	relation_class	Positive_regulation	sentence	 Similar to Rac1-induced cyclin D1 expression, pretreatment
+with the antioxidants catalase and ebselen inhibited Cdc42-mediated transcription
+from the cyclin D1 promoter.	PMID:	11290522	
+119	Cause	caspase-9	Theme	caspase-9	relation	followed	relation_class	Positive_regulation	sentence	with ROS formation and followed by caspase-9 and caspase-3 activation, PARP
+cleavage, and DNA fragmentation.	PMID:	11133490	
+120	Cause	caspase-9	Theme	caspase-3	relation	followed	relation_class	Positive_regulation	sentence	with ROS formation and followed by caspase-9 and caspase-3 activation, PARP
+cleavage, and DNA fragmentation.	PMID:	11133490	
+121	Cause	caspase-3	Theme	caspase-9	relation	followed	relation_class	Positive_regulation	sentence	with ROS formation and followed by caspase-9 and caspase-3 activation, PARP
+cleavage, and DNA fragmentation.	PMID:	11133490	
+122	Cause	caspase-3	Theme	caspase-3	relation	followed	relation_class	Positive_regulation	sentence	with ROS formation and followed by caspase-9 and caspase-3 activation, PARP
+cleavage, and DNA fragmentation.	PMID:	11133490	
+123	Cause	protein kinase A	Theme	Pgp	relation	regulated	relation_class	Regulation	sentence	co-administered, indicating that Pgp expression is regulated by protein kinase A 
+(PKA).	PMID:	10629088	
+124	Cause	PKC	Theme	PKC	relation	causing	relation_class	Positive_regulation	sentence	PKC-epsilon by causing translocation of the enzyme from the cytosolic to membrane
+fraction of the cell.	PMID:	10578141	
+125	Cause	IL-8	Theme	IL-6	relation	increased	relation_class	Positive_regulation	sentence	IL-6 and IL-8 secretion increased fourfold over 24 h in a pattern corresponding
+to changes in HUVEC permeability measured by transendothelial electrical
+resistance (TEER).	PMID:	10564193	
+126	Cause	IL-8	Theme	IL-6	relation	increased	relation_class	Positive_regulation	sentence	IL-6 and IL-8 secretion increased fourfold over 24 h in a pattern corresponding
+to changes in HUVEC permeability measured by transendothelial electrical
+resistance (TEER).	PMID:	10564193	
+127	Cause	IL-8	Theme	IL-8	relation	increased	relation_class	Positive_regulation	sentence	IL-6 and IL-8 secretion increased fourfold over 24 h in a pattern corresponding
+to changes in HUVEC permeability measured by transendothelial electrical
+resistance (TEER).	PMID:	10564193	
+128	Cause	cyclin D(1) promoter	Theme	Rho family GTPase Rac1	relation	importance	relation_class	Positive_regulation	sentence	We examined the importance of the Rho family GTPase Rac1 for cyclin D(1) promoter
+transcriptional activation in bovine tracheal myocytes.	PMID:	10419534	
+129	Cause	Rac1	Theme	cyclin D(1) promoter	relation	induced	relation_class	Positive_regulation	sentence	Rac1 induced transcription from the cyclin D(1) promoter, whereas
+platelet-derived growth factor (PDGF)-induced transcription was inhibited by a
+dominant-negative allele of Rac1, suggesting that Rac1 functions as an upstream
+activator of cyclin D(1) in this system.	PMID:	10419534	
+130	Cause	Rac1	Theme	NADPH oxidase	relation	forms	relation_class	Positive_regulation	sentence	 Rac1 forms part of the NADPH oxidase
+complex that generates reactive oxygen species such as H(2)O(2).	PMID:	10419534	
+131	Cause	Rac1	Theme	cyclin D(1) promoter	relation	mediated	relation_class	Positive_regulation	sentence	Rac1-mediated cyclin D(1) promoter activation, while having no effect on the
+induction of cyclin D(1) by mitogen-activated protein kinase/extracellular
+signal-regulated kinase (ERK) kinase-1 (MEK1), the upstream activator of ERKs.	PMID:	10419534	
+132	Cause	mitogen-activated protein kinase	Theme	cyclin D(1)	relation	induction	relation_class	Positive_regulation	sentence	Rac1-mediated cyclin D(1) promoter activation, while having no effect on the
+induction of cyclin D(1) by mitogen-activated protein kinase/extracellular
+signal-regulated kinase (ERK) kinase-1 (MEK1), the upstream activator of ERKs.	PMID:	10419534	
+133	Cause	PDGF	Theme	cyclin D(1) protein	relation	induced	relation_class	Positive_regulation	sentence	Antioxidant treatment also inhibited PDGF-induced cyclin D(1) protein expression 
+and DNA synthesis.	PMID:	10419534	
+134	Cause	PDGF	Theme	NADPH oxidase	relation	induced	relation_class	Positive_regulation	sentence	component of NADPH oxidase which interacts with Rac1, attenuated PDGF-induced
+cyclin D(1) promoter activity, whereas overexpression of the wild-type p67 did
+not.	PMID:	10419534	
+135	Cause	ERK	Theme	cyclin D(1)	relation	regulate	relation_class	Regulation	sentence	the ERK and Rac1 pathways, positively regulate cyclin D(1) and smooth muscle
+growth.	PMID:	10419534	
+136	Cause	Rac1	Theme	cyclin D(1)	relation	regulate	relation_class	Regulation	sentence	the ERK and Rac1 pathways, positively regulate cyclin D(1) and smooth muscle
+growth.	PMID:	10419534	
+137	Cause	TNF-alpha	Theme	ICAM-1	relation	induced	relation_class	Positive_regulation	sentence	ICAM-1 and VCAM-1 expression induced by TNF-alpha are inhibited by a glutathione 
+peroxidase mimic.	PMID:	9607608	
+138	Cause	factor-alpha	Theme	ICAM-1	relation	-induced	relation_class	Positive_regulation	sentence	factor-alpha (TNFalpha)-induced expression of ICAM-1 and VCAM-1 by monolayers of 
+human endothelial cells.	PMID:	9607608	
+139	Cause	TNFalpha	Theme	ICAM-1	relation	induced	relation_class	Positive_regulation	sentence	TNFalpha-induced and cycloheximide-sensitive expression of ICAM-1 and VCAM-1.	PMID:	9607608	
+140	Cause	TNF-alpha	Theme	VCAM-1	relation	induced	relation_class	Positive_regulation	sentence	ICAM-1 and VCAM-1 expression induced by TNF-alpha are inhibited by a glutathione 
+peroxidase mimic.	PMID:	9607608	
+141	Cause	factor-alpha	Theme	VCAM-1	relation	-induced	relation_class	Positive_regulation	sentence	factor-alpha (TNFalpha)-induced expression of ICAM-1 and VCAM-1 by monolayers of 
+human endothelial cells.	PMID:	9607608	
+142	Cause	TNFalpha	Theme	ICAM-1	relation	-induced	relation_class	Positive_regulation	sentence	factor-alpha (TNFalpha)-induced expression of ICAM-1 and VCAM-1 by monolayers of 
+human endothelial cells.	PMID:	9607608	
+143	Cause	TNFalpha	Theme	VCAM-1	relation	-induced	relation_class	Positive_regulation	sentence	factor-alpha (TNFalpha)-induced expression of ICAM-1 and VCAM-1 by monolayers of 
+human endothelial cells.	PMID:	9607608	
+144	Cause	TNFalpha	Theme	VCAM-1	relation	induced	relation_class	Positive_regulation	sentence	TNFalpha-induced and cycloheximide-sensitive expression of ICAM-1 and VCAM-1.	PMID:	9607608	
+145	Cause	cyclooxygenase	Theme	GSH	relation	inhibit	relation_class	Negative_regulation	sentence	of its GSH-Px activity and its ability to inhibit cyclooxygenase and PGE2
+production.	PMID:	9562336	
+146	Cause	cyclooxygenase	Theme	Px	relation	inhibit	relation_class	Negative_regulation	sentence	of its GSH-Px activity and its ability to inhibit cyclooxygenase and PGE2
+production.	PMID:	9562336	
+147	Cause	PGE2	Theme	GSH	relation	inhibit	relation_class	Negative_regulation	sentence	of its GSH-Px activity and its ability to inhibit cyclooxygenase and PGE2
+production.	PMID:	9562336	
+148	Cause	PGE2	Theme	Px	relation	inhibit	relation_class	Negative_regulation	sentence	of its GSH-Px activity and its ability to inhibit cyclooxygenase and PGE2
+production.	PMID:	9562336	
+149	Cause	GSH	Theme	Px	relation	role	relation_class	Positive_regulation	sentence	important role for GSH-Px in the cellular defence against cytotoxic lipid
+peroxidation products.	PMID:	9363997	
+150	Cause	Scopoletin and rutin	Theme	CSC	relation	inhibited	relation_class	Negative_regulation	sentence	 Scopoletin and rutin trihydrate inhibited the mutagenicity of CSC, 
+but showed confounding effects with SNUS.	PMID:	7519327	
+151	Cause	Ebs	Theme	NOS	relation	inhibits	relation_class	Negative_regulation	sentence	carboxyebselen (HOOC-Ebs), a hydrophyllic derivative of Ebs inhibits NOS present 
+in enzymatic preparations from bovine endothelium, porcine cerebella, and murine 
+spleen, however, it is both more potent and more selective for the constitutive
+endothelial NOS than Ebs.	PMID:	7519084	
+152	Cause	5'-lipoxygenase	Theme	LTB4	relation	dependent	relation_class	Positive_regulation	sentence	5'-lipoxygenase-dependent secretion of LTB4 as compared to their effect on
+cyclooxygenase-dependent secretion of PGE2 (for example compound 42 had IC50s of 
+0.	PMID:	8299991	

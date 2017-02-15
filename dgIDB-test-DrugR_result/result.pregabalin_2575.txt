@@ -1,0 +1,39 @@
+1	Cause	mu	Theme	MOP	relation	requires	relation_class	Positive_regulation	sentence	also indirectly act as anti-proinflammatory cytokine drugs; and their therapeutic
+action requires the opioid system, particularly the mu (MOP) and/or delta (DOP)
+opioid receptors.	PMID:	27401055	
+2	Cause	PSNL	Theme	c-Fos	relation	increased	relation_class	Positive_regulation	sentence	that PSNL increased c-Fos expression in the neurons of the anterior cingulate
+cortex, and gelsemine (4 mg/kg) decreased c-Fos expression by 58%.	PMID:	26388157	
+3	Cause	Gabapentin	Theme	Pregabalin	relation	effect	relation_class	Regulation	sentence	OBJECTIVES: To evaluate the effect of Gabapentin and Pregabalin in Paclitaxel
+(Taxol) induced neuropathic pain and to compare the effect of these drugs in
+animal models.	PMID:	26155495	
+4	Cause	PSNL	Theme	c-Fos	relation	increased	relation_class	Positive_regulation	sentence	Immunohistochemical study showed that PSNL increased c-Fos expression in the
+neurons of anterior cingulate cortex by 2.	PMID:	25989046	
+5	Cause	Pregabalin	Theme	LBP	relation	effective	relation_class	Positive_regulation	sentence	 Pregabalin was effective for LBP in patients with
+lower limb symptoms, whereas opioids were effective for those without lower limb 
+symptoms.	PMID:	25682273	
+6	Cause	FST	Theme	FST	relation	affect	relation_class	Regulation	sentence	) did not affect the increase in the FST.	PMID:	25283187	
+7	Cause	PKC	Theme	PKA	relation	mediated	relation_class	Positive_regulation	sentence	demonstrated that PKA- and PKC-mediated phosphorylation represents a novel
+mechanism for PGB-activated ROMK1 channels.	PMID:	25008072	
+8	Cause	Pregabalin	Theme	Pregabalin	relation	decreases	relation_class	Negative_regulation	sentence	Pregabalin decreases the release of neurotransmitters, including glutamate,
+norepinephrine, substance P and calcitonin gene-related peptide.	PMID:	23782139	
+9	Cause	GBP	Theme	SR	relation	reduced	relation_class	Negative_regulation	sentence	cells with GBP and PGB reduced the basal activity of SR, which is most likely a
+result of the decreased Ca(2+) flux produced via interaction of the drugs with
+the α(2)-δ subunit of voltage-gated calcium channels.	PMID:	23274708	
+10	Cause	PGB	Theme	SR	relation	reduced	relation_class	Negative_regulation	sentence	cells with GBP and PGB reduced the basal activity of SR, which is most likely a
+result of the decreased Ca(2+) flux produced via interaction of the drugs with
+the α(2)-δ subunit of voltage-gated calcium channels.	PMID:	23274708	
+11	Cause	Fabi A, Vidiri A	Theme	Dinapoli L, Sperati F	relation	,	relation_class	Negative_regulation	sentence	Maschio M(1), Dinapoli L, Sperati F, Pace A, Fabi A, Vidiri A, Pompili A,
+Carapella CM.	PMID:	23248037	
+12	Cause	Pompili A	Theme	Dinapoli L, Sperati F	relation	,	relation_class	Negative_regulation	sentence	Maschio M(1), Dinapoli L, Sperati F, Pace A, Fabi A, Vidiri A, Pompili A,
+Carapella CM.	PMID:	23248037	
+13	Cause	caspase-3	Theme	caspase-3	relation	changes	relation_class	Regulation	sentence	weight changes for clinical evaluation and caspase-3, bcl-2, and p38 MAPK
+expressions using western blotting.	PMID:	21394310	
+14	Cause	caspase-3	Theme	p38	relation	changes	relation_class	Regulation	sentence	weight changes for clinical evaluation and caspase-3, bcl-2, and p38 MAPK
+expressions using western blotting.	PMID:	21394310	
+15	Cause	gabapentin	Theme	glutamate release	relation	inhibition	relation_class	Negative_regulation	sentence	an inhibition of glutamate release by gabapentin and pregabalin as main
+anticonvulsant principle is not supported by our experiments.	PMID:	19002437	
+16	Cause	pregabalin	Theme	glutamate release	relation	inhibition	relation_class	Negative_regulation	sentence	an inhibition of glutamate release by gabapentin and pregabalin as main
+anticonvulsant principle is not supported by our experiments.	PMID:	19002437	
+17	Cause	alpha2-delta-1 subunit	Theme	pregabalin	relation	mediated	relation_class	Positive_regulation	sentence	actions of pregabalin are mediated through the alpha2-delta-1 subunit of
+voltage-gated calcium channels and establish this subunit as a therapeutic target
+for pain control.	PMID:	17088553	

@@ -1,0 +1,340 @@
+1	Cause	oestrogen receptor	Theme	E2F1	relation	regulates	relation_class	Regulation	sentence	BACKGROUND: Because oestrogen receptor α (ERα) regulates E2F1 expression to
+mediate tamoxifen resistance in ERα-positive breast cancer cells, we aimed to
+define the possible roles of ERα and E2F1 in promoting the resistance of
+ERα-negative breast cancer cells to 4-hydroxy-tamoxifen (4OHT).	PMID:	25064027	
+2	Cause	PAB	Theme	epimedin B significantly	relation	increased	relation_class	Positive_regulation	sentence	 The PAB of epimedin B significantly increased
+while its secretory permeability (PBA) significantly decreased in the presence of
+dipyridamole, indicating that BCRP might be involved in the transport of epimedin
+B.	PMID:	24402200	
+3	Cause	FcεRI	Theme	Syk	relation	induced	relation_class	Positive_regulation	sentence	 Western blotting is done to analyze the effect of ADO on
+FcεRI-induced Syk phosphorylation.	PMID:	24122028	
+4	Cause	FcεRI	Theme	Syk	relation	induced	relation_class	Positive_regulation	sentence	Accordingly, ADO significantly attenuated FcεRI-induced phosphorylation of Syk at
+the critical activating tyrosine (Y525).	PMID:	24122028	
+5	Cause	FcεRI	Theme	hSMCs	relation	induced	relation_class	Positive_regulation	sentence	Thus, ADO specifically inhibits FcεRI-induced degranulation of hSMCs primarily by
+an intracellular mechanism that requires its influx via equilibrative nucleoside 
+transporter 1 (ENT1).	PMID:	24122028	
+6	Cause	ADO	Theme	hSMCs	relation	inhibits	relation_class	Negative_regulation	sentence	sufficient to prevent ADO from inhibiting FcεRI-induced mast cell degranulation.	PMID:	24122028	
+7	Cause	Phosphodiesterase 11	Theme	PDEs family	relation	isoform	relation_class	Positive_regulation	sentence	Phosphodiesterase 11 (PDE11) is the latest isoform of the PDEs family to be
+identified, acting on both cyclic adenosine monophosphate and cyclic guanosine
+monophosphate.	PMID:	23865680	
+8	Cause	PDE11	Theme	PDEs family	relation	isoform	relation_class	Positive_regulation	sentence	Phosphodiesterase 11 (PDE11) is the latest isoform of the PDEs family to be
+identified, acting on both cyclic adenosine monophosphate and cyclic guanosine
+monophosphate.	PMID:	23865680	
+9	Cause	AMPK	Theme	caveolin-1	relation	role	relation_class	Regulation	sentence	unexpected role for AMPK in inhibition of caveolin-1 phosphorylation under
+oxidative stress.	PMID:	23723070	
+10	Cause	A2B receptors	Theme	A1	relation	regulates	relation_class	Regulation	sentence	Adenosine regulates bone metabolism via A1, A2A, and A2B receptors in bone marrow
+cells from normal humans and patients with multiple myeloma.	PMID:	23682121	
+11	Cause	A2B receptors	Theme	A2A	relation	regulates	relation_class	Regulation	sentence	Adenosine regulates bone metabolism via A1, A2A, and A2B receptors in bone marrow
+cells from normal humans and patients with multiple myeloma.	PMID:	23682121	
+12	Cause	absCR	Theme	relCR	relation	role	relation_class	Regulation	sentence	Assessment of the role of absCR and relCR in ADCA in diagnostics of
+hemodynamically significant stenoses of this vessel was performed in 88 patients 
+with syndrome of cardiac pain (mean age 40+/-12 years).	PMID:	22839511	
+13	Cause	ENT1	Theme	purine nucleoside/nucleobase transport	relation	route	relation_class	Negative_regulation	sentence	stages, ENT1 is a major route of purine nucleoside/nucleobase transport.	PMID:	22670848	
+14	Cause	FSK	Theme	caspase-1	relation	increased	relation_class	Positive_regulation	sentence	agonist, or forskolin (FSK) increased caspase-1 activity in rMC-1 cells cultured 
+in control glucose (5 mM) medium.	PMID:	21832250	
+15	Cause	CFR	Theme	plasma ADMA	relation	correlation	relation_class	Regulation	sentence	 There was a
+significant correlation between CFR and plasma ADMA levels in the PsA group (R = 
+0.	PMID:	21632673	
+16	Cause	ERD	Theme	thrombin	relation	affects	relation_class	Regulation	sentence	 ERD in vitro affects thrombin activity indices predominantly by 
+a dose-dependent inhibition of endogenous thrombin potential and demonstrated a
+trend to delayed initiation of thrombin production.	PMID:	21317617	
+17	Cause	UDP-glucuronosyltransferases	Theme	naringenin	relation	affect	relation_class	Regulation	sentence	UDP-glucuronosyltransferases (UGT) affect the disposition of naringenin.	PMID:	19736994	
+18	Cause	UGT	Theme	naringenin	relation	affect	relation_class	Regulation	sentence	UDP-glucuronosyltransferases (UGT) affect the disposition of naringenin.	PMID:	19736994	
+19	Cause	ACD	Theme	PRP	relation	anticoagulants	relation_class	Regulation	sentence	ACD and CTAD are appropriate anticoagulants for PRP production.	PMID:	19560449	
+20	Cause	CTAD	Theme	PRP	relation	anticoagulants	relation_class	Regulation	sentence	ACD and CTAD are appropriate anticoagulants for PRP production.	PMID:	19560449	
+21	Cause	MTX1	Theme	DP1	relation	superior	relation_class	Positive_regulation	sentence	while MTX1 was superior to DP1, MTX2 and DP2 had an equivalent effect in CD
+patients (p<0.	PMID:	19452347	
+22	Cause	MTX1	Theme	MTX2	relation	superior	relation_class	Positive_regulation	sentence	while MTX1 was superior to DP1, MTX2 and DP2 had an equivalent effect in CD
+patients (p<0.	PMID:	19452347	
+23	Cause	MTX1	Theme	DP2	relation	superior	relation_class	Positive_regulation	sentence	while MTX1 was superior to DP1, MTX2 and DP2 had an equivalent effect in CD
+patients (p<0.	PMID:	19452347	
+24	Cause	LKB1	Theme	AMPKalpha2	relation	role	relation_class	Regulation	sentence	Crucial role for LKB1 to AMPKalpha2 axis in the regulation of CD36-mediated
+long-chain fatty acid uptake into cardiomyocytes.	PMID:	19159696	
+25	Cause	LKB1	Theme	LCFA	relation	required	relation_class	Positive_regulation	sentence	whether LKB1 and/or AMPK are required for stimulation of LCFA and glucose
+utilization upon treatment of cardiomyocytes with compounds
+(oligomycin/AICAR/dipyridamole) which induce CD36 translocation similar to that
+seen upon contraction.	PMID:	19159696	
+26	Cause	AMPK	Theme	LCFA	relation	required	relation_class	Positive_regulation	sentence	whether LKB1 and/or AMPK are required for stimulation of LCFA and glucose
+utilization upon treatment of cardiomyocytes with compounds
+(oligomycin/AICAR/dipyridamole) which induce CD36 translocation similar to that
+seen upon contraction.	PMID:	19159696	
+27	Cause	Cx43 transcript	Theme	Cx43 mRNA	relation	confirmed	relation_class	Positive_regulation	sentence	Cx43 transcript and additional studies confirmed time-dependent Cx43 mRNA, total 
+and surface protein repression during hypoxia.	PMID:	18665255	
+28	Cause	Cx43 transcript	Theme	Cx43 mRNA	relation	confirmed	relation_class	Positive_regulation	sentence	Cx43 transcript and additional studies confirmed time-dependent Cx43 mRNA, total 
+and surface protein repression during hypoxia.	PMID:	18665255	
+29	Cause	PDE1	Theme	PDE5	relation	inhibition	relation_class	Negative_regulation	sentence	the PDE5 inhibition, but not by PDE1 or PDE3 inhibition.	PMID:	18234184	
+30	Cause	thrombin	Theme	NF kappa B	relation	induced	relation_class	Positive_regulation	sentence	thrombin-induced NF kappa B activation and I kappa B alpha phosphorylation.	PMID:	18049314	
+31	Cause	thrombin	Theme	NF kappa B	relation	induced	relation_class	Positive_regulation	sentence	thrombin-induced NF kappa B activation and I kappa B alpha phosphorylation.	PMID:	18049314	
+32	Cause	GSK-3beta	Theme	PDE	relation	affect	relation_class	Regulation	sentence	GSK-3beta does not affect the PDE activity of h-prune.	PMID:	17952613	
+33	Cause	insulin	Theme	GLUT4	relation	stimulated	relation_class	Positive_regulation	sentence	might affect insulin-stimulated GLUT4 translocation.	PMID:	17882384	
+34	Cause	DIP	Theme	TH	relation	decreased	relation_class	Negative_regulation	sentence	In the caudate putamen we found that DIP but not CPA decreased TH expression when
+compared to vehicle.	PMID:	17568153	
+35	Cause	IS	Theme	Akt	relation	activation	relation_class	Positive_regulation	sentence	IS and activation of Akt and eNOS.	PMID:	17416607	
+36	Cause	IS	Theme	eNOS	relation	activation	relation_class	Positive_regulation	sentence	IS and activation of Akt and eNOS.	PMID:	17416607	
+37	Cause	34C > T variant	Theme	AMPD1	relation	reduces	relation_class	Negative_regulation	sentence	CONCLUSION: The 34C > T variant of AMPD1 augments vasodilation and reduces tissue
+injury in response to forearm ischaemia.	PMID:	17376785	
+38	Cause	PDE10	Theme	ecto-phosphodiesterase	relation	inhibit	relation_class	Negative_regulation	sentence	PDE10, and PDE11, but not PDE8, did not inhibit ecto-phosphodiesterase activity.	PMID:	17308037	
+39	Cause	PDE8	Theme	ecto-phosphodiesterase	relation	inhibit	relation_class	Negative_regulation	sentence	PDE10, and PDE11, but not PDE8, did not inhibit ecto-phosphodiesterase activity.	PMID:	17308037	
+40	Cause	BNP	Theme	ANP	relation	change	relation_class	Regulation	sentence	NT-pro BNP, NT-pro ANP and PIGF did not change significantly after stress
+testing, IMA levels rose significantly after 4 h in patients with and without
+reversible perfusion defects.	PMID:	17180576	
+41	Cause	BNP	Theme	NT	relation	change	relation_class	Regulation	sentence	NT-pro BNP, NT-pro ANP and PIGF did not change significantly after stress
+testing, IMA levels rose significantly after 4 h in patients with and without
+reversible perfusion defects.	PMID:	17180576	
+42	Cause	BNP	Theme	ANP	relation	change	relation_class	Regulation	sentence	NT-pro BNP, NT-pro ANP and PIGF did not change significantly after stress
+testing, IMA levels rose significantly after 4 h in patients with and without
+reversible perfusion defects.	PMID:	17180576	
+43	Cause	PIGF	Theme	ANP	relation	change	relation_class	Regulation	sentence	NT-pro BNP, NT-pro ANP and PIGF did not change significantly after stress
+testing, IMA levels rose significantly after 4 h in patients with and without
+reversible perfusion defects.	PMID:	17180576	
+44	Cause	PIGF	Theme	NT	relation	change	relation_class	Regulation	sentence	NT-pro BNP, NT-pro ANP and PIGF did not change significantly after stress
+testing, IMA levels rose significantly after 4 h in patients with and without
+reversible perfusion defects.	PMID:	17180576	
+45	Cause	PIGF	Theme	ANP	relation	change	relation_class	Regulation	sentence	NT-pro BNP, NT-pro ANP and PIGF did not change significantly after stress
+testing, IMA levels rose significantly after 4 h in patients with and without
+reversible perfusion defects.	PMID:	17180576	
+46	Cause	purinergic receptors	Theme	adenosine receptors	relation	activate	relation_class	Positive_regulation	sentence	directly on purinergic receptors or can activate adenosine receptors following
+phosphohydrolysis to adenosine.	PMID:	17038639	
+47	Cause	purinergic receptors	Theme	adenosine receptors	relation	activate	relation_class	Positive_regulation	sentence	directly on purinergic receptors or can activate adenosine receptors following
+phosphohydrolysis to adenosine.	PMID:	17038639	
+48	Cause	angiotensin II	Theme	angiotensin II	relation	regulated	relation_class	Regulation	sentence	secretion, and its expression is regulated by dietary salt, renal angiotensin II,
+intracellular pH, and other factors.	PMID:	16575507	
+49	Cause	A1	Theme	adenosine receptor	relation	effects	relation_class	Positive_regulation	sentence	 The effects of adenosine receptor (A1, A2a, A3 and nonspecific
+receptor) antagonists (8-cpt, DMPX, MRS1191, and theophylline) and an adenosine
+transporter protein inhibitor (dipyridamole) on adenosine-induced cell apoptosis 
+were observed.	PMID:	16539849	
+50	Cause	A2a	Theme	adenosine receptor	relation	effects	relation_class	Positive_regulation	sentence	 The effects of adenosine receptor (A1, A2a, A3 and nonspecific
+receptor) antagonists (8-cpt, DMPX, MRS1191, and theophylline) and an adenosine
+transporter protein inhibitor (dipyridamole) on adenosine-induced cell apoptosis 
+were observed.	PMID:	16539849	
+51	Cause	A3	Theme	adenosine receptor	relation	effects	relation_class	Positive_regulation	sentence	 The effects of adenosine receptor (A1, A2a, A3 and nonspecific
+receptor) antagonists (8-cpt, DMPX, MRS1191, and theophylline) and an adenosine
+transporter protein inhibitor (dipyridamole) on adenosine-induced cell apoptosis 
+were observed.	PMID:	16539849	
+52	Cause	A2a receptors	Theme	colonic excitatory	relation	modulate	relation_class	Regulation	sentence	 A2a receptors modulate the activity of colonic excitatory
+cholinergic nerves via facilitatory control on inhibitory nitrergic pathways, and
+such a regulatory function is enhanced in the presence of bowel inflammation.	PMID:	16432376	
+53	Cause	talin	Theme	platelet integrin	relation	regulator	relation_class	Negative_regulation	sentence	protein talin appears to be a key regulator of the platelet integrin
+alphaIIbbeta3.	PMID:	16093787	
+54	Cause	Purine nucleosides	Theme	Na/K ATPase	relation	stimulate	relation_class	Positive_regulation	sentence	 Purine nucleosides did not stimulate Na/K ATPase activity through
+adenosine receptors, as caffeine (1 mmol/L) or aminophylline (1 mmol/L) did not
+block stimulation.	PMID:	15920424	
+55	Cause	OsENT2	Theme	iPR	relation	participates	relation_class	Positive_regulation	sentence	(K(m) = 660 microm), suggesting that OsENT2 participates in iPR transport in
+planta.	PMID:	15849298	
+56	Cause	AICAR	Theme	AICAR	relation	down-regulates	relation_class	Negative_regulation	sentence	AICAR, an activator of AMP-activated protein kinase, down-regulates the insulin
+receptor expression in HepG2 cells.	PMID:	15694368	
+57	Cause	AICAR	Theme	AMP-activated protein kinase	relation	down-regulates	relation_class	Negative_regulation	sentence	AICAR, an activator of AMP-activated protein kinase, down-regulates the insulin
+receptor expression in HepG2 cells.	PMID:	15694368	
+58	Cause	thrombin	Theme	collagen	relation	activated	relation_class	Positive_regulation	sentence	thrombin or activated by adhesion to collagen, and gene expression was measured
+in the target monocytes.	PMID:	15668340	
+59	Cause	APS IgG	Theme	TF mRNA	relation	induced	relation_class	Positive_regulation	sentence	 But, the TF mRNA expression induced by APS IgG was not
+inhibited.	PMID:	15456541	
+60	Cause	Aprotinin	Theme	Aprotinin	relation	reduce	relation_class	Negative_regulation	sentence	 Aprotinin has been shown to preserve hemostasis and reduce allogeneic
+blood exposure to a greater extent than the antifibrinolytic agents tranexamic
+acid and aminocaproic acid.	PMID:	14728016	
+61	Cause	50 microM DIP	Theme	extracellular ILCL	relation	inhibited	relation_class	Negative_regulation	sentence	observed in the absence of HRP, 50 microM DIP inhibited extracellular ILCL by
+more than 50%.	PMID:	14664339	
+62	Cause	A3 receptor	Theme	A1	relation	mediated	relation_class	Positive_regulation	sentence	mediated by the A3 receptor even though transcripts of A1, A2A, A2B, and a splice
+variant of the P2X7 receptors were detected in Li-7A cells by RT-PCR.	PMID:	14530217	
+63	Cause	P2X receptors	Theme	Purinergic NANC	relation	involves	relation_class	Regulation	sentence	Purinergic NANC neurotransmission also involves P2X receptors, most likely of the
+P2X1 and P2X3 subtype, located pre- and/or postjunctionally.	PMID:	14530212	
+64	Cause	A3 receptor	Theme	A2A	relation	mediated	relation_class	Positive_regulation	sentence	mediated by the A3 receptor even though transcripts of A1, A2A, A2B, and a splice
+variant of the P2X7 receptors were detected in Li-7A cells by RT-PCR.	PMID:	14530217	
+65	Cause	A3 receptor	Theme	A2B	relation	mediated	relation_class	Positive_regulation	sentence	mediated by the A3 receptor even though transcripts of A1, A2A, A2B, and a splice
+variant of the P2X7 receptors were detected in Li-7A cells by RT-PCR.	PMID:	14530217	
+66	Cause	SHR	Theme	collagen	relation	altering	relation_class	Regulation	sentence	altering cardiovascular mass or collagen content in SHR.	PMID:	11821718	
+67	Cause	TGF-beta	Theme	collagen	relation	induced	relation_class	Positive_regulation	sentence	in the inhibitory effects of dipyridamole on TGF-beta-induced collagen gene
+expression in HPMCs.	PMID:	11576339	
+68	Cause	TGF-beta	Theme	collagen alpha1(I) mRNA	relation	induced	relation_class	Positive_regulation	sentence	ERK1/2, suppressed TGF-beta-induced collagen alpha1(I) mRNA expression in a
+dose-dependent manner.	PMID:	11576339	
+69	Cause	TGF-beta	Theme	ERK1	relation	suppressed	relation_class	Negative_regulation	sentence	(17 microg/mL), dipyridamole suppressed ERK1/2 activation by TGF-beta.	PMID:	11576339	
+70	Cause	PDGF	Theme	cyclin D(1), but	relation	induced	relation_class	Positive_regulation	sentence	 PDGF induced elevated protein levels of cyclin D(1), but 
+the CDK4 protein level did not change.	PMID:	11532082	
+71	Cause	PDGF	Theme	p27	relation	induced	relation_class	Positive_regulation	sentence	prevented PDGF-induced p27(Kip1) degradation and attenuated PDGF-stimulated pRB
+phosphorylation.	PMID:	11532082	
+72	Cause	PDGF	Theme	cyclin D(1), but	relation	induced	relation_class	Positive_regulation	sentence	 PDGF induced elevated protein levels of cyclin D(1), but 
+the CDK4 protein level did not change.	PMID:	11532082	
+73	Cause	PDGF	Theme	Kip1	relation	induced	relation_class	Positive_regulation	sentence	prevented PDGF-induced p27(Kip1) degradation and attenuated PDGF-stimulated pRB
+phosphorylation.	PMID:	11532082	
+74	Cause	caspase-3-like	Theme	DZA	relation	dependent	relation_class	Positive_regulation	sentence	transport of DZA into human leukemia cells, is dependent on the caspase-3-like
+activity without de novo synthesis of proteins and possibly involves c-myc
+down-regulation.	PMID:	11190270	
+75	Cause	IL-12	Theme	IL-12	relation	mediated	relation_class	Positive_regulation	sentence	of IL-12 and even TNF-alpha production is only partly mediated by A2a receptor
+ligation.	PMID:	11023991	
+76	Cause	p35	Theme	IL-10 mRNA	relation	augmented	relation_class	Positive_regulation	sentence	p35 or p40 mRNA, but augmented IL-10 mRNA levels.	PMID:	11023991	
+77	Cause	IL-12	Theme	TNF-alpha	relation	mediated	relation_class	Positive_regulation	sentence	of IL-12 and even TNF-alpha production is only partly mediated by A2a receptor
+ligation.	PMID:	11023991	
+78	Cause	A2a receptor	Theme	IL-12	relation	mediated	relation_class	Positive_regulation	sentence	of IL-12 and even TNF-alpha production is only partly mediated by A2a receptor
+ligation.	PMID:	11023991	
+79	Cause	A2a receptor	Theme	TNF-alpha	relation	mediated	relation_class	Positive_regulation	sentence	of IL-12 and even TNF-alpha production is only partly mediated by A2a receptor
+ligation.	PMID:	11023991	
+80	Cause	p40 mRNA	Theme	IL-10 mRNA	relation	augmented	relation_class	Positive_regulation	sentence	p35 or p40 mRNA, but augmented IL-10 mRNA levels.	PMID:	11023991	
+81	Cause	DPD	Theme	inhNO	relation	augment	relation_class	Positive_regulation	sentence	CONCLUSION: We conclude that: 1) in combination with inhNO, DPD does not augment 
+the inhNO-induced decrease in PAP; 2) DPD improves the hemodynamic profile and
+elevates cardiac output; 3) therapeutic combination (inhaled NO, NTG, DPD) has a 
+potent effect on pulmonary pressure in cardiac failure patients.	PMID:	10875718	
+82	Cause	adenosine receptors	Theme	taurine release	relation	Modulation	relation_class	Regulation	sentence	
+Modulation of the ischemia-induced taurine release by adenosine receptors in the 
+developing and adult mouse hippocampus.	PMID:	10828525	
+83	Cause	adenosine receptors	Theme	taurine release	relation	Modulation	relation_class	Regulation	sentence	
+Modulation of the ischemia-induced taurine release by adenosine receptors in the 
+developing and adult mouse hippocampus.	PMID:	10828525	
+84	Cause	Heparin	Theme	thrombin	relation	suppressed	relation_class	Negative_regulation	sentence	 Heparin suppressed thrombin activation, whereas aspirin or
+dipyridamole did not.	PMID:	10808153	
+85	Cause	A1AR	Theme	leptin	relation	mediated	relation_class	Positive_regulation	sentence	idea that stimulation of leptin production is A1AR mediated, pretreatment with
+the A1AR antagonist 8-cyclopentyl-1,3-dipropylxanthine completely blocked
+increases in leptin levels after DPY treatment.	PMID:	10746648	
+86	Cause	CD63	Theme	fibrinogen	relation	enhanced	relation_class	Positive_regulation	sentence	CD63, whereas it enhanced bound fibrinogen and PAC1 expression, 4) platelets can 
+be easily identified and gating on a dual scatter (forward scatter x side
+scatter) dot plot with no specified labeling.	PMID:	10582178	
+87	Cause	CD63	Theme	PAC1	relation	enhanced	relation_class	Positive_regulation	sentence	CD63, whereas it enhanced bound fibrinogen and PAC1 expression, 4) platelets can 
+be easily identified and gating on a dual scatter (forward scatter x side
+scatter) dot plot with no specified labeling.	PMID:	10582178	
+88	Cause	antithrombin III	Theme	thrombin	relation	inhibition	relation_class	Negative_regulation	sentence	thrombin inhibition by antithrombin III (ATIII); ii) aspirin acetylates platelet 
+cyclooxygenase, thereby preventing thromboxane A2 (TxA2) synthesis; and iii) oral
+anticoagulants reduce the availability of vitamin K-dependent procoagulants,
+thereby reducing the risk of thrombus formation.	PMID:	10093889	
+89	Cause	antithrombin III	Theme	ATIII	relation	inhibition	relation_class	Negative_regulation	sentence	thrombin inhibition by antithrombin III (ATIII); ii) aspirin acetylates platelet 
+cyclooxygenase, thereby preventing thromboxane A2 (TxA2) synthesis; and iii) oral
+anticoagulants reduce the availability of vitamin K-dependent procoagulants,
+thereby reducing the risk of thrombus formation.	PMID:	10093889	
+90	Cause	serum immunoglobulin subclass	Theme	IgM	relation	role	relation_class	Regulation	sentence	investigate the role of serum immunoglobulin subclass/IgM in predicting the
+response to therapy in FSGS, serum concentrations of total IgG, IgG subclasses,
+and the ratio of serum IgG subclasses to total IgG (% IgG subclass) were measured
+in 27 children during the acute nephrotic state.	PMID:	9874322	
+91	Cause	Non-receptor	Theme	IK	relation	mediated	relation_class	Positive_regulation	sentence	Non-receptor-mediated activation of IK(ATP) and inhibition of IK(ACh) by
+diadenosine polyphosphates in guinea-pig atrial myocytes.	PMID:	9763631	
+92	Cause	Non-receptor	Theme	ATP	relation	mediated	relation_class	Positive_regulation	sentence	Non-receptor-mediated activation of IK(ATP) and inhibition of IK(ACh) by
+diadenosine polyphosphates in guinea-pig atrial myocytes.	PMID:	9763631	
+93	Cause	LDL	Theme	HNE	relation	increase	relation_class	Positive_regulation	sentence	increase in platelet aggregation and HNE formation by LDL was inhibited by
+superoxide dismutase and catalase, suggesting superoxide and hydrogen peroxide
+produced by platelets during aggregation may be at least partly responsible.	PMID:	9733221	
+94	Cause	PKA	Theme	HSPDE4D3	relation	mediated	relation_class	Positive_regulation	sentence	of HSPDE4D3 by PKA-mediated phosphorylation is suggested to involve disruption of
+an ion-pair interaction involving the negatively charged Glu-53.	PMID:	9639573	
+95	Cause	NBMPR	Theme	rENT1	relation	inhibited	relation_class	Negative_regulation	sentence	 rENT1 was inhibited by NBMPR (IC50 
+= 4.	PMID:	9353301	
+96	Cause	NBMPR	Theme	IC50	relation	inhibited	relation_class	Negative_regulation	sentence	 rENT1 was inhibited by NBMPR (IC50 
+= 4.	PMID:	9353301	
+97	Cause	Ado deaminase	Theme	LTA4	relation	enhanced	relation_class	Positive_regulation	sentence	protein-bound LTA4) was strongly enhanced by addition of Ado deaminase.	PMID:	9334381	
+98	Cause	GTP-binding proteins	Theme	protein tyrosine kinase	relation	involves	relation_class	Positive_regulation	sentence	GTP-binding proteins and involves protein tyrosine kinase and protein kinase C
+activation.	PMID:	9184087	
+99	Cause	GTP-binding proteins	Theme	protein kinase C	relation	involves	relation_class	Positive_regulation	sentence	GTP-binding proteins and involves protein tyrosine kinase and protein kinase C
+activation.	PMID:	9184087	
+100	Cause	type IV phosphodiesterase	Theme	TNF	relation	suppression	relation_class	Negative_regulation	sentence	show that suppression of TNF formation by the specific type IV phosphodiesterase 
+inhibitor rolipram can be completely reversed by adenosine deaminase or by the
+application of the A2 receptor antagonist.	PMID:	9042424	
+101	Cause	TdR	Theme	TK	relation	enhanced	relation_class	Positive_regulation	sentence	of TdR-enhanced reactivation of TK- HSV and inhibition of reactivation of
+wild-type TK+ HSV were evaluated in an experimental mouse model of latency.	PMID:	8915888	
+102	Cause	IBMX	Theme	PKC	relation	required	relation_class	Negative_regulation	sentence	induced by IBMX was dose-dependent, and also required PKC and PKG activity, but
+was preceded by a large, transient potentiation of parallel fiber responses
+occurring by a postsynaptic mechanism independent of cGMP.	PMID:	8622119	
+103	Cause	IBMX	Theme	PKG	relation	required	relation_class	Negative_regulation	sentence	induced by IBMX was dose-dependent, and also required PKC and PKG activity, but
+was preceded by a large, transient potentiation of parallel fiber responses
+occurring by a postsynaptic mechanism independent of cGMP.	PMID:	8622119	
+104	Cause	PDE subtypes	Theme	prorenin	relation	role	relation_class	Regulation	sentence	role of PDE subtypes in the regulation of prorenin secretion by human placenta,
+explants were cultured in the presence of isobutylmethylxanthine (IBMX), a
+non-selective PDE inhibitor, and selective inhibitors for various PDE subtypes.	PMID:	7540392	
+105	Cause	glutamate receptor	Theme	glutamate receptor	relation	increases	relation_class	Positive_regulation	sentence	metabotropic glutamate receptor (mGluR) that increases cAMP by potentiating
+responses elicited by adenosine or other agonists of receptors coupled to
+adenylate cyclase via Gs.	PMID:	7739795	
+106	Cause	glutamate receptor	Theme	mGluR	relation	increases	relation_class	Positive_regulation	sentence	metabotropic glutamate receptor (mGluR) that increases cAMP by potentiating
+responses elicited by adenosine or other agonists of receptors coupled to
+adenylate cyclase via Gs.	PMID:	7739795	
+107	Cause	mGluR	Theme	glutamate receptor	relation	increases	relation_class	Positive_regulation	sentence	metabotropic glutamate receptor (mGluR) that increases cAMP by potentiating
+responses elicited by adenosine or other agonists of receptors coupled to
+adenylate cyclase via Gs.	PMID:	7739795	
+108	Cause	mGluR	Theme	mGluR	relation	increases	relation_class	Positive_regulation	sentence	metabotropic glutamate receptor (mGluR) that increases cAMP by potentiating
+responses elicited by adenosine or other agonists of receptors coupled to
+adenylate cyclase via Gs.	PMID:	7739795	
+109	Cause	beta 2-receptors	Theme	prorenin	relation	stimulates	relation_class	Positive_regulation	sentence	of both beta 1- and beta 2-receptors stimulates placental prorenin release.	PMID:	7904614	
+110	Cause	muscarinic receptors	Theme	beta-adrenoceptors	relation	blocked	relation_class	Negative_regulation	sentence	beta-adrenoceptors were blocked by propranolol and muscarinic receptors by
+atropine.	PMID:	8403257	
+111	Cause	NMDA	Theme	adenosine release	relation	evoked	relation_class	Positive_regulation	sentence	of NMDA-evoked adenosine release was observed with alpha, beta-methylene ADP
+alone, indicating that the inhibitory effect was not due to the reported
+competitive inhibition of NMDA receptors by GMP.	PMID:	7679722	
+112	Cause	alpha ECGF	Theme	bFGF	relation	superior	relation_class	Positive_regulation	sentence	 alpha ECGF was superior to a- or bFGF in promoting endothelial cell
+growth and capillary formation in isolated islets.	PMID:	1377558	
+113	Cause	bradykinin	Theme	protein kinase C	relation	increases	relation_class	Positive_regulation	sentence	concentrations of bradykinin, which increases Ca(2+)-levels and protein kinase C 
+activity in D384 cells, reduced NECA-induced cyclic AMP accumulation in control
+and pertussis toxin-treated cells.	PMID:	1317654	
+114	Cause	IGF-I	Theme	S6 kinase	relation	stimulation	relation_class	Positive_regulation	sentence	kinase, since Cl-930 prevented IGF-I-stimulation of S6 kinase, but had no direct 
+inhibitory effect when added to the S6 kinase enzyme assay mixture.	PMID:	1724288	
+115	Cause	trypsin	Theme	rod PDE	relation	activated	relation_class	Positive_regulation	sentence	the inhibition of trypsin-activated rod PDE was competitive, with Ki values of
+140 nM for M&B 22,948 and 380 nM for dipyridamole.	PMID:	2555675	
+116	Cause	gamma interferon	Theme	MHC class II antigen	relation	induced	relation_class	Positive_regulation	sentence	inhibited gamma interferon-induced MHC class II antigen expression on astrocytes 
+derived from neonatal Lewis rats.	PMID:	2829222	
+117	Cause	fibronectin	Theme	FN	relation	affected	relation_class	Regulation	sentence	with fibronectin (FN) increased platelet adherence to them and adversely affected
+their patency, we labeled autologous canine platelets with indium III-oxine and
+interposed a FN-coated, experimental, 4 mm inner diameter, 10 cm long PTFE
+prosthesis into one carotid artery of 10 dogs.	PMID:	3563890	
+118	Cause	collagen	Theme	human PRP	relation	induced	relation_class	Positive_regulation	sentence	 For collagen-induced platelet aggregation in human PRP, the
+ID50 for ajoene is 95 +/- 5 microM.	PMID:	3520940	
+119	Cause	platelet activating factor	Theme	PAF	relation	induced	relation_class	Positive_regulation	sentence	aggregation induced by platelet activating factor (PAF) and low concentrations of
+arachidonic acid (AA).	PMID:	3715801	
+120	Cause	PAF	Theme	PAF	relation	induced	relation_class	Positive_regulation	sentence	aggregation induced by platelet activating factor (PAF) and low concentrations of
+arachidonic acid (AA).	PMID:	3715801	
+121	Cause	calmodulin	Theme	PDE III	relation	stimulated	relation_class	Positive_regulation	sentence	 The activity of PDE III was not stimulated by calmodulin.	PMID:	3006691	
+122	Cause	A2-purinoceptor	Theme	adenylate cyclase	relation	stimulates	relation_class	Positive_regulation	sentence	cells, an A2-purinoceptor which stimulates adenylate cyclase and a separate
+purinoceptor, stimulation of which produces enhancement of mediator release by an
+unknown mechanism.	PMID:	2420400	
+123	Cause	gonadotropins	Theme	COC oxygen	relation	decreased	relation_class	Negative_regulation	sentence	to this, COC oxygen consumption is decreased by gonadotropins.	PMID:	3936553	
+124	Cause	anti-human IgE	Theme	histamine release	relation	inhibited	relation_class	Negative_regulation	sentence	anti-human IgE inhibited histamine release.	PMID:	6210089	
+125	Cause	PAF	Theme	reptilase clot	relation	induce	relation_class	Positive_regulation	sentence	 PAF does not induce reptilase clot retraction
+(RCR); however, it does not inhibit RCR induced by ADP or thrombin.	PMID:	6695148	
+126	Cause	thrombin	Theme	RCR	relation	induced	relation_class	Positive_regulation	sentence	(RCR); however, it does not inhibit RCR induced by ADP or thrombin.	PMID:	6695148	
+127	Cause	BTG	Theme	TIA	relation	higher	relation_class	Positive_regulation	sentence	 BTG was higher in TIA subjects than in
+age-matched controls and higher in the 12 TIA subjects who had further vascular
+events in the next year than in those who had no further events.	PMID:	6193378	
+128	Cause	horse platelet microsomes	Theme	TXA2	relation	effects	relation_class	Regulation	sentence	The effects of dipyridamole on TXA2 formation by horse platelet microsomes.	PMID:	6573686	
+129	Cause	streptokinase	Theme	hyaluronidase	relation	effective	relation_class	Positive_regulation	sentence	streptokinase may be effective and hyaluronidase appears promising, possibly by
+promotion of collateral vessel flow.	PMID:	6139802	
+130	Cause	PGE1	Theme	plasminogen activator	relation	induction	relation_class	Positive_regulation	sentence	The induction of plasminogen activator by PGE1 may therefore be initiated by
+stimulation of cellular adenylate cyclase.	PMID:	7050342	
+131	Cause	aspirin	Theme	Cyclo-oxygenase	relation	inhibited	relation_class	Negative_regulation	sentence	Cyclo-oxygenase of AA is inhibited by aspirin, thromboxane synthetase by
+analogues of prostaglandin endoperoxides, and prostacyclin synthetase by linear
+lipid peroxides.	PMID:	6771102	
+132	Cause	VLDL	Theme	GFP	relation	induced	relation_class	Positive_regulation	sentence	 VLDL-induced aggregation of GFP was
+inhibited by apyrase (0.	PMID:	224521	
+133	Cause	serum aspirin esterase	Theme	aspirin	relation	effect	relation_class	Regulation	sentence	degradation of aspirin in man, their effect on the serum aspirin esterase
+activity was determined in vitro.	PMID:	488131	
+134	Cause	AT III	Theme	fibrinogen	relation	reduced	relation_class	Negative_regulation	sentence	AT III, reduced the fibrinogen utilization to a similar degree as heparin without
+affecting the platelet loss.	PMID:	400581	
+135	Cause	RP	Theme	CP	relation	increased	relation_class	Positive_regulation	sentence	decreased; RP/CP and RF/CF increased; RR/CR decreased.	PMID:	633070	
+136	Cause	RP	Theme	CF	relation	increased	relation_class	Positive_regulation	sentence	decreased; RP/CP and RF/CF increased; RR/CR decreased.	PMID:	633070	
+137	Cause	RF	Theme	CP	relation	increased	relation_class	Positive_regulation	sentence	decreased; RP/CP and RF/CF increased; RR/CR decreased.	PMID:	633070	
+138	Cause	RF	Theme	CF	relation	increased	relation_class	Positive_regulation	sentence	decreased; RP/CP and RF/CF increased; RR/CR decreased.	PMID:	633070	
+139	Cause	adenosine deaminase	Theme	5'-nucleotidase	relation	inactivate	relation_class	Negative_regulation	sentence	5'-nucleotidase and adenosine deaminase, enzymes which inactivate ATP; (5) the
+similar blocking and potentiating effects produced by drugs on the responses to
+exogenously applied ATP and nerve stimulation.	PMID:	24531	
+140	Cause	apyrase	Theme	Thrombofax-Reptilase	relation	unaffected	relation_class	Regulation	sentence	Thrombofax-Reptilase clots is unaffected by concentrations of apyrase which
+completely block ADP-Reptilase clot retraction.	PMID:	1191554	
+141	Cause	Trypsin	Theme	pig plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+142	Cause	streptokinase	Theme	pig plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+143	Cause	Trypsin	Theme	plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+144	Cause	streptokinase	Theme	plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+145	Cause	SK	Theme	pig plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+146	Cause	SK	Theme	plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+147	Cause	Trypsin	Theme	pig plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+148	Cause	Trypsin	Theme	plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+149	Cause	Trypsin	Theme	pig plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	
+150	Cause	Trypsin	Theme	plasmin	relation	activated	relation_class	Positive_regulation	sentence	Trypsin-activated pig plasmin and human plasmin activated by streptokinase (SK)
+caused aggregation of a suspension of washed platelets from human, rabbit, or pig
+blood.	PMID:	4268896	

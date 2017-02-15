@@ -1,0 +1,105 @@
+1	Cause	AtrR	Theme	cdr1B	relation	responsible	relation_class	Positive_regulation	sentence	
+Notably, AtrR was responsible for the expression of cdr1B that encodes an ABC
+transporter related to azole resistance, whereas SrbA was not involved in the
+regulation.	PMID:	28052140	
+2	Cause	Erg4B	Theme	Erg4A	relation	required	relation_class	Positive_regulation	sentence	Erg4A and Erg4B are required for conidiation and azole resistance via regulation 
+of ergosterol biosynthesis in Aspergillus fumigatus.	PMID:	27986720	
+3	Cause	INK128	Theme	TOR	relation	virulence.	relation_class	Positive_regulation	sentence	virulence.	PMID:	27812353	
+4	Cause	VDAC1	Theme	AMPK	relation	modulate	relation_class	Regulation	sentence	Antifungal drug itraconazole targets VDAC1 to modulate the AMPK/mTOR signaling
+axis in endothelial cells.	PMID:	26655341	
+5	Cause	PSC833	Theme	P-gp	relation	inhibited	relation_class	Negative_regulation	sentence	PSC833 and ivermectin potently inhibited P-gp function; cyclosporine and
+verapamil moderately inhibited P-gp function, whereas ketoconazole, itraconazole,
+diazepam, and its metabolites had no effect on P-gp function.	PMID:	26190674	
+6	Cause	BSF	Theme	PCF	relation	inhibited	relation_class	Negative_regulation	sentence	by RNAi in PCF or BSF in combination with 25-azalanosterol (AZA) inhibited
+parasite growth and this inhibition was restored completely by adding synergistic
+cholesterol (7.	PMID:	25424002	
+7	Cause	SDB at 32 °C	Theme	RPMI	relation	observed	relation_class	Positive_regulation	sentence	furfur was observed in RPMI, CUB and SDB at 32 °C for 48 and 72 h.	PMID:	25168965	
+8	Cause	SDB at 32 °C	Theme	CUB	relation	observed	relation_class	Positive_regulation	sentence	furfur was observed in RPMI, CUB and SDB at 32 °C for 48 and 72 h.	PMID:	25168965	
+9	Cause	ITS2	Theme	D1	relation	regions	relation_class	Positive_regulation	sentence	ITS2 regions of rDNA and the D1/D2 region sequences within 26S rRNA gene and also
+by matrix-assisted laser desorption and ionization-time-of-flight mass
+spectrometry with 99.	PMID:	24712485	
+10	Cause	ITS2	Theme	D2	relation	regions	relation_class	Positive_regulation	sentence	ITS2 regions of rDNA and the D1/D2 region sequences within 26S rRNA gene and also
+by matrix-assisted laser desorption and ionization-time-of-flight mass
+spectrometry with 99.	PMID:	24712485	
+11	Cause	TNF	Theme	CXCL10	relation	α-induced	relation_class	Positive_regulation	sentence	Itraconazole inhibits TNF-α-induced CXCL10 expression in oral fibroblasts.	PMID:	24495175	
+12	Cause	TNF	Theme	CXCL10 proteins	relation	α-induced	relation_class	Positive_regulation	sentence	of ICZ and fluconazole (FLZ) on TNF-α-induced CXCL10 proteins in GT1 and primary 
+fibroblasts were examined using enzyme-linked immunosorbent assays (ELISA).	PMID:	24495175	
+13	Cause	TNF	Theme	CXCL10	relation	α-induced	relation_class	Positive_regulation	sentence	RESULTS: ICZ inhibited TNF-α-induced CXCL10 mRNA in GT1, but not RT7.	PMID:	24495175	
+14	Cause	TNF	Theme	IL-8 mRNA	relation	α-induced	relation_class	Positive_regulation	sentence	ICZ did not affect TNF-α-induced IL-8 mRNA, the mRNAs of TNF-α-induced
+CXCR3-agonistic chemokines such as CXCL9 and CXCL11 were inhibited by ICZ in GT1.	PMID:	24495175	
+15	Cause	TNF	Theme	CXCL10 protein	relation	α-induced	relation_class	Positive_regulation	sentence	CXCR3-agonistic chemokines such as CXCL9 and CXCL11 were inhibited by ICZ in GT1.	PMID:	24495175	
+16	Cause	TNF	Theme	GT1	relation	α-stimulated	relation_class	Positive_regulation	sentence	phosphorylation of c-JUN, which is related to CXCL10 production by
+TNF-α-stimulated GT1.	PMID:	24495175	
+17	Cause	CD138	Theme	RARα2	relation	increased	relation_class	Positive_regulation	sentence	We previously demonstrated that RARα2 expression is increased in CD138 selected
+plasma cells of relapsed multiple myelomas (MMs), and increased expression was
+linked to poor prognosis in newly diagnosed MM patients.	PMID:	23847194	
+18	Cause	small interfering RNA	Theme	VDUP1	relation	silencing	relation_class	Negative_regulation	sentence	 Furthermore, the silencing of VDUP1 by small interfering RNA
+(siRNA) significantly inhibited the 25 D(3)- and 1,25 D(3)-mediated induction of 
+TSLP expression.	PMID:	23595236	
+19	Cause	RT-PCR	Theme	AKR mRNA	relation	revealed	relation_class	Positive_regulation	sentence	Semi-quantitative RT-PCR revealed AKR mRNA expression approximately twice that
+seen in the sensitive isolates.	PMID:	23351326	
+20	Cause	alcA	Theme	ugmA	relation	overexpression	relation_class	Positive_regulation	sentence	by alcA(p) or niiA(p), OR, ugmA overexpression by alcA(p), increased sensitivity 
+to Caspofungin.	PMID:	23078837	
+21	Cause	NPC2	Theme	mTOR	relation	inhibition	relation_class	Negative_regulation	sentence	NPC2 also cause inhibition of mTOR in endothelial cells.	PMID:	20176935	
+22	Cause	Sre1	Theme	Sre1	relation	dependent	relation_class	Regulation	sentence	required for both Sre1-dependent and Sre1-independent gene transcription,
+indicating that other substrates of Stp1 may exist.	PMID:	19818023	
+23	Cause	Stp1	Theme	Sre1	relation	required	relation_class	Positive_regulation	sentence	showed that Sre1 and Stp1 are required for both normoxic and hypoxic ergosterol
+biosynthesis, and therefore cells lacking SRE1 or STP1 are defective for growth
+in the presence of low levels of the ergosterol biosynthesis inhibitors,
+itraconazole and 25-thialanosterol.	PMID:	19818023	
+24	Cause	pepstatin A	Theme	peptidase	relation	inhibited	relation_class	Negative_regulation	sentence	peptidase activity was measured with BSA hydrolysis and inhibited by pepstatin A,
+showing distinct amounts of proteolytic activity ranging from 5.	PMID:	19649403	
+25	Cause	OATP1B1	Theme	simvastatin	relation	decrease	relation_class	Negative_regulation	sentence	OATP1B1 may decrease the benefit-risk ratio of simvastatin, lovastatin and
+pravastatin by interfering with their (active acid forms) entry into hepatocytes.	PMID:	18563955	
+26	Cause	OATP1B1	Theme	lovastatin	relation	decrease	relation_class	Negative_regulation	sentence	OATP1B1 may decrease the benefit-risk ratio of simvastatin, lovastatin and
+pravastatin by interfering with their (active acid forms) entry into hepatocytes.	PMID:	18563955	
+27	Cause	PXR	Theme	PXR	relation	mediated	relation_class	Positive_regulation	sentence	oxiconazole, miconazole, fluconazole, and itraconazole on PXR-mediated expression
+of CYP3A4.	PMID:	17998298	
+28	Cause	Our	Theme	HDL-C	relation	increase	relation_class	Positive_regulation	sentence	total cholesterol and LDL-C and there is a tendency for an increase in HDL-C.	PMID:	17725244	
+29	Cause	glucuronide C	Theme	max	relation	increase	relation_class	Positive_regulation	sentence	5-fold increase in raloxifene glucuronide AUC.	PMID:	17644287	
+30	Cause	PGP	Theme	CYP3A4	relation	role	relation_class	Regulation	sentence	blocker suggests a pivotal role for PGP/CYP3A4 in the absorption of rifampicin in
+patients with TB, which may be responsible for lower or variable levels of
+rifampicin.	PMID:	17535057	
+31	Cause	Pdr5(L183P) variant	Theme	unfolded protein	relation	induced	relation_class	Positive_regulation	sentence	 The Pdr5(L183P) variant induced the unfolded protein response 
+and was targeted to the proteasome for degradation.	PMID:	17302805	
+32	Cause	Th2	Theme	IgE	relation	mediated	relation_class	Positive_regulation	sentence	Th2 CD4 type response mediated by the production of specific IgE.	PMID:	16473820	
+33	Cause	Erg3A	Theme	C-5 sterol desaturase	relation	role	relation_class	Regulation	sentence	is a C-5 sterol desaturase, but no apparent role for Erg3A in A.	PMID:	16436696	
+34	Cause	P-glycoprotein	Theme	ivermectin	relation	mediated	relation_class	Positive_regulation	sentence	Modulation of the P-glycoprotein-mediated intestinal secretion of ivermectin: in 
+vitro and in vivo assessments.	PMID:	16381664	
+35	Cause	interleukin 4	Theme	CD23 molecules	relation	up-regulation	relation_class	Positive_regulation	sentence	In addition, there was increased up-regulation of CD23 molecules by interleukin 4
+stimulation on the patient's B cells, as observed in ABPA.	PMID:	16312174	
+36	Cause	interleukin 4	Theme	CD23 molecules	relation	up-regulation	relation_class	Positive_regulation	sentence	In addition, there was increased up-regulation of CD23 molecules by interleukin 4
+stimulation on the patient's B cells, as observed in ABPA.	PMID:	16312174	
+37	Cause	CYP3A4. Rifampicin	Theme	CYP2C8	relation	inhibited	relation_class	Negative_regulation	sentence	 Rifampicin inhibited CYP2C8 (Ki 30.	PMID:	16176562	
+38	Cause	CD28	Theme	CD3	relation	induced	relation_class	Positive_regulation	sentence	antimycotics reduced the anti-CD3/CD28-induced mRNA expression and promoter
+activities for IL-4 and IL-5.	PMID:	15284827	
+39	Cause	caspofungin	Theme	CYP450 3A4	relation	inhibit	relation_class	Negative_regulation	sentence	itraconazole, and caspofungin inhibit CYP450 3A4.	PMID:	15204103	
+40	Cause	CDR1	Theme	Ca-cdc35	relation	contributes	relation_class	Positive_regulation	sentence	transporter gene CDR1 contributes to the hypersusceptibility of the Ca-cdc35
+mutant.	PMID:	14506030	
+41	Cause	NADPH oxidase	Theme	TNF-alpha	relation	attenuated	relation_class	Negative_regulation	sentence	itraconazole) attenuated TNF-alpha induction of MAdCAM-1, whereas NADPH oxidase
+inhibition (PR-39) did not.	PMID:	12388057	
+42	Cause	NADPH oxidase	Theme	MAdCAM-1	relation	attenuated	relation_class	Negative_regulation	sentence	itraconazole) attenuated TNF-alpha induction of MAdCAM-1, whereas NADPH oxidase
+inhibition (PR-39) did not.	PMID:	12388057	
+43	Cause	ERG6	Theme	ERG1	relation	observed	relation_class	Positive_regulation	sentence	significant upregulation was observed for ERG6, ERG1, ERG3, ERG4, ERG10, ERG9,
+ERG26, ERG25, ERG2, IDII, HMGS, NCP1, and FEN2, all of which are genes known to
+be involved in ergosterol biosynthesis.	PMID:	11353609	
+44	Cause	ERG6	Theme	ERG3	relation	observed	relation_class	Positive_regulation	sentence	significant upregulation was observed for ERG6, ERG1, ERG3, ERG4, ERG10, ERG9,
+ERG26, ERG25, ERG2, IDII, HMGS, NCP1, and FEN2, all of which are genes known to
+be involved in ergosterol biosynthesis.	PMID:	11353609	
+45	Cause	ERG6	Theme	ERG4	relation	observed	relation_class	Positive_regulation	sentence	significant upregulation was observed for ERG6, ERG1, ERG3, ERG4, ERG10, ERG9,
+ERG26, ERG25, ERG2, IDII, HMGS, NCP1, and FEN2, all of which are genes known to
+be involved in ergosterol biosynthesis.	PMID:	11353609	
+46	Cause	ERG6	Theme	ERG10	relation	observed	relation_class	Positive_regulation	sentence	significant upregulation was observed for ERG6, ERG1, ERG3, ERG4, ERG10, ERG9,
+ERG26, ERG25, ERG2, IDII, HMGS, NCP1, and FEN2, all of which are genes known to
+be involved in ergosterol biosynthesis.	PMID:	11353609	
+47	Cause	ERG6	Theme	ERG9	relation	observed	relation_class	Positive_regulation	sentence	significant upregulation was observed for ERG6, ERG1, ERG3, ERG4, ERG10, ERG9,
+ERG26, ERG25, ERG2, IDII, HMGS, NCP1, and FEN2, all of which are genes known to
+be involved in ergosterol biosynthesis.	PMID:	11353609	
+48	Cause	LF	Theme	LFcin B	relation	inhibition	relation_class	Negative_regulation	sentence	susceptible to inhibition by LF or LFcin B than the azole-susceptible strains
+tested.	PMID:	9660988	
+49	Cause	TNF-alpha	Theme	GM-CSF	relation	inhibit	relation_class	Negative_regulation	sentence	GM-CSF, TNF-alpha and IFN-gamma in PBMC, flu, keto and TGF-beta failed to inhibit
+any (except TNF-alpha blocked by TGF-beta).	PMID:	1380951	
+50	Cause	IFN-gamma	Theme	GM-CSF	relation	inhibit	relation_class	Negative_regulation	sentence	GM-CSF, TNF-alpha and IFN-gamma in PBMC, flu, keto and TGF-beta failed to inhibit
+any (except TNF-alpha blocked by TGF-beta).	PMID:	1380951	
+51	Cause	TGF-beta	Theme	GM-CSF	relation	inhibit	relation_class	Negative_regulation	sentence	GM-CSF, TNF-alpha and IFN-gamma in PBMC, flu, keto and TGF-beta failed to inhibit
+any (except TNF-alpha blocked by TGF-beta).	PMID:	1380951	

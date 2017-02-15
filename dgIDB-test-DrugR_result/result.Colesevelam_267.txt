@@ -1,0 +1,2 @@
+1	Cause	Farnesoid X receptor	Theme	glucagon	relation	inhibits	relation_class	Negative_regulation	sentence	Farnesoid X receptor inhibits glucagon-like peptide-1 production by
+enteroendocrine L cells.	PMID:	26134028	

@@ -1,0 +1,466 @@
+1	Cause	nucleoside reverse transcriptase	Theme	miR-124a	relation	regulation	relation_class	Regulation	sentence	 Our study investigated
+the differential regulation of miR-124a by nucleoside reverse transcriptase
+inhibitors (NRTIs): Zidovudine (AZT), Stavudine (d4T) and Tenofovir (TFV); at 24 
+h and 120 h treatments in HepG2 cells.	PMID:	26643107	
+2	Cause	Bz-ATP	Theme	VEGFA	relation	increased	relation_class	Positive_regulation	sentence	cells with Bz-ATP increased VEGFA and IL6 mRNA levels, which were abrogated by
+3TC.	PMID:	26529046	
+3	Cause	Bz-ATP	Theme	IL6 mRNA	relation	increased	relation_class	Positive_regulation	sentence	cells with Bz-ATP increased VEGFA and IL6 mRNA levels, which were abrogated by
+3TC.	PMID:	26529046	
+4	Cause	ASK1	Theme	APOBEC3G	relation	restores	relation_class	Positive_regulation	sentence	ASK1 restores the antiviral activity of APOBEC3G by disrupting HIV-1 Vif-mediated
+counteraction.	PMID:	25901786	
+5	Cause	A3G	Theme	APOBEC3G	relation	inhibits	relation_class	Negative_regulation	sentence	APOBEC3G (A3G) is an innate antiviral restriction factor that strongly inhibits
+the replication of human immunodeficiency virus type 1 (HIV-1).	PMID:	25901786	
+6	Cause	ASK1	Theme	A3G	relation	stabilizes	relation_class	Positive_regulation	sentence	 Consequently, ASK1 stabilizes A3G and promotes its 
+incorporation into viral particles, ultimately reducing viral infectivity.	PMID:	25901786	
+7	Cause	AZT	Theme	TMPK	relation	mediated	relation_class	Positive_regulation	sentence	bystander cell killing in vitro and in vivo mediated by the TMPK/AZT suicide gene
+axis that is reliant on the formation of functional gap-junctional intercellular 
+communications (GJICs).	PMID:	24194950	
+8	Cause	IFN	Theme	p53	relation	induces	relation_class	Positive_regulation	sentence	IFN-α combined with zidovudine induces p53 signaling and apoptosis in
+HTLV-1-infected cells.	PMID:	23688327	
+9	Cause	IFN	Theme	Tax	relation	suppression	relation_class	Negative_regulation	sentence	reversed IFN-mediated suppression of Tax in ILTs.	PMID:	23688327	
+10	Cause	Oat1	Theme	CP	relation	noted	relation_class	Positive_regulation	sentence	high CP expression was noted for the organic anion transporters, Oat1 (SLC22A6 or
+NKT) and Oat3 (SLC22A8) which are also the principal Oats in the renal proximal
+tubule, as well as SLC22A17, hypothesized to be involved in iron transport.	PMID:	23196129	
+11	Cause	2B7	Theme	UGT1A1	relation	mediated	relation_class	Positive_regulation	sentence	of gossypol towards UGT1A1, 1A9 and 2B7-mediated metabolism of xenobiotics and
+endogenous substances.	PMID:	22543504	
+12	Cause	2B7	Theme	1A9	relation	mediated	relation_class	Positive_regulation	sentence	of gossypol towards UGT1A1, 1A9 and 2B7-mediated metabolism of xenobiotics and
+endogenous substances.	PMID:	22543504	
+13	Cause	hTERT-mRNA	Theme	telomerase	relation	increasing	relation_class	Positive_regulation	sentence	KG-1a cells decreased in S phase and increased in G(2)/M phase with the
+increasing of the concentration of AZT; telomerase activity and hTERT-mRNA
+expression in the experimental groups decreased after treated with AZT, which was
+positively correlated with concentration of AZT.	PMID:	22541081	
+14	Cause	hTERT-mRNA	Theme	hTERT-mRNA	relation	increasing	relation_class	Positive_regulation	sentence	KG-1a cells decreased in S phase and increased in G(2)/M phase with the
+increasing of the concentration of AZT; telomerase activity and hTERT-mRNA
+expression in the experimental groups decreased after treated with AZT, which was
+positively correlated with concentration of AZT.	PMID:	22541081	
+15	Cause	interleukin-4	Theme	Staphylococcus aureus superantigen	relation	stimulated	relation_class	Positive_regulation	sentence	METHODS: Peripheral blood B-lymphocytes from six healthy individuals were
+stimulated in vitro with interleukin-4 and Staphylococcus aureus superantigen in 
+the presence or absence of NRTI in concentrations equivalent to, or fivefold
+exceeding, human peak plasma levels.	PMID:	22414568	
+16	Cause	dNTP binding site	Theme	NRTIs	relation	mediated	relation_class	Positive_regulation	sentence	The acquisition of resistance to nucleoside reverse transcriptase inhibitors
+(NRTIs) can be mediated by amino acid changes at the dNTP binding site that
+affect the catalytic efficiency of nucleotide analogue incorporation, or by
+mutations that, in the presence of a pyrophosphate donor, facilitate excision of 
+3'-terminal chain-terminating inhibitors from blocked primers.	PMID:	22024508	
+17	Cause	IFN	Theme	Tax	relation	induce	relation_class	Positive_regulation	sentence	IFN and arsenic trioxide induce Tax proteolysis, synergize to induce apoptosis in
+ATL cells and cure Tax-driven ATL in mice through specific targeting of leukemia 
+initiating cell activity.	PMID:	21994752	
+18	Cause	UGT2B7	Theme	human UDP-glucuronosyltransferase	relation	enzymes	relation_class	Positive_regulation	sentence	The human UDP-glucuronosyltransferase (UGT) enzymes UGT1A9 and UGT2B7 play
+important roles in the hepatic glucuronidation of many drugs.	PMID:	21856742	
+19	Cause	UGT2B7	Theme	UGT	relation	enzymes	relation_class	Positive_regulation	sentence	The human UDP-glucuronosyltransferase (UGT) enzymes UGT1A9 and UGT2B7 play
+important roles in the hepatic glucuronidation of many drugs.	PMID:	21856742	
+20	Cause	UGT2B7	Theme	UGT1A9	relation	enzymes	relation_class	Positive_regulation	sentence	The human UDP-glucuronosyltransferase (UGT) enzymes UGT1A9 and UGT2B7 play
+important roles in the hepatic glucuronidation of many drugs.	PMID:	21856742	
+21	Cause	Mitochondrial thymidine kinase 2	Theme	TK2	relation	enzyme	relation_class	Positive_regulation	sentence	Mitochondrial thymidine kinase 2 (TK2) is a key enzyme in the salvage of
+pyrimidine deoxynucleosides needed for mitochondrial DNA synthesis.	PMID:	21444706	
+22	Cause	Angiotensin II	Theme	mitochondrial ROS in	relation	increases	relation_class	Positive_regulation	sentence	METHODS AND RESULTS: Angiotensin II increases mitochondrial ROS in
+cardiomyocytes, concomitant with increased mitochondrial protein carbonyls,
+mitochondrial DNA deletions, increased autophagy and signaling for mitochondrial 
+biogenesis in hearts of angiotensin II-treated mice.	PMID:	21311045	
+23	Cause	TH	Theme	Notch	relation	stimulated	relation_class	Positive_regulation	sentence	TH, stimulated Notch-3 expression and decreased the expression of ubiquitin, GFAP
+and iNOS.	PMID:	21151450	
+24	Cause	TH	Theme	ubiquitin	relation	decreased	relation_class	Negative_regulation	sentence	TH, stimulated Notch-3 expression and decreased the expression of ubiquitin, GFAP
+and iNOS.	PMID:	21151450	
+25	Cause	TH	Theme	3	relation	stimulated	relation_class	Positive_regulation	sentence	TH, stimulated Notch-3 expression and decreased the expression of ubiquitin, GFAP
+and iNOS.	PMID:	21151450	
+26	Cause	TH	Theme	GFAP	relation	decreased	relation_class	Negative_regulation	sentence	TH, stimulated Notch-3 expression and decreased the expression of ubiquitin, GFAP
+and iNOS.	PMID:	21151450	
+27	Cause	Wiyo P	Theme	Horst C, Waalberg E	relation	der	relation_class	Positive_regulation	sentence	Tien HC, Tohill B, van der Horst C, Waalberg E, Wiener J, Wilfert C, Wiyo P,
+Zgambo I, Zimba C.	PMID:	20672451	
+28	Cause	Wiyo P	Theme	Wilfert C	relation	der	relation_class	Positive_regulation	sentence	Tien HC, Tohill B, van der Horst C, Waalberg E, Wiener J, Wilfert C, Wiyo P,
+Zgambo I, Zimba C.	PMID:	20672451	
+29	Cause	Wiyo P	Theme	Wiyo P	relation	der	relation_class	Positive_regulation	sentence	Tien HC, Tohill B, van der Horst C, Waalberg E, Wiener J, Wilfert C, Wiyo P,
+Zgambo I, Zimba C.	PMID:	20672451	
+30	Cause	Thymidine kinase 2	Theme	four deoxynucleoside kinases	relation	one	relation_class	Positive_regulation	sentence	Thymidine kinase 2 (TK2) is one of four deoxynucleoside kinases (dNKs) in humans 
+and plays a crucial role in the initial phosphorylation of pyrimidine nucleosides
+in the salvage pathway in mitochondria.	PMID:	20544523	
+31	Cause	Thymidine kinase 2	Theme	dNKs	relation	one	relation_class	Positive_regulation	sentence	Thymidine kinase 2 (TK2) is one of four deoxynucleoside kinases (dNKs) in humans 
+and plays a crucial role in the initial phosphorylation of pyrimidine nucleosides
+in the salvage pathway in mitochondria.	PMID:	20544523	
+32	Cause	TK2	Theme	four deoxynucleoside kinases	relation	one	relation_class	Positive_regulation	sentence	Thymidine kinase 2 (TK2) is one of four deoxynucleoside kinases (dNKs) in humans 
+and plays a crucial role in the initial phosphorylation of pyrimidine nucleosides
+in the salvage pathway in mitochondria.	PMID:	20544523	
+33	Cause	TK2	Theme	dNKs	relation	one	relation_class	Positive_regulation	sentence	Thymidine kinase 2 (TK2) is one of four deoxynucleoside kinases (dNKs) in humans 
+and plays a crucial role in the initial phosphorylation of pyrimidine nucleosides
+in the salvage pathway in mitochondria.	PMID:	20544523	
+34	Cause	thymidylate kinase	Theme	thymidylate kinase	relation	essential	relation_class	Positive_regulation	sentence	(thymidylate kinase) is a good candidate as it is essential for the synthesis of 
+dTTP, a critical precursor of DNA and has been much studied due to its role in
+prodrug activation and as a drug target.	PMID:	20353400	
+35	Cause	Concentrative nucleoside transporter 1	Theme	CNT1	relation	molecule	relation_class	Positive_regulation	sentence	Concentrative nucleoside transporter 1 (CNT1, SLC28A1) is a key molecule for
+determining the pharmacokinetic/pharmacodynamic profile of a candidate compound
+derived from a pyrimidine nucleoside, but there is no available information on
+the differences in the functional profile of this ortholog between man and mouse.	PMID:	20060452	
+36	Cause	phytohaemaglutinin	Theme	MRP4	relation	increased	relation_class	Positive_regulation	sentence	 However, MRP4 expression increased following phytohaemaglutinin and
+AZT treatment.	PMID:	20032540	
+37	Cause	fatty acid synthase	Theme	fatty acid synthase	relation	involved	relation_class	Regulation	sentence	involved in lipogenesis, such as fatty acid synthase and acetyl-coenzyme A
+carboxylase.	PMID:	19812444	
+38	Cause	d4T	Theme	d4T	relation	effects	relation_class	Regulation	sentence	adipogenesis, but partially rescued the effects of d4T and d4T+CRP on adiponectin
+production.	PMID:	19812444	
+39	Cause	fatty acid synthase	Theme	acetyl-coenzyme	relation	involved	relation_class	Regulation	sentence	involved in lipogenesis, such as fatty acid synthase and acetyl-coenzyme A
+carboxylase.	PMID:	19812444	
+40	Cause	d4T	Theme	CRP	relation	effects	relation_class	Regulation	sentence	adipogenesis, but partially rescued the effects of d4T and d4T+CRP on adiponectin
+production.	PMID:	19812444	
+41	Cause	UGT1A1	Theme	UGT1A1	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+42	Cause	UGT1A1	Theme	UGT1A4	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+43	Cause	UGT1A1	Theme	UGT1A6	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+44	Cause	UGT1A4	Theme	UGT1A1	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+45	Cause	UGT1A4	Theme	UGT1A4	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+46	Cause	UGT1A4	Theme	UGT1A6	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+47	Cause	UGT1A6	Theme	UGT1A1	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+48	Cause	UGT1A6	Theme	UGT1A4	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+49	Cause	UGT1A6	Theme	UGT1A6	relation	increased	relation_class	Positive_regulation	sentence	was significantly increased by the coexpressed UGT1A1, UGT1A4, UGT1A6, and
+UGT1A9, indicating an interaction between UGT2B7 and the UGT1As.	PMID:	19475557	
+50	Cause	VL	Theme	STI	relation	a	relation_class	Negative_regulation	sentence	 At the end of the first STI, VL was a
+median 214000 copies/ml (range 27400-616000), corresponding to 5.	PMID:	19467895	
+51	Cause	VL	Theme	STI	relation	28200	relation_class	Negative_regulation	sentence	 At the end of the third STI, VL was a median 28200 
+copies/ml (range 5370-140000) or 4.	PMID:	19467895	
+52	Cause	ACTH	Theme	ACTH	relation	stimulated	relation_class	Positive_regulation	sentence	ACTH-stimulated in vitro secretion of these hormones from adrenal slices.	PMID:	19424607	
+53	Cause	insulin	Theme	insulin	relation	dysregulating	relation_class	Regulation	sentence	dysregulating both insulin production by beta cells and insulin action at the
+periphery.	PMID:	19370083	
+54	Cause	PHA	Theme	PWM	relation	response	relation_class	Positive_regulation	sentence	mitogens were observed at the 3-day culture time point in response to PWM, PHA,
+and SAC (p=0.	PMID:	19323617	
+55	Cause	hENT3	Theme	anti-HIV ddNs	relation	facilitates	relation_class	Positive_regulation	sentence	investigated whether hENT3 facilitates transport of anti-HIV ddNs into the
+mitochondria.	PMID:	19164483	
+56	Cause	interleukin 2	Theme	IFNgamma	relation	inhibited	relation_class	Negative_regulation	sentence	(IFNgamma), interleukin 2 (IL-2) and IL-4 directly inhibited the FLV reverse
+transcriptase (RT) activity by 27% to 36%.	PMID:	18443380	
+57	Cause	IL-2	Theme	IFNgamma	relation	inhibited	relation_class	Negative_regulation	sentence	(IFNgamma), interleukin 2 (IL-2) and IL-4 directly inhibited the FLV reverse
+transcriptase (RT) activity by 27% to 36%.	PMID:	18443380	
+58	Cause	IL-4	Theme	IFNgamma	relation	inhibited	relation_class	Negative_regulation	sentence	(IFNgamma), interleukin 2 (IL-2) and IL-4 directly inhibited the FLV reverse
+transcriptase (RT) activity by 27% to 36%.	PMID:	18443380	
+59	Cause	d4T	Theme	mitochondrial FAO and	relation	inhibit	relation_class	Negative_regulation	sentence	performed to clarify the mechanism whereby d4T can inhibit mitochondrial FAO and 
+induce triglyceride accumulation in rat hepatocytes.	PMID:	18299183	
+60	Cause	FA-2-b-beta	Theme	tumor cell telomerase	relation	decrease	relation_class	Negative_regulation	sentence	FA-2-b-beta could decrease the activity of tumor cell telomerase, and AZT has
+synergistic function with FA-2-b-beta.	PMID:	17696246	
+61	Cause	ATRA	Theme	RT	relation	inhibitor	relation_class	Negative_regulation	sentence	that ATRA acts as a RT inhibitor, reducing the HIV-1 proviral DNA load.	PMID:	17558705	
+62	Cause	SP-10	Theme	CD4	relation	reduced	relation_class	Negative_regulation	sentence	studies showed that SP-10 reduced the expression of CD4 and CCR5 on the surface
+of the host cell.	PMID:	17249247	
+63	Cause	SP-10	Theme	gp120	relation	reduced	relation_class	Negative_regulation	sentence	 SP-10 also reduced the level of gp120 binding to the cell
+surface.	PMID:	17249247	
+64	Cause	SP-10	Theme	CCR5	relation	reduced	relation_class	Negative_regulation	sentence	studies showed that SP-10 reduced the expression of CD4 and CCR5 on the surface
+of the host cell.	PMID:	17249247	
+65	Cause	multidrug resistance protein 4	Theme	MRP4	relation	reduce	relation_class	Negative_regulation	sentence	of multidrug resistance protein 4 (MRP4), which could reduce the intracellular
+concentration of 3TC.	PMID:	17067265	
+66	Cause	p53	Theme	p14	relation	down-regulated	relation_class	Negative_regulation	sentence	mutated p53, all treatments down-regulated p14(ARF) protein.	PMID:	16797627	
+67	Cause	p53	Theme	ARF	relation	down-regulated	relation_class	Negative_regulation	sentence	mutated p53, all treatments down-regulated p14(ARF) protein.	PMID:	16797627	
+68	Cause	p21	Theme	p27	relation	inducing	relation_class	Positive_regulation	sentence	p21(Waf1), and accumulation of p27(kip1), thereby inducing cellular senescence
+and tumor cell death.	PMID:	16569765	
+69	Cause	p21	Theme	kip1	relation	inducing	relation_class	Positive_regulation	sentence	p21(Waf1), and accumulation of p27(kip1), thereby inducing cellular senescence
+and tumor cell death.	PMID:	16569765	
+70	Cause	Waf1	Theme	p27	relation	inducing	relation_class	Positive_regulation	sentence	p21(Waf1), and accumulation of p27(kip1), thereby inducing cellular senescence
+and tumor cell death.	PMID:	16569765	
+71	Cause	Waf1	Theme	kip1	relation	inducing	relation_class	Positive_regulation	sentence	p21(Waf1), and accumulation of p27(kip1), thereby inducing cellular senescence
+and tumor cell death.	PMID:	16569765	
+72	Cause	TP	Theme	thymidine kinase	relation	inhibition	relation_class	Negative_regulation	sentence	TP activity in addition to its inhibition of thymidine kinase (TK) activity and
+reduction of intracellular dTTP pools.	PMID:	16457948	
+73	Cause	TP	Theme	TK	relation	inhibition	relation_class	Negative_regulation	sentence	TP activity in addition to its inhibition of thymidine kinase (TK) activity and
+reduction of intracellular dTTP pools.	PMID:	16457948	
+74	Cause	basic fibroblast growth factor	Theme	telomerase	relation	induction	relation_class	Positive_regulation	sentence	contrast, induction of telomerase by basic fibroblast growth factor inhibited
+alpha-smooth muscle actin expression.	PMID:	16424384	
+75	Cause	TNF-alpha	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	transduction process in CD4+ T-cells and inhibited TNF-alpha-induced NF-kappaB
+activation.	PMID:	16012749	
+76	Cause	TNF-alpha	Theme	NF-kappaB	relation	induced	relation_class	Positive_regulation	sentence	transduction process in CD4+ T-cells and inhibited TNF-alpha-induced NF-kappaB
+activation.	PMID:	16012749	
+77	Cause	RT	Theme	reverse transcriptase	relation	increasing	relation_class	Positive_regulation	sentence	reverse transcriptase (RT) confer resistance to zidovudine (AZT) by increasing
+the rate of ATP-dependent phosphorolysis of the terminal nucleotide monophosphate
+(primer unblocking).	PMID:	15980332	
+78	Cause	thymidine kinase	Theme	deoxycytidine kinase	relation	involved	relation_class	Regulation	sentence	thymidine kinase (TK) and deoxycytidine kinase (dCK), which are involved in the
+first step of phosphorylation of some nucleoside analogues, exists in
+antiretroviral-naive, HIV-seropositive patients.	PMID:	15764852	
+79	Cause	thymidine kinase	Theme	dCK	relation	involved	relation_class	Regulation	sentence	thymidine kinase (TK) and deoxycytidine kinase (dCK), which are involved in the
+first step of phosphorylation of some nucleoside analogues, exists in
+antiretroviral-naive, HIV-seropositive patients.	PMID:	15764852	
+80	Cause	TK	Theme	deoxycytidine kinase	relation	involved	relation_class	Regulation	sentence	thymidine kinase (TK) and deoxycytidine kinase (dCK), which are involved in the
+first step of phosphorylation of some nucleoside analogues, exists in
+antiretroviral-naive, HIV-seropositive patients.	PMID:	15764852	
+81	Cause	TK	Theme	dCK	relation	involved	relation_class	Regulation	sentence	thymidine kinase (TK) and deoxycytidine kinase (dCK), which are involved in the
+first step of phosphorylation of some nucleoside analogues, exists in
+antiretroviral-naive, HIV-seropositive patients.	PMID:	15764852	
+82	Cause	cytosolic thymidine kinase	Theme	Tk	relation	role	relation_class	Regulation	sentence	study, we have evaluated the role of cytosolic thymidine kinase (Tk), the major
+enzyme involved in phosphorylating thymidine and its analogues, in the nuclear
+DNA damage produced by AZT in neonatal mice.	PMID:	15708581	
+83	Cause	epoetin	Theme	hemoglobin	relation	alfa	relation_class	Regulation	sentence	once-weekly (qw) epoetin alfa on quality of life (QOL) and hemoglobin (Hb) levels
+in anemic human immunodeficiency virus (HIV)-infected adult receiving
+antiretroviral therapy.	PMID:	15587490	
+84	Cause	epoetin	Theme	Hb	relation	alfa	relation_class	Regulation	sentence	once-weekly (qw) epoetin alfa on quality of life (QOL) and hemoglobin (Hb) levels
+in anemic human immunodeficiency virus (HIV)-infected adult receiving
+antiretroviral therapy.	PMID:	15587490	
+85	Cause	factor 1	Theme	SDF-1	relation	regulated	relation_class	Regulation	sentence	chemokines stromal cell-derived factor 1 (SDF-1) and RANTES (regulated on
+activation, normally T cell-expressed and -secreted), confirming the presence of 
+functional coreceptors on LCs generated in vitro.	PMID:	15216455	
+86	Cause	TMPK	Theme	kinase	relation	role	relation_class	Positive_regulation	sentence	kinase (TMPK), apart from its essential physiological role in the biosynthesis of
+TTP, is also required for the activation of thymidine analogs, such as the
+clinically used anti-HIV prodrugs AZT and d4T.	PMID:	15134538	
+87	Cause	TMPK	Theme	TMPK	relation	role	relation_class	Positive_regulation	sentence	kinase (TMPK), apart from its essential physiological role in the biosynthesis of
+TTP, is also required for the activation of thymidine analogs, such as the
+clinically used anti-HIV prodrugs AZT and d4T.	PMID:	15134538	
+88	Cause	histidine tag	Theme	histidine tag	relation	effect	relation_class	Regulation	sentence	indicated that the histidine tag had no effect on nucleoside inhibitor binding,
+nucleotide binding or insertion, or DNA binding.	PMID:	14766302	
+89	Cause	MMPs	Theme	i.e. matrix metalloproteinases	relation	mediated	relation_class	Positive_regulation	sentence	mediated by proteolytic enzymes, i.	PMID:	14662518	
+90	Cause	SCLC1	Theme	Full length MRP4 cDNA	relation	obtained	relation_class	Positive_regulation	sentence	 Full length MRP4 cDNA was obtained from SCLC1 and 
+SR-2.	PMID:	12792791	
+91	Cause	Vpr	Theme	RANTES	relation	induction	relation_class	Positive_regulation	sentence	Vpr- and Nef-dependent induction of RANTES/CCL5 in microglial cells.	PMID:	12359436	
+92	Cause	protein Vpr	Theme	RANTES	relation	dependent	relation_class	Positive_regulation	sentence	RANTES/CCL5 production was dependent on the viral accessory protein Vpr, in
+addition to Nef, demonstrating a novel role for Vpr in chemokine induction in
+primary macrophage-type cells.	PMID:	12359436	
+93	Cause	Vpr	Theme	CCL5	relation	induction	relation_class	Positive_regulation	sentence	Vpr- and Nef-dependent induction of RANTES/CCL5 in microglial cells.	PMID:	12359436	
+94	Cause	Nef	Theme	RANTES	relation	induction	relation_class	Positive_regulation	sentence	Vpr- and Nef-dependent induction of RANTES/CCL5 in microglial cells.	PMID:	12359436	
+95	Cause	Nef	Theme	CCL5	relation	induction	relation_class	Positive_regulation	sentence	Vpr- and Nef-dependent induction of RANTES/CCL5 in microglial cells.	PMID:	12359436	
+96	Cause	protein Vpr	Theme	CCL5	relation	dependent	relation_class	Positive_regulation	sentence	RANTES/CCL5 production was dependent on the viral accessory protein Vpr, in
+addition to Nef, demonstrating a novel role for Vpr in chemokine induction in
+primary macrophage-type cells.	PMID:	12359436	
+97	Cause	telomerase RNA	Theme	antisense hTR	relation	inhibit	relation_class	Negative_regulation	sentence	telomerase RNA (antisense hTR) were used to inhibit telomerase.	PMID:	12220625	
+98	Cause	telomerase RNA	Theme	telomerase	relation	inhibit	relation_class	Negative_regulation	sentence	telomerase RNA (antisense hTR) were used to inhibit telomerase.	PMID:	12220625	
+99	Cause	TMP-SMZ	Theme	AP	relation	reduced	relation_class	Negative_regulation	sentence	compared with AP and DAP, TMP-SMZ significantly reduced the risk of a second
+occurrence of pneumonia (p = 0.	PMID:	11839141	
+100	Cause	TMP-SMZ	Theme	DAP	relation	reduced	relation_class	Negative_regulation	sentence	compared with AP and DAP, TMP-SMZ significantly reduced the risk of a second
+occurrence of pneumonia (p = 0.	PMID:	11839141	
+101	Cause	IFN-alpha	Theme	interferon alpha	relation	induce	relation_class	Positive_regulation	sentence	interferon alpha (IFN-alpha) to induce apoptosis in Human Herpes Virus Type 8
+(HHV-8) positive Primary Effusion Lymphomas (PEL).	PMID:	11704827	
+102	Cause	STP	Theme	PLT	relation	induces	relation_class	Positive_regulation	sentence	CONCLUSIONS: HAART induces a sustained PLT response in HIV-associated STP, even
+in antiretroviral-experienced subjects and in those with AZT-resistant
+thrombocytopenia.	PMID:	11545567	
+103	Cause	Pol gamma	Theme	mitochondrial polymerase	relation	role	relation_class	Regulation	sentence	To examine the role of the mitochondrial polymerase (Pol gamma) in clinically
+observed toxicity of nucleoside analogs used to treat AIDS, we examined the
+kinetics of incorporation catalyzed by Pol gamma for each Food and Drug
+Administration-approved analog plus
+1-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl)-5-iodouracil (FIAU),
+beta-L-(-)-2',3'-dideoxy-3'-thiacytidine (-)3TC, and
+(R)-9-(2-phosphonylmethoxypropyl)adenine (PMPA).	PMID:	11526116	
+104	Cause	Nfv	Theme	caspase	relation	effect	relation_class	Regulation	sentence	 This study shows that Nfv has no effect on caspase activity or 
+on the transcription or synthesis of a variety of apoptosis regulatory molecules.	PMID:	11493454	
+105	Cause	d4T	Theme	reverse transcriptase	relation	response	relation_class	Positive_regulation	sentence	a virologic response to d4T, reverse transcriptase (RT) sequencing of archived
+plasma HIV isolates was performed on 31 subjects who received d4T monotherapy in 
+the AIDS Clinical Trials Group 302 study, all of whom received more than 3 years 
+of ZDV monotherapy.	PMID:	11468426	
+106	Cause	d4T	Theme	RT	relation	response	relation_class	Positive_regulation	sentence	a virologic response to d4T, reverse transcriptase (RT) sequencing of archived
+plasma HIV isolates was performed on 31 subjects who received d4T monotherapy in 
+the AIDS Clinical Trials Group 302 study, all of whom received more than 3 years 
+of ZDV monotherapy.	PMID:	11468426	
+107	Cause	SDF-1	Theme	kappaB	relation	increased	relation_class	Positive_regulation	sentence	SDF-1 also increased nuclear transcription factor (NF)-kappaB.	PMID:	11406754	
+108	Cause	NRTIs	Theme	gamma-DNA polymerase	relation	inhibit	relation_class	Negative_regulation	sentence	 In vitro, NRTIs inhibit the gamma-DNA polymerase, responsible
+for replication of mtDNA, and cause mtDNA dysfunction.	PMID:	11293802	
+109	Cause	IL-2	Theme	JAK1	relation	activates	relation_class	Positive_regulation	sentence	particular, IL-2 activates the tyrosine kinases JAK1 and JAK3 and the
+transcription factors STAT3 and STAT5.	PMID:	11286543	
+110	Cause	IL-2	Theme	JAK3	relation	activates	relation_class	Positive_regulation	sentence	particular, IL-2 activates the tyrosine kinases JAK1 and JAK3 and the
+transcription factors STAT3 and STAT5.	PMID:	11286543	
+111	Cause	d4TTP	Theme	d4T triphosphate	relation	measured	relation_class	Positive_regulation	sentence	 An in vivo study measured the amount of d4T triphosphate (d4TTP), while
+an ex vivo study assessed the capacity of cells to phosphorylate added d4T.	PMID:	11158757	
+112	Cause	mM HU	Theme	ddI-antiviral	relation	enhancement	relation_class	Positive_regulation	sentence	mM HU and 10 mM RV showed similar enhancement of ddI-antiviral suppressive
+activity.	PMID:	11115955	
+113	Cause	CD40L	Theme	interleukin (IL)-1beta	relation	-induced	relation_class	Positive_regulation	sentence	(CD40L)-induced interleukin (IL)-1beta and IL-6 production by human macrophages
+was analyzed.	PMID:	10950771	
+114	Cause	CD40L	Theme	IL-6	relation	-induced	relation_class	Positive_regulation	sentence	(CD40L)-induced interleukin (IL)-1beta and IL-6 production by human macrophages
+was analyzed.	PMID:	10950771	
+115	Cause	Tat	Theme	luciferase	relation	mediated	relation_class	Positive_regulation	sentence	resulting in Tat-mediated expression of luciferase, which correlates with viral
+infectivity.	PMID:	10915601	
+116	Cause	Fibroblast growth factor 2	Theme	telomerase	relation	regulates	relation_class	Regulation	sentence	Fibroblast growth factor 2 up regulates telomerase activity in neural precursor
+cells.	PMID:	10871847	
+117	Cause	interferon-gamma	Theme	CBMC IL-12	relation	increased	relation_class	Positive_regulation	sentence	 CBMC IL-12 levels were increased by interferon-gamma and CD40 ligand
+but remained deficient, compared with PBMC.	PMID:	10823758	
+118	Cause	CCR5-Delta32 allele	Theme	CCR5	relation	prevents	relation_class	Negative_regulation	sentence	CCR5-Delta32 allele, which prevents CCR5 expression, strongly resist HIV-1
+infection.	PMID:	10559343	
+119	Cause	deoxycytidine kinase	Theme	TK1	relation	affected	relation_class	Regulation	sentence	in addition to deoxycytidine kinase, affected TK1 activity.	PMID:	10535751	
+120	Cause	AZT-TP	Theme	telomerase	relation	reduced	relation_class	Negative_regulation	sentence	 ddI and AZT-TP reduced telomerase activity and shortened
+the length of the telomere.	PMID:	10533489	
+121	Cause	P85	Theme	VPA	relation	enhanced	relation_class	Positive_regulation	sentence	P85 enhanced AP to BL transport of Et, VPA and Lo in Caco-2 monolayers.	PMID:	10496651	
+122	Cause	P85	Theme	Lo	relation	enhanced	relation_class	Positive_regulation	sentence	P85 enhanced AP to BL transport of Et, VPA and Lo in Caco-2 monolayers.	PMID:	10496651	
+123	Cause	methionine enkephalin	Theme	MENK	relation	increases	relation_class	Positive_regulation	sentence	azidothymidine (AZT) and methionine enkephalin (MENK) significantly increases
+Type 1 cytokine levels and decreases Type 2 cytokines compared with treatment
+with only AZT.	PMID:	10433557	
+124	Cause	p51	Theme	RT heterodimer	relation	stabilizing	relation_class	Positive_regulation	sentence	p51 appear to be important in stabilizing the RT heterodimer for enzymatic
+functions.	PMID:	9931031	
+125	Cause	microM 3TC-TP	Theme	RT	relation	inhibited	relation_class	Negative_regulation	sentence	Under our assay conditions, we found that 5 microM 3TC-TP inhibited RT activity
+from wild-type (WT), zidovudine-resistant, or nevirapine-resistant HIV-1 but not 
+from HIV-1 carrying either the M184V mutation or multidrug (MD) resistance
+mutations (77L/116Y/151M or 62V/75I/77L/116Y/151M).	PMID:	9925516	
+126	Cause	CD40L	Theme	DCs	relation	activated	relation_class	Positive_regulation	sentence	reservoir is activated within DCs by CD40L and upon interaction with T cells, and
+the virus then spreads rapidly to other T cells.	PMID:	9889121	
+127	Cause	CD40L	Theme	DCs	relation	activated	relation_class	Positive_regulation	sentence	reservoir is activated within DCs by CD40L and upon interaction with T cells, and
+the virus then spreads rapidly to other T cells.	PMID:	9889121	
+128	Cause	ovalbumin	Theme	AZT release	relation	effect	relation_class	Regulation	sentence	ovalbumin and casein had the maximum effect on AZT release.	PMID:	9834952	
+129	Cause	casein	Theme	AZT release	relation	effect	relation_class	Regulation	sentence	ovalbumin and casein had the maximum effect on AZT release.	PMID:	9834952	
+130	Cause	PTK inhibitor genistein	Theme	p24	relation	induced	relation_class	Positive_regulation	sentence	the PTK inhibitor genistein induced a dose-dependent increase in p24 antigen
+production in culture supernatants.	PMID:	9733859	
+131	Cause	ADAM II	Theme	HIV-1 reverse transcriptase	relation	inhibited	relation_class	Negative_regulation	sentence	ADAM II inhibited HIV-1 reverse transcriptase with an IC50 of 0.	PMID:	9622549	
+132	Cause	NPPB	Theme	NPPB	relation	inhibited	relation_class	Negative_regulation	sentence	swollen by hypotonic medium, but such release was inhibited by NPPB,
+dideoxyforskolin, and tamoxifen.	PMID:	9696693	
+133	Cause	CYP2E1	Theme	CYP3A4	relation	effect	relation_class	Regulation	sentence	CYP2E1, CYP3A4, CYP2C8, CYP2C9, CYP2C19, and CYP2A6 were also without effect on
+this reaction.	PMID:	9586947	
+134	Cause	CYP2E1	Theme	CYP2C8	relation	effect	relation_class	Regulation	sentence	CYP2E1, CYP3A4, CYP2C8, CYP2C9, CYP2C19, and CYP2A6 were also without effect on
+this reaction.	PMID:	9586947	
+135	Cause	CYP2E1	Theme	CYP2C9	relation	effect	relation_class	Regulation	sentence	CYP2E1, CYP3A4, CYP2C8, CYP2C9, CYP2C19, and CYP2A6 were also without effect on
+this reaction.	PMID:	9586947	
+136	Cause	CYP2E1	Theme	CYP2C19	relation	effect	relation_class	Regulation	sentence	CYP2E1, CYP3A4, CYP2C8, CYP2C9, CYP2C19, and CYP2A6 were also without effect on
+this reaction.	PMID:	9586947	
+137	Cause	CYP2E1	Theme	CYP2A6	relation	effect	relation_class	Regulation	sentence	CYP2E1, CYP3A4, CYP2C8, CYP2C9, CYP2C19, and CYP2A6 were also without effect on
+this reaction.	PMID:	9586947	
+138	Cause	90K	Theme	CD4	relation	predicts	relation_class	Negative_regulation	sentence	90K (Mac-2 BP) predicts CD4 decline in human immunodeficiency virus-infected
+patients with CD4 counts above 200 x 10(6) cells/L.	PMID:	9499363	
+139	Cause	Mac-2 BP	Theme	CD4	relation	predicts	relation_class	Negative_regulation	sentence	90K (Mac-2 BP) predicts CD4 decline in human immunodeficiency virus-infected
+patients with CD4 counts above 200 x 10(6) cells/L.	PMID:	9499363	
+140	Cause	MIP-1alpha	Theme	HIV type 1 BaL replication	relation	Inhibition	relation_class	Negative_regulation	sentence	Inhibition of HIV type 1 BaL replication by MIP-1alpha, MIP-1beta, and RANTES in 
+macrophages.	PMID:	9491913	
+141	Cause	IFN	Theme	RANTES	relation	affect	relation_class	Regulation	sentence	that in MDMs both RANTES and IFN affect early steps of HIV-1 BaL replication,
+preceding the completion of viral DNA synthesis.	PMID:	9491913	
+142	Cause	MIP-1beta	Theme	HIV type 1 BaL replication	relation	Inhibition	relation_class	Negative_regulation	sentence	Inhibition of HIV type 1 BaL replication by MIP-1alpha, MIP-1beta, and RANTES in 
+macrophages.	PMID:	9491913	
+143	Cause	Stem cell factor	Theme	SCF	relation	increased	relation_class	Positive_regulation	sentence	CONCLUSIONS: Stem cell factor (SCF), hemin, and interleukin-3 (IL-3) increased
+colony growth in HIV+ and normal cultures.	PMID:	9458678	
+144	Cause	Stem cell factor	Theme	hemin	relation	increased	relation_class	Positive_regulation	sentence	CONCLUSIONS: Stem cell factor (SCF), hemin, and interleukin-3 (IL-3) increased
+colony growth in HIV+ and normal cultures.	PMID:	9458678	
+145	Cause	thymidine kinase	Theme	thymidylate kinase	relation	possesses	relation_class	Positive_regulation	sentence	thymidine kinase, which possesses a thymidylate kinase activity, to improve AZT
+metabolism and antiviral activity.	PMID:	9281520	
+146	Cause	CD11a	Theme	LeuCAM family	relation	member	relation_class	Positive_regulation	sentence	CD11a, the alpha chain of LFA-1, which is a member of the LeuCAM family of
+integrins, has been implicated in the formation of HIV-induced syncytia and may
+contribute to the depletion of CD4-positive lymphocytes seen in patients with HIV
+infection.	PMID:	9241107	
+147	Cause	granulocyte-macrophage colony-stimulating factor	Theme	GM-CSF	relation	increased	relation_class	Positive_regulation	sentence	granulocyte-macrophage colony-stimulating factor (GM-CSF) specifically increased 
+CD11a expression and that HIV-infected MDMs secreted more GM-CSF than
+mock-infected cells.	PMID:	9241107	
+148	Cause	LH	Theme	LH	relation	suppressed	relation_class	Negative_regulation	sentence	the case of LH, the higher concentration of AZT partially suppressed LH release
+within 1 h.	PMID:	9500147	
+149	Cause	Tat	Theme	IL-2	relation	superinduction	relation_class	Positive_regulation	sentence	 IL-2 superinduction by Tat occurred at the
+transcriptional level, was mediated by the CD28-responsive element in the IL-2
+promoter, and was exclusively dependent on the 29 amino acids encoded by the
+second exon of Tat.	PMID:	9045614	
+150	Cause	Netw Res	Theme	Park N C	relation	Triangle	relation_class	Positive_regulation	sentence	 Netw Res Triangle Park N C.	PMID:	12290337	
+151	Cause	MS8209	Theme	HIV1	relation	inhibit	relation_class	Negative_regulation	sentence	that MS8209 can inhibit the replication of HIV1 isolates in PBMCs and suggest
+that it mainly acts by blocking the virus entry into cells.	PMID:	8881000	
+152	Cause	MS8209	Theme	PBMCs	relation	inhibit	relation_class	Negative_regulation	sentence	that MS8209 can inhibit the replication of HIV1 isolates in PBMCs and suggest
+that it mainly acts by blocking the virus entry into cells.	PMID:	8881000	
+153	Cause	trypsin	Theme	PPDK	relation	treated	relation_class	Positive_regulation	sentence	in trypsin-treated PPDK) and RDMQDMEFTIEEGKL (positions 317-331 in
+alpha-chymotrypsin-treated PPDK), thus locating one of the positions of covalent 
+modification.	PMID:	8679615	
+154	Cause	granulocyte colony-stimulating factor	Theme	G-CSF	relation	effective	relation_class	Regulation	sentence	granulocyte colony-stimulating factor (G-CSF) are effective in the treatment of
+AIDS-related neutropenia.	PMID:	8775801	
+155	Cause	ALT	Theme	HBeAg	relation	lost	relation_class	Negative_regulation	sentence	of adult patients with elevated alanine transaminase (ALT) levels lost HBeAg and 
+HBV-DNA when treated with IFN-alpha at a dose of 5MU daily or 10 MU three times a
+week for 3 to 6 months.	PMID:	7549584	
+156	Cause	IL-2	Theme	HIV p24 antigen	relation	induced	relation_class	Positive_regulation	sentence	well as IL-2, induced production of HIV p24 antigen over 7 days of culture (no
+cytokine 3,900 x/divided by 1.	PMID:	7718882	
+157	Cause	p24 antigen	Theme	CD4	relation	changes	relation_class	Regulation	sentence	not differ significantly with respect to changes in CD4 counts or p24 antigen
+levels or with respect to clinical adverse experiences or laboratory
+abnormalities.	PMID:	7859140	
+158	Cause	p24 antigen	Theme	p24 antigen	relation	changes	relation_class	Regulation	sentence	not differ significantly with respect to changes in CD4 counts or p24 antigen
+levels or with respect to clinical adverse experiences or laboratory
+abnormalities.	PMID:	7859140	
+159	Cause	epoetin alfa	Theme	haematocrit/haemoglobin	relation	increases	relation_class	Positive_regulation	sentence	suggest that while epoetin alfa increases haematocrit/haemoglobin levels, overall
+clinical rheumatological status may not improve.	PMID:	7729331	
+160	Cause	interferon	Theme	IFN	relation	effectivity	relation_class	Regulation	sentence	FOUNDATION: We assessed the effectivity of the treatment with interferon (IFN) in
+patients infected by the human immunodeficiency virus (HIV) with chronic
+hepatitis (CH) by the hepatitis C virus (HCV).	PMID:	7734662	
+161	Cause	Tat	Theme	HIV-1 LTR	relation	activation	relation_class	Positive_regulation	sentence	data suggest that Tat-mediated transcellular activation of the HIV-1 LTR occurs
+independently of cellular infection, and provides a mechanism that can promote
+the spread of HIV-1 in susceptible cell populations.	PMID:	7930599	
+162	Cause	haemoglobin	Theme	serial CD4+ cell count	relation	did	relation_class	Positive_regulation	sentence	combination of serial CD4+ cell count and IgA, although haemoglobin did (95% CI: 
+0.	PMID:	7946100	
+163	Cause	haemoglobin	Theme	IgA	relation	did	relation_class	Positive_regulation	sentence	combination of serial CD4+ cell count and IgA, although haemoglobin did (95% CI: 
+0.	PMID:	7946100	
+164	Cause	haemoglobin	Theme	serial CD4+ cell count	relation	did	relation_class	Positive_regulation	sentence	combination of serial CD4+ cell count and IgA, although haemoglobin did (95% CI: 
+0.	PMID:	7946100	
+165	Cause	haemoglobin	Theme	IgA	relation	did	relation_class	Positive_regulation	sentence	combination of serial CD4+ cell count and IgA, although haemoglobin did (95% CI: 
+0.	PMID:	7946100	
+166	Cause	lag phase	Theme	RIC	relation	caused	relation_class	Positive_regulation	sentence	time of RIC exposure, it caused no major change in the lag phase, during which
+RIC reaches the site of translocation.	PMID:	8188764	
+167	Cause	interleukin-3	Theme	IL-3	relation	effect	relation_class	Regulation	sentence	designed to evaluate the effect of interleukin-3 (IL-3) on its ability to
+influence the hematopoietic toxicity associated with zidovudine and ddI following
+combination with retroviral-infected murine bone marrow cells.	PMID:	8045675	
+168	Cause	Tat	Theme	lacZ gene	relation	inducible	relation_class	Positive_regulation	sentence	Tat-inducible lacZ gene, we observed syncytia as early as 6 h after exposure to
+HIV particles, before HIV gene expression could be detected.	PMID:	8289347	
+169	Cause	interleukin 3	Theme	IL-3	relation	presence	relation_class	Positive_regulation	sentence	in the presence of interleukin 3 (IL-3), granulocyte-macrophage colony
+stimulating factor (GM-CSF) and erythropoietin (EPO).	PMID:	8241956	
+170	Cause	erythropoietin	Theme	EPO	relation	effect	relation_class	Regulation	sentence	We studied the effect of erythropoietin (EPO) and interleukin 3 (IL-3), either
+alone or in combination, on the hematopoietic toxicity associated with zidovudine
+in vivo, as determined by peripheral blood indices, and assay of hematopoietic
+progenitors, i.	PMID:	8485306	
+171	Cause	erythropoietin	Theme	IL-3	relation	effect	relation_class	Regulation	sentence	We studied the effect of erythropoietin (EPO) and interleukin 3 (IL-3), either
+alone or in combination, on the hematopoietic toxicity associated with zidovudine
+in vivo, as determined by peripheral blood indices, and assay of hematopoietic
+progenitors, i.	PMID:	8485306	
+172	Cause	interleukin 3	Theme	EPO	relation	effect	relation_class	Regulation	sentence	We studied the effect of erythropoietin (EPO) and interleukin 3 (IL-3), either
+alone or in combination, on the hematopoietic toxicity associated with zidovudine
+in vivo, as determined by peripheral blood indices, and assay of hematopoietic
+progenitors, i.	PMID:	8485306	
+173	Cause	interleukin 3	Theme	IL-3	relation	effect	relation_class	Regulation	sentence	We studied the effect of erythropoietin (EPO) and interleukin 3 (IL-3), either
+alone or in combination, on the hematopoietic toxicity associated with zidovudine
+in vivo, as determined by peripheral blood indices, and assay of hematopoietic
+progenitors, i.	PMID:	8485306	
+174	Cause	recombinant human erythropoietin	Theme	r-HuEPO	relation	effect	relation_class	Regulation	sentence	OBJECTIVE: To assess the effect of recombinant human erythropoietin (r-HuEPO) on 
+anemia in patients with the acquired immunodeficiency syndrome (AIDS) who are
+receiving zidovudine therapy.	PMID:	1416576	
+175	Cause	IFN-gamma	Theme	IFN-gamma	relation	affects	relation_class	Regulation	sentence	IFN-gamma affects the expression or the activity of cellular factors interacting 
+with tat and that the high level of IFN-gamma production associated with HIV
+infection plays a role in the establishment of HIV latency.	PMID:	1400376	
+176	Cause	rhGH	Theme	murine prolactin receptors	relation	effect	relation_class	Regulation	sentence	unlike rhGH, has no effect on murine prolactin receptors, also prevented the
+erythroid-suppressive effects of AZT in mice, but had no significant effect on
+granulocyte counts.	PMID:	1520871	
+177	Cause	IFN alpha	Theme	interferon-alpha	relation	increase	relation_class	Positive_regulation	sentence	PURPOSE: To increase the hematologic tolerance of interferon-alpha (IFN alpha)
+and zidovudine combination therapy by the addition of granulocyte-macrophage
+colony-stimulating factor (GM-CSF), and to evaluate the safety, tolerance, and
+potential efficacy of the combination in patients with Kaposi's sarcoma and AIDS.	PMID:	1634925	
+178	Cause	transcriptase	Theme	DNA polymerase	relation	affect	relation_class	Regulation	sentence	transcriptase does not affect DNA polymerase or ribonuclease H enzyme activities 
+or the formation of heterodimer structures.	PMID:	1384860	
+179	Cause	transcriptase	Theme	ribonuclease H enzyme	relation	affect	relation_class	Regulation	sentence	transcriptase does not affect DNA polymerase or ribonuclease H enzyme activities 
+or the formation of heterodimer structures.	PMID:	1384860	
+180	Cause	p24 antigenemia	Theme	p24 antigenemia	relation	effect	relation_class	Regulation	sentence	zidovudine appeared to produce a suboptimal effect on p24 antigenemia and CD4
+counts.	PMID:	1345755	
+181	Cause	human stem cell factor	Theme	HuSCF	relation	increases	relation_class	Positive_regulation	sentence	 We demonstrate that human stem cell factor (HuSCF) increases
+burst-forming unit-erythroid (BFU-E), colony-forming unit-granulocyte-monocyte
+(CFU-GM), and CFU-Mix formation in vitro in normal and HIV-infected individuals.	PMID:	1720698	
+182	Cause	interleukin-1	Theme	GM-CSF	relation	Effect	relation_class	Regulation	sentence	Effect of interleukin-1, GM-CSF, erythropoietin, and lithium on the toxicity
+associated with 3'-azido-3'-deoxythymidine (AZT) in vitro on hematopoietic
+progenitors (CFU-GM, CFU-MEG, and BFU-E) using murine retrovirus-infected
+hematopoietic cells.	PMID:	1940611	
+183	Cause	interleukin-1	Theme	erythropoietin	relation	Effect	relation_class	Regulation	sentence	Effect of interleukin-1, GM-CSF, erythropoietin, and lithium on the toxicity
+associated with 3'-azido-3'-deoxythymidine (AZT) in vitro on hematopoietic
+progenitors (CFU-GM, CFU-MEG, and BFU-E) using murine retrovirus-infected
+hematopoietic cells.	PMID:	1940611	
+184	Cause	gp120	Theme	interferon	relation	performed	relation_class	Positive_regulation	sentence	interferon, and HIV antigens (p24, gp120, and gp41) was performed using specific 
+antisera.	PMID:	1859178	
+185	Cause	gp120	Theme	HIV antigens	relation	performed	relation_class	Positive_regulation	sentence	interferon, and HIV antigens (p24, gp120, and gp41) was performed using specific 
+antisera.	PMID:	1859178	
+186	Cause	gp120	Theme	p24	relation	performed	relation_class	Positive_regulation	sentence	interferon, and HIV antigens (p24, gp120, and gp41) was performed using specific 
+antisera.	PMID:	1859178	
+187	Cause	gp120	Theme	gp41	relation	performed	relation_class	Positive_regulation	sentence	interferon, and HIV antigens (p24, gp120, and gp41) was performed using specific 
+antisera.	PMID:	1859178	
+188	Cause	IFN-alpha	Theme	IFN-alpha	relation	effect	relation_class	Regulation	sentence	its anti-HIV effect in vivo, IFN-alpha in the dosages used does not seem to be a 
+viable additional treatment for severely immunodeficient patients in ongoing AZT 
+therapy.	PMID:	1672701	
+189	Cause	GM-CSF	Theme	AZT nucleotides	relation	enhances	relation_class	Positive_regulation	sentence	results suggest that GM-CSF enhances the formation of AZT nucleotides by
+increasing AZT uptake and phosphorylation, as well as increasing retention of
+phosphorylated derivatives.	PMID:	2260992	
+190	Cause	recombinant G-CSF	Theme	hematopoietic factors	relation	one	relation_class	Positive_regulation	sentence	Our data suggest that recombinant G-CSF may be one of the hematopoietic factors
+that influences production of BFU-E and RBCs in humans.	PMID:	1693297	
+191	Cause	integrase	Theme	HIV-1 proteinase	relation	target	relation_class	Regulation	sentence	 Agents that target HIV-1 proteinase, integrase,
+ribonuclease H, and products of regulatory genes such as tat are under
+development.	PMID:	1691243	
+192	Cause	IFN-alpha	Theme	IFN-alpha	relation	suppressed	relation_class	Negative_regulation	sentence	IFN-alpha suppressed the production or release (or both) of whole HIV virions,
+but had no effect on the amount of cell-associated viral proteins.	PMID:	2470148	
+193	Cause	PHA	Theme	IL-2	relation	response	relation_class	Positive_regulation	sentence	 The production of IL-2 in vitro, in response to PHA or recall
+antigens, was equivalently inhibited in both groups.	PMID:	2545165	
+194	Cause	colony-stimulating factor	Theme	colony-stimulating factor	relation	enhances	relation_class	Positive_regulation	sentence	colony-stimulating factor (GM-CSF) potentiates viral production yet enhances the 
+antiviral effect mediated by 3'-azido-2'3'-dideoxythymidine (AZT) and other
+dideoxynucleoside congeners of thymidine.	PMID:	2538549	
+195	Cause	colony-stimulating factor	Theme	GM-CSF	relation	enhances	relation_class	Positive_regulation	sentence	colony-stimulating factor (GM-CSF) potentiates viral production yet enhances the 
+antiviral effect mediated by 3'-azido-2'3'-dideoxythymidine (AZT) and other
+dideoxynucleoside congeners of thymidine.	PMID:	2538549	
+196	Cause	GM-CSF	Theme	colony-stimulating factor	relation	enhances	relation_class	Positive_regulation	sentence	colony-stimulating factor (GM-CSF) potentiates viral production yet enhances the 
+antiviral effect mediated by 3'-azido-2'3'-dideoxythymidine (AZT) and other
+dideoxynucleoside congeners of thymidine.	PMID:	2538549	
+197	Cause	GM-CSF	Theme	GM-CSF	relation	enhances	relation_class	Positive_regulation	sentence	colony-stimulating factor (GM-CSF) potentiates viral production yet enhances the 
+antiviral effect mediated by 3'-azido-2'3'-dideoxythymidine (AZT) and other
+dideoxynucleoside congeners of thymidine.	PMID:	2538549	
+198	Cause	dTTP	Theme	CDP reduction	relation	inhibition	relation_class	Negative_regulation	sentence	Surprisingly, the mode of inhibition of CDP reduction by dTTP and dTDP was found 
+to be competitive versus CDP.	PMID:	3314871	
+199	Cause	dTDP	Theme	CDP reduction	relation	inhibition	relation_class	Negative_regulation	sentence	Surprisingly, the mode of inhibition of CDP reduction by dTTP and dTDP was found 
+to be competitive versus CDP.	PMID:	3314871	
+200	Cause	GL	Theme	reverse transcriptase	relation	effect	relation_class	Regulation	sentence	 GL had no direct effect on the reverse transcriptase of
+HIV.	PMID:	3475037	

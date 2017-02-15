@@ -1,0 +1,125 @@
+1	Cause	mu	Theme	MOP	relation	requires	relation_class	Positive_regulation	sentence	also indirectly act as anti-proinflammatory cytokine drugs; and their therapeutic
+action requires the opioid system, particularly the mu (MOP) and/or delta (DOP)
+opioid receptors.	PMID:	27401055	
+2	Cause	Gabapentin	Theme	Pregabalin	relation	effect	relation_class	Regulation	sentence	OBJECTIVES: To evaluate the effect of Gabapentin and Pregabalin in Paclitaxel
+(Taxol) induced neuropathic pain and to compare the effect of these drugs in
+animal models.	PMID:	26155495	
+3	Cause	PSNL	Theme	c-Fos	relation	increased	relation_class	Positive_regulation	sentence	Immunohistochemical study showed that PSNL increased c-Fos expression in the
+neurons of anterior cingulate cortex by 2.	PMID:	25989046	
+4	Cause	gabapentin	Theme	GBP	relation	effects	relation_class	Regulation	sentence	AIM: We have examined the effects of gabapentin (GBP) on stress-related changes
+of cortisol and catecholamines in patients who underwent hysterectomy because of 
+uterine fibrinoids.	PMID:	25448495	
+5	Cause	Octn1	Theme	Octn1	relation	exhibited	relation_class	Regulation	sentence	(Octn1), as a PPARα-regulated gene and its intestinal expression exhibited
+circadian oscillations in a bile acid-dependent manner.	PMID:	25422143	
+6	Cause	PPARα	Theme	Octn1	relation	regulated	relation_class	Regulation	sentence	(Octn1), as a PPARα-regulated gene and its intestinal expression exhibited
+circadian oscillations in a bile acid-dependent manner.	PMID:	25422143	
+7	Cause	GBP	Theme	mEPSC	relation	attenuated	relation_class	Negative_regulation	sentence	 GBP also attenuated FL-induced increases in mEPSC frequency 
+at both P7 and 28.	PMID:	25158291	
+8	Cause	PKC	Theme	HuD	relation	mediated	relation_class	Positive_regulation	sentence	02.	PMID:	24565699	
+9	Cause	HuD	Theme	GAP43 mRNA	relation	stabilize	relation_class	Positive_regulation	sentence	HuD, a RNA-binding protein target of PKC known to stabilize GAP43 mRNA.	PMID:	24565699	
+10	Cause	PKCγ	Theme	GAP43	relation	reduced	relation_class	Negative_regulation	sentence	Pharmacological blockade of PKC prevented HuD and GAP43 overexpression.	PMID:	24565699	
+11	Cause	PKC	Theme	GAP43	relation	mediated	relation_class	Positive_regulation	sentence	02.	PMID:	24565699	
+12	Cause	HuD	Theme	GAP43	relation	reduced	relation_class	Negative_regulation	sentence	Pharmacological blockade of PKC prevented HuD and GAP43 overexpression.	PMID:	24565699	
+13	Cause	GBP	Theme	GBP	relation	superior	relation_class	Positive_regulation	sentence	CONCLUSIONS: Sertraline plus GBP may not be superior to SERT alone in delaying
+relapse among abstinent cocaine-dependent individuals undergoing cognitive
+behavioral therapy.	PMID:	24525654	
+14	Cause	SERT	Theme	GBP	relation	superior	relation_class	Positive_regulation	sentence	CONCLUSIONS: Sertraline plus GBP may not be superior to SERT alone in delaying
+relapse among abstinent cocaine-dependent individuals undergoing cognitive
+behavioral therapy.	PMID:	24525654	
+15	Cause	gabapentin	Theme	GBP	relation	influence	relation_class	Regulation	sentence	injury, used here to evaluate the influence of gabapentin (GBP) on nerve
+regeneration.	PMID:	24270909	
+16	Cause	gabapentin	Theme	interleukin-10	relation	effects	relation_class	Regulation	sentence	attenuation of neuropathic pain and the interaction between the anti-allodynic
+effects of gabapentin and interleukin-10 (IL-10) expression in a rat model of
+neuropathic pain.	PMID:	23399960	
+17	Cause	gabapentin	Theme	IL-10	relation	effects	relation_class	Regulation	sentence	attenuation of neuropathic pain and the interaction between the anti-allodynic
+effects of gabapentin and interleukin-10 (IL-10) expression in a rat model of
+neuropathic pain.	PMID:	23399960	
+18	Cause	GBP	Theme	SR	relation	reduced	relation_class	Negative_regulation	sentence	cells with GBP and PGB reduced the basal activity of SR, which is most likely a
+result of the decreased Ca(2+) flux produced via interaction of the drugs with
+the α(2)-δ subunit of voltage-gated calcium channels.	PMID:	23274708	
+19	Cause	PGB	Theme	SR	relation	reduced	relation_class	Negative_regulation	sentence	cells with GBP and PGB reduced the basal activity of SR, which is most likely a
+result of the decreased Ca(2+) flux produced via interaction of the drugs with
+the α(2)-δ subunit of voltage-gated calcium channels.	PMID:	23274708	
+20	Cause	GBP	Theme	Nav1	relation	effect	relation_class	Regulation	sentence	 These results suggest
+that the inhibitory effect of GBP on the expression of Nav1.	PMID:	23183040	
+21	Cause	TSP1	Theme	protein kinase A	relation	restored	relation_class	Positive_regulation	sentence	abnormal in astrocyte-deprived neurons but restored by TSP1, so protein kinase A 
+dysfunction may provide a mechanism by which muting is disrupted during astrocyte
+deficiency.	PMID:	22993427	
+22	Cause	gabapentin	Theme	GBP	relation	effect	relation_class	Regulation	sentence	We studied the antiallodynic effect of gabapentin (GBP) in the mouse model of
+neuropathic pain, aiming at clarifying the underlying mechanism.	PMID:	22447299	
+23	Cause	calmodulin	Theme	protein kinase II	relation	dependent	relation_class	Positive_regulation	sentence	Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) contributes to the
+analgesic effect of gabapentin on a chronic constriction injury (CCI) model.	PMID:	22340405	
+24	Cause	calmodulin	Theme	CaMKII	relation	dependent	relation_class	Positive_regulation	sentence	Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) contributes to the
+analgesic effect of gabapentin on a chronic constriction injury (CCI) model.	PMID:	22340405	
+25	Cause	antiepileptic drug gabapentin	Theme	I(H)	relation	increase	relation_class	Positive_regulation	sentence	 The antiepileptic drug gabapentin (GBP) has been shown to increase I(H) in
+hippocampal area CA1 pyramidal neurons, and this has been proposed as an
+anticonvulsant mechanism of action.	PMID:	21352896	
+26	Cause	GBP	Theme	CA1	relation	modulated	relation_class	Regulation	sentence	CA1 interneurons is modulated by GBP has not been examined.	PMID:	21352896	
+27	Cause	GBP	Theme	I(H)	relation	increase	relation_class	Positive_regulation	sentence	 The antiepileptic drug gabapentin (GBP) has been shown to increase I(H) in
+hippocampal area CA1 pyramidal neurons, and this has been proposed as an
+anticonvulsant mechanism of action.	PMID:	21352896	
+28	Cause	GBP	Theme	α2δ-2	relation	preventing	relation_class	Negative_regulation	sentence	 In contrast, the internalization of α2δ-2 was unaffected by GBP.	PMID:	20861389	
+29	Cause	Form IV	Theme	GBP Form II	relation	transformed	relation_class	Positive_regulation	sentence	methylcellulose, Kollidon K-30 or gelatin, GBP Form II was transformed to Form IV
+alone.	PMID:	20561572	
+30	Cause	gabapentin	Theme	protein kinase A	relation	generates	relation_class	Positive_regulation	sentence	We have recently shown that gabapentin generates protein kinase A (PKA)-dependent
+presynaptic inhibition of GABAergic synaptic transmission in locus coeruleus (LC)
+neurons only under neuropathic states.	PMID:	19498268	
+31	Cause	gabapentin	Theme	PKA	relation	generates	relation_class	Positive_regulation	sentence	We have recently shown that gabapentin generates protein kinase A (PKA)-dependent
+presynaptic inhibition of GABAergic synaptic transmission in locus coeruleus (LC)
+neurons only under neuropathic states.	PMID:	19498268	
+32	Cause	NMDA receptor	Theme	CA1 neurons	relation	activated	relation_class	Positive_regulation	sentence	NMDA receptor-activated ion current in dissociated hippocampal CA1 neurons,
+resulting in suppression of glutamate-induced neuronal injury.	PMID:	19151547	
+33	Cause	gabapentin	Theme	glutamate release	relation	inhibition	relation_class	Negative_regulation	sentence	an inhibition of glutamate release by gabapentin and pregabalin as main
+anticonvulsant principle is not supported by our experiments.	PMID:	19002437	
+34	Cause	pregabalin	Theme	glutamate release	relation	inhibition	relation_class	Negative_regulation	sentence	an inhibition of glutamate release by gabapentin and pregabalin as main
+anticonvulsant principle is not supported by our experiments.	PMID:	19002437	
+35	Cause	protein kinase A	Theme	ROMK1	relation	activates	relation_class	Positive_regulation	sentence	Gabapentin activates ROMK1 channels by a protein kinase A (PKA)-dependent
+mechanism.	PMID:	18311184	
+36	Cause	PKA	Theme	ROMK1	relation	activates	relation_class	Positive_regulation	sentence	Gabapentin activates ROMK1 channels by a protein kinase A (PKA)-dependent
+mechanism.	PMID:	18311184	
+37	Cause	alpha(2)delta-1	Theme	GBP	relation	abolish	relation_class	Negative_regulation	sentence	alpha(2)delta-1 or alpha(2)delta-2 that abolish GBP binding, and is not observed 
+for alpha(2)delta-3, which does not bind GBP.	PMID:	18299583	
+38	Cause	alpha(2)delta-2	Theme	GBP	relation	abolish	relation_class	Negative_regulation	sentence	alpha(2)delta-1 or alpha(2)delta-2 that abolish GBP binding, and is not observed 
+for alpha(2)delta-3, which does not bind GBP.	PMID:	18299583	
+39	Cause	NMDA receptors	Theme	glutamate release	relation	facilitate	relation_class	Positive_regulation	sentence	presynaptic NMDA receptors (NMDAr) tonically facilitate glutamate release at
+these synapses.	PMID:	17980555	
+40	Cause	NMDAr	Theme	glutamate release	relation	facilitate	relation_class	Positive_regulation	sentence	presynaptic NMDA receptors (NMDAr) tonically facilitate glutamate release at
+these synapses.	PMID:	17980555	
+41	Cause	GBP	Theme	c-Fos	relation	effects	relation_class	Regulation	sentence	the effects of GBP on c-Fos expression in the supraspinal part of the central
+nervous system in rats.	PMID:	17873368	
+42	Cause	OCTN1-L503F	Theme	OCTN1	relation	contributes	relation_class	Positive_regulation	sentence	of OCTN1, OCTN1-L503F, contributes to variation in the pharmacokinetics of the
+drug.	PMID:	17609685	
+43	Cause	alpha2-delta-1 subunit	Theme	pregabalin	relation	mediated	relation_class	Positive_regulation	sentence	actions of pregabalin are mediated through the alpha2-delta-1 subunit of
+voltage-gated calcium channels and establish this subunit as a therapeutic target
+for pain control.	PMID:	17088553	
+44	Cause	GBP	Theme	Gabapentin	relation	used	relation_class	Positive_regulation	sentence	BACKGROUND: Gabapentin (GBP) is a prescription drug used for the treatment of
+neuropathic and post-operative pain.	PMID:	17073851	
+45	Cause	GBP	Theme	NCS	relation	reduced	relation_class	Negative_regulation	sentence	treatment effects, only GBP reduced NCS when given after the first seizure event.	PMID:	16728590	
+46	Cause	GBP	Theme	morphine on CSF	relation	effect	relation_class	Regulation	sentence	 The effect of GBP and morphine on CSF glutamate and aspartate levels
+was examined in naïve rats, and the effect of morphine challenge on CSF glutamate
+and aspartate levels was examined in rats previously infused for 5 days with
+morphine alone or morphine plus GBP.	PMID:	16054118	
+47	Cause	Gabapentin	Theme	GABAB heteroreceptors	relation	activates	relation_class	Positive_regulation	sentence	Gabapentin activates presynaptic GABAB heteroreceptors in rat cortical slices.	PMID:	15249162	
+48	Cause	GBP	Theme	Gabapentin	relation	useful	relation_class	Positive_regulation	sentence	BACKGROUND: Gabapentin (GBP) may be useful in bipolar disorders, including as
+adjunctive therapy for bipolar depression, although controlled studies suggest
+inefficacy as primary treatment for mania or treatment-resistant rapid cycling.	PMID:	12479661	
+49	Cause	Gabapentin	Theme	GBP	relation	reduce	relation_class	Negative_regulation	sentence	Gabapentin (GBP) has been shown to reduce paired-pulse inhibition in the dentate 
+gyrus of the urethane-anesthetized rat, which is a proconvulsant effect, and to
+shorten the afterdischarge duration, which is an antiepileptic effect.	PMID:	12458029	
+50	Cause	gabapentin	Theme	GBP	relation	effect	relation_class	Regulation	sentence	 Here we studied the effect of gabapentin (GBP) on the
+three events generated by DHPRs in skeletal myotubes in culture.	PMID:	12176750	
+51	Cause	GBP	Theme	NMDA	relation	enhance	relation_class	Positive_regulation	sentence	GBP appears to enhance NMDA currents in GABAergic neurons.	PMID:	12009517	
+52	Cause	phospholipase C	Theme	protein kinase C	relation	initiate	relation_class	Positive_regulation	sentence	messengers initiate protein kinase C activation, phospholipase C and nitric oxide
+synthetase production, and proto-oncogene expression.	PMID:	10877151	
+53	Cause	leucine recognition site	Theme	TOR	relation	regulates	relation_class	Regulation	sentence	leucine recognition site that regulates TOR signaling in adipocytes appears to be
+different from the following: (1) a leucine receptor that regulates
+macroautophagy in liver, (2) a leucine recognition site that regulates TOR
+signaling in H4IIE hepatocytes, (3) leucyl tRNA or leucyl tRNA synthetase, (4)
+the gabapentin-sensitive leucine transaminase, or (5) the system L-amino acid
+transporter.	PMID:	10723090	
+54	Cause	LTG and GBP	Theme	striatum PHT	relation	decrease	relation_class	Negative_regulation	sentence	the striatum PHT, LTG and GBP decrease neuronal excitability by modulating
+multiple sites of action.	PMID:	10188980	
+55	Cause	gabapentin	Theme	GBP	relation	effects	relation_class	Regulation	sentence	PURPOSE: To study the anticonvulsant effects of gabapentin (GBP) in immature
+animals.	PMID:	9579890	
+56	Cause	Gabapentin	Theme	monoamine release	relation	decreases	relation_class	Positive_regulation	sentence	Gabapentin decreases monoamine release without affecting acetylcholine release in
+the brain.	PMID:	4084337	

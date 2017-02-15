@@ -1,0 +1,99 @@
+1	Cause	RAD51	Theme	CHK1	relation	regulates	relation_class	Regulation	sentence	RAD51 regulates CHK1 stability via autophagy to promote cell growth in esophageal
+squamous carcinoma cells.	PMID:	27743378	
+2	Cause	GUTK	Theme	Akt	relation	inhibits	relation_class	Negative_regulation	sentence	 We further provide
+evidence that GUTK inhibits Akt phosphorylation, thereby inhibiting the mTOR
+pathway in cancer cells during nutrient starvation.	PMID:	26321739	
+3	Cause	p62	Theme	p62	relation	increase	relation_class	Positive_regulation	sentence	p62/SQSTM1 indicates increased autophagic degradation, whereas an increase of
+p62/SQSTM1 by HCQ indicates inhibited autophagic degradation.	PMID:	26211587	
+4	Cause	p62	Theme	SQSTM1	relation	increase	relation_class	Positive_regulation	sentence	p62/SQSTM1 indicates increased autophagic degradation, whereas an increase of
+p62/SQSTM1 by HCQ indicates inhibited autophagic degradation.	PMID:	26211587	
+5	Cause	RAD001	Theme	P70S6K	relation	inhibited	relation_class	Negative_regulation	sentence	protein, was inhibited by both HCQ and RAD001.	PMID:	26134285	
+6	Cause	PKCβII	Theme	NADPH oxidase	relation	regulate	relation_class	Regulation	sentence	decreased phosphorylation of Ca(2+)-dependent protein kinase C isoforms PKCα and 
+PKCβII, which regulate activation of NADPH oxidase on plasma membrane.	PMID:	26071217	
+7	Cause	Eltrombopag	Theme	thrombopoietin	relation	activates	relation_class	Positive_regulation	sentence	BACKGROUND: Eltrombopag activates the thrombopoietin (TPO) surface receptor on
+the megakaryocyte, which increases the production of platelets, and rapidly
+improves circulating platelet numbers in patients with immune thrombocytopenic
+purpura (ITP).	PMID:	25416695	
+8	Cause	Eltrombopag	Theme	TPO	relation	activates	relation_class	Positive_regulation	sentence	BACKGROUND: Eltrombopag activates the thrombopoietin (TPO) surface receptor on
+the megakaryocyte, which increases the production of platelets, and rapidly
+improves circulating platelet numbers in patients with immune thrombocytopenic
+purpura (ITP).	PMID:	25416695	
+9	Cause	IL-35	Theme	IL-35	relation	increased	relation_class	Positive_regulation	sentence	IL-35, GSH protein expression, and TRX protein expression significantly increased
+(P < 0.	PMID:	24941846	
+10	Cause	IL-35	Theme	GSH protein	relation	increased	relation_class	Positive_regulation	sentence	IL-35, GSH protein expression, and TRX protein expression significantly increased
+(P < 0.	PMID:	24941846	
+11	Cause	IL-35	Theme	IL-35	relation	increased	relation_class	Positive_regulation	sentence	IL-35, GSH protein expression, and TRX protein expression significantly increased
+(P < 0.	PMID:	24941846	
+12	Cause	IL-35	Theme	TRX protein	relation	increased	relation_class	Positive_regulation	sentence	IL-35, GSH protein expression, and TRX protein expression significantly increased
+(P < 0.	PMID:	24941846	
+13	Cause	TAM	Theme	mouse chemokine KC	relation	regulated	relation_class	Regulation	sentence	mouse chemokine KC (CXCL1) and IFNγ were differentially regulated by both TAM and
+ICI treatments, suggesting a possible effect on macrophage development/activity.	PMID:	24928945	
+14	Cause	TAM	Theme	CXCL1	relation	regulated	relation_class	Regulation	sentence	mouse chemokine KC (CXCL1) and IFNγ were differentially regulated by both TAM and
+ICI treatments, suggesting a possible effect on macrophage development/activity.	PMID:	24928945	
+15	Cause	TAM	Theme	IFNγ	relation	regulated	relation_class	Regulation	sentence	mouse chemokine KC (CXCL1) and IFNγ were differentially regulated by both TAM and
+ICI treatments, suggesting a possible effect on macrophage development/activity.	PMID:	24928945	
+16	Cause	AT791	Theme	TLR7	relation	inhibit	relation_class	Negative_regulation	sentence	 We discovered that the ability of AT791 and E6446 to inhibit TLR7 and 
+9 signaling depends on two properties: weak interaction with nucleic acids and
+high accumulation in the intracellular acidic compartments where TLR7 and 9
+reside.	PMID:	24342772	
+17	Cause	E6446	Theme	TLR7	relation	inhibit	relation_class	Negative_regulation	sentence	 We discovered that the ability of AT791 and E6446 to inhibit TLR7 and 
+9 signaling depends on two properties: weak interaction with nucleic acids and
+high accumulation in the intracellular acidic compartments where TLR7 and 9
+reside.	PMID:	24342772	
+18	Cause	TNF-alpha	Theme	TNF-alpha	relation	blood	relation_class	Regulation	sentence	[Effect of prescriptions replenishing vital essence, tonifying Qi and activating 
+blood on TNF-alpha, IL-1beta expressions in serum and submaxillary gland of NOD
+mice with Sjogren's syndrome].	PMID:	23668020	
+19	Cause	TNF-alpha	Theme	IL-1beta	relation	blood	relation_class	Regulation	sentence	[Effect of prescriptions replenishing vital essence, tonifying Qi and activating 
+blood on TNF-alpha, IL-1beta expressions in serum and submaxillary gland of NOD
+mice with Sjogren's syndrome].	PMID:	23668020	
+20	Cause	TLR-9	Theme	IFN-α	relation	induced	relation_class	Positive_regulation	sentence	 TLR-9 and TLR-7 induced IFN-α and TNF-α production by pDCs
+was severely impaired in 36% (TLR-9) and 33% (TLR-7) of SLE subjects.	PMID:	22734582	
+21	Cause	TLR-9	Theme	IFN-α	relation	stimulation	relation_class	Positive_regulation	sentence	subjects with SLE to produce IFN-α and TNF-α upon stimulation with TLR-9 and
+TLR-7 agonists.	PMID:	22734582	
+22	Cause	TLR-9	Theme	TNF	relation	induced	relation_class	Positive_regulation	sentence	 TLR-9 and TLR-7 induced IFN-α and TNF-α production by pDCs
+was severely impaired in 36% (TLR-9) and 33% (TLR-7) of SLE subjects.	PMID:	22734582	
+23	Cause	TLR-7	Theme	IFN-α	relation	induced	relation_class	Positive_regulation	sentence	 TLR-9 and TLR-7 induced IFN-α and TNF-α production by pDCs
+was severely impaired in 36% (TLR-9) and 33% (TLR-7) of SLE subjects.	PMID:	22734582	
+24	Cause	TLR-7	Theme	TNF	relation	induced	relation_class	Positive_regulation	sentence	 TLR-9 and TLR-7 induced IFN-α and TNF-α production by pDCs
+was severely impaired in 36% (TLR-9) and 33% (TLR-7) of SLE subjects.	PMID:	22734582	
+25	Cause	TLR-9	Theme	TNF-α	relation	stimulation	relation_class	Positive_regulation	sentence	subjects with SLE to produce IFN-α and TNF-α upon stimulation with TLR-9 and
+TLR-7 agonists.	PMID:	22734582	
+26	Cause	serum prolactin	Theme	STAT5	relation	affected	relation_class	Regulation	sentence	whereas serum prolactin affected STAT5 activation in T cells.	PMID:	21799742	
+27	Cause	IL-1beta	Theme	NO synthase	relation	induced	relation_class	Positive_regulation	sentence	inhibited IL-1beta-induced inducible NO synthase (iNOS) expression and NO
+production in immortalized H4 chondrocytes, while penicillamine and sulfasalazine
+had no effect.	PMID:	16393772	
+28	Cause	IL-1beta	Theme	iNOS	relation	induced	relation_class	Positive_regulation	sentence	inhibited IL-1beta-induced inducible NO synthase (iNOS) expression and NO
+production in immortalized H4 chondrocytes, while penicillamine and sulfasalazine
+had no effect.	PMID:	16393772	
+29	Cause	IL-4	Theme	RANKL	relation	inhibited	relation_class	Negative_regulation	sentence	IL-4 each inhibited the expression of RANKL in RA FLS in a dose-dependent manner,
+and also increased the secretion of OPG in RA FLS supernatants.	PMID:	15593184	
+30	Cause	aPL	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	in p38 mitogen-activated protein kinase (p38MAPK) phosphorylation and aPL-induced
+platelet aggregation and thromboxane B2 (TXB2) production was abrogated by
+SB203580 (a p38MAPK inhibitor).	PMID:	15507280	
+31	Cause	aPL	Theme	mitogen-activated protein kinase	relation	induced	relation_class	Positive_regulation	sentence	in p38 mitogen-activated protein kinase (p38MAPK) phosphorylation and aPL-induced
+platelet aggregation and thromboxane B2 (TXB2) production was abrogated by
+SB203580 (a p38MAPK inhibitor).	PMID:	15507280	
+32	Cause	aPL	Theme	p38MAPK	relation	induced	relation_class	Positive_regulation	sentence	in p38 mitogen-activated protein kinase (p38MAPK) phosphorylation and aPL-induced
+platelet aggregation and thromboxane B2 (TXB2) production was abrogated by
+SB203580 (a p38MAPK inhibitor).	PMID:	15507280	
+33	Cause	LMP	Theme	caspase	relation	mediated	relation_class	Positive_regulation	sentence	rate-limiting for LMP-mediated caspase activation.	PMID:	12813466	
+34	Cause	LMP	Theme	caspase	relation	trigger	relation_class	Positive_regulation	sentence	herein indicate that LMP does not suffice to trigger caspase activation and that 
+Bax/Bak-dependent MMP is a critical step of LMP-induced cell death.	PMID:	12813466	
+35	Cause	CpG ODN	Theme	interleukin 6	relation	induced	relation_class	Positive_regulation	sentence	suppressed CpG ODN-induced splenic proliferation and interleukin 6 (IL-6)
+production associated with GVHD.	PMID:	12523576	
+36	Cause	CpG ODN	Theme	IL-6	relation	induced	relation_class	Positive_regulation	sentence	suppressed CpG ODN-induced splenic proliferation and interleukin 6 (IL-6)
+production associated with GVHD.	PMID:	12523576	
+37	Cause	CD41a	Theme	GPIIb/IIIa	relation	changes	relation_class	Regulation	sentence	 The changes in the expression of GPIIb/IIIa (CD41a)
+and GPIIIa (CD61) on platelet membrane by flow cytometry were used as indicators 
+of platelet activation.	PMID:	11916085	
+38	Cause	PHA	Theme	IL-6	relation	induced	relation_class	Positive_regulation	sentence	production, while PHA induced IL-6 production was not affected.	PMID:	9002011	
+39	Cause	CysA	Theme	IGF-I	relation	effects	relation_class	Regulation	sentence	CONCLUSION: The effects of CysA on IGF-I may explain some of the clinical,
+immunologic, and metabolic results during CysA treatment of rheumatic diseases.	PMID:	7674231	
+40	Cause	PKC	Theme	protein kinase C	relation	effect	relation_class	Regulation	sentence	a significant effect on protein kinase C (PKC), calmodulin-dependent kinase(s) or
+the membrane-bound, superoxide generating NADP(H) oxidase.	PMID:	3019354	
+41	Cause	Tolmetin	Theme	HLA-B27	relation	effective	relation_class	Positive_regulation	sentence	 Tolmetin and naproxen appear to be more effective in HLA-B27 positive
+males with pauciarticular disease.	PMID:	6829384	
+42	Cause	Tolmetin	Theme	HLA-B27	relation	effective	relation_class	Positive_regulation	sentence	 Tolmetin and naproxen appear to be more effective in HLA-B27 positive
+males with pauciarticular disease.	PMID:	6829384	
+43	Cause	serum aspirin esterase	Theme	aspirin	relation	effect	relation_class	Regulation	sentence	degradation of aspirin in man, their effect on the serum aspirin esterase
+activity was determined in vitro.	PMID:	488131	

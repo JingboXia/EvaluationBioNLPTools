@@ -1,0 +1,68 @@
+1	Cause	βIII	Theme	tubulin	relation	important	relation_class	Positive_regulation	sentence	ixabepilone, indicating that increased βIII-tubulin may be an important
+contributor to the development of resistance to ixabepilone.	PMID:	26416565	
+2	Cause	βIII	Theme	βIII	relation	important	relation_class	Positive_regulation	sentence	ixabepilone, indicating that increased βIII-tubulin may be an important
+contributor to the development of resistance to ixabepilone.	PMID:	26416565	
+3	Cause	βIII	Theme	tubulin	relation	important	relation_class	Positive_regulation	sentence	ixabepilone, indicating that increased βIII-tubulin may be an important
+contributor to the development of resistance to ixabepilone.	PMID:	26416565	
+4	Cause	p53	Theme	p21	relation	regulated	relation_class	Regulation	sentence	as well as p53-regulated expression of p21 and mdm2 proteins, were determined by 
+Western blot analysis.	PMID:	25958320	
+5	Cause	p53	Theme	mdm2 proteins	relation	regulated	relation_class	Regulation	sentence	as well as p53-regulated expression of p21 and mdm2 proteins, were determined by 
+Western blot analysis.	PMID:	25958320	
+6	Cause	UTD2	Theme	Akt	relation	reduced	relation_class	Negative_regulation	sentence	cell motility.	PMID:	24757372	
+7	Cause	PTX	Theme	EpoB	relation	induced	relation_class	Positive_regulation	sentence	compared to EpoB, PTX induced high time-dependent morphological and biochemical
+changes typical of apoptosis.	PMID:	23955989	
+8	Cause	IR	Theme	MMP	relation	mediated	relation_class	Positive_regulation	sentence	depletion of TIMP-1 or TIMP-2 prevented IR-mediated induction of MMP activity and
+cell invasion.	PMID:	23631818	
+9	Cause	βIII	Theme	tubulin	relation	indicate	relation_class	Positive_regulation	sentence	CONCLUSION: These results indicate that βIII-tubulin protein and mRNA expression,
+MDR1 protein expression, TACC3 and CAPG gene expression, and multigene expression
+models (20- and 26-gene) are not predictive markers for differentiating treatment
+benefit between ixabepilone and paclitaxel in early-stage breast cancer.	PMID:	23340299	
+10	Cause	βIII	Theme	βIII	relation	indicate	relation_class	Positive_regulation	sentence	CONCLUSION: These results indicate that βIII-tubulin protein and mRNA expression,
+MDR1 protein expression, TACC3 and CAPG gene expression, and multigene expression
+models (20- and 26-gene) are not predictive markers for differentiating treatment
+benefit between ixabepilone and paclitaxel in early-stage breast cancer.	PMID:	23340299	
+11	Cause	βIII	Theme	tubulin	relation	indicate	relation_class	Positive_regulation	sentence	CONCLUSION: These results indicate that βIII-tubulin protein and mRNA expression,
+MDR1 protein expression, TACC3 and CAPG gene expression, and multigene expression
+models (20- and 26-gene) are not predictive markers for differentiating treatment
+benefit between ixabepilone and paclitaxel in early-stage breast cancer.	PMID:	23340299	
+12	Cause	PD	Theme	PK	relation	effect	relation_class	Regulation	sentence	 The PK/PD evaluation revealed no consistent effect of the
+infusion duration on serum PK parameters or the PD read-out NCV.	PMID:	22190114	
+13	Cause	growth factor	Theme	PSA	relation	decrease	relation_class	Negative_regulation	sentence	growth factor (VEGF) and has shown to decrease PSA levels in combination with
+other cytotoxic agents.	PMID:	21984773	
+14	Cause	TGF-β1	Theme	plasminogen activator	relation	induced	relation_class	Positive_regulation	sentence	abolished the inhibitory effect of cGMP on TGF-β1-induced plasminogen activator
+inhibitor-1 (PAI-1) transcription.	PMID:	21868450	
+15	Cause	TGF-β1	Theme	Smad3	relation	induced	relation_class	Positive_regulation	sentence	microtubule depolymerizers nocodazole and colchicine promoted Smad3 dissociation 
+from β2-tubulin, increased both TGF-β1-induced Smad3 nuclear translocation and
+PAI-1 mRNA expression, and abolished the inhibitory effects of cGMP on these
+processes.	PMID:	21868450	
+16	Cause	kinesin	Theme	kinesin family	relation	member	relation_class	Positive_regulation	sentence	kinesin (MCAK), a member of the kinesin family of microtubule motor proteins that
+has the ability to stimulate microtubule depolymerization, and show that
+overexpressing the protein confers resistance to paclitaxel and epothilone A, but
+increases sensitivity to colcemid.	PMID:	21471284	
+17	Cause	microtubule motor proteins	Theme	kinesin family	relation	member	relation_class	Positive_regulation	sentence	kinesin (MCAK), a member of the kinesin family of microtubule motor proteins that
+has the ability to stimulate microtubule depolymerization, and show that
+overexpressing the protein confers resistance to paclitaxel and epothilone A, but
+increases sensitivity to colcemid.	PMID:	21471284	
+18	Cause	P-glycoprotein	Theme	P-gp	relation	role	relation_class	Regulation	sentence	to assess the potential role of P-glycoprotein (P-gp) and breast cancer
+resistance protein (BCRP) in ixabepilone resistance.	PMID:	21262849	
+19	Cause	EpoB	Theme	EpCAM mRNA	relation	effect	relation_class	Regulation	sentence	Unexpectedly, EpoB did not have a significant effect on EpCAM mRNA expression,
+nor did it alter the level of total cellular EpCAM in Hey cells.	PMID:	20674962	
+20	Cause	curcumin	Theme	HIF-1alpha	relation	inhibited	relation_class	Negative_regulation	sentence	 We found that, while curcumin inhibited HIF-1alpha
+gene transcription, EF24 exerted its activity by inhibiting HIF-1alpha
+posttranscriptionally.	PMID:	18682687	
+21	Cause	HAFH	Theme	epoAT3	relation	mutated	relation_class	Positive_regulation	sentence	epoAT3 within the hybrid PKS was mutated to HAFH (indicative of malonyl-CoA
+selection) it resulted in a non-productive PKS.	PMID:	18219420	
+22	Cause	Epo-D	Theme	Rb	relation	inhibited	relation_class	Negative_regulation	sentence	Furthermore, Epo-D inhibited the phosphorylation of Rb, a key regulator of the G1
+to S phase transition in the cell cycle.	PMID:	17706465	
+23	Cause	Tubulysin A	Theme	tubulin polymerization more	relation	inhibited	relation_class	Negative_regulation	sentence	 Tubulysin A inhibited tubulin polymerization more 
+efficiently than vinblastine and induced depolymerization of isolated microtubule
+preparations.	PMID:	16491500	
+24	Cause	AR	Theme	lipase	relation	deactivated	relation_class	Positive_regulation	sentence	 Unfortunately, the AR deactivated the lipase, preventing a one-pot 
+DKR.	PMID:	16268632	
+25	Cause	PgP	Theme	MRP2	relation	role	relation_class	Regulation	sentence	findings in vivo suggests that the role of PgP and MRP2 in intrinsic resistance
+in RCC in vivo may be less than expected from the in vitro findings and supports 
+a potential role for MVP on the basis of in vivo expression studies.	PMID:	15645438	
+26	Cause	p53	Theme	p21	relation	dependent	relation_class	Positive_regulation	sentence	(a) p53-dependent p21 induction caused by doxorubicin protects from microtubule
+drug-induced cytotoxicity, and (b) pretreatment with cytostatic doses of
+DNA-damaging drugs before treatment with microtubule drugs results in selective
+cytotoxicity to cancer cells with defective p53/p21-dependent checkpoint.	PMID:	10683383	

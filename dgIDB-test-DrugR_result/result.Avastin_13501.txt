@@ -1,0 +1,607 @@
+1	Cause	anti-cytokeratin	Theme	anti-cytokeratin	relation	results	relation_class	Positive_regulation	sentence	staining of the specimen revealed negative results for anti-cytokeratin
+antibodies and positive results for vascular endothelial immunohistochemical
+markers.	PMID:	28031827	
+2	Cause	VEGF blockade	Theme	SDF-1α	relation	elevated	relation_class	Positive_regulation	sentence	SDF-1α expression were elevated by VEGF blockade.	PMID:	27940247	
+3	Cause	thymidylate synthase	Theme	5FU	relation	target	relation_class	Regulation	sentence	is still relatively poor.	PMID:	27906628	
+4	Cause	PurposePlacental growth factor	Theme	VEGF family	relation	member	relation_class	Positive_regulation	sentence	Medicine, Baltimore, MD, USA.	PMID:	27886182	
+5	Cause	FLT1	Theme	PlGF receptor	relation	case-control	relation_class	Regulation	sentence	the PlGF receptor, FLT1, in endothelial cells.	PMID:	27886182	
+6	Cause	PlGF	Theme	VEGF family	relation	member	relation_class	Positive_regulation	sentence	Medicine, Baltimore, MD, USA.	PMID:	27886182	
+7	Cause	RTX	Theme	hTF	relation	induced	relation_class	Positive_regulation	sentence	RTX, which did not bind VEGF, induced hTF death and inhibited proliferation in a 
+BVC-comparable fashion.	PMID:	27654424	
+8	Cause	fractalkine receptor	Theme	CD8(+) T	relation	increases	relation_class	Positive_regulation	sentence	 We
+also discover that the fractalkine receptor increases on peripheral CD8(+) T
+cells with treatment.	PMID:	27571927	
+9	Cause	Anti-Vascular Endothelial Growth Factor Antibody	Theme	ERK	relation	Suppresses	relation_class	Negative_regulation	sentence	Anti-Vascular Endothelial Growth Factor Antibody Suppresses ERK and NF-κB
+Activation in Ischemia-Reperfusion Lung Injury.	PMID:	27513332	
+10	Cause	Anti-Vascular Endothelial Growth Factor Antibody	Theme	NF-κB	relation	Suppresses	relation_class	Negative_regulation	sentence	Anti-Vascular Endothelial Growth Factor Antibody Suppresses ERK and NF-κB
+Activation in Ischemia-Reperfusion Lung Injury.	PMID:	27513332	
+11	Cause	coagulation factor V	Theme	FVL G1691A	relation	effect	relation_class	Regulation	sentence	 Our aim
+was to analyse the effect of coagulation factor V (FVL G1691A), prothrombin (PT
+G20210A), methylenetetrahydrofolate reductase (MTHFR C677T and A1298C) and
+plasminogen activator inhibitor type 1 (PAI-1 5G/4G) allelic variants in this
+setting.	PMID:	27001121	
+12	Cause	Vascular endothelial growth factor A	Theme	VEGF-A	relation	decreases	relation_class	Negative_regulation	sentence	Vascular endothelial growth factor A (VEGF-A) decreases expression and secretion 
+of pleiotrophin in a VEGF receptor-independent manner.	PMID:	26924457	
+13	Cause	Myc	Theme	P	relation	dependent	relation_class	Positive_regulation	sentence	 This induction of P-Rex1 is dependent on Myc.	PMID:	26923603	
+14	Cause	Myc	Theme	Rex1	relation	dependent	relation_class	Positive_regulation	sentence	 This induction of P-Rex1 is dependent on Myc.	PMID:	26923603	
+15	Cause	IgG1 monoclonal antibody	Theme	human VEGFA	relation	targets	relation_class	Positive_regulation	sentence	humanized IgG1 monoclonal antibody that targets human VEGFA.	PMID:	26918197	
+16	Cause	VEGF	Theme	CFH	relation	role	relation_class	Regulation	sentence	 In spite of several genetic and environmental factors,
+the role of VEGF and CFH predispose the pathological phenomenon in the AMD
+patients.	PMID:	26526736	
+17	Cause	IVR PRN	Theme	VA	relation	increase	relation_class	Positive_regulation	sentence	 IVR PRN could significantly increase VA.	PMID:	26451092	
+18	Cause	Wnt3a	Theme	GSK-3β	relation	increases	relation_class	Positive_regulation	sentence	 Wogonoside (100 µM) decreases the intracellular level of 
+Wnt3a, increases the expression of GSK-3β, AXIN, and promotes the phosphorylation
+of β-catenin for proteasome degradation significantly.	PMID:	26387984	
+19	Cause	PI3K	Theme	VEGF	relation	mediated	relation_class	Positive_regulation	sentence	vasoconstriction and increased blood pressure.	PMID:	26386874	
+20	Cause	Wnt3a	Theme	AXIN	relation	increases	relation_class	Positive_regulation	sentence	 Wogonoside (100 µM) decreases the intracellular level of 
+Wnt3a, increases the expression of GSK-3β, AXIN, and promotes the phosphorylation
+of β-catenin for proteasome degradation significantly.	PMID:	26387984	
+21	Cause	Akt	Theme	VEGF	relation	mediated	relation_class	Positive_regulation	sentence	vasoconstriction and increased blood pressure.	PMID:	26386874	
+22	Cause	FLT1	Theme	KDR promoter	relation	changes	relation_class	Regulation	sentence	and examined changes in FLT1 and KDR promoter hypermethylation in tissues from
+patients with renal cancer.	PMID:	26380584	
+23	Cause	anti-KDR antibody	Theme	FLT1	relation	affect	relation_class	Regulation	sentence	anti-KDR antibody did not affect the proliferation of RCCs having FLT1 and/or KDR
+hypermethylation.	PMID:	26380584	
+24	Cause	humanized monoclonal antibody	Theme	VEGF	relation	targets	relation_class	Regulation	sentence	humanized monoclonal antibody that specifically targets VEGF, inhibiting
+angiogenesis, thereby impeding tumor growth and survival.	PMID:	26281687	
+25	Cause	rs895374 genotype	Theme	EGFR	relation	affect	relation_class	Regulation	sentence	 rs895374 genotype did not affect EGFR FISH
+measurements.	PMID:	26206335	
+26	Cause	VEGF-A	Theme	VEGF-A	relation	induced	relation_class	Positive_regulation	sentence	with exogenous VEGF-A (10ng/ml) induced VEGF-A expression, while anti-VEGFs
+reduced VEGF-A expression induced by either high glucose or exogenous VEGF-A.	PMID:	26056075	
+27	Cause	VEGF-A	Theme	VEGF-A	relation	induced	relation_class	Positive_regulation	sentence	reduced VEGF-A expression induced by either high glucose or exogenous VEGF-A.	PMID:	26056075	
+28	Cause	VEGF	Theme	cPLA2	relation	operate	relation_class	Positive_regulation	sentence	between cPLA2/COX-2/PG axis and VEGF appears to operate in this system.	PMID:	26056075	
+29	Cause	Varol U	Theme	Bayoglu I(1), Yildiz I	relation	Vedat	relation_class	Positive_regulation	sentence	
+Vedat Bayoglu I(1), Yildiz I, Varol U, Cokmert S, Kucukzeybek Y, Alacacioglu A,
+Demir L, Dirican A, Akyol M, Yildiz Y, Oktay Tarhan M.	PMID:	26011336	
+30	Cause	Varol U	Theme	Cokmert S, Kucukzeybek Y	relation	Vedat	relation_class	Positive_regulation	sentence	
+Vedat Bayoglu I(1), Yildiz I, Varol U, Cokmert S, Kucukzeybek Y, Alacacioglu A,
+Demir L, Dirican A, Akyol M, Yildiz Y, Oktay Tarhan M.	PMID:	26011336	
+31	Cause	Alacacioglu A	Theme	Bayoglu I(1), Yildiz I	relation	Vedat	relation_class	Positive_regulation	sentence	
+Vedat Bayoglu I(1), Yildiz I, Varol U, Cokmert S, Kucukzeybek Y, Alacacioglu A,
+Demir L, Dirican A, Akyol M, Yildiz Y, Oktay Tarhan M.	PMID:	26011336	
+32	Cause	Alacacioglu A	Theme	Cokmert S, Kucukzeybek Y	relation	Vedat	relation_class	Positive_regulation	sentence	
+Vedat Bayoglu I(1), Yildiz I, Varol U, Cokmert S, Kucukzeybek Y, Alacacioglu A,
+Demir L, Dirican A, Akyol M, Yildiz Y, Oktay Tarhan M.	PMID:	26011336	
+33	Cause	G-CSF	Theme	VEGF mRNA	relation	detecting	relation_class	Regulation	sentence	Microarray failed in detecting up-regulation of VEGF mRNA, whereas G-CSF
+administration significantly decreased myocardial VEGF expression in mice,
+indicating that G-CSF post-transcriptionally down-regulates VEGF expression.	PMID:	25976246	
+34	Cause	G-CSF	Theme	VEGF	relation	down-regulates	relation_class	Negative_regulation	sentence	indicating that G-CSF post-transcriptionally down-regulates VEGF expression.	PMID:	25976246	
+35	Cause	CFH	Theme	rs1061170	relation	performed	relation_class	Positive_regulation	sentence	 Genotyping was performed for CFH (rs1061170), HTRA1 (rs1200638), and
+C3 (rs2230199).	PMID:	25881145	
+36	Cause	CFH	Theme	HTRA1	relation	performed	relation_class	Positive_regulation	sentence	 Genotyping was performed for CFH (rs1061170), HTRA1 (rs1200638), and
+C3 (rs2230199).	PMID:	25881145	
+37	Cause	VEGFR2	Theme	phosphatidylinositol-4,5-bisphosphate-3-kinase	relation	activate	relation_class	Positive_regulation	sentence	VEGFR2 to activate phosphatidylinositol-4,5-bisphosphate-3-kinase and AKT,
+resulting in inactivation of p21 in HCT116 cells.	PMID:	25797700	
+38	Cause	AKT	Theme	phosphatidylinositol-4,5-bisphosphate-3-kinase	relation	inactivate	relation_class	Negative_regulation	sentence	phosphatidylinositol-4,5-bisphosphate-3-kinase and AKT to inactivate p21.	PMID:	25797700	
+39	Cause	VEGFR2	Theme	AKT	relation	activate	relation_class	Positive_regulation	sentence	VEGFR2 to activate phosphatidylinositol-4,5-bisphosphate-3-kinase and AKT,
+resulting in inactivation of p21 in HCT116 cells.	PMID:	25797700	
+40	Cause	AKT	Theme	p21	relation	inactivate	relation_class	Negative_regulation	sentence	phosphatidylinositol-4,5-bisphosphate-3-kinase and AKT to inactivate p21.	PMID:	25797700	
+41	Cause	DPYD	Theme	UGT1A1	relation	influence	relation_class	Regulation	sentence	polymorphisms (SNPs) in DPYD and UGT1A1 influence fluoropyrimdines and irinotecan
+adverse events (AEs).	PMID:	25782327	
+42	Cause	PF-4var	Theme	CXCL4L1	relation	role	relation_class	Regulation	sentence	diabetic retinopathy (PDR) and the role of PF-4var/CXCL4L1 in the regulation of
+blood-retinal barrier (BRB) breakdown in diabetic rat retinas and human retinal
+microvascular endothelial cells (HRMEC).	PMID:	25711636	
+43	Cause	FOLFIRI	Theme	anti-EGFR	relation	treated	relation_class	Positive_regulation	sentence	recurred shortly after surgery and he was treated with FOLFIRI plus the anti-EGFR
+antibody cetuximab.	PMID:	25695537	
+44	Cause	VEGF-A	Theme	EZH2	relation	affected	relation_class	Regulation	sentence	 EZH2 activity was not affected by either VEGF-A
+stimulation/depletion or MK-2206 inhibition.	PMID:	25633838	
+45	Cause	PsA	Theme	PsA	relation	experienced	relation_class	Positive_regulation	sentence	PsA, who experienced a complete remission of psoriasis and PsA during bevacizumab
+therapy without any other management for psoriasis and PsA.	PMID:	25484418	
+46	Cause	KRAS mutations	Theme	GTPase	relation	affect	relation_class	Regulation	sentence	 Codon 12 KRAS mutations differentially affect GTPase function, and confer
+worse clinical behaviour.	PMID:	25459669	
+47	Cause	HIF-1α	Theme	VEGF-A	relation	activation	relation_class	Positive_regulation	sentence	 RYR inhibition using ryanodine at 10μM decreased ID-induced NOS3
+activation, HIF-1α, and VEGF-A expression, whereas RYR activation with ryanodine 
+at 1nM increased NOS3 activation and VEGF-A mRNA expression.	PMID:	25406019	
+48	Cause	HIF-1α	Theme	VEGF-A	relation	activation	relation_class	Positive_regulation	sentence	 RYR inhibition using ryanodine at 10μM decreased ID-induced NOS3
+activation, HIF-1α, and VEGF-A expression, whereas RYR activation with ryanodine 
+at 1nM increased NOS3 activation and VEGF-A mRNA expression.	PMID:	25406019	
+49	Cause	KRAS mutant	Theme	statin	relation	effect	relation_class	Regulation	sentence	retrospectively evaluating the effect of statin use on outcome in KRAS mutant
+metastatic colorectal cancer patients (mCRC) treated with cetuximab.	PMID:	25375154	
+50	Cause	Case	Theme	MBR	relation	exhibited	relation_class	Negative_regulation	sentence	RESULTS: After the first IVB, Case 1 exhibited an increase in MBR and decrease in
+CRT.	PMID:	25372211	
+51	Cause	Placenta growth factor	Theme	vascular endothelial growth factor	relation	member	relation_class	Positive_regulation	sentence	Placenta growth factor (PlGF) is a member of vascular endothelial growth factor
+family which can promote cancer growth by various mechanisms.	PMID:	25370707	
+52	Cause	PlGF	Theme	vascular endothelial growth factor	relation	member	relation_class	Positive_regulation	sentence	Placenta growth factor (PlGF) is a member of vascular endothelial growth factor
+family which can promote cancer growth by various mechanisms.	PMID:	25370707	
+53	Cause	endothelial growth factor	Theme	VEGF	relation	inhibit	relation_class	Negative_regulation	sentence	endothelial growth factor (VEGF-A), would vertically inhibit VEGF/VEGFR
+signaling.	PMID:	25363205	
+54	Cause	endothelial growth factor	Theme	VEGFR	relation	inhibit	relation_class	Negative_regulation	sentence	endothelial growth factor (VEGF-A), would vertically inhibit VEGF/VEGFR
+signaling.	PMID:	25363205	
+55	Cause	VEGF-A	Theme	VEGF	relation	inhibit	relation_class	Negative_regulation	sentence	endothelial growth factor (VEGF-A), would vertically inhibit VEGF/VEGFR
+signaling.	PMID:	25363205	
+56	Cause	VEGF-A	Theme	VEGFR	relation	inhibit	relation_class	Negative_regulation	sentence	endothelial growth factor (VEGF-A), would vertically inhibit VEGF/VEGFR
+signaling.	PMID:	25363205	
+57	Cause	streptozotocin	Theme	VEGF	relation	induced	relation_class	Positive_regulation	sentence	VEGF neutralization on hyperglycemic DRG neurons and streptozotocin-induced
+diabetic neuropathy.	PMID:	25268360	
+58	Cause	HIF1α	Theme	ALK	relation	required	relation_class	Positive_regulation	sentence	HIF1α and HIF2α in hypoxic conditions required ALK activity and its downstream
+signaling proteins STAT3 and C/EBPβ.	PMID:	25193384	
+59	Cause	ALK	Theme	VEGFA	relation	regulated	relation_class	Regulation	sentence	 In vivo, ALK regulated VEGFA production and 
+tumor angiogenesis in ALCL and NSCLC, and the treatment with the anti-VEGFA
+antibody bevacizumab strongly impaired ALCL growth in mouse xenografts.	PMID:	25193384	
+60	Cause	HIF2α	Theme	ALK	relation	required	relation_class	Positive_regulation	sentence	HIF1α and HIF2α in hypoxic conditions required ALK activity and its downstream
+signaling proteins STAT3 and C/EBPβ.	PMID:	25193384	
+61	Cause	anti-VEGF	Theme	SRF	relation	reduce	relation_class	Negative_regulation	sentence	resolution of SRF by anti-VEGF might reduce the risk of photoreceptor
+degeneration and improve long-term visual acuity.	PMID:	25120339	
+62	Cause	vascular endothelial growth factor	Theme	interleukin-6	relation	superior	relation_class	Positive_regulation	sentence	Aqueous interleukin-6 levels are superior to vascular endothelial growth factor
+in predicting therapeutic response to bevacizumab in age-related macular
+degeneration.	PMID:	25110587	
+63	Cause	PRL	Theme	VEGF	relation	frequently	relation_class	Positive_regulation	sentence	 VEGF high expression existed more frequently in PRL, ACTH, FSH
+secreting and non-functioning PAs.	PMID:	25027022	
+64	Cause	PRL	Theme	PRL	relation	frequently	relation_class	Positive_regulation	sentence	 VEGF high expression existed more frequently in PRL, ACTH, FSH
+secreting and non-functioning PAs.	PMID:	25027022	
+65	Cause	PRL	Theme	ACTH	relation	frequently	relation_class	Positive_regulation	sentence	 VEGF high expression existed more frequently in PRL, ACTH, FSH
+secreting and non-functioning PAs.	PMID:	25027022	
+66	Cause	SS18	Theme	VEGF	relation	directs	relation_class	Positive_regulation	sentence	 SS18-SSX directs the VEGF signal outcome from
+endothelial differentiation to spheroid growth, and VEGF and CXC receptor 4 are
+critical therapeutic targets for SS.	PMID:	24975049	
+67	Cause	HOXB9	Theme	angiogenic factors	relation	promotes	relation_class	Positive_regulation	sentence	CONCLUSIONS: HOXB9 promotes the secretion of angiogenic factors, including VEGF, 
+to induce tumor proliferation through microenvironmental production of cytokines 
+including IL6 signaling.	PMID:	24885802	
+68	Cause	HOXB9	Theme	VEGF	relation	promotes	relation_class	Positive_regulation	sentence	CONCLUSIONS: HOXB9 promotes the secretion of angiogenic factors, including VEGF, 
+to induce tumor proliferation through microenvironmental production of cytokines 
+including IL6 signaling.	PMID:	24885802	
+69	Cause	HGF	Theme	Met	relation	activation	relation_class	Positive_regulation	sentence	reported that Met activation by HGF stimulates the production of vascular
+endothelial growth factor (VEGF) and facilitates angiogenesis, which indicates
+that HGF induces EGFR-TKI resistance and angiogenesis.	PMID:	24828661	
+70	Cause	small molecule 4EGI-1	Theme	eIF4GI	relation	inhibits	relation_class	Negative_regulation	sentence	small molecule 4EGI-1 inhibits eIF4GI and causes a reduction in expression of its
+molecular targets in myeloma.	PMID:	24815186	
+71	Cause	humanized monoclonal antibody	Theme	VEGF-A	relation	targets	relation_class	Regulation	sentence	Bevacizumab is a humanized monoclonal antibody that specifically targets VEGF-A.	PMID:	24743195	
+72	Cause	caspase	Theme	VEGF	relation	effect	relation_class	Regulation	sentence	 Although not as effective as bevacizumab, fasudil had a
+beneficial effect on the VEGF levels but significantly increased the caspase 3
+levels.	PMID:	24634864	
+73	Cause	KRAS	Theme	PI3K	relation	analyzed	relation_class	Positive_regulation	sentence	 Tumor tissues were
+analyzed for KRAS, BRAF, and PI3K mutations and expression of topoisomerase-1
+(Topo-1), excision repair cross-complementing gene 1 (ERCC1), thymidylate
+synthase (TS), and thymidine phosphorylase (TP).	PMID:	24517959	
+74	Cause	BRAF	Theme	PI3K	relation	analyzed	relation_class	Positive_regulation	sentence	 Tumor tissues were
+analyzed for KRAS, BRAF, and PI3K mutations and expression of topoisomerase-1
+(Topo-1), excision repair cross-complementing gene 1 (ERCC1), thymidylate
+synthase (TS), and thymidine phosphorylase (TP).	PMID:	24517959	
+75	Cause	KRAS	Theme	KRAS	relation	analyzed	relation_class	Positive_regulation	sentence	 Tumor tissues were
+analyzed for KRAS, BRAF, and PI3K mutations and expression of topoisomerase-1
+(Topo-1), excision repair cross-complementing gene 1 (ERCC1), thymidylate
+synthase (TS), and thymidine phosphorylase (TP).	PMID:	24517959	
+76	Cause	KRAS	Theme	topoisomerase-1	relation	analyzed	relation_class	Positive_regulation	sentence	 Tumor tissues were
+analyzed for KRAS, BRAF, and PI3K mutations and expression of topoisomerase-1
+(Topo-1), excision repair cross-complementing gene 1 (ERCC1), thymidylate
+synthase (TS), and thymidine phosphorylase (TP).	PMID:	24517959	
+77	Cause	BRAF	Theme	KRAS	relation	analyzed	relation_class	Positive_regulation	sentence	 Tumor tissues were
+analyzed for KRAS, BRAF, and PI3K mutations and expression of topoisomerase-1
+(Topo-1), excision repair cross-complementing gene 1 (ERCC1), thymidylate
+synthase (TS), and thymidine phosphorylase (TP).	PMID:	24517959	
+78	Cause	BRAF	Theme	topoisomerase-1	relation	analyzed	relation_class	Positive_regulation	sentence	 Tumor tissues were
+analyzed for KRAS, BRAF, and PI3K mutations and expression of topoisomerase-1
+(Topo-1), excision repair cross-complementing gene 1 (ERCC1), thymidylate
+synthase (TS), and thymidine phosphorylase (TP).	PMID:	24517959	
+79	Cause	anti-angiogenic factors	Theme	angiogenic switch	relation	impede	relation_class	Negative_regulation	sentence	agonists function as anti-angiogenic factors, which impede the angiogenic switch,
+in vascular development and tumour angiogenesis by inhibiting the expression of
+receptors for VEGF.	PMID:	24417697	
+80	Cause	endothelial growth factor	Theme	VEGF	relation	target	relation_class	Regulation	sentence	endothelial growth factor (VEGF) has emerged as a key target for therapy.	PMID:	24347979	
+81	Cause	Merlin	Theme	Merlin	relation	results	relation_class	Positive_regulation	sentence	Merlin, the protein product of the nf2 gene, results in a decrease in expression 
+of the anti-angiogenic protein SEMA3F through a Rac-1-dependent mechanism,
+allowing VEGF to promote angiogenesis.	PMID:	24347479	
+82	Cause	Merlin	Theme	nf2 gene	relation	results	relation_class	Positive_regulation	sentence	Merlin, the protein product of the nf2 gene, results in a decrease in expression 
+of the anti-angiogenic protein SEMA3F through a Rac-1-dependent mechanism,
+allowing VEGF to promote angiogenesis.	PMID:	24347479	
+83	Cause	ERCC1	Theme	TYMS	relation	changed	relation_class	Regulation	sentence	with PCR), the status of ERCC1, tubulin, TYMS, RRM1 and EGFR changed markedly
+after chemotherapy in six patients, eleven patients, eight patients, nine
+patients and one patient, respectively.	PMID:	24324104	
+84	Cause	ERCC1	Theme	RRM1	relation	changed	relation_class	Regulation	sentence	with PCR), the status of ERCC1, tubulin, TYMS, RRM1 and EGFR changed markedly
+after chemotherapy in six patients, eleven patients, eight patients, nine
+patients and one patient, respectively.	PMID:	24324104	
+85	Cause	tubulin	Theme	TYMS	relation	changed	relation_class	Regulation	sentence	with PCR), the status of ERCC1, tubulin, TYMS, RRM1 and EGFR changed markedly
+after chemotherapy in six patients, eleven patients, eight patients, nine
+patients and one patient, respectively.	PMID:	24324104	
+86	Cause	tubulin	Theme	RRM1	relation	changed	relation_class	Regulation	sentence	with PCR), the status of ERCC1, tubulin, TYMS, RRM1 and EGFR changed markedly
+after chemotherapy in six patients, eleven patients, eight patients, nine
+patients and one patient, respectively.	PMID:	24324104	
+87	Cause	EGFR	Theme	TYMS	relation	changed	relation_class	Regulation	sentence	with PCR), the status of ERCC1, tubulin, TYMS, RRM1 and EGFR changed markedly
+after chemotherapy in six patients, eleven patients, eight patients, nine
+patients and one patient, respectively.	PMID:	24324104	
+88	Cause	EGFR	Theme	RRM1	relation	changed	relation_class	Regulation	sentence	with PCR), the status of ERCC1, tubulin, TYMS, RRM1 and EGFR changed markedly
+after chemotherapy in six patients, eleven patients, eight patients, nine
+patients and one patient, respectively.	PMID:	24324104	
+89	Cause	vascular endothelial growth factor	Theme	VEGF	relation	role	relation_class	Regulation	sentence	To clarify the role of vascular endothelial growth factor (VEGF) in the formation
+of contusion edema and necrosis after traumatic brain injury, we examined the
+time course of changes in the VEGF expression (enzyme-linked immunosorbent
+assay), cerebrovascular permeability (extravasation of Evans blue), and water
+content (dry-wet weight method) of the contused brain tissue in a cortical impact
+injury model using rats.	PMID:	24294928	
+90	Cause	VEGF	Theme	ERK	relation	induced	relation_class	Positive_regulation	sentence	VEGF-induced ERK phosphorylation and tube formation in cultured endothelial
+cells.	PMID:	24287585	
+91	Cause	Ang-2	Theme	human IgG1 antibody	relation	selective	relation_class	Positive_regulation	sentence	Ang-2 selective human IgG1 antibody.	PMID:	24097868	
+92	Cause	Recombinant EGFL7 protein	Theme	EC adhesion	relation	supported	relation_class	Positive_regulation	sentence	Recombinant EGFL7 protein supported EC adhesion and protected ECs from
+stress-induced apoptosis.	PMID:	23945239	
+93	Cause	APN	Theme	J1	relation	activated	relation_class	Positive_regulation	sentence	J1) can be activated by APN.	PMID:	23933387	
+94	Cause	IL-12p70	Theme	IL-2	relation	effects	relation_class	Regulation	sentence	 The
+effects of VEGF-A inhibition on 20 cytokines (IL-1a, IL-2, IL-5, IL-8, IL-12p70, 
+GM-CSF, IFNy, CCL3, MMP-9, TNF-a, IL-1b, IL-4, IL-6, IL-10, IL-13, GRO, MCP-1,
+MIP-1b, and RANTES) were determined using a multiplex sandwich ELISA.	PMID:	23914254	
+95	Cause	RT	Theme	VEGF	relation	increase	relation_class	Positive_regulation	sentence	combination with RT reduces VEGF levels in both cell lines when co-cultured;
+unexpectedly, RT alone did not increase VEGF levels.	PMID:	23912257	
+96	Cause	IL-12p70	Theme	IL-5, IL-8	relation	effects	relation_class	Regulation	sentence	 The
+effects of VEGF-A inhibition on 20 cytokines (IL-1a, IL-2, IL-5, IL-8, IL-12p70, 
+GM-CSF, IFNy, CCL3, MMP-9, TNF-a, IL-1b, IL-4, IL-6, IL-10, IL-13, GRO, MCP-1,
+MIP-1b, and RANTES) were determined using a multiplex sandwich ELISA.	PMID:	23914254	
+97	Cause	IL-1a	Theme	VEGF-A	relation	effects	relation_class	Regulation	sentence	 The
+effects of VEGF-A inhibition on 20 cytokines (IL-1a, IL-2, IL-5, IL-8, IL-12p70, 
+GM-CSF, IFNy, CCL3, MMP-9, TNF-a, IL-1b, IL-4, IL-6, IL-10, IL-13, GRO, MCP-1,
+MIP-1b, and RANTES) were determined using a multiplex sandwich ELISA.	PMID:	23914254	
+98	Cause	IL-12p70	Theme	VEGF-A	relation	effects	relation_class	Regulation	sentence	 The
+effects of VEGF-A inhibition on 20 cytokines (IL-1a, IL-2, IL-5, IL-8, IL-12p70, 
+GM-CSF, IFNy, CCL3, MMP-9, TNF-a, IL-1b, IL-4, IL-6, IL-10, IL-13, GRO, MCP-1,
+MIP-1b, and RANTES) were determined using a multiplex sandwich ELISA.	PMID:	23914254	
+99	Cause	VEGF	Theme	VEGF	relation	induced	relation_class	Positive_regulation	sentence	encoded antibody targeting VEGF reversed VEGF-induced radioresistance
+specifically in endothelial cells but not tumor cells.	PMID:	23729266	
+100	Cause	BRAF	Theme	MEK	relation	causes	relation_class	Positive_regulation	sentence	BRAF gene called KIAA1549:BRAF that causes an overactivation of the MEK/MAPK
+signaling cascade.	PMID:	23717811	
+101	Cause	UQCRB	Theme	UQCRB	relation	regulates	relation_class	Regulation	sentence	UQCRB positively regulates VEGFR2 signaling in ECs and the UQCRB targeting agent 
+could be applied in new therapeutic approaches for human cancer.	PMID:	23708980	
+102	Cause	VEGF	Theme	TGF-β1	relation	induces	relation_class	Positive_regulation	sentence	VEGF induces TGF-β1 expression and myofibroblast transformation after glaucoma
+surgery.	PMID:	23684430	
+103	Cause	FLC	Theme	EGFR	relation	overexpresses	relation_class	Positive_regulation	sentence	 FLC overexpresses EGFR in comparison to hepatocellular cancer,
+suggesting that EGFR targeting may be an interesting therapeutic approach in this
+rare malignancy.	PMID:	23676344	
+104	Cause	SFRP2	Theme	β-catenin	relation	inhibits	relation_class	Negative_regulation	sentence	 In conclusion, antagonizing 
+SFRP2 inhibits activation of β-catenin and NFATc3 in endothelial and tumor cells 
+and is a novel therapeutic approach for inhibiting angiosarcoma and
+triple-negative breast cancer.	PMID:	23604067	
+105	Cause	SFRP2	Theme	NFATc3	relation	inhibits	relation_class	Negative_regulation	sentence	 In conclusion, antagonizing 
+SFRP2 inhibits activation of β-catenin and NFATc3 in endothelial and tumor cells 
+and is a novel therapeutic approach for inhibiting angiosarcoma and
+triple-negative breast cancer.	PMID:	23604067	
+106	Cause	Gross C	Theme	Hardt M, Tew W	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+107	Cause	Gross C	Theme	Hardt M, Tew W	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+108	Cause	Gross C	Theme	Owusu C	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+109	Cause	Gross C	Theme	Klepin H	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+110	Cause	Lichtman SM	Theme	Hardt M, Tew W	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+111	Cause	Lichtman SM	Theme	Owusu C	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+112	Cause	Lichtman SM	Theme	Klepin H	relation	Mohile	relation_class	Negative_regulation	sentence	Mohile SG(1), Hardt M, Tew W, Owusu C, Klepin H, Gross C, Gajra A, Lichtman SM,
+Feng T, Togawa K, Ramani R, Katheria V, Hansen K, Hurria A; Cancer and Aging
+Research Group.	PMID:	23576485	
+113	Cause	Endostatin	Theme	VEGF-A/C	relation	inhibiting	relation_class	Negative_regulation	sentence	 Endostatin took effect by inhibiting VEGF-A/C (14.	PMID:	23425896	
+114	Cause	HIF-1α	Theme	VEGF	relation	targets	relation_class	Regulation	sentence	HIF-1α pathway targets and VEGF expression in the ccRCC.	PMID:	23341823	
+115	Cause	c-Met	Theme	focal adhesion kinase	relation	activated	relation_class	Positive_regulation	sentence	phosphorylation of c-Met-activated focal adhesion kinase and STAT3.	PMID:	23307858	
+116	Cause	c-Met	Theme	focal adhesion kinase	relation	activated	relation_class	Positive_regulation	sentence	phosphorylation of c-Met-activated focal adhesion kinase and STAT3.	PMID:	23307858	
+117	Cause	c-Met	Theme	STAT3	relation	activated	relation_class	Positive_regulation	sentence	phosphorylation of c-Met-activated focal adhesion kinase and STAT3.	PMID:	23307858	
+118	Cause	EGF	Theme	EGFR	relation	neutralized	relation_class	Negative_regulation	sentence	 In addition, Y-142 neutralized HB-EGF-induced phosphorylation of EGFR and
+ERBB4, and blocked their downstream ERK1/2 and AKT signaling.	PMID:	23251664	
+119	Cause	HB	Theme	EGFR	relation	induced	relation_class	Positive_regulation	sentence	 In addition, Y-142 neutralized HB-EGF-induced phosphorylation of EGFR and
+ERBB4, and blocked their downstream ERK1/2 and AKT signaling.	PMID:	23251664	
+120	Cause	EGF	Theme	EGFR	relation	induced	relation_class	Positive_regulation	sentence	 In addition, Y-142 neutralized HB-EGF-induced phosphorylation of EGFR and
+ERBB4, and blocked their downstream ERK1/2 and AKT signaling.	PMID:	23251664	
+121	Cause	EGF	Theme	EGFR	relation	neutralized	relation_class	Negative_regulation	sentence	 In addition, Y-142 neutralized HB-EGF-induced phosphorylation of EGFR and
+ERBB4, and blocked their downstream ERK1/2 and AKT signaling.	PMID:	23251664	
+122	Cause	EGF	Theme	EGFR	relation	neutralized	relation_class	Negative_regulation	sentence	 In addition, Y-142 neutralized HB-EGF-induced phosphorylation of EGFR and
+ERBB4, and blocked their downstream ERK1/2 and AKT signaling.	PMID:	23251664	
+123	Cause	LOC387715	Theme	HTRA1	relation	influence	relation_class	Regulation	sentence	Pharmacogenetic influence of LOC387715/HTRA1 on the efficacy of bevacizumab
+treatment for age-related macular degeneration in a Korean population.	PMID:	23204795	
+124	Cause	VEGF	Theme	MET	relation	results	relation_class	Positive_regulation	sentence	VEGF pathway results in MET activation in VEGF-knockout mouse models and in
+patients after bevacuzimub treatment, and that MET knockdown blocked the
+invasiveness of VEGF knockout tumors, suggesting that blocking the MET pathway
+can prevent post-bevacizumab treatment tumor recurrence, providing a strong
+rationale for using a combination of MET and VEGF receptor inhibitors to treat
+glioblastoma patients.	PMID:	23148613	
+125	Cause	HIF-1	Theme	vascular endothelial growth factor-A	relation	dependent	relation_class	Positive_regulation	sentence	HIF-1-dependent vascular endothelial growth factor-A (VEGF-A) autocrine
+production and, in the later phase, activation of NADPH oxidase from VEGF/VEGFR2 
+interaction, finally leading to a further redox-dependent long lasting
+stabilization of HIF-1.	PMID:	23144690	
+126	Cause	HIF-1	Theme	VEGF-A	relation	dependent	relation_class	Positive_regulation	sentence	HIF-1-dependent vascular endothelial growth factor-A (VEGF-A) autocrine
+production and, in the later phase, activation of NADPH oxidase from VEGF/VEGFR2 
+interaction, finally leading to a further redox-dependent long lasting
+stabilization of HIF-1.	PMID:	23144690	
+127	Cause	VEGF	Theme	AQP4 mRNA	relation	increased	relation_class	Positive_regulation	sentence	of AQP4 mRNA in Müller cells was increased by VEGF.	PMID:	22886979	
+128	Cause	TNFα	Theme	IKKβ	relation	activated	relation_class	Positive_regulation	sentence	the IKKβ/mTOR/VEGF signaling pathway is activated by TNFα in the tumors of obese 
+mice.	PMID:	22826466	
+129	Cause	HGF	Theme	MET	relation	dependent	relation_class	Positive_regulation	sentence	heterocomplex, thereby suppressing HGF-dependent MET phosphorylation and tumor
+cell migration.	PMID:	22789536	
+130	Cause	humanized monoclonal antibody	Theme	VEGF	relation	blocks	relation_class	Negative_regulation	sentence	humanized monoclonal antibody that blocks the binding of VEGF to its receptor.	PMID:	22770372	
+131	Cause	CD146	Theme	VEGFR-2	relation	required	relation_class	Positive_regulation	sentence	show that CD146 is required in VEGF-induced VEGFR-2 phosphorylation, AKT/p38
+MAPKs/NF-κB activation, and thus promotion of endothelial cell migration and
+microvascular formation.	PMID:	22718841	
+132	Cause	VEGF	Theme	VEGFR-2	relation	induced	relation_class	Positive_regulation	sentence	show that CD146 is required in VEGF-induced VEGFR-2 phosphorylation, AKT/p38
+MAPKs/NF-κB activation, and thus promotion of endothelial cell migration and
+microvascular formation.	PMID:	22718841	
+133	Cause	CD146	Theme	AKT	relation	required	relation_class	Positive_regulation	sentence	show that CD146 is required in VEGF-induced VEGFR-2 phosphorylation, AKT/p38
+MAPKs/NF-κB activation, and thus promotion of endothelial cell migration and
+microvascular formation.	PMID:	22718841	
+134	Cause	CD146	Theme	p38	relation	required	relation_class	Positive_regulation	sentence	show that CD146 is required in VEGF-induced VEGFR-2 phosphorylation, AKT/p38
+MAPKs/NF-κB activation, and thus promotion of endothelial cell migration and
+microvascular formation.	PMID:	22718841	
+135	Cause	VEGF	Theme	AKT	relation	induced	relation_class	Positive_regulation	sentence	show that CD146 is required in VEGF-induced VEGFR-2 phosphorylation, AKT/p38
+MAPKs/NF-κB activation, and thus promotion of endothelial cell migration and
+microvascular formation.	PMID:	22718841	
+136	Cause	VEGF	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	show that CD146 is required in VEGF-induced VEGFR-2 phosphorylation, AKT/p38
+MAPKs/NF-κB activation, and thus promotion of endothelial cell migration and
+microvascular formation.	PMID:	22718841	
+137	Cause	HIF1α	Theme	HIF1α	relation	induced	relation_class	Positive_regulation	sentence	CONCLUSIONS/SIGNIFICANCE: The angiogenesis induced by HIF1α/VEGFA produced by
+altered cells after hyperthermia treatment may play an important role in the
+rapid growth of residual HCC after RF ablation.	PMID:	22615958	
+138	Cause	HIF1α	Theme	VEGFA	relation	induced	relation_class	Positive_regulation	sentence	CONCLUSIONS/SIGNIFICANCE: The angiogenesis induced by HIF1α/VEGFA produced by
+altered cells after hyperthermia treatment may play an important role in the
+rapid growth of residual HCC after RF ablation.	PMID:	22615958	
+139	Cause	VEGFA	Theme	HIF1α	relation	induced	relation_class	Positive_regulation	sentence	CONCLUSIONS/SIGNIFICANCE: The angiogenesis induced by HIF1α/VEGFA produced by
+altered cells after hyperthermia treatment may play an important role in the
+rapid growth of residual HCC after RF ablation.	PMID:	22615958	
+140	Cause	VEGFA	Theme	VEGFA	relation	induced	relation_class	Positive_regulation	sentence	CONCLUSIONS/SIGNIFICANCE: The angiogenesis induced by HIF1α/VEGFA produced by
+altered cells after hyperthermia treatment may play an important role in the
+rapid growth of residual HCC after RF ablation.	PMID:	22615958	
+141	Cause	EGFR	Theme	VEGF	relation	response	relation_class	Regulation	sentence	Differential response to EGFR- and VEGF-targeted therapies in patient-derived
+tumor tissue xenograft models of colon carcinoma and related metastases.	PMID:	22581265	
+142	Cause	VEGF	Theme	VEGFR-2	relation	induced	relation_class	Positive_regulation	sentence	Notably, bevacizumab inhibited VEGF-induced phosphorylation of VEGFR-2, Akt, and 
+extracellular signal-regulated kinase (ERK).	PMID:	22539090	
+143	Cause	VEGF	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	Notably, bevacizumab inhibited VEGF-induced phosphorylation of VEGFR-2, Akt, and 
+extracellular signal-regulated kinase (ERK).	PMID:	22539090	
+144	Cause	Angiopoietin 2	Theme	Ang2	relation	regulator	relation_class	Regulation	sentence	Angiopoietin 2 (Ang2) is an important regulator of angiogenesis, blood vessel
+maturation and integrity of the vascular endothelium.	PMID:	22327175	
+145	Cause	human anti-Ang2 monoclonal antibody	Theme	Ang2	relation	neutralizes	relation_class	Positive_regulation	sentence	generated MEDI3617, a human anti-Ang2 monoclonal antibody that neutralizes Ang2
+by preventing its binding to the Tie2 receptor in vitro, and inhibits
+angiogenesis and tumor growth in vivo.	PMID:	22327175	
+146	Cause	MDM2	Theme	p53	relation	mediated	relation_class	Positive_regulation	sentence	addition, treatment with MG132 blocked MDM2-mediated p53 ubiquitination and
+degradation, and led to accumulation of p53 in Gli3 siRNA-overexpressing cells.	PMID:	22227409	
+147	Cause	NGR	Theme	CBP501	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+148	Cause	NGR	Theme	MORAb-009	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+149	Cause	NGR	Theme	hTNF	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+150	Cause	NGR	Theme	WT1 vaccine	relation	everolimus	relation_class	Regulation	sentence	novel agents vorinostat, everolimus, CBP501, MORAb-009, NGR-hTNF, WT1 vaccine,
+bevacizumab, cediranib, and thalidomide.	PMID:	22223868	
+151	Cause	VEGF	Theme	VEGFR-2	relation	effect	relation_class	Regulation	sentence	The effect of VEGF, bevacizumab, and sunitinib on the phosphorylation of VEGFR-2 
+and downstream effecter molecules, MAPK and PI3K, was examined by western blot.	PMID:	22207048	
+152	Cause	VEGF-A	Theme	VEGFR-1	relation	activates	relation_class	Positive_regulation	sentence	 VEGF-A activates VEGFR-1 and 
+VEGFR-2, whereas VEGF-B and PlGF bind to only VEFGR-1.	PMID:	22130231	
+153	Cause	VEGFR-1	Theme	tyrosine kinase-1	relation	regulates	relation_class	Regulation	sentence	 VEGFR-1 (fms-like tyrosine kinase-1, Flt-1) negatively regulates
+embryonic vasculogenesis and is involved in tumor angiogenesis via activation of 
+monocytes and macrophages.	PMID:	22130231	
+154	Cause	HIF1α	Theme	ADAM17 mRNA	relation	maintain	relation_class	Positive_regulation	sentence	1α (HIF1α) was important to maintain basal ADAM17 mRNA levels during moderate
+hypoxia, it was not sufficient to induce ADAM17 levels under severe hypoxia.	PMID:	22105359	
+155	Cause	Vascular endothelial growth factor	Theme	VEGF	relation	mediator	relation_class	Positive_regulation	sentence	 Vascular endothelial growth factor (VEGF) is a critical mediator in tumor
+angiogenesis for many solid malignancies, including breast cancer.	PMID:	22050750	
+156	Cause	NGF	Theme	NGF	relation	lower	relation_class	Positive_regulation	sentence	 NGF and VEGF mRNA levels in the bevacizumab group were lower than those of
+the control group (p < 0.	PMID:	22040304	
+157	Cause	NGF	Theme	VEGF mRNA	relation	lower	relation_class	Positive_regulation	sentence	 NGF and VEGF mRNA levels in the bevacizumab group were lower than those of
+the control group (p < 0.	PMID:	22040304	
+158	Cause	MMPs	Theme	VEGF	relation	activity	relation_class	Positive_regulation	sentence	and prevents its side effects on CWH, possibly by inhibiting the expression and
+activity of MMPs, the expression of VEGF and of phosphorylated VEGFR1 and VEGFR2,
+and the production of iNOS and IL-1β.	PMID:	22039247	
+159	Cause	MMPs	Theme	VEGFR1	relation	activity	relation_class	Positive_regulation	sentence	and prevents its side effects on CWH, possibly by inhibiting the expression and
+activity of MMPs, the expression of VEGF and of phosphorylated VEGFR1 and VEGFR2,
+and the production of iNOS and IL-1β.	PMID:	22039247	
+160	Cause	MMPs	Theme	VEGFR2	relation	activity	relation_class	Positive_regulation	sentence	and prevents its side effects on CWH, possibly by inhibiting the expression and
+activity of MMPs, the expression of VEGF and of phosphorylated VEGFR1 and VEGFR2,
+and the production of iNOS and IL-1β.	PMID:	22039247	
+161	Cause	growth factor	Theme	PSA	relation	decrease	relation_class	Negative_regulation	sentence	growth factor (VEGF) and has shown to decrease PSA levels in combination with
+other cytotoxic agents.	PMID:	21984773	
+162	Cause	HDC	Theme	ASCT	relation	effect	relation_class	Regulation	sentence	 In this study, we measured the effect of HDC/ASCT on plasma
+concentrations of antiangiogenic soluble vascular endothelial growth factor
+receptor 1 (sVEGFR1) and of leukapheresis products (LP) and patient serum on
+chick chorioallantoic (CAM) angiogenesis.	PMID:	21965716	
+163	Cause	vascular endothelial growth factor	Theme	VEGF	relation	changes	relation_class	Regulation	sentence	PURPOSE: To evaluate the changes of vascular endothelial growth factor (VEGF)
+plasma levels after intravitreal injections of ranibizumab or bevacizumab in
+patients with exudative age-related macular degeneration (AMD).	PMID:	21958440	
+164	Cause	DT-IgG	Theme	VEGF	relation	induced	relation_class	Positive_regulation	sentence	DT-IgG induced EGFR-dependent VEGF internalization, constituting a novel
+antiangiogenesis mechanism.	PMID:	21918971	
+165	Cause	EGFR	Theme	VEGF	relation	dependent	relation_class	Positive_regulation	sentence	DT-IgG induced EGFR-dependent VEGF internalization, constituting a novel
+antiangiogenesis mechanism.	PMID:	21918971	
+166	Cause	VEGF	Theme	Dll4	relation	increased	relation_class	Positive_regulation	sentence	hypoxic conditions, VEGF increased Dll4 expression in the tumor vasculature.	PMID:	21795478	
+167	Cause	Dll4	Theme	VEGFR2	relation	downregulated	relation_class	Negative_regulation	sentence	Immobilized Dll4 also downregulated VEGFR2 expression in endothelial cells
+directly through methylation of the VEGFR2 promoter.	PMID:	21795478	
+168	Cause	Vascular endothelial growth factor	Theme	VEGF	relation	element	relation_class	Positive_regulation	sentence	Vascular endothelial growth factor (VEGF) is, to date, the key element in the
+pathogenesis of renal cell carcinoma (RCC).	PMID:	21763969	
+169	Cause	TNF	Theme	VEGF	relation	α-induced	relation_class	Positive_regulation	sentence	 Epub 2011 Jun 23.	PMID:	21747731	
+170	Cause	TNF	Theme	MMP-9	relation	α-induced	relation_class	Positive_regulation	sentence	 Epub 2011 Jun 23.	PMID:	21747731	
+171	Cause	PAR1	Theme	ERK	relation	mediated	relation_class	Positive_regulation	sentence	PAR1-mediated ERK activation and tumor growth.	PMID:	21703428	
+172	Cause	humanized monoclonal antibody	Theme	VEGF	relation	targets	relation_class	Regulation	sentence	humanized monoclonal antibody that targets VEGF, has been shown to improve
+patient outcomes in combination with chemotherapy (most commonly irinotecan) in
+recurrent GBM, and on the basis of positive results in two prospective phase 2
+studies, bevacizumab was granted accelerated approval by the US Food and Drug
+Administration (FDA) as a single agent in recurrent GBM.	PMID:	21603247	
+173	Cause	Vascular endothelial growth factor	Theme	Vascular endothelial growth factor	relation	role	relation_class	Regulation	sentence	INTRODUCTION: Vascular endothelial growth factor (VEGF) may play a role in
+erythropoiesis.	PMID:	21554028	
+174	Cause	Vascular endothelial growth factor	Theme	VEGF	relation	role	relation_class	Regulation	sentence	INTRODUCTION: Vascular endothelial growth factor (VEGF) may play a role in
+erythropoiesis.	PMID:	21554028	
+175	Cause	VEGF	Theme	Vascular endothelial growth factor	relation	role	relation_class	Regulation	sentence	INTRODUCTION: Vascular endothelial growth factor (VEGF) may play a role in
+erythropoiesis.	PMID:	21554028	
+176	Cause	VEGF	Theme	VEGF	relation	role	relation_class	Regulation	sentence	INTRODUCTION: Vascular endothelial growth factor (VEGF) may play a role in
+erythropoiesis.	PMID:	21554028	
+177	Cause	dihydropyrimidine dehydrogenase	Theme	DPD	relation	effect	relation_class	Regulation	sentence	PURPOSE: To explore the effect of dihydropyrimidine dehydrogenase (DPD) single
+nucleotide polymorphisms (SNP) and haplotypes on outcome of capecitabine.	PMID:	21498394	
+178	Cause	MDM2	Theme	vascular endothelial growth factor	relation	Effect	relation_class	Regulation	sentence	Apr 12.	PMID:	21484514	
+179	Cause	CYP2D6	Theme	UGT1A1	relation	inhibits	relation_class	Negative_regulation	sentence	CYP2D6, and potently inhibits UGT1A1 and OATP1B1.	PMID:	21395357	
+180	Cause	CYP2D6	Theme	OATP1B1	relation	inhibits	relation_class	Negative_regulation	sentence	CYP2D6, and potently inhibits UGT1A1 and OATP1B1.	PMID:	21395357	
+181	Cause	interferon	Theme	somatostatin	relation	effect.	relation_class	Regulation	sentence	show that somatostatin analogues and interferon have a synergistic effect.	PMID:	21354954	
+182	Cause	interferon	Theme	interferon	relation	effect.	relation_class	Regulation	sentence	show that somatostatin analogues and interferon have a synergistic effect.	PMID:	21354954	
+183	Cause	IGF-IR	Theme	VEGF	relation	reduced	relation_class	Negative_regulation	sentence	 IGF-IR/dn reduced VEGF expression, reduced the
+activation of both protein kinase B (Akt) and mitogen-activated protein kinase
+(MAPK), and reduced vascular formation, indicating that IGF-IR/dn inhibited tumor
+growth in mice by inhibiting both angiogenesis and lymphangiogenesis.	PMID:	21264842	
+184	Cause	Rutin	Theme	VEGF	relation	reduced	relation_class	Negative_regulation	sentence	casticin, apigenin and penduletin.	PMID:	21170924	
+185	Cause	Rutin	Theme	TGF-β1	relation	reduced	relation_class	Negative_regulation	sentence	casticin, apigenin and penduletin.	PMID:	21170924	
+186	Cause	hepatocyte growth factor kringle 1 domain	Theme	HGF K1	relation	derived	relation_class	Positive_regulation	sentence	PURPOSE: To study the antiangiogenic activity of two small peptides (H-RN and
+H-FT) derived from the hepatocyte growth factor kringle 1 domain (HGF K1) using
+in vitro and in vivo assays.	PMID:	21031024	
+187	Cause	VEGF	Theme	PDR	relation	role	relation_class	Regulation	sentence	A potential role for these anti-VEGF agents in the prevention of PDR and DME are 
+also emerging.	PMID:	20939797	
+188	Cause	VEGF	Theme	DME	relation	role	relation_class	Regulation	sentence	A potential role for these anti-VEGF agents in the prevention of PDR and DME are 
+also emerging.	PMID:	20939797	
+189	Cause	NRP2 B domain	Theme	VEGF	relation	increased	relation_class	Positive_regulation	sentence	NRP2 B domain (MutB-NRP2) increased affinity to VEGF by 8-fold.	PMID:	20651020	
+190	Cause	VEGF	Theme	NRP2	relation	induced	relation_class	Positive_regulation	sentence	antagonized VEGF-induced VEGFR-2/NRP2 complex formation and inhibited
+VEGF-induced activation of AKT, a mediator of cell survival, without affecting
+activation of VEGFR-2.	PMID:	20651020	
+191	Cause	VEGFR-2	Theme	NRPs	relation	inhibited	relation_class	Negative_regulation	sentence	 Avastin (bevacizumab), a monoclonal antibody to VEGF,
+inhibited VEGF interactions with VEGFR-2, but not with NRPs.	PMID:	20651020	
+192	Cause	VEGFR-2	Theme	VEGF	relation	inhibited	relation_class	Negative_regulation	sentence	 Avastin (bevacizumab), a monoclonal antibody to VEGF,
+inhibited VEGF interactions with VEGFR-2, but not with NRPs.	PMID:	20651020	
+193	Cause	Anti-VEGFA	Theme	VEGFR2	relation	attenuate	relation_class	Negative_regulation	sentence	 Anti-VEGFA/VEGFR2 or non-specific siRNA can inhibit CNV and attenuate 
+VEGF mRNA expression in a laser-induced mouse model of CNV.	PMID:	20599960	
+194	Cause	Anti-VEGFA	Theme	non-specific siRNA	relation	attenuate	relation_class	Negative_regulation	sentence	 Anti-VEGFA/VEGFR2 or non-specific siRNA can inhibit CNV and attenuate 
+VEGF mRNA expression in a laser-induced mouse model of CNV.	PMID:	20599960	
+195	Cause	rhGH	Theme	VEGF	relation	induce	relation_class	Positive_regulation	sentence	CONCLUSIONS: rhGH can induce VEGF secretion and stimulate proliferation of
+Bel-7402 GHR+ cells in vitro, but has little effect on the proliferation of
+SMMC-7721 GHR-cells, suggesting that rhGH may be applied safely to treatment for 
+the catabolic state in patients with GHR-negative HCC.	PMID:	20572587	
+196	Cause	growth factor-A	Theme	VEGF-A	relation	used	relation_class	Positive_regulation	sentence	growth factor-A (VEGF-A) is now more widely used for the treatment of primary
+brain tumors.	PMID:	20524043	
+197	Cause	RT	Theme	RT	relation	increase	relation_class	Positive_regulation	sentence	CONCLUSION: Concurrent bevacizumab and RT did not increase acute locoregional
+toxicity in comparison with matched control patients who did not receive RT
+alone.	PMID:	20452134	
+198	Cause	NGF	Theme	NGF	relation	stronger	relation_class	Regulation	sentence	showed that NGF and VEGF expression was stronger in the control group than in the
+bevacizumab group.	PMID:	20393106	
+199	Cause	NGF	Theme	VEGF	relation	stronger	relation_class	Regulation	sentence	showed that NGF and VEGF expression was stronger in the control group than in the
+bevacizumab group.	PMID:	20393106	
+200	Cause	IL-1alpha	Theme	HRECs	relation	stimulated	relation_class	Positive_regulation	sentence	decreased the viability of HRECs stimulated by IL-1alpha, IL-1beta, IL-6 and VEGF
+without hyalocytes but could not decrease the viability of HRECs cocultured.	PMID:	20346081	
+201	Cause	IL-1beta	Theme	HRECs	relation	stimulated	relation_class	Positive_regulation	sentence	decreased the viability of HRECs stimulated by IL-1alpha, IL-1beta, IL-6 and VEGF
+without hyalocytes but could not decrease the viability of HRECs cocultured.	PMID:	20346081	
+202	Cause	IL-6	Theme	HRECs	relation	stimulated	relation_class	Positive_regulation	sentence	decreased the viability of HRECs stimulated by IL-1alpha, IL-1beta, IL-6 and VEGF
+without hyalocytes but could not decrease the viability of HRECs cocultured.	PMID:	20346081	
+203	Cause	mitogen-activated protein kinase	Theme	EGFR	relation	mediators	relation_class	Positive_regulation	sentence	downstream mediators of EGFR as the mitogen-activated protein kinase (MAPK)- or
+the phosphatidylinositol 3-kinase (PI3K)-pathway, the hypoxia response system
+involving hypoxia inducible factor-1 (HIF-1), mechanisms of tumor development
+following chronic inflammation, and many others.	PMID:	20171980	
+204	Cause	MAPK	Theme	EGFR	relation	mediators	relation_class	Positive_regulation	sentence	downstream mediators of EGFR as the mitogen-activated protein kinase (MAPK)- or
+the phosphatidylinositol 3-kinase (PI3K)-pathway, the hypoxia response system
+involving hypoxia inducible factor-1 (HIF-1), mechanisms of tumor development
+following chronic inflammation, and many others.	PMID:	20171980	
+205	Cause	mTORC2	Theme	AKT	relation	regulation	relation_class	Regulation	sentence	and direct regulation of AKT by mTORC2 in cancer cells.	PMID:	20068177	
+206	Cause	PEI/siRNA	Theme	VEGF knockdown	relation	mediated	relation_class	Positive_regulation	sentence	anti-tumor therapy, and PEI/siRNA-mediated, therapeutic VEGF knockdown exerts
+anti-tumor effects.	PMID:	20052738	
+207	Cause	IFN-alpha	Theme	RCC	relation	role	relation_class	Regulation	sentence	of IFN-alpha and bevacizumab is active and has a role in RCC therapy, whereas
+combinations with the TKIs or mTOR inhibitors have limited efficacy and/or
+excessive toxicity.	PMID:	19891125	
+208	Cause	human epidermal growth factor receptor 2	Theme	HER2	relation	mainstay	relation_class	Positive_regulation	sentence	become a mainstay for human epidermal growth factor receptor 2 (HER2) -positive
+breast cancer (BC).	PMID:	19884552	
+209	Cause	VEGF-A	Theme	VEGF-C	relation	abrogated	relation_class	Negative_regulation	sentence	exogenous VEGF-A abrogated the effect of VEGF-C ablation in human podocytes.	PMID:	19828679	
+210	Cause	Tyr951	Theme	VEGFR-2	relation	inhibited	relation_class	Negative_regulation	sentence	sunitinib led to growth inhibition and apoptosis in a dose-dependent fashion.	PMID:	19754358	
+211	Cause	PDGFR-beta	Theme	VEGFR-2	relation	inhibited	relation_class	Negative_regulation	sentence	sunitinib led to growth inhibition and apoptosis in a dose-dependent fashion.	PMID:	19754358	
+212	Cause	VEGF(165)	Theme	ERK1/2	relation	induced	relation_class	Positive_regulation	sentence	 VEGF(165) (10 ng/ml) induced the phosphorylation of ERK1/2
+in HaCaT cells,but which was blocked by Avastin (0.	PMID:	19693968	
+213	Cause	VEGF(165)	Theme	ERK1/2	relation	induced	relation_class	Positive_regulation	sentence	 VEGF(165) (10 ng/ml) induced the phosphorylation of ERK1/2
+in HaCaT cells,but which was blocked by Avastin (0.	PMID:	19693968	
+214	Cause	VEGF	Theme	VEGFR-2	relation	stimulated	relation_class	Positive_regulation	sentence	levels, it inhibits VEGF-stimulated autophosphorylation of VEGFR-2 in a whole
+cell assay and inhibits VEGF-dependent endothelial migration.	PMID:	19544081	
+215	Cause	vascular endothelial growth factor	Theme	interleukin-8 production	relation	increases	relation_class	Positive_regulation	sentence	Thus, we examined the effects of mAb 806 on A431 xenograft angiogenesis.	PMID:	19432811	
+216	Cause	VEGF	Theme	interleukin-8 production	relation	increases	relation_class	Positive_regulation	sentence	Thus, we examined the effects of mAb 806 on A431 xenograft angiogenesis.	PMID:	19432811	
+217	Cause	angiogenic factors	Theme	VEGF	relation	role	relation_class	Regulation	sentence	OBJECTIVE: To examine the role of angiogenic factors (particularly VEGF) in
+glioma and whether inhibition of these factors can be used as a treatment.	PMID:	19335067	
+218	Cause	VEGF	Theme	VEGFR-1	relation	induced	relation_class	Positive_regulation	sentence	VEGF-induced phosphorylation of VEGFR-1, -2 and -3 and thereby to inhibit
+endothelial cell proliferation, differentiation, and tumor angiogenesis.	PMID:	19139113	
+219	Cause	PTK	Theme	ZK	relation	effect	relation_class	Regulation	sentence	investigated the effect of PTK/ZK on tumor angiogenesis and tumor
+lymphangiogenesis using the Rip1Tag2 transgenic mouse model of pancreatic beta
+cell carcinogenesis.	PMID:	19139113	
+220	Cause	PTK	Theme	ZK	relation	repressed	relation_class	Negative_regulation	sentence	 In these mouse models, PTK/ZK also repressed tumor
+blood vessel angiogenesis and tumor growth yet failed to affect tumor
+lymphangiogenesis and lymphogenic metastasis.	PMID:	19139113	
+221	Cause	Bev	Theme	Ran	relation	reduced	relation_class	Negative_regulation	sentence	proliferation was significantly reduced by Bev and Ran, whereas no difference was
+observed after Peg treatment.	PMID:	19135441	
+222	Cause	humanized recombinant antibody	Theme	vascular endothelial growth factor	relation	prevents	relation_class	Negative_regulation	sentence	humanized recombinant antibody that prevents vascular endothelial growth factor
+(VEGF) receptor binding, and inhibits angiogenesis and tumor growth.	PMID:	20616890	
+223	Cause	VEGF	Theme	recombinant humanized monoclonal antibody	relation	targeted	relation_class	Regulation	sentence	VEGF-targeted recombinant humanized monoclonal antibody, have displayed very
+encouraging activity in a randomized phase II trial in patients with previously
+treated NSCLC.	PMID:	18997180	
+224	Cause	IVB	Theme	MPC	relation	unchanged	relation_class	Positive_regulation	sentence	essentially unchanged for the two groups of MPC and IVB and improvement for
+IVB+IVT was marginal and at most was 0.	PMID:	18988166	
+225	Cause	vascular endothelial growth factor	Theme	VEGF	relation	used	relation_class	Positive_regulation	sentence	vascular endothelial growth factor (VEGF) that is used to inhibit VEGF function
+in vascular endothelial cells and thereby inhibit tumor angiogenesis, upon which 
+solid tumors depend for growth and metastasis.	PMID:	18778115	
+226	Cause	VEGF	Theme	Src	relation	induced	relation_class	Positive_regulation	sentence	increased VEGF-induced tyrosine phosphorylation of Src and p190 RhoGAP with
+enhanced activation of Akt and the actin cytoskeletal regulatory protein, RhoA,
+whereas silencing Src, Akt, or RhoA blocked VEGF-induced angiogenic events.	PMID:	18566238	
+227	Cause	VEGF	Theme	p190 RhoGAP	relation	induced	relation_class	Positive_regulation	sentence	increased VEGF-induced tyrosine phosphorylation of Src and p190 RhoGAP with
+enhanced activation of Akt and the actin cytoskeletal regulatory protein, RhoA,
+whereas silencing Src, Akt, or RhoA blocked VEGF-induced angiogenic events.	PMID:	18566238	
+228	Cause	VEGF-A	Theme	Snail mRNA	relation	increases	relation_class	Positive_regulation	sentence	VEGF-A increases Snail mRNA and protein levels, resulting in reduced E-cadherin
+expression.	PMID:	18554584	
+229	Cause	cytokeratin 18	Theme	CD68	relation	stained	relation_class	Positive_regulation	sentence	The CNVM were stained for cytokeratin 18, CD68, CD45, intercellular adhesion
+molecule (ICAM)-1, E-selectin, Ki-67, Thy-1, and endostatin.	PMID:	18541840	
+230	Cause	cytokeratin 18	Theme	CD45	relation	stained	relation_class	Positive_regulation	sentence	The CNVM were stained for cytokeratin 18, CD68, CD45, intercellular adhesion
+molecule (ICAM)-1, E-selectin, Ki-67, Thy-1, and endostatin.	PMID:	18541840	
+231	Cause	cytokeratin 18	Theme	intercellular adhesion	relation	stained	relation_class	Positive_regulation	sentence	The CNVM were stained for cytokeratin 18, CD68, CD45, intercellular adhesion
+molecule (ICAM)-1, E-selectin, Ki-67, Thy-1, and endostatin.	PMID:	18541840	
+232	Cause	receptor tyrosine kinase	Theme	VEGF	relation	sequesters	relation_class	Positive_regulation	sentence	bevacizumab that sequesters VEGF, or small-molecule VEGF receptor tyrosine kinase
+inhibitors.	PMID:	18492463	
+233	Cause	VEGF	Theme	VEGFRs	relation	regulate	relation_class	Regulation	sentence	VEGF regulate VEGFRs expression in psoriatic epidermis.	PMID:	18419602	
+234	Cause	MMP9	Theme	VEGF	relation	induces	relation_class	Positive_regulation	sentence	reported that MMP9 induces the release of tumor VEGF, promoting ascites formation
+in human ovarian carcinoma xenografts.	PMID:	18403633	
+235	Cause	VEGF	Theme	gelatinase	relation	regulated	relation_class	Regulation	sentence	whether tumor-derived VEGF regulated the expression of gelatinase by the stroma, 
+influencing the invasive properties of ovarian tumors.	PMID:	18403633	
+236	Cause	DME	Theme	VEGF	relation	attributable	relation_class	Positive_regulation	sentence	DME is not only attributable to VEGF-dependency, but is also attributable to
+other mechanisms suppressed by corticosteroid.	PMID:	18328456	
+237	Cause	vascular endothelial growth factor	Theme	VEGF	relation	used	relation_class	Positive_regulation	sentence	vascular endothelial growth factor (VEGF) that is used to inhibit VEGF function
+in vascular endothelial cells and thereby inhibit tumour angiogenesis, upon which
+solid tumours depend for growth and metastasis.	PMID:	18318567	
+238	Cause	ZD6474	Theme	RET	relation	inhibited	relation_class	Negative_regulation	sentence	ZD6474 inhibited the phosphorylation of RET in neuroblastoma cells and had a
+direct effect on tumor cell viability in seven neuroblastoma cell lines.	PMID:	18245671	
+239	Cause	VEGFR1	Theme	VEGF	relation	abrogate	relation_class	Negative_regulation	sentence	2 (VEGFR2)/KDR, but not VEGFR1/Flt-1, was sufficient to abrogate VEGF-mediated
+induction of HIF-1 alpha and survival in sensitive HCT116, but not in resistant
+HT29, colon cancer cells.	PMID:	18172321	
+240	Cause	Flt-1	Theme	VEGF	relation	abrogate	relation_class	Negative_regulation	sentence	2 (VEGFR2)/KDR, but not VEGFR1/Flt-1, was sufficient to abrogate VEGF-mediated
+induction of HIF-1 alpha and survival in sensitive HCT116, but not in resistant
+HT29, colon cancer cells.	PMID:	18172321	
+241	Cause	sVEGFR-2	Theme	Baseline VEGF	relation	changes	relation_class	Regulation	sentence	Baseline VEGF, sVEGFR-2, and sVCAM-1 levels nor changes in sVEGFR-2 and sVCAM-1
+levels were associated with clinical response.	PMID:	18059178	
+242	Cause	sVEGFR-2	Theme	sVCAM-1	relation	changes	relation_class	Regulation	sentence	Baseline VEGF, sVEGFR-2, and sVCAM-1 levels nor changes in sVEGFR-2 and sVCAM-1
+levels were associated with clinical response.	PMID:	18059178	
+243	Cause	sVCAM-1	Theme	Baseline VEGF	relation	changes	relation_class	Regulation	sentence	Baseline VEGF, sVEGFR-2, and sVCAM-1 levels nor changes in sVEGFR-2 and sVCAM-1
+levels were associated with clinical response.	PMID:	18059178	
+244	Cause	sVCAM-1	Theme	sVCAM-1	relation	changes	relation_class	Regulation	sentence	Baseline VEGF, sVEGFR-2, and sVCAM-1 levels nor changes in sVEGFR-2 and sVCAM-1
+levels were associated with clinical response.	PMID:	18059178	
+245	Cause	epidermal growth factor receptor	Theme	erbB family	relation	member	relation_class	Positive_regulation	sentence	The epidermal growth factor receptor (EGFR) is a member of the erbB family
+overexpressed in most of the solid tumors.	PMID:	17591813	
+246	Cause	EGFR	Theme	erbB family	relation	member	relation_class	Positive_regulation	sentence	The epidermal growth factor receptor (EGFR) is a member of the erbB family
+overexpressed in most of the solid tumors.	PMID:	17591813	
+247	Cause	tyrosine kinase	Theme	Bcr	relation	results	relation_class	Positive_regulation	sentence	inhibiting the tyrosine kinase that results from the Bcr-Abl translocation.	PMID:	17671155	
+248	Cause	tyrosine kinase	Theme	Abl	relation	results	relation_class	Positive_regulation	sentence	inhibiting the tyrosine kinase that results from the Bcr-Abl translocation.	PMID:	17671155	
+249	Cause	EGFR	Theme	VEGF	relation	activated	relation_class	Positive_regulation	sentence	 VEGF is activated by EGFR, and its
+overexpression causes resistance to EGFR inhibitors.	PMID:	17636117	
+250	Cause	line Panc1	Theme	Gem	relation	increase	relation_class	Positive_regulation	sentence	line Panc1, Flu failed to increase Gem toxicity in vitro.	PMID:	17559882	
+251	Cause	Flu	Theme	Gem	relation	increase	relation_class	Positive_regulation	sentence	line Panc1, Flu failed to increase Gem toxicity in vitro.	PMID:	17559882	
+252	Cause	IFN-alpha2b	Theme	alfa-2b	relation	inhibitor	relation_class	Negative_regulation	sentence	alfa-2b (IFN-alpha2b), an inhibitor of basic fibroblast growth factor (FGF),
+would lead to the regression of metastatic melanoma.	PMID:	17534686	
+253	Cause	IFN-alpha2b	Theme	basic fibroblast growth factor	relation	inhibitor	relation_class	Negative_regulation	sentence	alfa-2b (IFN-alpha2b), an inhibitor of basic fibroblast growth factor (FGF),
+would lead to the regression of metastatic melanoma.	PMID:	17534686	
+254	Cause	IFN-alpha2b	Theme	FGF	relation	inhibitor	relation_class	Negative_regulation	sentence	alfa-2b (IFN-alpha2b), an inhibitor of basic fibroblast growth factor (FGF),
+would lead to the regression of metastatic melanoma.	PMID:	17534686	
+255	Cause	Ang2	Theme	HDIL2 VLS	relation	mediator	relation_class	Positive_regulation	sentence	CONCLUSIONS: Ang2 may be a mediator of HDIL2 VLS as evidenced by (a) an increase 
+in Ang2 in all patients on HDIL2; (b) the effect of high Ang2 patient serum on
+cultured endothelial cells; (c) rescue of those structural changes by Ang1.	PMID:	17404094	
+256	Cause	Ang2	Theme	Ang2	relation	effect	relation_class	Regulation	sentence	in Ang2 in all patients on HDIL2; (b) the effect of high Ang2 patient serum on
+cultured endothelial cells; (c) rescue of those structural changes by Ang1.	PMID:	17404094	
+257	Cause	VEGF	Theme	EGFR	relation	role	relation_class	Regulation	sentence	The role of VEGF and EGFR inhibition: implications for combining anti-VEGF and
+anti-EGFR agents.	PMID:	17374728	
+258	Cause	VEGF	Theme	VEGF	relation	role	relation_class	Regulation	sentence	The role of VEGF and EGFR inhibition: implications for combining anti-VEGF and
+anti-EGFR agents.	PMID:	17374728	
+259	Cause	VEGF	Theme	EGFR	relation	role	relation_class	Regulation	sentence	The role of VEGF and EGFR inhibition: implications for combining anti-VEGF and
+anti-EGFR agents.	PMID:	17374728	
+260	Cause	vascular endothelial growth factor	Theme	VEGF	relation	role	relation_class	Positive_regulation	sentence	The data supporting a causal role for vascular endothelial growth factor (VEGF)
+in corneal neovascularization are extensive.	PMID:	17107753	
+261	Cause	endothelial growth factor	Theme	VEGF	relation	mediating	relation_class	Positive_regulation	sentence	endothelial growth factor (VEGF) is a crucial molecule mediating proangiogenic
+signals against which a number of therapeutic approaches have been designed, such
+as monoclonal antibodies, small-molecule receptor kinase inhibitors, and nucleic 
+acid inhibitors.	PMID:	16764755	
+262	Cause	rhuMAb	Theme	VEGF	relation	inhibits	relation_class	Negative_regulation	sentence	(rhuMAb, bevacizumab) inhibits several activities of VEGF, including endothelial 
+cell growth, vascular permeability and angiogenesis.	PMID:	16760285	
+263	Cause	CXCL1	Theme	CXCL1	relation	induces	relation_class	Positive_regulation	sentence	importantly, CXCL1 released from carcinoma cells induces microvascular
+endothelial cell migration and tube formation in vitro.	PMID:	16567391	
+264	Cause	PTK	Theme	VEGF receptor	relation	inhibit	relation_class	Negative_regulation	sentence	inhibit the VEGF receptor, such as PTK/ZK.	PMID:	16360005	
+265	Cause	ZK	Theme	VEGF receptor	relation	inhibit	relation_class	Negative_regulation	sentence	inhibit the VEGF receptor, such as PTK/ZK.	PMID:	16360005	
+266	Cause	Vascular endothelial growth factor	Theme	VEGF	relation	mediator	relation_class	Positive_regulation	sentence	Vascular endothelial growth factor (VEGF) is a key mediator in angiogenesis.	PMID:	16292207	
+267	Cause	HGF	Theme	c-Met	relation	required	relation_class	Positive_regulation	sentence	c-Met and HGF are each required for normal mammalian development and have been
+shown to be particularly important in cell migration, morphogenic
+differentiation, and organization of three-dimensional tubular structures (e.	PMID:	15922853	
+268	Cause	VEGF	Theme	VEGF	relation	induced	relation_class	Positive_regulation	sentence	activity of VEGF, and signaling pathway downstream induced by VEGF.	PMID:	15283142	
+269	Cause	VEGF	Theme	VEGF	relation	influence	relation_class	Regulation	sentence	 The influence of angiogenesis and VEGF expression on
+progression and recurrence of esophageal cancer has been investigated over the
+last years.	PMID:	15282704	

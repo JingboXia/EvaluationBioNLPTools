@@ -1,0 +1,300 @@
+1	Cause	CXCL12	Theme	HER2	relation	transactivation	relation_class	Positive_regulation	sentence	 To further explore the transactivation of HER2 by CXCL12, we
+investigated the role of small GTP protein Gαi2 in Src and HER2 phosphorylation
+in lipid raft membrane microdomains and the significance of CXCR4 in prostate
+cancer bone tumor growth.	PMID:	27809841	
+2	Cause	small GTP proteins	Theme	Src	relation	mediated	relation_class	Positive_regulation	sentence	Src is mediated by small GTP proteins in lipid rafts, (c) inhibition of the
+CXCL12/CXCR4 axis through plerixafor abrogates the initial establishment of tumor
+growth without affecting the growth of established bone tumors, and (d)
+inhibition of EGFR signaling through gefitinib leads to inhibition of established
+bone tumor growth.	PMID:	27809841	
+3	Cause	CXCR4	Theme	STAT3	relation	role	relation_class	Regulation	sentence	OBJECTIVE: To explore the role of CXCR4/STAT3 in mesenchymal stromal cell
+(MSC)-mediated drug resistance of AML cells.	PMID:	27014981	
+4	Cause	CXCR4 proteins	Theme	STAT3	relation	resulted	relation_class	Positive_regulation	sentence	phosphorylated STAT3 and CXCR4 proteins, which resulted in AML cells resistance
+to chemotherapeutic drugs.	PMID:	27014981	
+5	Cause	CXCR4 proteins	Theme	CXCR4 proteins	relation	resulted	relation_class	Positive_regulation	sentence	phosphorylated STAT3 and CXCR4 proteins, which resulted in AML cells resistance
+to chemotherapeutic drugs.	PMID:	27014981	
+6	Cause	CXCR4 ligand	Theme	CXCR4	relation	stimulates	relation_class	Positive_regulation	sentence	 The CXCR4 ligand (CXCL12) stimulates CXCR4 promoting cell survival and
+proliferation, and may contribute to the tropism of leukemia cells towards
+lymphoid tissues.	PMID:	26646452	
+7	Cause	CXCL12	Theme	CXCR4	relation	stimulates	relation_class	Positive_regulation	sentence	 The CXCR4 ligand (CXCL12) stimulates CXCR4 promoting cell survival and
+proliferation, and may contribute to the tropism of leukemia cells towards
+lymphoid tissues.	PMID:	26646452	
+8	Cause	FNP	Theme	P27 protein	relation	increased	relation_class	Positive_regulation	sentence	 Phosphorylated (p) AKT(S473) protein was also
+reduced.	PMID:	26494555	
+9	Cause	SDF-1α	Theme	ERK1	relation	mediated	relation_class	Positive_regulation	sentence	blocking SDF-1α-mediated phosphorylation of ERK1/2, inhibiting SDF-1α-induced
+chemotaxis, and reversing stromal-mediated protection from chemotherapy.	PMID:	26360610	
+10	Cause	SDF-1	Theme	HSPCs	relation	regulate	relation_class	Regulation	sentence	is not known whether SDF-1 may also regulate the homing of HSPCs to the liver
+during extramedullary hematopoiesis (EMH).	PMID:	26093947	
+11	Cause	CXCL12	Theme	LASP-1	relation	dependent	relation_class	Positive_regulation	sentence	
+CXCL12-dependent nuclear import of LASP-1 could be blocked by CXCR4 antagonist,
+AMD-3100.	PMID:	25982273	
+12	Cause	Snail1	Theme	Snail1	relation	stabilize	relation_class	Positive_regulation	sentence	Snail1 which may stabilize Snail1.	PMID:	25982273	
+13	Cause	ZBTB16	Theme	Atg14L	relation	regulate	relation_class	Regulation	sentence	ligands and agonists regulate the levels of Atg14L through ZBTB16.	PMID:	25821988	
+14	Cause	SDF-1	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	cultured cells to recombinant MMP-9 abrogated SDF-1 induced Akt phosphorylation.	PMID:	25549045	
+15	Cause	C-X-C chemokine receptor type 4	Theme	CXCR4	relation	roles	relation_class	Regulation	sentence	AIM: To explore the roles of C-X-C chemokine receptor type 4 (CXCR4) in spinal
+processing of neuropathic pain at the central nervous system (CNS).	PMID:	25119456	
+16	Cause	G-CSF	Theme	granulocyte-colony-stimulating factor	relation	induce	relation_class	Positive_regulation	sentence	 (3)Tech Micro Services, Bethesda, MD, USA.	PMID:	24993008	
+17	Cause	G-CSF	Theme	G-CSF	relation	induce	relation_class	Positive_regulation	sentence	 (3)Tech Micro Services, Bethesda, MD, USA.	PMID:	24993008	
+18	Cause	CXCL12	Theme	CXCR4	relation	promotes	relation_class	Positive_regulation	sentence	chemokine CXCL12 promotes remyelination via CXCR4 activation on OPCs, resulting
+in their differentiation into myelinating oligodendrocytes.	PMID:	24733828	
+19	Cause	CXCL12	Theme	CXCR7	relation	required	relation_class	Positive_regulation	sentence	isoforms of CXCL12 required CXCR7 scavenging only under conditions with higher
+than optimal levels of CXCL12.	PMID:	24675873	
+20	Cause	CXCR7	Theme	CXCR4	relation	potentiates	relation_class	Positive_regulation	sentence	Finally, we hypothesized that CXCR7 potentiates CXCR4 response and may contribute
+to the maintenance of leukemia by initiating cell recruitment to bone marrow
+niches that were once occupied by normal hematopoietic stem cells.	PMID:	24497931	
+21	Cause	CXCR7	Theme	SDF-1	relation	induced	relation_class	Positive_regulation	sentence	significance of the SDF-1/CXCR7-induced intracellular communication triggering
+malignancy is still only marginally understood.	PMID:	24255072	
+22	Cause	Me6TREN	Theme	hematopoietic progenitor	relation	induce	relation_class	Positive_regulation	sentence	molecule Me6TREN (Me6) can induce rapid mobilization of hematopoietic progenitor 
+cells and that Me6 exhibits more significant effects than granulocyte
+colony-stimulating factor (G-CSF) or AMD3100.	PMID:	24196072	
+23	Cause	Me6	Theme	hematopoietic progenitor	relation	induce	relation_class	Positive_regulation	sentence	molecule Me6TREN (Me6) can induce rapid mobilization of hematopoietic progenitor 
+cells and that Me6 exhibits more significant effects than granulocyte
+colony-stimulating factor (G-CSF) or AMD3100.	PMID:	24196072	
+24	Cause	receptor 4	Theme	CXCR4	relation	participating	relation_class	Regulation	sentence	PURPOSE: Stromal cell-derived factor 1 (SDF-1) and its interaction with chemokine
+receptor 4 (CXCR4) have been noted for participating in the wound healing
+process, and may paradoxically develop hypertrophic scarring.	PMID:	24114538	
+25	Cause	thioredoxin	Theme	CFUs	relation	increased	relation_class	Positive_regulation	sentence	 We found that thioredoxin increased CFUs in a dose-dependent manner.	PMID:	23994289	
+26	Cause	CXCL12	Theme	CXCR4 receptors	relation	promoted	relation_class	Positive_regulation	sentence	CXCL12-promoted phosphorylation/activation of CXCR4 receptors in NSCs in vivo and
+in vitro.	PMID:	23929505	
+27	Cause	SDF-1α	Theme	FN mRNA	relation	inhibited	relation_class	Negative_regulation	sentence	CXCR4 and FN in the cells.	PMID:	23567184	
+28	Cause	TGF-β1	Theme	Smad3	relation	induced	relation_class	Positive_regulation	sentence	 Correspondingly, TGF-β1 induced Smad3 phosphorylation was
+suppressed when PI3K/Akt signaling pathway was activated by SDF-1α.	PMID:	23567184	
+29	Cause	factor-1	Theme	CXCR4	relation	stimulated	relation_class	Positive_regulation	sentence	factor-1 (SDF-1), which stimulated its receptor CXCR4 expression in hMSCs until
+the cells covered the wounded area.	PMID:	23544621	
+30	Cause	SDF-1	Theme	CXCR4	relation	stimulated	relation_class	Positive_regulation	sentence	factor-1 (SDF-1), which stimulated its receptor CXCR4 expression in hMSCs until
+the cells covered the wounded area.	PMID:	23544621	
+31	Cause	CXCR7	Theme	AMPK	relation	activate	relation_class	Positive_regulation	sentence	nitrosative damage and ER stress, via CXCR7, to activate AMPK/p38 MAPK-mediated
+IL-6 generation.	PMID:	23423573	
+32	Cause	CXCR7	Theme	p38	relation	activate	relation_class	Positive_regulation	sentence	nitrosative damage and ER stress, via CXCR7, to activate AMPK/p38 MAPK-mediated
+IL-6 generation.	PMID:	23423573	
+33	Cause	SDF-1α	Theme	SDF-1α	relation	increments	relation_class	Positive_regulation	sentence	 However, the increments of SDF-1α and CXCR4 expression in group A+L-NAME
+were reduced when NO production was inhibited by L-NAME.	PMID:	23170833	
+34	Cause	SDF-1α	Theme	CXCR4	relation	increments	relation_class	Positive_regulation	sentence	 However, the increments of SDF-1α and CXCR4 expression in group A+L-NAME
+were reduced when NO production was inhibited by L-NAME.	PMID:	23170833	
+35	Cause	HER2	Theme	HER2	relation	correlation	relation_class	Regulation	sentence	 The positive
+correlation between HER2- and CXCR4-expression was validated in esophageal cancer
+patients.	PMID:	23082154	
+36	Cause	CXCR4	Theme	CXCR4	relation	correlation	relation_class	Regulation	sentence	 The correlation of CXCR4- and HER2-expression and the elevation of
+HER2-expression and reduction of metastases through CXCR4-inhibition suggest a
+possible functional linkage and a role in tumor dissemination in HER2-positive
+esophageal carcinoma.	PMID:	23082154	
+37	Cause	HER2	Theme	CXCR4	relation	correlation	relation_class	Regulation	sentence	 The positive
+correlation between HER2- and CXCR4-expression was validated in esophageal cancer
+patients.	PMID:	23082154	
+38	Cause	CXCR4	Theme	HER2	relation	correlation	relation_class	Regulation	sentence	 The correlation of CXCR4- and HER2-expression and the elevation of
+HER2-expression and reduction of metastases through CXCR4-inhibition suggest a
+possible functional linkage and a role in tumor dissemination in HER2-positive
+esophageal carcinoma.	PMID:	23082154	
+39	Cause	SDF-1α	Theme	Akt	relation	stimulated	relation_class	Positive_regulation	sentence	 SDF-1α stimulated Akt phosphorylation, but
+failed to increase phosphorylation of Erk above the high basal levels observed.	PMID:	22761699	
+40	Cause	SDF-1	Theme	SDF-1	relation	modulated	relation_class	Regulation	sentence	CONCLUSIONS: Our study demonstrates that CCA cells migration and survival are
+modulated by the crosstalk between SDF-1, released by hHSC, and HuCCT-1 cells
+bearing CXCR4.	PMID:	22727731	
+41	Cause	integrin-β2	Theme	integrin-β2	relation	activated	relation_class	Positive_regulation	sentence	surface expression of integrin-β2, activated leukocyte cell adhesion molecule and
+N-cadherin decreased after stimulation with SDF-1α.	PMID:	22613469	
+42	Cause	integrin-β2	Theme	leukocyte cell adhesion molecule	relation	activated	relation_class	Positive_regulation	sentence	surface expression of integrin-β2, activated leukocyte cell adhesion molecule and
+N-cadherin decreased after stimulation with SDF-1α.	PMID:	22613469	
+43	Cause	G-CSF	Theme	SCM	relation	superior	relation_class	Positive_regulation	sentence	(G-CSF) with plerixafor (G P) is superior to G-CSF alone for SCM in heavily
+pretreated NHL patients.	PMID:	22435747	
+44	Cause	CXCR4	Theme	A549	relation	suppressed	relation_class	Negative_regulation	sentence	CXCR4 significantly suppressed sphere-forming activity in A549 and A549/GR cells,
+and in various non-small cell lung cancer (NSCLC) cell lines.	PMID:	22370645	
+45	Cause	STAT3	Theme	CXCR4	relation	indicating	relation_class	Regulation	sentence	formation, but not CXCR4 expression, indicating that STAT3 is a downstream
+effector of CXCR4-mediated signaling.	PMID:	22370645	
+46	Cause	CXCR4	Theme	STAT3	relation	medated	relation_class	Positive_regulation	sentence	CXCR4-medated STAT3 pathway and provide a potential therapeutic target for
+eliminating these malignant cells in NSCLC.	PMID:	22370645	
+47	Cause	CD34	Theme	SDF-1α	relation	cells	relation_class	Positive_regulation	sentence	CD34(+)CXCR4(+) cells, the elevated level of plasma (SDF-1α) and expression of
+(SDF-1α) mRNA.	PMID:	22159319	
+48	Cause	CXCR4	Theme	SDF-1α	relation	cells	relation_class	Positive_regulation	sentence	CD34(+)CXCR4(+) cells, the elevated level of plasma (SDF-1α) and expression of
+(SDF-1α) mRNA.	PMID:	22159319	
+49	Cause	CXC chemokine receptor 4	Theme	CXCR4	relation	reduce	relation_class	Negative_regulation	sentence	CXC chemokine receptor 4 (CXCR4) antagonists could reduce colonic inflammation
+and mucosal damage in dextran sulfate sodium (DSS)-induced colitis.	PMID:	22073304	
+50	Cause	SDF-1	Theme	CXCR4	relation	role	relation_class	Regulation	sentence	MCF-7 cells, in this study we further examined the role of SDF-1/CXCR4 in the
+endogenously CXCR4-positive, estrogen receptor α (ER-α)-positive breast carcinoma
+cell line, MDA-MB-361.	PMID:	21906588	
+51	Cause	phShh	Theme	matrix metalloproteinase	relation	induced	relation_class	Positive_regulation	sentence	medium collected from fibroblasts transfected with plasmids encoding human Shh
+(phShh).	PMID:	21658566	
+52	Cause	CXC chemokine receptor-4	Theme	CXCR4	relation	role	relation_class	Regulation	sentence	AIM: To investigate the role of CXC chemokine receptor-4 (CXCR4) and stromal
+cell-derived factor-1 (SDF-1) in lymph node metastasis of gastric carcinoma.	PMID:	21633638	
+53	Cause	CD133	Theme	VEGF	relation	reduced	relation_class	Negative_regulation	sentence	an antagonist AMD3100 not only reduced VEGF production by CD133(+) GSCs in vitro,
+but also attenuated the growth and angiogenesis of tumour xenografts in vivo
+formed by CD133(+) GSCs in SCID mice.	PMID:	21618540	
+54	Cause	growth factor	Theme	Flk-1(+)/Sca-1(+)	relation	/AMD3100-stimulated	relation_class	Positive_regulation	sentence	growth factor (VEGF)/AMD3100-stimulated mobilization of Flk-1(+)/Sca-1(+) but not
+Sca-1(+)-only cells and prevented VEGF-induced phosphorylation of Akt and
+endothelial nitric oxide synthase in the aorta.	PMID:	21527748	
+55	Cause	VEGF	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	Sca-1(+)-only cells and prevented VEGF-induced phosphorylation of Akt and
+endothelial nitric oxide synthase in the aorta.	PMID:	21527748	
+56	Cause	VEGF	Theme	Flk-1(+)/Sca-1(+)	relation	/AMD3100-stimulated	relation_class	Positive_regulation	sentence	growth factor (VEGF)/AMD3100-stimulated mobilization of Flk-1(+)/Sca-1(+) but not
+Sca-1(+)-only cells and prevented VEGF-induced phosphorylation of Akt and
+endothelial nitric oxide synthase in the aorta.	PMID:	21527748	
+57	Cause	CXCR4	Theme	SDF-1	relation	dependent	relation_class	Positive_regulation	sentence	mediated by CXCR4-dependent SDF-1 release from bone marrow stromal cells.	PMID:	21494253	
+58	Cause	factor-1	Theme	IL-6	relation	promotes	relation_class	Positive_regulation	sentence	Stromal cell-derived factor-1/CXCR4 promotes IL-6 production in human synovial
+fibroblasts.	PMID:	21312239	
+59	Cause	SDF-1α	Theme	IL-6	relation	induced	relation_class	Positive_regulation	sentence	pathway involved in SDF-1α-induced IL-6 production in human synovial fibroblast
+cells.	PMID:	21312239	
+60	Cause	SDF-1α	Theme	IL-6	relation	regulation	relation_class	Regulation	sentence	 The transcriptional
+regulation of IL-6 by SDF-1α was mediated by phosphorylation of
+phosphatidylinositol 3-kinase (PI3K)/Akt and activation of the activator protein 
+(AP)-1 component of c-Jun.	PMID:	21312239	
+61	Cause	SDF-1α	Theme	AP-1 luciferase	relation	enhanced	relation_class	Positive_regulation	sentence	promoter and the increase in AP-1 luciferase activity was enhanced by SDF-1α.	PMID:	21312239	
+62	Cause	CXCL12	Theme	CXCR4	relation	involved	relation_class	Regulation	sentence	The chemokine CXCL12 and its receptors, CXCR4 and CXCR7, are involved in tumour
+progression, metastasis, and survival.	PMID:	21294125	
+63	Cause	CXCL12	Theme	CXCR7	relation	involved	relation_class	Regulation	sentence	The chemokine CXCL12 and its receptors, CXCR4 and CXCR7, are involved in tumour
+progression, metastasis, and survival.	PMID:	21294125	
+64	Cause	MMP-2	Theme	CXCR4	relation	involved	relation_class	Regulation	sentence	CONCLUSIONS: These results suggest that the CXCR4 and MMP-2 are involved in the
+multistep migration processes of BMSC tropism to tumors.	PMID:	21171825	
+65	Cause	Tan IIA	Theme	SDF-1α	relation	promote	relation_class	Positive_regulation	sentence	Tan IIA could promote SDF-1α expression in the infarct area and enhance the CXCR4
+expression of BMSCs in vitro.	PMID:	21146968	
+66	Cause	hMSCs	Theme	oestrogen receptor	relation	impact	relation_class	Regulation	sentence	to investigate the impact of hMSCs on the oestrogen receptor positive,
+hormone-dependent breast carcinoma cell line MCF-7.	PMID:	21087507	
+67	Cause	hMSCs	Theme	oestrogen receptor	relation	impact	relation_class	Regulation	sentence	to investigate the impact of hMSCs on the oestrogen receptor positive,
+hormone-dependent breast carcinoma cell line MCF-7.	PMID:	21087507	
+68	Cause	WHIM	Theme	CXCR4	relation	potentiate	relation_class	Positive_regulation	sentence	 WHIM mutations may potentiate CXCR4 signalling,
+suggesting that the United States Food and Drug Administration (FDA)-approved
+CXCR4 antagonist AnorMED3100 (AMD3100) (also known as Plerixafor) may be
+beneficial in WHIM syndrome.	PMID:	21070597	
+69	Cause	CXCL12	Theme	CXCR4	relation	activation	relation_class	Positive_regulation	sentence	METHODS: Effect of CXCR4 activation by CXCL12 on restricting the
+gemcitabine-induced cytotoxicity and stimulating the survival signalling was
+examined in pancreatic cancer cells by MTT, DNA laddering, caspase activity,
+immunoblot, and promoter-reporter assays.	PMID:	21045835	
+70	Cause	CXCL12	Theme	FAK	relation	induced	relation_class	Positive_regulation	sentence	 CXCL12 induced the activation of FAK, ERK, and Akt signalling
+pathways, enhanced transcriptional activities of β-catenin and NF-κB, and
+expression of survival proteins.	PMID:	21045835	
+71	Cause	CXCL12	Theme	ERK	relation	induced	relation_class	Positive_regulation	sentence	 CXCL12 induced the activation of FAK, ERK, and Akt signalling
+pathways, enhanced transcriptional activities of β-catenin and NF-κB, and
+expression of survival proteins.	PMID:	21045835	
+72	Cause	CXCL12	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	 CXCL12 induced the activation of FAK, ERK, and Akt signalling
+pathways, enhanced transcriptional activities of β-catenin and NF-κB, and
+expression of survival proteins.	PMID:	21045835	
+73	Cause	TC14012	Theme	CXCL12	relation	leads	relation_class	Positive_regulation	sentence	 Moreover, like CXCL12, TC14012 leads to Erk 1/2
+activation in U373 glioma cells that express only CXCR7, but not CXCR4.	PMID:	20956518	
+74	Cause	TC14012	Theme	Erk	relation	leads	relation_class	Positive_regulation	sentence	 Moreover, like CXCL12, TC14012 leads to Erk 1/2
+activation in U373 glioma cells that express only CXCR7, but not CXCR4.	PMID:	20956518	
+75	Cause	SDF-1	Theme	Src	relation	dependent	relation_class	Regulation	sentence	SDF-1 and CXCR4 is dependent on Src-mediated c-kit phosphorylation.	PMID:	20847314	
+76	Cause	CXCR4	Theme	Src	relation	dependent	relation_class	Regulation	sentence	SDF-1 and CXCR4 is dependent on Src-mediated c-kit phosphorylation.	PMID:	20847314	
+77	Cause	hsp	Theme	CXCR4	relation	reduced	relation_class	Negative_regulation	sentence	shock protein (hsp) 90 reduced the chaperone association between CXCR4 and hsp90,
+directing CXCR4 to degradation by the 20S proteasome.	PMID:	20810927	
+78	Cause	20S proteasome	Theme	CXCR4	relation	directing	relation_class	Positive_regulation	sentence	directing CXCR4 to degradation by the 20S proteasome.	PMID:	20810927	
+79	Cause	20S proteasome	Theme	CXCR4	relation	directing	relation_class	Positive_regulation	sentence	directing CXCR4 to degradation by the 20S proteasome.	PMID:	20810927	
+80	Cause	SDF-1alpha	Theme	ERK1/2	relation	induced	relation_class	Positive_regulation	sentence	SDF-1alpha-induced migration and ERK1/2, Akt, and eNOS activation were reduced by
+AMD3100, a CXCR4-specific peptide antagonist, or by siRNA-CXCR4.	PMID:	20599766	
+81	Cause	SDF-1alpha	Theme	Akt	relation	induced	relation_class	Positive_regulation	sentence	SDF-1alpha-induced migration and ERK1/2, Akt, and eNOS activation were reduced by
+AMD3100, a CXCR4-specific peptide antagonist, or by siRNA-CXCR4.	PMID:	20599766	
+82	Cause	HIF-1	Theme	factor-1	relation	dependent	relation_class	Positive_regulation	sentence	HIF-1-dependent stromal cell-derived factor-1 (SDF-1) and its receptor, CXCR4.	PMID:	20179352	
+83	Cause	HIF-1	Theme	SDF-1	relation	dependent	relation_class	Positive_regulation	sentence	HIF-1-dependent stromal cell-derived factor-1 (SDF-1) and its receptor, CXCR4.	PMID:	20179352	
+84	Cause	HGF	Theme	CXCR4	relation	upregulates	relation_class	Positive_regulation	sentence	HGF upregulates CXCR4 expression in gliomas via NF-kappaB: implications for
+glioma cell migration.	PMID:	20157762	
+85	Cause	HGF	Theme	CXCR4	relation	response	relation_class	Regulation	sentence	the induction of CXCR4 expression in response to hypoxia in the presence of HGF.	PMID:	20157762	
+86	Cause	HGF	Theme	CXCR4	relation	upregulates	relation_class	Positive_regulation	sentence	 Therefore, HGF upregulates CXCR4 expression via
+NF-kappaB and leads to enhanced migration.	PMID:	20157762	
+87	Cause	NF-kappaB	Theme	CXCR4	relation	upregulates	relation_class	Positive_regulation	sentence	HGF upregulates CXCR4 expression in gliomas via NF-kappaB: implications for
+glioma cell migration.	PMID:	20157762	
+88	Cause	SDF-1	Theme	actin	relation	induced	relation_class	Positive_regulation	sentence	number of blood leukocytes, and diminished SDF-1 induced actin polymerization in 
+whole blood.	PMID:	20042641	
+89	Cause	c-Jun	Theme	extracellular signal-regulated kinase	relation	elicited	relation_class	Positive_regulation	sentence	elicited the activation of the extracellular signal-regulated kinase (ERK), c-Jun
+N-terminal kinase (JNK) and AKT intracellular signaling cascades and consequently
+their downstream transcription factors in an autocrine manner.	PMID:	19784070	
+90	Cause	c-Jun	Theme	ERK	relation	elicited	relation_class	Positive_regulation	sentence	elicited the activation of the extracellular signal-regulated kinase (ERK), c-Jun
+N-terminal kinase (JNK) and AKT intracellular signaling cascades and consequently
+their downstream transcription factors in an autocrine manner.	PMID:	19784070	
+91	Cause	CXCR4 antagonist AMD3100	Theme	CXCR4	relation	Inhibition	relation_class	Negative_regulation	sentence	Inhibition of the SDF-1alpha-CXCR4 axis by the CXCR4 antagonist AMD3100
+suppresses the migration of cultured cells from ATL patients and murine
+lymphoblastoid cells from HTLV-I Tax transgenic mice.	PMID:	19657116	
+92	Cause	TGF-beta	Theme	CXCR4	relation	up-regulates	relation_class	Positive_regulation	sentence	 However, TGF-beta up-regulates CXCR4, through a NF
+kappaB-dependent mechanism, and T beta T-FaO cells show elevated levels of CXCR4,
+which is located in the presumptive migration front.	PMID:	19586611	
+93	Cause	Extracellular SDF-1 alpha	Theme	ERKs	relation	activates	relation_class	Positive_regulation	sentence	 Extracellular SDF-1 alpha activates the ERKs pathway in T beta T-FaO, but
+not in FaO cells, increasing cell scattering and protecting cells from apoptosis 
+induced by serum deprivation.	PMID:	19586611	
+94	Cause	CXCL12	Theme	CXCR4	relation	induced	relation_class	Positive_regulation	sentence	These agonists also prevented CXCL12-induced phosphorylation of CXCR4, indicating
+a deficit of CXCR4 activation in these conditions.	PMID:	19244528	
+95	Cause	CXCR4	Theme	SDF-1alpha	relation	induced	relation_class	Positive_regulation	sentence	Curcumin modulates SDF-1alpha/CXCR4-induced migration of human retinal
+endothelial cells (HRECs).	PMID:	18660423	
+96	Cause	SDF-1alpha	Theme	CXCR4	relation	induced	relation_class	Positive_regulation	sentence	and downregulated SDF-1alpha-induced expression of CXCR4, phospho-AKT,
+phospho-phosphatidylinositol-3-kinase (PI3-K), and eNOS.	PMID:	18660423	
+97	Cause	SDF-1alpha	Theme	phospho-AKT	relation	induced	relation_class	Positive_regulation	sentence	and downregulated SDF-1alpha-induced expression of CXCR4, phospho-AKT,
+phospho-phosphatidylinositol-3-kinase (PI3-K), and eNOS.	PMID:	18660423	
+98	Cause	SDF-1	Theme	SDF-1	relation	regulates	relation_class	Regulation	sentence	SDF-1/CXCR4 and VLA-4 interaction regulates homing in Waldenstrom
+macroglobulinemia.	PMID:	18448868	
+99	Cause	CXCR4	Theme	SDF-1	relation	regulates	relation_class	Regulation	sentence	SDF-1/CXCR4 and VLA-4 interaction regulates homing in Waldenstrom
+macroglobulinemia.	PMID:	18448868	
+100	Cause	VLA-4	Theme	SDF-1	relation	regulates	relation_class	Regulation	sentence	SDF-1/CXCR4 and VLA-4 interaction regulates homing in Waldenstrom
+macroglobulinemia.	PMID:	18448868	
+101	Cause	CCR1	Theme	CCR1	relation	changes	relation_class	Regulation	sentence	drastic changes of CCR1, CXCR3, and CXCR4 expression and function during
+progression from precursor NK (pNK) cells to immature DX5- NK (iNK) and mature
+DX5+ NK (mNK) cells.	PMID:	18227348	
+102	Cause	CCR1	Theme	CXCR3	relation	changes	relation_class	Regulation	sentence	drastic changes of CCR1, CXCR3, and CXCR4 expression and function during
+progression from precursor NK (pNK) cells to immature DX5- NK (iNK) and mature
+DX5+ NK (mNK) cells.	PMID:	18227348	
+103	Cause	CCR1	Theme	CXCR4	relation	changes	relation_class	Regulation	sentence	drastic changes of CCR1, CXCR3, and CXCR4 expression and function during
+progression from precursor NK (pNK) cells to immature DX5- NK (iNK) and mature
+DX5+ NK (mNK) cells.	PMID:	18227348	
+104	Cause	CXCR3	Theme	CCR1	relation	changes	relation_class	Regulation	sentence	drastic changes of CCR1, CXCR3, and CXCR4 expression and function during
+progression from precursor NK (pNK) cells to immature DX5- NK (iNK) and mature
+DX5+ NK (mNK) cells.	PMID:	18227348	
+105	Cause	CXCR3	Theme	CXCR3	relation	changes	relation_class	Regulation	sentence	drastic changes of CCR1, CXCR3, and CXCR4 expression and function during
+progression from precursor NK (pNK) cells to immature DX5- NK (iNK) and mature
+DX5+ NK (mNK) cells.	PMID:	18227348	
+106	Cause	CXCR3	Theme	CXCR4	relation	changes	relation_class	Regulation	sentence	drastic changes of CCR1, CXCR3, and CXCR4 expression and function during
+progression from precursor NK (pNK) cells to immature DX5- NK (iNK) and mature
+DX5+ NK (mNK) cells.	PMID:	18227348	
+107	Cause	SDF-1alpha	Theme	EOC	relation	roles	relation_class	Regulation	sentence	whether SDF-1alpha played roles in EOC progression, including in proliferation,
+cell motility, attachment to HPMCs, and the in vivo development of peritoneal
+metastasis through CXCR4.	PMID:	17893878	
+108	Cause	SDF-1alpha	Theme	SDF-1alpha	relation	enhanced	relation_class	Positive_regulation	sentence	Functionally, SDF-1alpha induced enhanced attachment between ES-2 cells and HPMCs
+or extracellular matrix components.	PMID:	17893878	
+109	Cause	CXCR4	Theme	CXCR4	relation	dependent	relation_class	Positive_regulation	sentence	cells and the migration was CXCR4 dependent as confirmed by the total inhibition 
+by AMD3100, a CXCR4-specific peptide antagonist.	PMID:	17878755	
+110	Cause	macrophage colony-stimulating factor	Theme	M-CSF	relation	stimulates	relation_class	Positive_regulation	sentence	 Because macrophage colony-stimulating factor (M-CSF) stimulates 
+differentiation and proliferation of this lineage, we examined the effect of
+M-CSF treatment on infarct size and left ventricular (LV) remodeling after MI.	PMID:	17640962	
+111	Cause	factor-1	Theme	matrix metalloprotease-13	relation	induces	relation_class	Positive_regulation	sentence	Stromal cell-derived factor-1 induces matrix metalloprotease-13 expression in
+human chondrocytes.	PMID:	17550983	
+112	Cause	SDF-1alpha	Theme	CXCR4 receptor	relation	increased	relation_class	Positive_regulation	sentence	SDF-1alpha also increased the surface expression of CXCR4 receptor in human
+chondrocytes.	PMID:	17550983	
+113	Cause	SDF-1alpha	Theme	ERK	relation	activate	relation_class	Positive_regulation	sentence	provide evidence that SDF-1alpha acts through CXCR4 to activate ERK and the
+downstream transcription factors (c-Fos and c-Jun), resulting in the activation
+of AP-1 on the MMP-13 promoter and contributing cartilage destruction during
+arthritis.	PMID:	17550983	
+114	Cause	CD4	Theme	CXCR4	relation	role	relation_class	Regulation	sentence	inhibitors, soluble CD4 (sCD4) or AMD3100, to delineate the role of CD4 and CXCR4
+receptors, respectively, in gp120-induced p38 activation and death.	PMID:	17404265	
+115	Cause	gp120	Theme	p38	relation	induced	relation_class	Positive_regulation	sentence	receptors, respectively, in gp120-induced p38 activation and death.	PMID:	17404265	
+116	Cause	SDF-1	Theme	SDF-1	relation	regulatory	relation_class	Regulation	sentence	(SDF-1) and its ligand the CXCR4 chemokine receptor are important regulatory
+elements.	PMID:	17374136	
+117	Cause	SDF-1	Theme	CXCR4 chemokine receptor	relation	regulatory	relation_class	Regulation	sentence	(SDF-1) and its ligand the CXCR4 chemokine receptor are important regulatory
+elements.	PMID:	17374136	
+118	Cause	SDF-1	Theme	SDF-1	relation	regulatory	relation_class	Regulation	sentence	(SDF-1) and its ligand the CXCR4 chemokine receptor are important regulatory
+elements.	PMID:	17374136	
+119	Cause	CXCR4 chemokine receptor	Theme	SDF-1	relation	regulatory	relation_class	Regulation	sentence	(SDF-1) and its ligand the CXCR4 chemokine receptor are important regulatory
+elements.	PMID:	17374136	
+120	Cause	CXCR4 chemokine receptor	Theme	CXCR4 chemokine receptor	relation	regulatory	relation_class	Regulation	sentence	(SDF-1) and its ligand the CXCR4 chemokine receptor are important regulatory
+elements.	PMID:	17374136	
+121	Cause	CXCR4 chemokine receptor	Theme	SDF-1	relation	regulatory	relation_class	Regulation	sentence	(SDF-1) and its ligand the CXCR4 chemokine receptor are important regulatory
+elements.	PMID:	17374136	
+122	Cause	CXCL12	Theme	CXCL12	relation	induced	relation_class	Positive_regulation	sentence	Also, AMD3100 failed to block CXCL12 internalization and CXCL12-induced
+intracellular signal transduction via extracellular signal-regulated kinases 1/2 
+in BAECs.	PMID:	16875673	
+123	Cause	S1P	Theme	S1PR	relation	contribute	relation_class	Regulation	sentence	The precise mechanism by which S1P/S1PR and CXCR4/SDF-1 contribute to thymic
+emigration remains unclear.	PMID:	16210615	
+124	Cause	CXCR4	Theme	S1PR	relation	contribute	relation_class	Regulation	sentence	The precise mechanism by which S1P/S1PR and CXCR4/SDF-1 contribute to thymic
+emigration remains unclear.	PMID:	16210615	
+125	Cause	SDF-1	Theme	S1PR	relation	contribute	relation_class	Regulation	sentence	The precise mechanism by which S1P/S1PR and CXCR4/SDF-1 contribute to thymic
+emigration remains unclear.	PMID:	16210615	
+126	Cause	FIV Env	Theme	FIV Env	relation	induces	relation_class	Positive_regulation	sentence	 Our studies demonstrate that membrane-expressed FIV Env induces
+apoptosis in activated feline peripheral blood mononuclear cells (PBMC) by a
+mechanism that requires CXCR4 binding, as the process was inhibited by CXCR4
+antagonist AMD3100 in a dose-dependent manner.	PMID:	15567436	
+127	Cause	CXCR4	Theme	CXCR4	relation	indicated	relation_class	Positive_regulation	sentence	CXCR4 or CCR5 indicated clearly that the conjugates interact with CXCR4 and not
+with CCR5.	PMID:	14698189	
+128	Cause	CCR5	Theme	CXCR4	relation	indicated	relation_class	Positive_regulation	sentence	CXCR4 or CCR5 indicated clearly that the conjugates interact with CXCR4 and not
+with CCR5.	PMID:	14698189	
+129	Cause	CXCR4	Theme	SDF-1	relation	induced	relation_class	Positive_regulation	sentence	Evaluation of SDF-1/CXCR4-induced Ca2+ signaling by fluorometric imaging plate
+reader (FLIPR) and flow cytometry.	PMID:	12500303	
+130	Cause	SDF-1	Theme	Mac-1	relation	induced	relation_class	Positive_regulation	sentence	mobilization induced in vitro by SDF-1 on Mac-1(+)/CXCR4(+) splenocytes.	PMID:	11591799	
+131	Cause	SDF-1	Theme	CXCR4	relation	induced	relation_class	Positive_regulation	sentence	mobilization induced in vitro by SDF-1 on Mac-1(+)/CXCR4(+) splenocytes.	PMID:	11591799	
+132	Cause	SDF-1	Theme	Mac-1	relation	induced	relation_class	Positive_regulation	sentence	mobilization induced in vitro by SDF-1 on Mac-1(+)/CXCR4(+) splenocytes.	PMID:	11591799	
+133	Cause	SDF-1	Theme	kappaB	relation	increased	relation_class	Positive_regulation	sentence	SDF-1 also increased nuclear transcription factor (NF)-kappaB.	PMID:	11406754	
+134	Cause	CCR3	Theme	CXCR4	relation	targets	relation_class	Regulation	sentence	and CCR3, and AMD3100, which targets CXCR4.	PMID:	10888629	
+135	Cause	SDF-1alpha	Theme	R3G	relation	inhibited	relation_class	Negative_regulation	sentence	 However, unlike SDF-1alpha and R4K, R3G inhibited the binding of HIV-1
+to MT-4 cells.	PMID:	10791873	
+136	Cause	SDF-1	Theme	CXCR4	relation	down-modulation	relation_class	Negative_regulation	sentence	expressing wild-type CXCR4 and CD4, whereas down-modulation of CXCR4 by SDF-1 was
+similar for hybrids and wild-type CXCR4.	PMID:	10438835	
